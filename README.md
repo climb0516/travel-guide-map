@@ -14,14 +14,17 @@
   - 已点亮：攻略标题、天数、出发地、更新日期、简介，「打开攻略」直达；「刷新」「改版」生成对应指令
   - 没点亮：需求表单（出发地默认杭州、三天两晚、最近的周五、自驾、偏好、备注），提交后生成指令，一键复制
 - **搜城市**：支持地级市名，县城、景区也能填（生成指令时不带区划代码）
-- **已点亮的攻略**列表：按更新时间排，可「在地图上看」
+- **我的攻略**：已生成的城市，两种看法可切换（浏览器会记住）——「封面」卡片墙（封面、天数、简介，顶边用城市主题色）；「按省」足迹清单（本省点亮进度 + 缩略图）
+- **推荐去做**：从杭州出发按车程分四栏（1 小时 / 2 小时 / 3 小时 / 远途），写推荐理由和当季亮点；点「生成指令」打开表单，天数和偏好按推荐预填；已点亮的城市自动隐藏；地图上推荐城市带蓝色虚线圈
+- **攻略页**：吸顶导航最左边有「← 攻略地图」返回链接
 - 深色 / 浅色跟随系统，手机可用
 
 ## 目录
 
 ```
 index.html      点亮地图（地图数据内嵌）
-guides.json     已点亮城市清单，地图按 adcode 点亮
+guides.json     已点亮城市清单，地图按 adcode 点亮；cover / accent 给卡片用
+recommend.json  推荐去做的城市（hours 决定分栏），换季时更新
 zhoushan/       舟山三日攻略（index.html + img/）
 ```
 
@@ -29,12 +32,13 @@ zhoushan/       舟山三日攻略（index.html + img/）
 
 go-travel-guide 交付时自动完成：
 
-1. 把攻略文件夹的 `index.html`（补 doctype / charset 文档头）和 `img/` 复制到 `<城市拼音>/`
-2. 在 `guides.json` 加一行：city、adcode（地级市行政区划代码）、pinyin、title、url（`<城市拼音>/`）、days、nights、from、updated、summary、local_dir
+1. go-travel-guide 的 `scripts/sync_site.py` 把攻略页（补文档头、插入返回链接）和 `img/` 复制到 `<城市拼音>/`
+2. 在 `guides.json` 加一行：city、adcode（地级市行政区划代码）、pinyin、title、url（`<城市拼音>/`）、days、nights、from、updated、summary、local_dir、cover、accent
 3. 提交推送，GitHub Pages 1–2 分钟后生效
 
 ## 数据与说明
 
 - 行政区划边界：DataV.GeoAtlas（数据来自高德开放平台），按市级行政区分块，Albers 投影，仅作示意，不作为国界、行政区划的依据；南海诸岛见左下角插图
+- 推荐城市的理由、车程、当季亮点是汇总估算，来源写在页面上
 - 攻略照片来自高德、小红书、大众点评等平台的实拍，仅供个人参考
 - 地图数据由 go-travel-guide 的 `scripts/build_china.py` 生成

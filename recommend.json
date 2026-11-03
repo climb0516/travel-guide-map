@@ -1,0 +1,262 @@
+{
+  "updated": "2026-11-03",
+  "note": "推荐理由、车程为汇总估算，当季亮点按往年规律，出发前以景区公告为准",
+  "groups": [
+    {
+      "key": "near",
+      "name": "周边 · 自驾 3 小时内"
+    },
+    {
+      "key": "far",
+      "name": "远一点 · 高铁 / 飞机"
+    }
+  ],
+  "cities": [
+    {
+      "city": "苏州",
+      "adcode": 320500,
+      "province": "江苏",
+      "group": "near",
+      "drive": "约 2 小时",
+      "hours": 2,
+      "plan": "两天一晚",
+      "prefs": [
+        "古城",
+        "吃",
+        "博物馆"
+      ],
+      "season": "11 月中下旬天平山红枫",
+      "reason": "园林 + 平江路 + 苏帮菜，深秋红枫季正当时"
+    },
+    {
+      "city": "绍兴",
+      "adcode": 330600,
+      "province": "浙江",
+      "group": "near",
+      "drive": "约 1 小时",
+      "hours": 1,
+      "plan": "两天一晚",
+      "prefs": [
+        "古城",
+        "吃"
+      ],
+      "season": "入冬晒酱鸭、腌腊季",
+      "reason": "鲁迅故里、仓桥直街、安昌古镇，黄酒配腊味"
+    },
+    {
+      "city": "嘉兴",
+      "adcode": 330400,
+      "province": "浙江",
+      "group": "near",
+      "drive": "约 1.5 小时",
+      "hours": 1.5,
+      "plan": "三天两晚",
+      "prefs": [
+        "古城",
+        "吃"
+      ],
+      "season": "水乡初冬人少",
+      "reason": "乌镇夜景、南湖红船、西塘清晨"
+    },
+    {
+      "city": "湖州",
+      "adcode": 330500,
+      "province": "浙江",
+      "group": "near",
+      "drive": "约 1.5 小时",
+      "hours": 1.5,
+      "plan": "两天一晚",
+      "prefs": [
+        "古城",
+        "自然风光"
+      ],
+      "season": "竹海、银杏收尾",
+      "reason": "南浔古镇 + 安吉竹海，两种江南一次看"
+    },
+    {
+      "city": "宁波",
+      "adcode": 330200,
+      "province": "浙江",
+      "group": "near",
+      "drive": "约 2 小时",
+      "hours": 2,
+      "plan": "三天两晚",
+      "prefs": [
+        "吃",
+        "海边"
+      ],
+      "season": "开渔后海鲜正肥",
+      "reason": "老外滩、东钱湖、象山海鲜，吃货路线"
+    },
+    {
+      "city": "衢州",
+      "adcode": 330800,
+      "province": "浙江",
+      "group": "near",
+      "drive": "约 2 小时",
+      "hours": 2,
+      "plan": "两天一晚",
+      "prefs": [
+        "吃",
+        "自然风光",
+        "古城"
+      ],
+      "season": "江郎山深秋",
+      "reason": "衢州三头一掌、廿八都古镇，人少价低"
+    },
+    {
+      "city": "黄山",
+      "adcode": 341000,
+      "province": "安徽",
+      "group": "near",
+      "drive": "约 3 小时",
+      "hours": 3,
+      "plan": "三天两晚",
+      "prefs": [
+        "自然风光",
+        "古城"
+      ],
+      "season": "12 月起有机会看雾凇云海",
+      "reason": "黄山 + 宏村西递，山上住一晚看日出"
+    },
+    {
+      "city": "南京",
+      "adcode": 320100,
+      "province": "江苏",
+      "group": "near",
+      "drive": "约 3 小时",
+      "hours": 3,
+      "plan": "三天两晚",
+      "prefs": [
+        "古城",
+        "博物馆",
+        "吃"
+      ],
+      "season": "11 月梧桐、银杏最黄",
+      "reason": "颐和路、中山陵、南京博物院，鸭血粉丝和盐水鸭"
+    },
+    {
+      "city": "上饶",
+      "adcode": 361100,
+      "province": "江西",
+      "group": "near",
+      "drive": "约 3.5 小时",
+      "hours": 3.5,
+      "plan": "三天两晚",
+      "prefs": [
+        "自然风光",
+        "古城"
+      ],
+      "season": "婺源晒秋尾声、三清山云海",
+      "reason": "婺源篁岭 + 三清山，徽派村落配山景"
+    },
+    {
+      "city": "哈尔滨",
+      "adcode": 230100,
+      "province": "黑龙江",
+      "group": "far",
+      "drive": "飞机约 3 小时",
+      "hours": 6,
+      "plan": "四天三晚",
+      "prefs": [
+        "夜景",
+        "吃"
+      ],
+      "season": "冰雪大世界往年 12 月中下旬开园",
+      "reason": "冬季最热目的地，冰雪 + 中央大街 + 锅包肉"
+    },
+    {
+      "city": "三亚",
+      "adcode": 460200,
+      "province": "海南",
+      "group": "far",
+      "drive": "飞机约 3 小时",
+      "hours": 6,
+      "plan": "四天三晚",
+      "prefs": [
+        "海边"
+      ],
+      "season": "避寒季",
+      "reason": "春节机票增速最高的避寒地之一，海湾酒店 + 海鲜"
+    },
+    {
+      "city": "西双版纳",
+      "adcode": 532800,
+      "province": "云南",
+      "group": "far",
+      "drive": "飞机约 4 小时",
+      "hours": 7,
+      "plan": "五天四晚",
+      "prefs": [
+        "自然风光",
+        "吃"
+      ],
+      "season": "旱季，晴天多",
+      "reason": "雨林、夜市、傣味，冬天穿短袖"
+    },
+    {
+      "city": "潮州",
+      "adcode": 445100,
+      "province": "广东",
+      "group": "far",
+      "drive": "高铁约 5 小时",
+      "hours": 5,
+      "plan": "三天两晚",
+      "prefs": [
+        "吃",
+        "古城"
+      ],
+      "season": "冬天不冷，宜逛吃",
+      "reason": "牌坊街、广济桥、潮汕牛肉火锅，携程黑马榜常客"
+    },
+    {
+      "city": "厦门",
+      "adcode": 350200,
+      "province": "福建",
+      "group": "far",
+      "drive": "高铁约 4.5 小时",
+      "hours": 4.5,
+      "plan": "三天两晚",
+      "prefs": [
+        "海边",
+        "吃"
+      ],
+      "season": "冬季温暖少雨",
+      "reason": "鼓浪屿、沙坡尾、沙茶面，海边城市散步"
+    },
+    {
+      "city": "西安",
+      "adcode": 610100,
+      "province": "陕西",
+      "group": "far",
+      "drive": "高铁约 6 小时 / 飞机 2 小时",
+      "hours": 6,
+      "plan": "四天三晚",
+      "prefs": [
+        "古城",
+        "博物馆",
+        "吃"
+      ],
+      "season": "冬天游客少，兵马俑不挤",
+      "reason": "城墙、兵马俑、陕历博，碳水天堂"
+    }
+  ],
+  "sources": [
+    {
+      "title": "同程《2025-2026 雪季冰雪游趋势报告》（扬子晚报）",
+      "url": "https://www.yzwb.net/news/txs/202511/t20251114_289225.html"
+    },
+    {
+      "title": "春节热门目的地与机票增速（扬子晚报）",
+      "url": "https://www.yzwb.net/news/sh/202601/t20260112_310073.html"
+    },
+    {
+      "title": "携程春节黑马目的地（扬子晚报）",
+      "url": "https://www.yzwb.net/news/ch/202602/t20260224_325200.html"
+    },
+    {
+      "title": "浙江秋冬季乡村旅游精品线路",
+      "url": "https://zjlnb.zjol.com.cn/images/2025-12/12/zjln20251212a0016v01n.pdf"
+    }
+  ]
+}
