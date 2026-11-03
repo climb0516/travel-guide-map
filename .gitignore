@@ -1,4 +1,8 @@
 artifact.html
 style-sketches.html
-.DS_Store
 module-sketches.html
+.DS_Store
+# 城市文件夹里只上传 index.html 和 img/，数据快照和单文件版留在本地
+*/data*.json
+*/*.html
+!*/index.html
