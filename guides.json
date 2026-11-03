@@ -13,5 +13,20 @@
     "local_dir": "~/Desktop/AI/travel-guide-map/zhoushan",
     "cover": "zhoushan/img/g_hero_puji.jpg",
     "accent": "#e3b45c"
+  },
+  {
+    "city": "嘉兴",
+    "adcode": 330400,
+    "pinyin": "jiaxing",
+    "title": "嘉兴三日",
+    "url": "jiaxing/",
+    "days": 3,
+    "nights": 2,
+    "from": "杭州",
+    "updated": "2026-11-04",
+    "summary": "乌镇东栅西栅夜景 → 南湖红船 + 月河 → 西塘夜景和清晨 → 盐官古城。水乡 · 红船 · 古镇主题。",
+    "local_dir": "~/Desktop/AI/travel-guide-map/jiaxing",
+    "cover": "jiaxing/img/g_xz1.jpg",
+    "accent": "#e8735a"
   }
 ]
