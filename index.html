@@ -216,6 +216,8 @@ details.srcs a{color:var(--fg-2)}
 .auth form{display:flex;gap:6px;flex-wrap:wrap}
 .auth input{border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:4px 10px;font-size:13px;width:min(220px,60vw)}
 .auth .who{color:var(--fg)}
+.owner-login summary{cursor:pointer;color:var(--fg-3)}
+.owner-login[open]{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .reqtabs{display:flex;gap:6px;flex-wrap:wrap}
 .reqtabs button{border:1px solid var(--line);background:transparent;color:var(--fg-2);border-radius:999px;padding:2px 12px;font-size:13px;cursor:pointer}
 .reqtabs button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
@@ -244,7 +246,7 @@ details.srcs a{color:var(--fg-2)}
     <div>
       <p class="eyebrow">go-travel-guide · 本地 Claude Code 生成</p>
       <h1>攻略<span>地图</span></h1>
-      <p class="lede">做过攻略的城市会整块点亮，点进去看攻略。点没亮的城市填需求，登录后直接提交（没登录就复制生成的指令），在 Claude Code 里处理，做完它就亮了。</p>
+      <p class="lede">做过攻略的城市会整块点亮，点进去看攻略。点没亮的城市填需求，填完需求直接提交：朋友提交的我审核后再做，做完它就亮了。</p>
     </div>
     <div class="stats" aria-live="polite">
       <div class="stat lit"><small>已点亮</small><b id="st-lit">–</b><i>城</i></div>
@@ -284,8 +286,8 @@ details.srcs a{color:var(--fg-2)}
 
   <section class="sec" id="reqs-sec" aria-labelledby="req-title" data-authed hidden>
     <div class="sec-head"><h2 id="req-title">我的需求<small id="req-sum"></small></h2>
-      <div class="reqtabs" role="group" aria-label="按状态看"><button type="button" data-rtab="open" aria-pressed="true">待处理 / 处理中</button><button type="button" data-rtab="done" aria-pressed="false">已完成</button><button type="button" data-rtab="cancel" aria-pressed="false">已取消</button></div></div>
-    <p class="small">在手机 Claude App 里连上电脑上的 Claude Code，说「处理攻略请求」就会从这里取。</p>
+      <div class="reqtabs" role="group" aria-label="按状态看"><button type="button" data-rtab="review" aria-pressed="false">待审核</button><button type="button" data-rtab="open" aria-pressed="true">待处理 / 处理中</button><button type="button" data-rtab="done" aria-pressed="false">已完成</button><button type="button" data-rtab="cancel" aria-pressed="false">已取消 / 已拒绝</button></div></div>
+    <p class="small">朋友提交的先进「待审核」，点「通过」才会做。在手机 Claude App 里连上电脑上的 Claude Code，说「处理攻略请求」就会取「待处理」的来做。</p>
     <ul class="reqlist" id="reqlist"></ul>
   </section>
 
@@ -547,12 +549,17 @@ details.srcs a{color:var(--fg-2)}
         + (g.summary ? '<p class="muted">' + esc(g.summary) + '</p>' : '') + progressHtml(c.u)
         + '<div class="row-btns"><a class="btn" href="' + esc(g.url) + '">打开攻略</a>'
         + '<button type="button" class="btn ghost" data-act="refresh">刷新</button><button type="button" class="btn ghost" data-act="revise">改版</button></div>'
-        + '<p class="small">刷新：重新抓榜单、营业时间、新帖。改版：比如加一天、换片区，写在备注里。' + (state.user ? '提交后存进「我的需求」。' : '会生成一句指令，复制到 Claude Code 里执行。') + '</p>';
+        + '<p class="small">刷新：重新抓榜单、营业时间、新帖。改版：比如加一天、换片区，写在备注里。</p>';
     } else if (c.kind === 'open') {
       var rq = c.req;
       o += '<span class="badge' + (rq.status === '处理中' ? ' doing' : '') + '">' + esc(rq.status) + '</span><h2>' + esc(rq.city) + '</h2>'
         + '<p class="muted">已经有一条' + esc(rq.status) + '的需求（#' + esc(rq.id) + (rq.plan ? '，' + esc(rq.plan) : '') + '）。' + (rq.log ? esc(rq.log) : '在手机或电脑的 Claude Code 里说「处理攻略请求」就会开始。') + '</p>'
         + progressHtml(c.u) + '<div class="row-btns"><button type="button" class="btn ghost" data-act="new-anyway">再提一条</button></div>';
+    } else if (c.kind === 'sent' && c.friend) {
+      o += '<span class="badge">已提交</span><h2>' + esc(c.city) + '</h2>'
+        + '<p class="muted">谢谢' + esc(c.who) + '！需求已经交给网站主人，审核通过后会做，做好了他会把攻略链接发给你。</p>'
+        + '<p class="small">也可以复制这句直接发给他：</p>' + cmdBox(c.text)
+        + '<div class="row-btns"><button type="button" class="btn ghost" data-act="close">关闭</button></div>';
     } else if (c.kind === 'sent') {
       o += '<span class="badge">已提交</span><h2>#' + esc(c.id) + ' · ' + esc(c.city) + '</h2>'
         + '<p class="muted">需求存好了，在下面「我的需求」里，地图上这座城市会闪蓝框。在手机 Claude App 里连上电脑的 Claude Code，说「处理攻略请求」就开始做。</p>'
@@ -579,6 +586,7 @@ details.srcs a{color:var(--fg-2)}
       + (rec ? '<p class="muted">推荐理由：' + esc(rec.reason) + '。当季：' + esc(rec.season) + '。天数和偏好已按推荐填好，可以改。</p>' : '')
       + (c.u ? progressHtml(c.u) : '')
       + '<form class="reqform" id="req-form" novalidate>'
+      + (!state.user && state.sb ? '<div class="field"><label for="f-name">你的称呼</label><input id="f-name" maxlength="20" placeholder="比如：小李" required><span class="small">网站主人审核后才会做，做好了他会把攻略发给你。</span></div>' : '')
       + '<div class="field"><label for="f-city">目的地</label><input id="f-city" value="' + esc(name) + '" required><span class="small">县城、景区也可以填，比如乌镇；会算在所属的市下面点亮。</span></div>'
       + (trip ? '<div class="two"><div class="field"><label for="f-from">出发地</label><input id="f-from" value="杭州"></div>'
         + '<div class="field"><label for="f-plan">天数</label><select id="f-plan">' + plans + '</select></div></div>'
@@ -587,9 +595,9 @@ details.srcs a{color:var(--fg-2)}
         + '<div class="field"><span class="lab">偏好（可多选）</span><div class="chips">' + prefs + '</div></div>' : '')
       + '<div class="field"><label for="f-note">备注</label><textarea id="f-note" placeholder="' + (type === '改版' ? '例如：改成四天三晚，加一天去东极岛' : (type === '刷新' ? '可不填' : '例如：带父母，少走路；想住海边')) + '"></textarea></div>'
       + '<p class="err" id="form-err" hidden></p>'
-      + '<div class="row-btns"><button class="btn" type="submit" id="f-submit">' + (state.user ? '提交' : '生成指令') + '</button>'
+      + '<div class="row-btns"><button class="btn" type="submit" id="f-submit">' + (state.sb ? '提交' : '生成指令') + '</button>'
       + '<button type="button" class="btn ghost" data-act="close">取消</button></div>'
-      + (state.user ? '' : '<p class="small">登录后可以直接提交，不用复制指令（页面顶部「登录」）。</p>')
+
       + '</form>';
   };
   var onSubmit = function(e){
@@ -613,10 +621,14 @@ details.srcs a{color:var(--fg-2)}
     var note = ($('f-note').value || '').trim().replace(/\s+/g, ' ');
     if (note) parts.push('备注：' + note);
     var text = '/go-travel-guide ' + parts.join(' · ');
-    if (!state.user || !state.sb) { state.card = { kind: 'cmd', text: text, city: name, u: c.u }; renderCard(); return; }
-    var id = shortId(), now = new Date().toISOString();
+    if (!state.sb) { state.card = { kind: 'cmd', text: text, city: name, u: c.u }; renderCard(); return; }
+    var friend = !state.user, who = friend ? ($('f-name').value || '').trim() : '';
+    if (friend && !who) { err.textContent = '先填你的称呼。'; err.hidden = false; return; }
+    if (name.length > 30 || note.length > 500) { err.textContent = '目的地最多 30 字、备注最多 500 字。'; err.hidden = false; return; }
+    var id = shortId() + '-' + Math.random().toString(36).slice(2, 5), now = new Date().toISOString();
     var row = { id: id, type: c.type, city: name, adcode: u ? u.a : null, province: u ? u.p : '', prefecture: u ? u.n : '',
-      note: note, guide_url: (c.type !== '新建' && g) ? new URL(g.url, location.href).href : '', status: '待处理', created_at: now, updated_at: now };
+      note: note, guide_url: (c.type !== '新建' && g) ? new URL(g.url, location.href).href : '', status: friend ? '待审核' : '待处理',
+      source: friend ? 'friend' : 'owner', submitter: who, created_at: now, updated_at: now };
     if ($('f-plan')) {
       var pp = PLANS[Number($('f-plan').value) || 0];
       row.from_city = ($('f-from').value || '').trim() || '杭州'; row.plan = pp[0]; row.days = pp[1]; row.nights = pp[2];
@@ -627,10 +639,11 @@ details.srcs a{color:var(--fg-2)}
     state.sb.from('requests').insert(row).then(function(res){
       if (res.error) {
         btn.disabled = false; btn.textContent = '提交';
-        err.textContent = '没提交成功（' + (res.error.message || '网络问题') + '）。可以先复制指令：'; err.hidden = false;
+        err.textContent = '没提交成功（' + (/太多/.test(res.error.message || '') ? '待审核的需求太多了，过几天再试' : (res.error.message || '网络问题')) + '）。可以复制这句发给网站主人：'; err.hidden = false;
         err.insertAdjacentHTML('afterend', cmdBox(text)); return;
       }
-      state.reqs.unshift(row); state.card = { kind: 'sent', id: id, city: name, u: c.u, text: text }; renderAll(); renderCard();
+      if (!friend) state.reqs.unshift(row);
+      state.card = { kind: 'sent', id: id, city: name, u: c.u, text: text, friend: friend, who: who }; renderAll(); renderCard();
     });
   };
 
@@ -714,7 +727,7 @@ details.srcs a{color:var(--fg-2)}
     if (!state.sb) { box.innerHTML = ''; return; }
     if (state.user) { box.innerHTML = '<span>已登录 <span class="who">' + esc(state.user.email || '') + '</span>，需求直接提交</span><button type="button" class="sbtn" data-auth="out">退出</button>'; return; }
     if (state.sent) { box.innerHTML = '<span>登录链接已发到邮箱，在这台设备上点开邮件里的链接就登录了。</span><button type="button" class="sbtn" data-auth="again">换个邮箱</button>'; return; }
-    box.innerHTML = '<form id="login-form"><input id="login-email" type="email" placeholder="邮箱" autocomplete="email" aria-label="登录邮箱" required><button type="submit" class="sbtn">登录</button></form><span>登录后可以直接提交需求（只有网站主人能登录）</span>';
+    box.innerHTML = '<span>朋友提需求不用登录，直接在地图上点城市填表。</span><details class="owner-login"><summary>网站主人登录</summary><form id="login-form"><input id="login-email" type="email" placeholder="邮箱" autocomplete="email" aria-label="登录邮箱" required><button type="submit" class="sbtn">登录</button></form></details>';
     $('login-form').addEventListener('submit', function(e){
       e.preventDefault();
       var email = ($('login-email').value || '').trim(); if (!email) return;
@@ -729,23 +742,28 @@ details.srcs a{color:var(--fg-2)}
     if (!state.sb || !state.user) { state.reqs = []; renderAll(); return; }
     state.sb.from('requests').select('*').order('created_at', { ascending: false }).limit(200).then(function(res){
       if (res.error) { banner('需求列表读取失败：' + res.error.message); return; }
-      state.reqs = res.data || []; renderAll();
+      state.reqs = res.data || [];
+      if (!state.rtabSet && state.reqs.some(function(r){ return r.status === '待审核'; })) { state.rtab = 'review'; state.rtabSet = true; }
+      renderAll();
     });
   };
   var renderReqs = function(){
     var list = $('reqlist'); if (!list) return;
     if (!state.user) { list.innerHTML = ''; return; }
     var t = state.rtab;
-    var rows = state.reqs.filter(function(r){ return t === 'open' ? (r.status === '待处理' || r.status === '处理中') : (t === 'done' ? r.status === '已完成' : r.status === '已取消'); });
-    $('req-sum').textContent = '待处理 ' + state.reqs.filter(function(r){ return r.status === '待处理'; }).length + ' · 处理中 ' + state.reqs.filter(function(r){ return r.status === '处理中'; }).length;
+    var cnt = function(st){ return state.reqs.filter(function(r){ return r.status === st; }).length; };
+    var rows = state.reqs.filter(function(r){ return t === 'review' ? r.status === '待审核' : (t === 'open' ? (r.status === '待处理' || r.status === '处理中') : (t === 'done' ? r.status === '已完成' : (r.status === '已取消' || r.status === '已拒绝'))); });
+    $('req-sum').textContent = (cnt('待审核') ? '待审核 ' + cnt('待审核') + ' · ' : '') + '待处理 ' + cnt('待处理') + ' · 处理中 ' + cnt('处理中');
+    var rb = document.querySelector('[data-rtab="review"]'); if (rb) rb.textContent = '待审核' + (cnt('待审核') ? ' ' + cnt('待审核') : '');
     document.querySelectorAll('[data-rtab]').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-rtab') === t ? 'true' : 'false'); });
-    if (!rows.length) { list.innerHTML = '<li class="empty">' + (t === 'open' ? '没有待处理的需求。在地图上点一座城市，或者从推荐里挑一座提交。' : (t === 'done' ? '还没有完成的需求。' : '没有取消的需求。')) + '</li>'; return; }
+    if (!rows.length) { list.innerHTML = '<li class="empty">' + (t === 'review' ? '没有待审核的需求。朋友提交的会先出现在这里。' : t === 'open' ? '没有待处理的需求。在地图上点一座城市，或者从推荐里挑一座提交。' : (t === 'done' ? '还没有完成的需求。' : '没有取消的需求。')) + '</li>'; return; }
     list.innerHTML = rows.map(function(r){
-      var meta = [r.type, r.province, r.plan, r.from_city ? r.from_city + '出发' : '', r.start_date, r.transport, (r.prefs || []).join('、'), '提交于 ' + fmtT(r.created_at)].filter(Boolean).join(' · ');
+      var meta = [r.source === 'friend' ? '来自 ' + (r.submitter || '朋友') : '', r.type, r.province, r.plan, r.from_city ? r.from_city + '出发' : '', r.start_date, r.transport, (r.prefs || []).join('、'), '提交于 ' + fmtT(r.created_at)].filter(Boolean).join(' · ');
       var acts = (r.adcode && byA[r.adcode] ? '<button type="button" class="sbtn" data-locate="' + r.adcode + '">在地图上看</button>' : '')
+        + (r.status === '待审核' ? '<button type="button" class="sbtn pri" data-review="' + esc(r.id) + '" data-to="待处理">通过</button><button type="button" class="sbtn" data-review="' + esc(r.id) + '" data-to="已拒绝">拒绝</button>' : '')
         + (r.status === '待处理' ? '<button type="button" class="sbtn" data-cancel="' + esc(r.id) + '">取消</button>' : '')
         + (r.result_url ? '<a class="sbtn pri" href="' + esc(r.result_url) + '">打开攻略</a>' : '');
-      return '<li><div class="t"><span class="no">#' + esc(r.id) + '</span><span class="cn">' + esc(r.city) + '</span><span class="pill ' + ({ '待处理': 's-wait', '处理中': 's-doing', '已完成': 's-done' }[r.status] || '') + '">' + esc(r.status) + '</span></div>'
+      return '<li><div class="t"><span class="no">#' + esc(r.id) + '</span><span class="cn">' + esc(r.city) + '</span><span class="pill ' + ({ '待审核': 's-doing', '待处理': 's-wait', '处理中': 's-doing', '已完成': 's-done' }[r.status] || '') + '">' + esc(r.status) + '</span></div>'
         + '<div class="meta">' + esc(meta) + (r.note ? '<br>备注：' + esc(r.note) : '') + (r.log ? '<br>' + esc(r.log) : '') + '</div><div class="acts">' + acts + '</div></li>';
     }).join('');
   };
@@ -767,10 +785,19 @@ details.srcs a{color:var(--fg-2)}
       var ru = byA[t.getAttribute('data-rec')]; if (!ru) return;
       flyTo(ru, 5); selectUnit(ru.a); stage.scrollIntoView({ behavior: 'smooth', block: 'center' }); return;
     }
-    if ((t = e.target.closest('[data-rtab]'))) { state.rtab = t.getAttribute('data-rtab'); renderReqs(); return; }
+    if ((t = e.target.closest('[data-rtab]'))) { state.rtab = t.getAttribute('data-rtab'); state.rtabSet = true; renderReqs(); return; }
     if ((t = e.target.closest('[data-auth]'))) {
       if (t.getAttribute('data-auth') === 'out') state.sb.auth.signOut().then(function(){ state.user = null; state.reqs = []; renderAuth(); renderAll(); renderCard(); });
       else { state.sent = false; renderAuth(); }
+      return;
+    }
+    if ((t = e.target.closest('[data-review]'))) {
+      var rid = t.getAttribute('data-review'), to = t.getAttribute('data-to');
+      t.disabled = true;
+      state.sb.from('requests').update({ status: to, updated_at: new Date().toISOString(), log: (to === '待处理' ? '已通过审核' : '未通过审核') }).eq('id', rid).eq('status', '待审核').then(function(res){
+        if (res.error) { t.disabled = false; t.textContent = '没成功，再试'; return; }
+        loadReqs();
+      });
       return;
     }
     if ((t = e.target.closest('[data-cancel]'))) {
