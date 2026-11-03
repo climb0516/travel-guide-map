@@ -159,9 +159,6 @@ form.reqform{display:grid;gap:11px}
 .sec-head{display:flex;flex-wrap:wrap;gap:10px 20px;align-items:baseline;justify-content:space-between;margin-bottom:14px}
 .sec-head h2{font-family:var(--font-display);font-size:24px;letter-spacing:.04em}
 .sec-head h2 small{font-family:var(--font-body);font-size:13px;color:var(--fg-3);letter-spacing:0;font-weight:400;margin-left:10px}
-.seg{display:inline-flex;border:1px solid var(--line);border-radius:999px;padding:2px}
-.seg button{border:0;background:transparent;color:var(--fg-2);border-radius:999px;padding:2px 14px;font-size:13px;cursor:pointer}
-.seg button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
 .ga{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
 .ga article{background:var(--panel);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;border-top:3px solid var(--acc,var(--lit))}
 .ga .cv{aspect-ratio:4/3;object-fit:cover;width:100%;display:block;background:var(--panel-2)}
@@ -183,22 +180,38 @@ form.reqform{display:grid;gap:11px}
 .gc .acts{padding-top:0;margin-top:0}
 .sbtn{border:1px solid var(--line);background:transparent;color:var(--fg);border-radius:8px;padding:4px 12px;font-size:13px;cursor:pointer;text-decoration:none;white-space:nowrap;display:inline-flex;align-items:center}
 .sbtn.pri{background:var(--lit);border-color:var(--lit);color:#fff;font-weight:600}
-.rc{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
-.rc .col{background:var(--panel);border-radius:14px;padding:12px;display:grid;gap:8px;align-content:start}
-.rc .col h3{font-size:12.5px;color:var(--fg-3);letter-spacing:.08em;font-weight:600}
-.rc .col h3 b{display:block;font-family:var(--font-display);font-size:20px;color:var(--fg);letter-spacing:0}
-.rc .city{border:1px dashed color-mix(in srgb,var(--pend) 50%,var(--line));border-radius:10px;padding:8px 10px;display:grid;gap:3px;background:var(--panel-2)}
-.rc .city .row{display:flex;justify-content:space-between;align-items:center;gap:6px}
-.rc .city .nm{font-size:15.5px;font-weight:600;background:none;border:0;padding:0;color:var(--fg);cursor:pointer;text-align:left}
-.rc .city .nm:hover{color:var(--pend)}
-.rc .city span{font-size:12.5px;color:var(--fg-2)}
-.rc .none{font-size:12.5px;color:var(--fg-3)}
+.two-col{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.board{background:var(--panel);border-radius:14px;padding:14px 16px}
+.board>h3{font-size:15px;display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.board>h3 small{font-size:12px;color:var(--fg-3);font-weight:400}
+.rank{list-style:none;margin:8px 0 0;padding:0}
+.rank li{display:grid;grid-template-columns:28px minmax(0,1fr) auto;gap:10px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
+.rank.nonum li{grid-template-columns:minmax(0,1fr) auto}
+.rank .no{font-family:var(--font-display);font-size:18px;color:var(--fg-3);text-align:center}
+.rank li:nth-child(-n+3) .no{color:var(--lit)}
+.rank .rtop{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px}
+.rank .nm{font-size:15.5px;font-weight:600;background:none;border:0;padding:0;color:var(--fg);cursor:pointer;text-align:left}
+.rank .nm:hover{color:var(--pend)}
+.rank .pv{font-size:12px;color:var(--fg-3)}
+.rank .cnt{font-size:12px;color:var(--fg-2)}
+.rank .cnt b{color:var(--lit);font-size:14px}
+.rank .why{font-size:12.5px;color:var(--fg-2);margin-top:2px}
+.pcs{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
+.pc{font-size:11px;padding:0 6px;border-radius:4px;background:var(--panel-2);color:var(--fg-2);white-space:nowrap}
+.pc.hi{background:color-mix(in srgb,var(--lit) 16%,transparent);color:var(--lit)}
+.pc i{font-style:normal;opacity:.75}
+.gr{font-size:12.5px;color:var(--ok);font-weight:600}
+.empty-sm{font-size:13px;color:var(--fg-3);padding:10px 0 2px;border-top:1px solid var(--line);margin-top:8px}
+details.srcs{margin-top:10px;font-size:12px;color:var(--fg-3)}
+details.srcs summary{cursor:pointer}
+details.srcs li{margin:2px 0}
+details.srcs a{color:var(--fg-2)}
 .rnote{margin-top:10px;font-size:12px;color:var(--fg-3)}
 .rnote a{color:var(--fg-2)}
 .mk-rec{fill:none;stroke:var(--pend);pointer-events:all;cursor:pointer}
 .lb.rec{fill:var(--pend)}
-@media (max-width:900px){ .rc{grid-template-columns:1fr 1fr} .gc .prov{grid-template-columns:1fr} }
-@media (max-width:520px){ .rc{grid-template-columns:1fr} .gc li{grid-template-columns:64px minmax(0,1fr)} .gc .th{width:64px;height:48px} .gc li .acts{grid-column:1 / -1} }
+@media (max-width:900px){ .two-col{grid-template-columns:1fr} .gc .prov{grid-template-columns:1fr} }
+@media (max-width:520px){ .rank li{grid-template-columns:24px minmax(0,1fr)} .rank li>.sbtn{grid-column:2;justify-self:start} .rank.nonum li{grid-template-columns:1fr} .rank.nonum li>.sbtn{grid-column:1} .gc li{grid-template-columns:64px minmax(0,1fr)} .gc .th{width:64px;height:48px} .gc li .acts{grid-column:1 / -1} }
 .foot{margin-top:36px;padding-top:14px;border-top:1px solid var(--line);font-size:12.5px;color:var(--fg-3)}
 
 @media (max-width:820px){
@@ -251,17 +264,25 @@ form.reqform{display:grid;gap:11px}
     <section class="card" id="card" hidden aria-live="polite"></section>
   </div>
 
-  <section class="sec" id="my" aria-labelledby="my-title">
-    <div class="sec-head">
-      <h2 id="my-title">我的攻略<small id="my-sum"></small></h2>
-      <div class="seg" role="group" aria-label="展示方式"><button type="button" data-view="cover" aria-pressed="true">封面</button><button type="button" data-view="prov" aria-pressed="false">按省</button></div>
-    </div>
-    <div id="guides"></div>
+  <section class="sec" id="foot-prov" aria-labelledby="fp-title">
+    <div class="sec-head"><h2 id="fp-title">我的足迹<small id="fp-sum"></small></h2></div>
+    <div id="guides-prov"></div>
   </section>
 
-  <section class="sec" id="rec" aria-labelledby="rec-title">
-    <div class="sec-head"><h2 id="rec-title">推荐去做<small id="rec-sum"></small></h2></div>
-    <div id="recs"></div>
+  <section class="sec" id="my" aria-labelledby="my-title">
+    <div class="sec-head"><h2 id="my-title">我的攻略<small>封面</small></h2></div>
+    <div id="guides-cover"></div>
+  </section>
+
+  <section class="sec" id="hot" aria-labelledby="hot-title">
+    <div class="sec-head"><h2 id="hot-title">全国热门<small id="hot-sum"></small></h2></div>
+    <div class="two-col"><div class="board" id="hot-rank"></div><div class="board" id="hot-dark"></div></div>
+    <details class="srcs" id="hot-src"></details>
+  </section>
+
+  <section class="sec" id="hz" aria-labelledby="hz-title">
+    <div class="sec-head"><h2 id="hz-title">从杭州出发<small id="hz-sum"></small></h2></div>
+    <div class="two-col"><div class="board" id="hz-drive"></div><div class="board" id="hz-remote"></div></div>
     <p class="rnote" id="rec-note"></p>
   </section>
 
@@ -289,9 +310,43 @@ form.reqform{display:grid;gap:11px}
   // 相邻省份底色轻微交替（DataV 按区划代码排序，相邻编号多半地理相邻）
   var TONE = {}; Object.keys(provUnits).forEach(function(p, i){ TONE[p] = i % 2; });
 
-  var state = { guides: [], recs: null, loaded: false, card: null, sel: null, view: 'cover' };
-  try { if (localStorage.getItem('tgm-view') === 'prov') state.view = 'prov'; } catch (e) {}
-  var recForUnit = function(u){ return state.recs && state.recs.cities.find(function(c){ return Number(c.adcode) === u.a; }); };
+  var state = { guides: [], recs: null, rec: null, loaded: false, card: null, sel: null };
+  var HOME = 330100; // 出发地杭州，不进推荐
+  var recForUnit = function(u){ return state.rec && state.rec.set[u.a] || null; };
+  // 从 recommend.json 算出：热门榜、黑马榜、自驾、远程；同一座城只出现一次，已点亮的、出发地不出现
+  var computeRecs = function(){
+    var R = state.recs; if (!R) { state.rec = null; return; }
+    var P = R.profiles || {}, lit = litSet(), set = {}, shown = {};
+    var prof = function(a){ var p = P[a] || {}; var u = byA[a]; return { a: Number(a), city: p.city || (u ? u.s : String(a)), province: p.province || (u ? u.p : ''), plan: p.plan || '三天两晚', prefs: p.prefs || [], reason: p.reason || '', season: p.season || '' }; };
+    var skip = function(a){ return a === HOME || lit[a] || shown[a] || !byA[a]; };
+    var stat = {};
+    (R.lists || []).filter(function(L){ return L.kind === 'rank'; }).forEach(function(L){
+      L.items.forEach(function(it, i){
+        var a = Number(it[0]); var s = stat[a] = stat[a] || { a: a, n: 0, ct: 0, best: 99, hits: [] };
+        s.n++; if (L.platform === '携程' || L.platform === '同程') { s.ct++; s.best = Math.min(s.best, i + 1); }
+        s.hits.push({ platform: L.platform, event: L.event, rank: i + 1, repost: !!L.repost });
+      });
+    });
+    var hot = Object.keys(stat).map(function(k){ return stat[k]; }).filter(function(s){ return !skip(s.a); })
+      .sort(function(x, y){ return y.n - x.n || y.ct - x.ct || x.best - y.best || x.hits.reduce(function(t, h){ return t + h.rank; }, 0) / x.n - y.hits.reduce(function(t, h){ return t + h.rank; }, 0) / y.n; })
+      .slice(0, R.top_n || 12).map(function(s){ var o = prof(s.a); o.n = s.n; o.hits = s.hits; shown[s.a] = 1; set[s.a] = o; return o; });
+    var gs = {};
+    (R.lists || []).filter(function(L){ return L.kind === 'growth'; }).forEach(function(L){
+      L.items.forEach(function(it){
+        var a = Number(it[0]); var g = gs[a] = gs[a] || { a: a, max: 0, hits: [] };
+        g.max = Math.max(g.max, it[2] || 0); g.hits.push({ platform: L.platform, event: L.event, metric: L.metric, pct: it[2], text: it[3] || '', repost: !!L.repost });
+      });
+    });
+    var dark = Object.keys(gs).map(function(k){ return gs[k]; }).filter(function(g){ return !skip(g.a); })
+      .sort(function(x, y){ return y.max - x.max; })
+      .map(function(g){ var o = prof(g.a); o.hits = g.hits; shown[g.a] = 1; set[g.a] = o; return o; });
+    var hz = function(key){
+      return ((R.from_hz || {})[key] || []).filter(function(it){ return !skip(Number(it[0])); })
+        .map(function(it){ var o = prof(it[0]); o.drive = it[1]; o.hours = it[2]; shown[o.a] = 1; set[o.a] = o; return o; })
+        .sort(function(x, y){ return x.hours - y.hours; });
+    };
+    state.rec = { hot: hot, dark: dark, drive: hz('drive'), remote: hz('remote'), set: set };
+  };
 
   // ---------- 小工具 ----------
   var pad = function(n){ return (n < 10 ? '0' : '') + n; };
@@ -522,7 +577,7 @@ form.reqform{display:grid;gap:11px}
     renderCard();
   };
 
-  // ---------- 我的攻略（封面 / 按省）+ 推荐去做 ----------
+  // ---------- 我的足迹（按省）+ 我的攻略（封面）----------
   var guideRows = function(){
     return state.guides.map(function(g){ return { g: g, u: byA[g.adcode] }; })
       .sort(function(a, b){ return String(b.g.updated || '').localeCompare(String(a.g.updated || '')); });
@@ -531,47 +586,60 @@ form.reqform{display:grid;gap:11px}
   var gMeta = function(g){ return [g.days ? g.days + ' 天 ' + (g.nights || 0) + ' 晚' : '', g.from ? g.from + '出发' : '', g.updated ? '更新 ' + g.updated : ''].filter(Boolean).join(' · '); };
   var accStyle = function(g){ return /^#[0-9a-fA-F]{3,8}$/.test(g.accent || '') ? ' style="--acc:' + g.accent + '"' : ''; };
   var renderList = function(){
-    var box = $('guides');
-    if (!state.loaded) { box.innerHTML = '<p class="empty">正在读取攻略清单…</p>'; return; }
+    var bp = $('guides-prov'), bc = $('guides-cover');
+    if (!state.loaded) { bp.innerHTML = bc.innerHTML = '<p class="empty">正在读取攻略清单…</p>'; return; }
     var rows = guideRows(), provs = {};
     rows.forEach(function(r){ if (r.u) provs[r.u.p] = 1; });
-    $('my-sum').textContent = rows.length + ' 城 · ' + Object.keys(provs).length + ' 省';
-    document.querySelectorAll('[data-view]').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-view') === state.view ? 'true' : 'false'); });
-    if (!rows.length) { box.innerHTML = '<p class="empty">还没有点亮的城市。在地图上点一座城市，或者从下面的推荐里挑一座，生成指令去做第一份攻略。</p>'; return; }
-    if (state.view === 'cover') {
-      box.innerHTML = '<div class="ga">' + rows.map(function(r){
-        var g = r.g;
-        return '<article' + accStyle(g) + '>' + (g.cover ? '<img class="cv" src="' + esc(g.cover) + '" alt="' + esc(g.title) + '封面" loading="lazy">' : '<div class="cv"></div>')
-          + '<div class="bd"><h3>' + esc(g.title || g.city) + '</h3><p class="meta">' + esc((r.u ? r.u.p + ' · ' : '') + gMeta(g)) + '</p>' + (g.summary ? '<p class="sum">' + esc(g.summary) + '</p>' : '') + gActs(g, r.u) + '</div></article>';
-      }).join('') + '</div>';
-      return;
+    $('fp-sum').textContent = rows.length + ' 城 · ' + Object.keys(provs).length + ' 省';
+    if (!rows.length) {
+      bp.innerHTML = '<p class="empty">还没有点亮的城市。在地图上点一座城市，或者从下面的推荐里挑一座，生成指令去做第一份攻略。</p>';
+      bc.innerHTML = '<p class="empty">做好的攻略会在这里按封面展示。</p>'; return;
     }
-    var groups = {}, order = [];
+    var groups = {}, order = [], lit = litSet();
     rows.forEach(function(r){ var p = r.u ? r.u.p : '其他'; if (!groups[p]) { groups[p] = []; order.push(p); } groups[p].push(r); });
-    var lit = litSet();
-    box.innerHTML = '<div class="gc">' + order.map(function(p){
+    bp.innerHTML = '<div class="gc">' + order.map(function(p){
       var all = provUnits[p] || [], n = all.filter(function(x){ return lit[x.a]; }).length;
       return '<div class="prov"><div><div class="pname">' + esc(p) + '</div>' + (all.length ? '<div class="pnum">已点亮 ' + n + ' / ' + all.length + ' 市</div><div class="pbar"><i style="width:' + (n / all.length * 100).toFixed(1) + '%"></i></div>' : '') + '</div><ul>'
         + groups[p].map(function(r){ var g = r.g; return '<li' + accStyle(g) + '>' + (g.cover ? '<img class="th" src="' + esc(g.cover) + '" alt="" loading="lazy">' : '<div class="th"></div>') + '<div><h3>' + esc(g.title || g.city) + '</h3><p class="meta">' + esc(gMeta(g)) + '</p></div>' + gActs(g, r.u) + '</li>'; }).join('')
         + '</ul></div>';
     }).join('') + '</div>';
-  };
-  var TIERS = [['说走就走', '1 小时', function(h){ return h <= 1.5; }], ['周末轻松', '2 小时', function(h){ return h > 1.5 && h <= 2; }], ['值得两晚', '3 小时', function(h){ return h > 2 && h <= 3.5; }], ['高铁 / 飞机', '远途', function(h){ return h > 3.5; }]];
-  var renderRecs = function(){
-    var box = $('recs'), R = state.recs;
-    if (!R) { box.innerHTML = '<p class="empty">' + (state.loaded ? '推荐清单 recommend.json 读取失败。' : '正在读取推荐…') + '</p>'; return; }
-    var lit = litSet();
-    var list = R.cities.filter(function(c){ return !lit[c.adcode]; });
-    $('rec-sum').textContent = '从杭州出发 · ' + (R.updated ? Number(R.updated.slice(5, 7)) + ' 月 ' + Number(R.updated.slice(8, 10)) + ' 日更新 · ' : '') + list.length + ' 座';
-    box.innerHTML = '<div class="rc">' + TIERS.map(function(t){
-      var cs = list.filter(function(c){ return t[2](Number(c.hours) || 9); });
-      return '<div class="col"><h3>' + t[0] + '<b>' + t[1] + '</b></h3>' + (cs.length ? cs.map(function(c){
-        return '<div class="city"><div class="row"><button type="button" class="nm" data-locate="' + c.adcode + '" title="在地图上看">' + esc(c.city) + '</button><span>' + esc(c.plan) + '</span></div>'
-          + '<span>' + esc(c.reason) + '</span><span>当季：' + esc(c.season) + '</span>'
-          + '<div class="row"><span>' + esc(c.province + ' · ' + c.drive) + '</span><button type="button" class="sbtn pri" data-rec="' + c.adcode + '">生成指令</button></div></div>';
-      }).join('') : '<p class="none">这一档都做过了</p>') + '</div>';
+    bc.innerHTML = '<div class="ga">' + rows.map(function(r){
+      var g = r.g;
+      return '<article' + accStyle(g) + '>' + (g.cover ? '<img class="cv" src="' + esc(g.cover) + '" alt="' + esc(g.title) + '封面" loading="lazy">' : '<div class="cv"></div>')
+        + '<div class="bd"><h3>' + esc(g.title || g.city) + '</h3><p class="meta">' + esc((r.u ? r.u.p + ' · ' : '') + gMeta(g)) + '</p>' + (g.summary ? '<p class="sum">' + esc(g.summary) + '</p>' : '') + gActs(g, r.u) + '</div></article>';
     }).join('') + '</div>';
-    $('rec-note').innerHTML = esc(R.note || '') + (R.sources && R.sources.length ? '。来源：' + R.sources.map(function(x){ return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.title) + '</a>'; }).join(' · ') : '');
+  };
+
+  // ---------- 全国热门 + 从杭州出发 ----------
+  var cityBtn = function(o){ return '<button type="button" class="nm" data-locate="' + o.a + '" title="在地图上看">' + esc(o.city) + '</button><span class="pv">' + esc(o.province) + ' · ' + esc(o.plan) + '</span>'; };
+  var genBtn = function(o){ return '<button type="button" class="sbtn pri" data-rec="' + o.a + '">生成指令</button>'; };
+  var pcHit = function(h){ var hi = h.platform === '携程' || h.platform === '同程'; return '<span class="pc' + (hi ? ' hi' : '') + '" title="' + esc(h.event + (h.metric ? ' ' + h.metric : '') + (h.rank ? ' 第 ' + h.rank + ' 名' : '') + (h.repost ? '（转载）' : '')) + '">' + esc(h.platform) + ' <i>' + esc(h.event.replace('2026 ', '')) + (h.rank ? ' #' + h.rank : '') + (h.repost ? ' 转载' : '') + '</i></span>'; };
+  var renderRecs = function(){
+    var R = state.recs, X = state.rec;
+    var ids = ['hot-rank', 'hot-dark', 'hz-drive', 'hz-remote'];
+    if (!R || !X) { ids.forEach(function(id){ $(id).innerHTML = '<p class="empty-sm">' + (state.loaded ? '推荐清单 recommend.json 读取失败。' : '正在读取推荐…') + '</p>'; }); return; }
+    var date = R.updated ? Number(R.updated.slice(5, 7)) + ' 月 ' + Number(R.updated.slice(8, 10)) + ' 日更新' : '';
+    var nRank = (R.lists || []).filter(function(L){ return L.kind === 'rank'; }).length;
+    $('hot-sum').textContent = '携程、同程等 ' + nRank + ' 份 2026 榜单汇总 · ' + date;
+    $('hz-sum').textContent = '自驾 ' + X.drive.length + ' 座 · 远程 ' + X.remote.length + ' 座';
+    var none = function(t){ return '<p class="empty-sm">' + t + '</p>'; };
+    $('hot-rank').innerHTML = '<h3>热门榜<small>按上了几个榜单排，携程 / 同程优先；不含杭州</small></h3>' + (X.hot.length ? '<ol class="rank">' + X.hot.map(function(o, i){
+      return '<li><span class="no">' + (i < 9 ? '0' : '') + (i + 1) + '</span><div><div class="rtop">' + cityBtn(o) + '<span class="cnt">上榜 <b>' + o.n + '</b></span></div><p class="why">' + esc(o.reason) + '</p><div class="pcs">' + o.hits.map(pcHit).join('') + '</div></div>' + genBtn(o) + '</li>';
+    }).join('') + '</ol>' : none('榜上的城市都做过了。'));
+    $('hot-dark').innerHTML = '<h3>黑马榜<small>携程 / 同程同比增幅，升温最快</small></h3>' + (X.dark.length ? '<ol class="rank nonum">' + X.dark.map(function(o){
+      return '<li><div><div class="rtop">' + cityBtn(o) + '</div><p class="why">' + esc(o.reason) + '</p><div class="pcs">' + o.hits.map(function(h){ return '<span class="pc' + (h.platform === '携程' || h.platform === '同程' ? ' hi' : '') + '" title="' + esc(h.event + ' ' + h.metric + (h.repost ? '（转载）' : '')) + '">' + esc(h.platform) + ' <i>' + esc(h.event.replace('2026 ', '')) + '</i> <span class="gr">' + esc(h.text || ('+' + h.pct + '%')) + '</span>' + (h.repost ? ' <i>转载</i>' : '') + '</span>'; }).join('') + '</div></div>' + genBtn(o) + '</li>';
+    }).join('') + '</ol>' : none('黑马城市都做过了。'));
+    var hzList = function(list, title, sub){
+      return '<h3>' + title + '<small>' + sub + '</small></h3>' + (list.length ? '<ol class="rank nonum">' + list.map(function(o){
+        return '<li><div><div class="rtop">' + cityBtn(o) + '<span class="cnt">' + esc(o.drive) + '</span></div><p class="why">' + esc(o.reason) + '</p><p class="why">当季：' + esc(o.season) + '</p></div>' + genBtn(o) + '</li>';
+      }).join('') + '</ol>' : none('这一栏都做过了，或者已经在全国热门里。'));
+    };
+    $('hz-drive').innerHTML = hzList(X.drive, '自驾', '按车程从近到远');
+    $('hz-remote').innerHTML = hzList(X.remote, '远程', '高铁 / 飞机，按耗时从近到远');
+    var srcs = [], seen = {};
+    (R.lists || []).forEach(function(L){ if (!seen[L.source.url + L.id]) { seen[L.source.url + L.id] = 1; srcs.push('<li>' + esc(L.platform + ' · ' + L.event + ' · ' + L.metric) + (L.repost ? '（转载）' : '') + '：<a href="' + esc(L.source.url) + '" target="_blank" rel="noopener">' + esc(L.source.title) + '</a></li>'); } });
+    $('hot-src').innerHTML = '<summary>数据来源（' + srcs.length + ' 份榜单）</summary><ul>' + srcs.join('') + '</ul>';
+    $('rec-note').innerHTML = esc(R.note || '') + ((R.from_hz || {}).sources ? '。远程城市参考：' + R.from_hz.sources.map(function(x){ return '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.title) + '</a>'; }).join(' · ') : '');
   };
   var renderStats = function(){
     var lit = litSet(), ids = Object.keys(lit), provs = {};
@@ -581,7 +649,7 @@ form.reqform{display:grid;gap:11px}
     var last = state.guides.map(function(g){ return g.updated || ''; }).sort().pop();
     $('st-last').textContent = last ? last.slice(5) : '–';
   };
-  var renderAll = function(){ paintUnits(); renderList(); renderRecs(); renderStats(); };
+  var renderAll = function(){ computeRecs(); paintUnits(); renderList(); renderRecs(); renderStats(); };
 
   // ---------- 事件 ----------
   var copyText = function(btn){
@@ -595,10 +663,6 @@ form.reqform{display:grid;gap:11px}
     var t;
     if ((t = e.target.closest('[data-copy]'))) { copyText(t); return; }
     if ((t = e.target.closest('[data-locate]'))) { var u = byA[t.getAttribute('data-locate')]; flyTo(u, 5); selectUnit(u.a); stage.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
-    if ((t = e.target.closest('[data-view]'))) {
-      state.view = t.getAttribute('data-view'); try { localStorage.setItem('tgm-view', state.view); } catch (x) {}
-      renderList(); return;
-    }
     if ((t = e.target.closest('[data-rec]'))) {
       var ru = byA[t.getAttribute('data-rec')]; if (!ru) return;
       flyTo(ru, 5); selectUnit(ru.a); stage.scrollIntoView({ behavior: 'smooth', block: 'center' }); return;
@@ -627,7 +691,7 @@ form.reqform{display:grid;gap:11px}
     getJSON('guides.json').catch(function(){ banner('攻略清单 guides.json 读取失败，刷新页面再试。'); return []; }),
     getJSON('recommend.json').catch(function(){ return null; })
   ]).then(function(res){
-    state.guides = Array.isArray(res[0]) ? res[0] : []; state.recs = res[1] && Array.isArray(res[1].cities) ? res[1] : null;
+    state.guides = Array.isArray(res[0]) ? res[0] : []; state.recs = res[1] && Array.isArray(res[1].lists) ? res[1] : null;
     state.loaded = true; renderAll();
   });
 })();
