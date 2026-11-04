@@ -1366,5 +1366,32 @@ footer a{color:var(--fg-2)}
   update();
 })();
 </script>
+<style id="tlprog-css">
+.tl::before{background:var(--line);opacity:1}
+.tl::after{content:"";position:absolute;left:74px;top:10px;bottom:10px;width:2px;border-radius:2px;background:var(--accent);
+ transform-origin:center top;transform:scaleY(var(--p,0));transition:transform .12s linear;z-index:0}
+.stop::before{z-index:1}
+@media (max-width:600px){.tl::after{left:58px}}
+@media (prefers-reduced-motion: reduce){.tl::after{transition:none}}
+</style>
+<script>
+(function(){
+  var tls = [].slice.call(document.querySelectorAll('.tl')); if (!tls.length) return;
+  var tick = false;
+  var update = function(){
+    tick = false;
+    var y = window.innerHeight * 0.6;
+    tls.forEach(function(t){
+      var r = t.getBoundingClientRect();
+      var p = r.height ? Math.max(0, Math.min(1, (y - r.top) / r.height)) : 0;
+      t.style.setProperty('--p', p.toFixed(4));
+    });
+  };
+  var req = function(){ if (!tick) { tick = true; requestAnimationFrame(update); } };
+  window.addEventListener('scroll', req, { passive: true });
+  window.addEventListener('resize', req);
+  update();
+})();
+</script>
 </body>
 </html>
