@@ -591,7 +591,7 @@ details.srcs a{color:var(--fg-2)}
       + (trip ? '<div class="two"><div class="field"><label for="f-from">出发地</label><input id="f-from" value="杭州"></div>'
         + '<div class="field"><label for="f-plan">天数</label><select id="f-plan">' + plans + '</select></div></div>'
         + '<div class="two"><div class="field"><label for="f-date">出发日期</label><input id="f-date" type="date" value="' + nextFriday() + '"></div>'
-        + '<div class="field"><label for="f-transport">出行方式</label><select id="f-transport"><option selected>自驾</option><option>高铁</option><option>大巴</option></select></div></div>'
+        + '<div class="field"><label for="f-transport">出行方式</label><select id="f-transport"><option value="自驾" selected>🚗 自驾</option><option value="高铁">🚄 高铁</option><option value="飞机">✈️ 飞机</option></select></div></div>'
         + '<div class="field"><span class="lab">偏好（可多选）</span><div class="chips">' + prefs + '</div></div>' : '')
       + '<div class="field"><label for="f-note">备注</label><textarea id="f-note" placeholder="' + (type === '改版' ? '例如：改成四天三晚，加一天去东极岛' : (type === '刷新' ? '可不填' : '例如：带父母，少走路；想住海边')) + '"></textarea></div>'
       + '<p class="err" id="form-err" hidden></p>'
@@ -720,6 +720,8 @@ details.srcs a{color:var(--fg-2)}
     $('st-last').textContent = last ? last.slice(5) : '–';
   };
   // ---------- 登录 + 我的需求 ----------
+  var TRANSPORT_ICON = { '自驾': '🚗', '高铁': '🚄', '飞机': '✈️', '大巴': '🚌' };
+  var transportLabel = function (v) { return v ? (TRANSPORT_ICON[v] ? TRANSPORT_ICON[v] + ' ' + v : v) : ''; };
   var fmtT = function(iso){ if (!iso) return ''; var d = new Date(iso); return isNaN(d) ? '' : (d.getMonth() + 1) + '-' + d.getDate() + ' ' + pad(d.getHours()) + ':' + pad(d.getMinutes()); };
   var renderAuth = function(){
     var box = $('auth');
@@ -758,7 +760,7 @@ details.srcs a{color:var(--fg-2)}
     document.querySelectorAll('[data-rtab]').forEach(function(b){ b.setAttribute('aria-pressed', b.getAttribute('data-rtab') === t ? 'true' : 'false'); });
     if (!rows.length) { list.innerHTML = '<li class="empty">' + (t === 'review' ? '没有待审核的需求。朋友提交的会先出现在这里。' : t === 'open' ? '没有待处理的需求。在地图上点一座城市，或者从推荐里挑一座提交。' : (t === 'done' ? '还没有完成的需求。' : '没有取消的需求。')) + '</li>'; return; }
     list.innerHTML = rows.map(function(r){
-      var meta = [r.source === 'friend' ? '来自 ' + (r.submitter || '朋友') : '', r.type, r.province, r.plan, r.from_city ? r.from_city + '出发' : '', r.start_date, r.transport, (r.prefs || []).join('、'), '提交于 ' + fmtT(r.created_at)].filter(Boolean).join(' · ');
+      var meta = [r.source === 'friend' ? '来自 ' + (r.submitter || '朋友') : '', r.type, r.province, r.plan, r.from_city ? r.from_city + '出发' : '', r.start_date, transportLabel(r.transport), (r.prefs || []).join('、'), '提交于 ' + fmtT(r.created_at)].filter(Boolean).join(' · ');
       var acts = (r.adcode && byA[r.adcode] ? '<button type="button" class="sbtn" data-locate="' + r.adcode + '">在地图上看</button>' : '')
         + (r.status === '待审核' ? '<button type="button" class="sbtn pri" data-review="' + esc(r.id) + '" data-to="待处理">通过</button><button type="button" class="sbtn" data-review="' + esc(r.id) + '" data-to="已拒绝">拒绝</button>' : '')
         + (r.status === '待处理' ? '<button type="button" class="sbtn" data-cancel="' + esc(r.id) + '">取消</button>' : '')

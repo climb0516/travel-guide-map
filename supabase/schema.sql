@@ -16,7 +16,7 @@ create table if not exists public.requests (
   days         integer,
   nights       integer,
   start_date   date,
-  transport    text default '',                        -- 自驾 / 高铁 / 大巴
+  transport    text default '',                        -- 自驾 / 高铁 / 飞机
   prefs        text[] not null default '{}',
   note         text not null default '',
   guide_url    text not null default '',               -- 刷新 / 改版时要改的那份
