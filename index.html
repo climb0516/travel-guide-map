@@ -387,7 +387,7 @@ details.srcs a{color:var(--fg-2)}
     name = String(name || '').trim();
     return UNITS.find(function(u){ return u.s === name || u.n === name; }) || UNITS.find(function(u){ return u.n.indexOf(name) === 0 && name.length >= 2; });
   };
-  var guideForUnit = function(u){ return state.guides.find(function(g){ return Number(g.adcode) === u.a || (!g.adcode && (g.city === u.s || g.city === u.n)); }); };
+  var guideForUnit = function(u){ return state.guides.find(function(g){ return Number(g.adcode) === u.a || (g.also_adcodes || []).map(Number).indexOf(u.a) > -1 || (!g.adcode && (g.city === u.s || g.city === u.n)); }); };
   var openReqForUnit = function(u){ return state.reqs.find(function(r){ return (r.status === '待处理' || r.status === '处理中') && Number(r.adcode) === u.a; }) || null; };
   var litSet = function(){ var s = {}; UNITS.forEach(function(u){ if (guideForUnit(u)) s[u.a] = 1; }); return s; };
 
