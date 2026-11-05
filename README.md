@@ -223,7 +223,7 @@ prefs 只能从「吃、海边、古城、拜佛、带娃、自然风光、博�
   "timetables": [{header / name, rows}],      页面里的时刻表
   "xhs_notes": [{id, author, date, title}],   页脚引用的小红书笔记
   "new_notes": [{id, title, date, likes, kind}],  刷新时上次之后的新帖
-  "intro": {"fetched_at", "areas": {区县: [{k, gf, gs, df, ds}]}},  build_areas.py 输出（较新的几城直接存 {区县: [...]}）
+  "intro": {"fetched_at", "areas": {区县: [{k, gf, gs, df, ds}]}},  build_areas.py 输出；没用 build_areas.py 的城市（潮汕、北京、上海）也按这个格式存（2026-11-05 统一）
   "rank_district": {"food/<区划代码>": ...},  高德分区榜原始数据
   "dp": {...},                                 大众点评原始数据（部分城市）
   "note": "抓取说明"
