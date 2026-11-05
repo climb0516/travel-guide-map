@@ -46,5 +46,20 @@
     "local_dir": "~/Desktop/AI/travel-guide-map/chaoshan",
     "cover": "chaoshan/img/g_gjq1.jpg",
     "accent": "#e6b85a"
+  },
+  {
+    "city": "北京",
+    "adcode": 110000,
+    "pinyin": "beijing",
+    "title": "北京四日",
+    "url": "beijing/",
+    "days": 4,
+    "nights": 3,
+    "from": "杭州",
+    "updated": "2026-11-05",
+    "summary": "天坛 · 前门 → 故宫 · 什刹海 → 国博 · 雍和宫 → 颐和园｜红墙 · 琉璃 · 天坛蓝",
+    "local_dir": "~/Desktop/AI/travel-guide-map/beijing",
+    "cover": "beijing/img/g_tt1.jpg",
+    "accent": "#eabb4f"
   }
 ]
