@@ -296,6 +296,47 @@ html.gl-layered{overflow:hidden}
 .cy-layer .card .x{display:none}
 @media (max-width:720px){.cy-grid{grid-template-columns:1fr}.cy-body{padding:16px 16px 56px}.cy-hero{padding:22px 18px 18px}.cy-hero.img{min-height:240px}}
 @media (prefers-reduced-motion: reduce){.cy-layer,.cy-dim{transition:none}.cy-skel{animation:none}}
+.cy-prose{display:grid;gap:10px;background:var(--panel);border-radius:14px;padding:16px 20px}
+.cy-prose p{font-size:15px;line-height:1.9;color:var(--fg-2)}
+.cy-cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
+.cy-card{background:var(--panel);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.cy-card .bd{padding:12px 14px 14px;display:grid;gap:6px}
+.cy-card h3{font-size:16px;display:flex;align-items:center;gap:6px}
+.cy-card p{font-size:13.5px;line-height:1.7;color:var(--fg-2)}
+.cy-card .meta{font-size:12.5px;color:var(--lit)}
+.a5{font-size:10.5px;font-weight:700;color:#fff;background:var(--lit);border-radius:5px;padding:0 5px;line-height:17px}
+.ph{position:relative;aspect-ratio:4/3;background:var(--panel-2);overflow:hidden}
+.ph > i{position:absolute;inset:0;background:linear-gradient(90deg,var(--panel-2) 25%,var(--panel) 50%,var(--panel-2) 75%);background-size:300% 100%;animation:gl-sh 1.2s linear infinite}
+.ph.none > i{animation:none;background:var(--panel-2)}
+.ph.none::after{content:"暂无图片";position:absolute;inset:0;display:grid;place-items:center;font-size:12px;color:var(--fg-3)}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;cursor:zoom-in}
+.ph .n{position:absolute;right:8px;bottom:8px;font-size:11px;color:#fff;background:rgba(0,0,0,.55);border-radius:999px;padding:1px 8px;pointer-events:none}
+.cy-foods{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:12px}
+.cy-food{display:grid;grid-template-columns:96px minmax(0,1fr);gap:12px;background:var(--panel);border-radius:14px;padding:10px;align-items:start}
+.cy-food .ph{border-radius:10px;aspect-ratio:1}
+.cy-food h3{font-size:15px;margin-bottom:3px}
+.cy-food p{font-size:13.5px;line-height:1.65;color:var(--fg-2)}
+.cy-list{display:grid;gap:6px;padding-left:18px;font-size:14px;line-height:1.7;color:var(--fg-2)}
+.cy-list b{color:var(--fg)}
+.cy-grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.cy-route{display:grid;gap:8px;padding-left:20px;font-size:14px;line-height:1.7;color:var(--fg-2)}
+.cy-seasons{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
+.cy-seasons div{background:var(--panel);border-radius:12px;padding:12px 14px}
+.cy-seasons b{font-family:var(--font-display);font-size:18px;color:var(--lit)}
+.cy-seasons p{font-size:13.5px;line-height:1.65;color:var(--fg-2);margin-top:4px}
+.cy-avoid{font-size:13.5px;color:var(--fg-2);background:color-mix(in srgb,var(--doing) 12%,transparent);border-radius:10px;padding:8px 12px}
+.cy-list.tips li::marker{content:"⚠️ "}
+.cy-wall{columns:4 200px;column-gap:8px}
+.cy-wall img{width:100%;margin-bottom:8px;border-radius:10px;display:block;cursor:zoom-in;break-inside:avoid;background:var(--panel-2)}
+.cy-lb{position:fixed;inset:0;z-index:130;background:rgba(0,0,0,.92);display:flex;align-items:center;justify-content:center;gap:8px}
+.cy-lb[hidden]{display:none}
+.cy-lb figure{max-width:min(1100px,calc(100vw - 120px));display:grid;gap:8px;justify-items:center}
+.cy-lb img{max-width:100%;max-height:82vh;border-radius:8px}
+.cy-lb figcaption{color:#ddd;font-size:13px}
+.cy-lb button{border:0;background:rgba(255,255,255,.12);color:#fff;border-radius:50%;width:44px;height:44px;font-size:26px;cursor:pointer;flex-shrink:0}
+.cy-lb .x{position:absolute;right:16px;top:16px}
+@media (max-width:720px){.cy-grid2,.cy-seasons{grid-template-columns:1fr 1fr}.cy-grid2{grid-template-columns:1fr}.cy-cards{grid-template-columns:1fr}.cy-foods{grid-template-columns:1fr}
+  .cy-lb figure{max-width:100vw}.cy-lb .pv,.cy-lb .nx{position:absolute;bottom:24px}.cy-lb .pv{left:24px}.cy-lb .nx{right:24px}}
 </style>
 </head>
 <body>
@@ -1032,15 +1073,55 @@ html.gl-layered{overflow:hidden}
   setView(); renderAll();
   // ---------- 城市详情：新开一层（#city/<区划代码>），介绍 + 做攻略的操作区；返回时滑走 ----------
   // 基础版 cities/base.json（AI 整理）+ 5A 名单 cities/a5.json；丰富版 cities/<区划代码>.json 由 /go-city-intro 生成
-  var CY = null, cyPushed = false, cySwiped = false, CITY = { base: null, a5: null, rich: {} }, cityLoading = null;
-  var loadCityData = function(){
-    if (!cityLoading) cityLoading = Promise.all([getJSON('cities/base.json').catch(function(){ return {}; }), getJSON('cities/a5.json').catch(function(){ return {}; })])
-      .then(function(r){ CITY.base = r[0]; CITY.a5 = r[1]; });
-    return cityLoading;
+  var CY = null, cyPushed = false, cySwiped = false, CITY = { base: {}, a5: null, rich: {} };
+  var AMAP_KEY = 'bf632f2d5fe7dc04c7f1dc4996ed908e', AMAP_SEC = '68f4420a6678d4c054792f47d38c9dd8';   // Web端（JS API）key，绑定 climb0516.github.io 域名白名单
+  var loadA5 = function(){ return CITY.a5 ? Promise.resolve() : getJSON('cities/a5.json').then(function(d){ CITY.a5 = d; }, function(){ CITY.a5 = {}; }); };
+  // 基础版：每个城市一个小文件，打开哪个读哪个；没有文件记成 null
+  var loadBase = function(a){
+    if (a in CITY.base) return Promise.resolve(CITY.base[a]);
+    return getJSON('cities/base/' + a + '.json').then(function(d){ return (CITY.base[a] = d); }, function(){ return (CITY.base[a] = null); });
   };
   var loadRich = function(a){
     if (a in CITY.rich) return Promise.resolve(CITY.rich[a]);
     return getJSON('cities/' + a + '.json').then(function(d){ return (CITY.rich[a] = d); }, function(){ return (CITY.rich[a] = null); });
+  };
+  // ---------- 高德 JS API：按名字在本市范围搜景点 / 美食，取实拍图（排队、间隔、浏览器缓存）----------
+  var amapReady = null;
+  var loadAmap = function(){
+    if (!amapReady) amapReady = new Promise(function(ok, no){
+      window._AMapSecurityConfig = { securityJsCode: AMAP_SEC };
+      var sc = document.createElement('script');
+      sc.src = 'https://webapi.amap.com/maps?v=2.0&key=' + AMAP_KEY + '&plugin=AMap.PlaceSearch';
+      sc.onload = function(){ window.AMap ? ok() : no(new Error('AMap 未加载')); }; sc.onerror = no;
+      document.head.appendChild(sc);
+    });
+    return amapReady;
+  };
+  var amapQ = Promise.resolve(), AMEM = {};
+  var cacheGet = function(k){ if (k in AMEM) return AMEM[k]; try { var v = sessionStorage.getItem(k); if (v) return (AMEM[k] = JSON.parse(v)); } catch (e) {} return undefined; };
+  var cacheSet = function(k, v){ AMEM[k] = v; try { sessionStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
+  var BAD_TYPE = /停车|游客中心|售票|服务中心|出入口|公共厕所|码头$|入口|充电/;
+  // kind：spot 优先风景名胜，food 优先餐饮；返回 { name, addr, photos: [https 图片] } 或 null
+  var amapFind = function(adcode, kw, kind){
+    var key = 'am1|' + adcode + '|' + kind + '|' + kw, hit = cacheGet(key);
+    if (hit !== undefined) return Promise.resolve(hit);
+    var job = amapQ.then(function(){ return loadAmap(); }).then(function(){
+      return new Promise(function(res){
+        new AMap.PlaceSearch({ city: String(adcode), citylimit: true, pageSize: 8, extensions: 'all' }).search(kw, function(st, out){
+          var pois = st === 'complete' && out && out.poiList ? out.poiList.pois : [];
+          var ok = pois.filter(function(p){ return (p.photos || []).length && !BAD_TYPE.test(p.type + p.name); });
+          var pref = ok.filter(function(p){ return kind === 'food' ? /餐饮/.test(p.type) : /风景名胜|公园|博物馆|科教文化/.test(p.type); });
+          var p = pref[0] || ok[0];
+          var v = p ? { name: p.name, addr: [p.adname, p.address].filter(function(x){ return x && typeof x === 'string'; }).join(' '),
+            photos: (p.photos || []).map(function(x){ return String(x.url || '').replace(/^http:/, 'https:'); }).filter(Boolean).slice(0, 3) } : null;
+          if (st === 'complete' || st === 'no_data') cacheSet(key, v);
+          else console.debug('[City] 高德搜索失败', kw, st, out && out.info);
+          res(v);
+        });
+      });
+    }).catch(function(e){ console.debug('[City] 高德加载失败', e && e.message); return null; });
+    amapQ = job.then(function(){ return new Promise(function(r){ setTimeout(r, 150); }); });   // 排队：一个接一个，间隔 0.15 秒，避免被限流
+    return job;
   };
   var cyEls = function(){
     if (CY) return CY;
@@ -1048,8 +1129,9 @@ html.gl-layered{overflow:hidden}
     var el = document.createElement('section'); el.className = 'cy-layer';
     el.innerHTML = '<div class="cy-bar"><button type="button" class="cy-back" data-cyback aria-label="返回地图"><b>‹</b>地图</button><span class="t"></span></div><div class="cy-body"></div>';
     document.body.appendChild(dim); document.body.appendChild(el);
-    CY = { el: el, dim: dim, body: el.querySelector('.cy-body'), a: null };
+    CY = { el: el, dim: dim, body: el.querySelector('.cy-body'), a: null, gen: 0, photos: [] };
     cySwipe(el);
+    el.addEventListener('click', function(e){ var im = e.target.closest('[data-ph]'); if (im) openLightbox(Number(im.getAttribute('data-ph'))); });
     return CY;
   };
   var introCmd = function(u){ return '/go-city-intro ' + u.s + '（' + u.p + (u.n !== u.p ? ' ' + u.n : '') + '，区划代码 ' + u.a + '）'; };
@@ -1066,30 +1148,100 @@ html.gl-layered{overflow:hidden}
     if (R.sources && R.sources.length) o += '<p class="cy-src">丰富版来源：' + R.sources.map(function(x){ return x.url ? '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.title) + '</a>' : esc(x.title); }).join(' · ') + (R.updated ? '（' + esc(R.updated) + ' 整理）' : '') + '</p>';
     return o;
   };
-  // 详情内容（操作区 #card 单独搬进来，不随内容重画）
+  var sec = function(title, note, body){ return '<section class="cy-sec"><h2>' + title + (note ? '<small>' + note + '</small>' : '') + '</h2>' + body + '</section>'; };
+  // 详情内容（操作区 #card 单独搬进来，不随内容重画）；图片位 data-kw 由高德异步填上
   var renderCity = function(){
     var L = CY, u = byA[L.a]; if (!u) return;
-    var B = CITY.base ? CITY.base[u.a] : undefined, A5 = CITY.a5 ? (CITY.a5[u.a] || []) : null, R = CITY.rich[u.a], rec = recForUnit(u);
+    var B = CITY.base[u.a], A5 = CITY.a5 ? (CITY.a5[u.a] || []) : [], R = CITY.rich[u.a], rec = recForUnit(u);
     var g = guideForUnit(u), rq = !g && openReqForUnit(u), lit = litSet();
     var badges = (g ? '<span class="badge lit">已点亮</span>' : '') + (rq ? '<span class="badge' + (rq.status === '处理中' ? ' doing' : '') + '">' + esc(rq.status) + '</span>' : '') + (rec ? '<span class="badge">推荐</span>' : '');
-    var hero = R && R.hero ? ' img" style="background-image:url(\'' + esc(R.hero).replace(/'/g, '%27') + '\')' : '';
-    var o = '<header class="cy-hero' + hero + '"><div class="badges">' + badges + '</div><h1>' + esc(u.s) + '</h1><p class="sub">' + esc(u.p + (u.n !== u.p ? ' · ' + u.n : '')) + '</p>'
+    var heroImg = R && R.hero;
+    var o = '<header class="cy-hero' + (heroImg ? ' img" style="background-image:url(\'' + esc(heroImg).replace(/'/g, '%27') + '\')' : '') + '" id="cy-hero"><div class="badges">' + badges + '</div><h1>' + esc(u.s) + '</h1><p class="sub">' + esc(u.p + (u.n !== u.p ? ' · ' + u.n : '')) + '</p>'
       + ((R && R.impression) || (B && B.tag) ? '<p class="tag">' + esc((R && R.impression) || B.tag) + '</p>' : '') + '</header>';
     if (rec) o += '<div class="cy-recs"><span><b>为什么推荐</b>' + esc(rec.reason) + '</span>' + (rec.season ? '<span><b>当季</b>' + esc(rec.season) + '</span>' : '') + (rec.drive ? '<span><b>从杭州</b>' + esc(rec.drive) + '</span>' : '') + '</div>';
     o += '<div id="cy-slot"></div>';
     if (R) o += richHtml(R);
-    if (CITY.base === null) o += '<div class="cy-skel"></div>';
-    else if (B) o += '<section class="cy-sec"><h2>认识' + esc(u.s) + '<small>AI 整理，仅供参考</small></h2><div class="cy-grid">'
-      + [['🧭', '怎么玩', B.play], ['🍜', '吃什么', B.eat], ['🗓', '什么时候去', B.when]].filter(function(x){ return x[2]; })
-        .map(function(x){ return '<div class="cy-box"><h3>' + x[0] + ' ' + x[1] + '</h3><p>' + esc(x[2]) + '</p></div>'; }).join('') + '</div></section>';
-    else o += '<section class="cy-sec"><h2>认识' + esc(u.s) + '</h2><p class="muted">这座城市的介绍还没整理好。</p></section>';
-    if (A5 && A5.length) o += '<section class="cy-sec"><h2>5A 景区<small>' + A5.length + ' 处 · 国家 5A 级旅游景区名单</small></h2><div class="cy-5a">' + A5.map(function(x){ return '<span>' + esc(x) + '</span>'; }).join('') + '</div></section>';
-    if (!R && CITY.base !== null) o += '<div class="cy-more"><b>想看小红书热帖、同程景点评分和实拍图？</b><p class="small">复制这句到 Claude Code，会用你登录的浏览器读小红书、同程和高德，整理成带实拍图的丰富版，推送后这里就会显示。</p>' + cmdBox(introCmd(u)) + '</div>';
-    o += '<p class="cy-src">本省已点亮 ' + provUnits[u.p].filter(function(x){ return lit[x.a]; }).length + ' / ' + provUnits[u.p].length + ' 市。基础介绍由 AI 整理，出发前以景区公告为准；5A 景区名单整理自维基百科「国家5A级旅游景区」条目（CC BY-SA）。</p>';
+    if (B === undefined) o += '<div class="cy-skel"></div><div class="cy-skel"></div>';
+    else if (B) {
+      var isA5 = function(n){ return A5.some(function(x){ return x.indexOf(n.replace(/景区$/, '').slice(0, 4)) >= 0 || n.indexOf(x.replace(/景区|旅游区|风景名胜区|风景区/g, '').slice(0, 4)) >= 0; }); };
+      if (B.impression) o += sec('城市印象', 'AI 整理，仅供参考', '<div class="cy-prose">' + B.impression.map(function(x){ return '<p>' + esc(x) + '</p>'; }).join('') + '</div>');
+      if (B.spots) o += sec('必去景点', B.spots.length + ' 处 · 图片来自高德地图', '<div class="cy-cards">' + B.spots.map(function(x){
+        return '<article class="cy-card"><div class="ph" data-kw="' + esc(x.kw || x.name) + '" data-kind="spot"><i></i></div><div class="bd"><h3>' + esc(x.name) + (isA5(x.kw || x.name) ? '<span class="a5">5A</span>' : '') + '</h3>'
+          + '<p class="meta">' + esc([x.time ? '建议 ' + x.time : '', x.for].filter(Boolean).join(' · ')) + '</p><p>' + esc(x.why) + '</p><p class="addr small" data-addr></p></div></article>';
+      }).join('') + '</div>');
+      if (B.foods) o += sec('吃什么', '图片为高德上当地相关店铺的实拍', '<div class="cy-foods">' + B.foods.map(function(x){
+        return '<div class="cy-food"><div class="ph" data-kw="' + esc(x.kw || x.name) + '" data-kind="food"><i></i></div><div><h3>' + esc(x.name) + '</h3><p>' + esc(x.desc) + '</p><p class="small" data-shop></p></div></div>';
+      }).join('') + '</div>' + (B.food_areas ? '<ul class="cy-list">' + B.food_areas.map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>' : ''));
+      if (B.routes) o += sec('怎么安排', '', '<div class="cy-grid2">' + B.routes.map(function(r){
+        return '<div class="cy-box"><h3>🗺 ' + esc(r.title) + '</h3><ol class="cy-route">' + r.days.map(function(d){ return '<li>' + esc(d) + '</li>'; }).join('') + '</ol></div>';
+      }).join('') + '</div>');
+      var side = '';
+      if (B.stay) side += '<div class="cy-box"><h3>🏨 住哪里</h3><ul class="cy-list">' + B.stay.map(function(x){ return '<li><b>' + esc(x.area) + '</b>：' + esc(x.for) + '</li>'; }).join('') + '</ul></div>';
+      if (B.from_hz) side += '<div class="cy-box"><h3>🚗 从杭州怎么去</h3><ul class="cy-list">' + B.from_hz.map(function(x){ return '<li><b>' + esc(x[0]) + '</b>：' + esc(x[1]) + '</li>'; }).join('') + '</ul></div>';
+      if (side) o += '<div class="cy-grid2">' + side + '</div>';
+      if (B.when) o += sec('什么时候去', '最佳：' + esc(B.when.best || ''), '<div class="cy-seasons">' + (B.when.seasons || []).map(function(x){ return '<div><b>' + esc(x[0]) + '</b><p>' + esc(x[1]) + '</p></div>'; }).join('') + '</div>'
+        + (B.when.avoid ? '<p class="cy-avoid">⚠️ 避开：' + esc(B.when.avoid) + '</p>' : ''));
+      if (B.tips) o += sec('避坑提醒', '', '<ul class="cy-list tips">' + B.tips.map(function(x){ return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>');
+      if (B.play && !B.spots) o += sec('认识' + esc(u.s), 'AI 整理，仅供参考', '<div class="cy-grid">' + [['🧭', '怎么玩', B.play], ['🍜', '吃什么', B.eat], ['🗓', '什么时候去', B.when]].filter(function(x){ return typeof x[2] === 'string'; })
+        .map(function(x){ return '<div class="cy-box"><h3>' + x[0] + ' ' + x[1] + '</h3><p>' + esc(x[2]) + '</p></div>'; }).join('') + '</div>');
+    } else o += sec('认识' + esc(u.s), '', '<p class="muted">这座城市的介绍还在整理中。</p>');
+    if (A5.length) o += sec('5A 景区', A5.length + ' 处 · 国家 5A 级旅游景区名单', '<div class="cy-5a">' + A5.map(function(x){ return '<span>' + esc(x) + '</span>'; }).join('') + '</div>');
+    o += '<section class="cy-sec" id="cy-wall" hidden><h2>照片墙<small>高德地图实拍 · 点开看大图</small></h2><div class="cy-wall"></div></section>';
+    if (!R && B !== undefined) o += '<div class="cy-more"><b>想看小红书热帖、同程景点评分？</b><p class="small">复制这句到 Claude Code，会用你登录的浏览器读小红书、同程和高德，整理成丰富版，推送后这里就会显示。</p>' + cmdBox(introCmd(u)) + '</div>';
+    o += '<p class="cy-src">本省已点亮 ' + provUnits[u.p].filter(function(x){ return lit[x.a]; }).length + ' / ' + provUnits[u.p].length + ' 市。城市介绍由 AI 整理，出发前以景区公告为准；景点和美食图片来自高德地图；5A 景区名单整理自维基百科「国家5A级旅游景区」条目（CC BY-SA）。</p>';
     var card = $('card'); card.remove();
     L.body.innerHTML = o;
     $('cy-slot').appendChild(card);
     L.el.querySelector('.cy-bar .t').textContent = u.s + ' · ' + u.p;
+    fillPhotos(u.a);
+  };
+  // 按顺序给每个图片位搜高德，填图、地址；第一张景点图当顶部大图；全部照片进照片墙
+  var fillPhotos = function(a){
+    var L = CY, gen = ++L.gen; L.photos = [];
+    var slots = [].slice.call(L.body.querySelectorAll('[data-kw]'));
+    var heroSet = !!L.body.querySelector('.cy-hero.img'), wall = L.body.querySelector('.cy-wall');
+    slots.forEach(function(ph){
+      amapFind(a, ph.getAttribute('data-kw'), ph.getAttribute('data-kind')).then(function(v){
+        if (L.gen !== gen || L.a !== a) return;
+        var box = ph.parentNode;
+        if (!v || !v.photos.length) { ph.classList.add('none'); return; }
+        var idx = L.photos.length;
+        v.photos.forEach(function(src){ L.photos.push({ src: src, cap: v.name }); });
+        ph.innerHTML = '<img src="' + esc(v.photos[0]) + '" alt="' + esc(v.name) + '" loading="lazy" referrerpolicy="no-referrer" data-ph="' + idx + '">' + (v.photos.length > 1 ? '<span class="n">' + v.photos.length + ' 张</span>' : '');
+        var ad = box.querySelector('[data-addr]'); if (ad && v.addr) ad.textContent = '📍 ' + v.name + (v.addr ? ' · ' + v.addr : '');
+        var sh = box.querySelector('[data-shop]'); if (sh) sh.textContent = '可以去：' + v.name;
+        if (!heroSet && ph.getAttribute('data-kind') === 'spot') {
+          heroSet = true; var h = $('cy-hero');
+          if (h) { h.classList.add('img'); h.style.backgroundImage = 'url("' + v.photos[0].replace(/"/g, '%22') + '")'; }
+        }
+        if (wall) {
+          wall.insertAdjacentHTML('beforeend', v.photos.map(function(src, k){ return '<img src="' + esc(src) + '" alt="' + esc(v.name) + '" title="' + esc(v.name) + '" loading="lazy" referrerpolicy="no-referrer" data-ph="' + (idx + k) + '">'; }).join(''));
+          $('cy-wall').hidden = false;
+        }
+      });
+    });
+  };
+  // 大图查看：点任意图片，左右切换，Esc / 点空白关闭
+  var LB = null;
+  var openLightbox = function(i){
+    var ps = CY.photos; if (!ps[i]) return;
+    if (!LB) {
+      LB = document.createElement('div'); LB.className = 'cy-lb';
+      LB.innerHTML = '<button type="button" class="x" aria-label="关闭">×</button><button type="button" class="pv" aria-label="上一张">‹</button><figure><img alt=""><figcaption></figcaption></figure><button type="button" class="nx" aria-label="下一张">›</button>';
+      document.body.appendChild(LB);
+      LB.addEventListener('click', function(e){
+        if (e.target.closest('.pv')) return show(LB.i - 1);
+        if (e.target.closest('.nx')) return show(LB.i + 1);
+        if (!e.target.closest('img')) LB.hidden = true;
+      });
+      document.addEventListener('keydown', function(e){
+        if (!LB || LB.hidden) return;
+        if (e.key === 'Escape') { LB.hidden = true; e.stopPropagation(); }
+        else if (e.key === 'ArrowLeft') show(LB.i - 1); else if (e.key === 'ArrowRight') show(LB.i + 1);
+      }, true);
+    }
+    var show = function(k){ var n = CY.photos.length; LB.i = (k + n) % n; var p = CY.photos[LB.i]; LB.querySelector('img').src = p.src; LB.querySelector('figcaption').textContent = p.cap + ' · ' + (LB.i + 1) + ' / ' + n; };
+    LB.hidden = false; show(i);
   };
   var openCity = function(a, anim, withForm){
     var u = byA[a]; if (!u) return;
@@ -1099,7 +1251,7 @@ html.gl-layered{overflow:hidden}
     if (withForm && state.card.kind === 'start') state.card = { kind: 'form', u: u, city: u.s, type: '新建', rec: recForUnit(u) };
     renderCity(); renderCard();
     if (!same) L.el.scrollTop = 0;
-    loadCityData().then(function(){ return loadRich(a); }).then(function(){ if (CY.a === a) { renderCity(); } });
+    Promise.all([loadBase(a), loadA5(), loadRich(a)]).then(function(){ if (CY.a === a) renderCity(); });
     if (L.el.classList.contains('in')) return;
     document.documentElement.classList.add('gl-layered');
     if (anim) { void L.el.offsetWidth; requestAnimationFrame(function(){ L.el.classList.add('in'); L.dim.classList.add('on'); }); }
