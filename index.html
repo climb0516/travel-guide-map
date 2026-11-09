@@ -337,6 +337,9 @@ html.gl-layered{overflow:hidden}
 .cy-lb .x{position:absolute;right:16px;top:16px}
 @media (max-width:720px){.cy-grid2,.cy-seasons{grid-template-columns:1fr 1fr}.cy-grid2{grid-template-columns:1fr}.cy-cards{grid-template-columns:1fr}.cy-foods{grid-template-columns:1fr}
   .cy-lb figure{max-width:100vw}.cy-lb .pv,.cy-lb .nx{position:absolute;bottom:24px}.cy-lb .pv{left:24px}.cy-lb .nx{right:24px}}
+.card h2 .cname{border:0;background:transparent;color:inherit;font:inherit;letter-spacing:inherit;padding:0;cursor:pointer;text-align:left;display:inline-flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.card h2 .cname span{font-family:var(--font-body);font-size:13px;color:var(--lit);letter-spacing:0;font-weight:600}
+.card h2 .cname:hover{color:var(--lit)}
 </style>
 </head>
 <body>
@@ -596,7 +599,7 @@ html.gl-layered{overflow:hidden}
     if (Object.keys(pointers).length < 2) pinch = null;
     if (!Object.keys(pointers).length) {
       svg.classList.remove('dragging'); drag = null;
-      if (!wasMoved && e.type === 'pointerup' && target && target.getAttribute && target.getAttribute('data-a')) openCityNav(Number(target.getAttribute('data-a')));
+      if (!wasMoved && e.type === 'pointerup' && target && target.getAttribute && target.getAttribute('data-a')) selectUnit(Number(target.getAttribute('data-a')));
     }
   };
   svg.addEventListener('pointerup', endPointer);
@@ -682,6 +685,8 @@ html.gl-layered{overflow:hidden}
         + '<p class="muted">复制下面这句，在 Claude Code 里发出去就开始做。做完、推送到网站后，这座城市就会点亮。</p>' + cmdBox(c.text)
         + '<div class="row-btns"><button type="button" class="btn ghost" data-act="close">关闭</button></div>';
     }
+    if (c.u && !el.closest('.cy-layer'))             // 地图上的小卡片：标题可点，进这座城市的详情页
+      o = o.replace(/<h2>([\s\S]*?)<\/h2>/, function(_, t){ return '<h2><button type="button" class="cname" data-city="' + c.u.a + '" title="看' + esc(c.u.s) + '的城市介绍">' + t + '<span>详情 ›</span></button></h2>'; });
     el.innerHTML = o; el.hidden = false;
     var f = $('req-form'); if (f) f.addEventListener('submit', onSubmit);
   };
@@ -1064,7 +1069,7 @@ html.gl-layered{overflow:hidden}
     var v = ($('search-input').value || '').trim().replace(/市$/, '');
     if (!v) return;
     var u = unitByName(v);
-    if (u) { flyTo(u, 5); openCityNav(u.a); }
+    if (u) { flyTo(u, 5); selectUnit(u.a); }
     else { state.sel = null; paintUnits(); state.card = { kind: 'form', u: null, city: v, type: '新建' }; renderCard(); }
   });
 
@@ -1246,6 +1251,12 @@ html.gl-layered{overflow:hidden}
   var openCity = function(a, anim, withForm){
     var u = byA[a]; if (!u) return;
     var L = cyEls(), same = L.a === a && L.el.classList.contains('in');
+    if (!L.el.classList.contains('in') && !L.mapCard) {
+      var mc = $('card'); L.mapCard = { node: mc, card: state.card, sel: state.sel, hint: $('hint').hidden };
+      mc.remove();
+      var nc = document.createElement('section'); nc.className = 'card'; nc.id = 'card'; nc.hidden = true; nc.setAttribute('aria-live', 'polite');
+      $('stage').appendChild(nc);
+    }
     L.a = a; state.sel = a; paintUnits();
     state.card = defaultCard(u);
     if (withForm && state.card.kind === 'start') state.card = { kind: 'form', u: u, city: u.s, type: '新建', rec: recForUnit(u) };
@@ -1264,8 +1275,11 @@ html.gl-layered{overflow:hidden}
     if (!anim) L.el.classList.add('noanim');
     L.el.classList.remove('in', 'under'); L.el.style.transform = ''; L.dim.classList.remove('on');
     if (!(GL && GL.el.classList.contains('in'))) document.documentElement.classList.remove('gl-layered');
-    var card = $('card'); card.remove(); $('stage').appendChild(card);       // 操作区搬回地图上（收起）
-    state.card = null; state.sel = null; L.a = null; renderCard(); paintUnits();
+    $('card').remove();                                                    // 详情里的操作区丢掉，地图上的小卡片原样放回（填了一半的表单也在）
+    var m = L.mapCard; L.mapCard = null;
+    if (m) { $('stage').appendChild(m.node); state.card = m.card; state.sel = m.sel; $('hint').hidden = m.hint; }
+    else { var nc = document.createElement('section'); nc.className = 'card'; nc.id = 'card'; nc.hidden = true; $('stage').appendChild(nc); state.card = null; state.sel = null; }
+    L.a = null; paintUnits();
     if (anim) setTimeout(function(){ if (!L.el.classList.contains('in')) L.body.innerHTML = ''; }, 400);
     else { L.body.innerHTML = ''; void L.el.offsetWidth; L.el.classList.remove('noanim'); }
     console.debug('[City] 关闭城市详情');
