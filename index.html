@@ -882,8 +882,23 @@ html.gl-layered{overflow:hidden}
       if (L.frame) L.frame.remove();
       L.el.classList.remove('ready');
       var f = document.createElement('iframe'); f.title = g.title || g.city;
-      f.addEventListener('load', function(){ wireFrame(f); L.el.classList.add('ready'); });
+      // 攻略页 DOM 一就绪就接管「← 攻略地图」等链接并显示（不等图片下载完，否则早点返回会在层里打开地图本身）
+      var wire = function(){
+        var d; try { d = f.contentDocument; } catch (e) { return true; }
+        if (!d || d.URL === 'about:blank' || d.readyState === 'loading') return false;
+        if (!guideByHref(d.URL)) return true;                    // 不是攻略页（保险会处理），不接管
+        if (!d.__glWired) { d.__glWired = 1; wireFrame(f); L.el.classList.add('ready'); console.debug('[Guide] 攻略页已接管', d.readyState); }
+        return true;
+      };
+      var poll = function(){ if (L.frame === f && !wire()) setTimeout(poll, 50); };
+      f.addEventListener('load', function(){
+        wire();
+        // 保险：层里跳到了不是攻略的页面（比如地图本身），直接关掉这一层
+        var h = ''; try { h = f.contentWindow.location.href; } catch (e) {}
+        if (h && h.indexOf('about:') !== 0 && !guideByHref(h) && GL.frame === f) { console.debug('[Guide] 层里跳到了非攻略页面，关层', h); history.replaceState(null, '', location.pathname + location.search); closeGuide(true); }   // 不用 history.back：iframe 的跳转也写了历史，后退只会退 iframe
+      });
       f.src = g.url; L.el.appendChild(f); L.frame = f; L.key = key;
+      setTimeout(poll, 50);
     }
     if (L.el.classList.contains('in')) return;
     document.documentElement.classList.add('gl-layered');
