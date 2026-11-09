@@ -255,6 +255,47 @@ html.gl-layered{overflow:hidden}
 .gl-layer.ready .gl-skel{display:none}
 @keyframes gl-sh{from{background-position:100% 0}to{background-position:-200% 0}}
 @media (prefers-reduced-motion: reduce){.gl-layer,.gl-dim,.gl-layer iframe{transition:none}.gl-skel i{animation:none}}
+/* 城市详情：地图上点城市、推荐榜点城市名，从右侧滑入这座城市的介绍页（在攻略层下面一级） */
+.cy-dim{position:fixed;inset:0;z-index:89;background:rgba(0,0,0,.45);opacity:0;pointer-events:none;transition:opacity .34s ease}
+.cy-dim.on{opacity:1}
+.cy-layer{position:fixed;inset:0;z-index:90;background:var(--bg);overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;box-shadow:-12px 0 32px rgba(0,0,0,.3);
+  transform:translateX(100%);visibility:hidden;transition:transform .34s cubic-bezier(.2,.8,.2,1),visibility 0s linear .34s}
+.cy-layer.in{transform:none;visibility:visible;transition:transform .34s cubic-bezier(.2,.8,.2,1)}
+.cy-layer.under{transform:translateX(-18%);filter:brightness(.6);transition:transform .34s cubic-bezier(.2,.8,.2,1),filter .34s ease}
+.cy-layer.noanim,.cy-layer.dragging{transition:none}
+.cy-bar{position:sticky;top:0;z-index:5;height:52px;display:flex;align-items:center;gap:6px;padding:0 max(12px,calc(50% - 480px));
+  background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.cy-back{border:0;background:transparent;color:var(--lit);font-size:15px;cursor:pointer;padding:6px 8px 6px 0;display:inline-flex;align-items:center;gap:2px}
+.cy-back b{font-size:24px;line-height:1;font-weight:400}
+.cy-bar .t{font-weight:700;font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cy-body{max-width:960px;margin:0 auto;padding:22px 20px 64px;display:grid;gap:18px}
+.cy-hero{position:relative;border-radius:18px;overflow:hidden;background:linear-gradient(135deg,color-mix(in srgb,var(--lit) 26%,var(--panel)),var(--panel) 60%);padding:26px 24px 22px;min-height:180px;display:flex;flex-direction:column;justify-content:flex-end;gap:8px}
+.cy-hero.img{min-height:280px;color:#fff;background-size:cover;background-position:center}
+.cy-hero.img::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.05) 30%,rgba(0,0,0,.72))}
+.cy-hero > *{position:relative}
+.cy-hero h1{font-family:var(--font-display);font-size:clamp(34px,6vw,52px);letter-spacing:.06em;line-height:1.1}
+.cy-hero .sub{font-size:13.5px;opacity:.85}
+.cy-hero .tag{font-size:16px;line-height:1.6;max-width:640px}
+.cy-hero .badges{display:flex;gap:6px;flex-wrap:wrap}
+.cy-recs{display:flex;flex-wrap:wrap;gap:8px}
+.cy-recs span{font-size:13px;background:var(--panel);border:1px solid var(--line);border-radius:999px;padding:4px 12px;color:var(--fg-2)}
+.cy-recs b{color:var(--fg);font-weight:600;margin-right:4px}
+.cy-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.cy-box{background:var(--panel);border-radius:14px;padding:16px 18px;display:grid;gap:8px;align-content:start}
+.cy-box h3{font-size:15px;display:flex;align-items:center;gap:6px}
+.cy-box p{font-size:14px;line-height:1.75;color:var(--fg-2)}
+.cy-sec{display:grid;gap:10px}
+.cy-sec > h2{font-family:var(--font-display);font-size:20px;letter-spacing:.04em;display:flex;align-items:baseline;gap:8px}
+.cy-sec > h2 small{font-family:var(--font-body);font-size:12.5px;color:var(--fg-3);font-weight:400;letter-spacing:0}
+.cy-5a{display:flex;flex-wrap:wrap;gap:8px}
+.cy-5a span{font-size:13.5px;background:var(--panel);border-radius:10px;padding:6px 12px;border-left:3px solid var(--lit)}
+.cy-more{background:var(--panel-2);border-radius:14px;padding:14px 16px;display:grid;gap:8px}
+.cy-src{font-size:12px;color:var(--fg-3);line-height:1.7}
+.cy-skel{height:120px;border-radius:14px;background:linear-gradient(90deg,var(--panel) 25%,var(--panel-2) 50%,var(--panel) 75%);background-size:300% 100%;animation:gl-sh 1.2s linear infinite}
+.cy-layer .card{position:static;z-index:auto;width:auto;max-height:none;overflow:visible;box-shadow:none;border-radius:14px}
+.cy-layer .card .x{display:none}
+@media (max-width:720px){.cy-grid{grid-template-columns:1fr}.cy-body{padding:16px 16px 56px}.cy-hero{padding:22px 18px 18px}.cy-hero.img{min-height:240px}}
+@media (prefers-reduced-motion: reduce){.cy-layer,.cy-dim{transition:none}.cy-skel{animation:none}}
 </style>
 </head>
 <body>
@@ -514,7 +555,7 @@ html.gl-layered{overflow:hidden}
     if (Object.keys(pointers).length < 2) pinch = null;
     if (!Object.keys(pointers).length) {
       svg.classList.remove('dragging'); drag = null;
-      if (!wasMoved && e.type === 'pointerup' && target && target.getAttribute && target.getAttribute('data-a')) selectUnit(Number(target.getAttribute('data-a')));
+      if (!wasMoved && e.type === 'pointerup' && target && target.getAttribute && target.getAttribute('data-a')) openCityNav(Number(target.getAttribute('data-a')));
     }
   };
   svg.addEventListener('pointerup', endPointer);
@@ -548,7 +589,15 @@ html.gl-layered{overflow:hidden}
     state.card = g ? { kind: 'guide', u: u, guide: g } : (r ? { kind: 'open', u: u, req: r } : { kind: 'form', u: u, city: u.s, type: '新建', rec: recForUnit(u) });
     renderCard();
   };
-  var closeCard = function(){ state.card = null; state.sel = null; paintUnits(); renderCard(); };
+  var closeCard = function(){
+    if (CY && CY.a && CY.el.classList.contains('in')) { state.card = defaultCard(byA[CY.a]); renderCard(); return; }   // 在城市详情里：回到默认的操作区
+    state.card = null; state.sel = null; paintUnits(); renderCard();
+  };
+  // 城市的默认操作区：有攻略 → 攻略信息；有进行中的需求 → 进度；否则 → 「生成攻略指令」按钮
+  var defaultCard = function(u){
+    var g = guideForUnit(u), r = !g && openReqForUnit(u);
+    return g ? { kind: 'guide', u: u, guide: g } : (r ? { kind: 'open', u: u, req: r } : { kind: 'start', u: u });
+  };
   var cmdBox = function(text){ return '<div class="cmd"><code id="cmd-text">' + esc(text) + '</code><button type="button" data-copy="1">复制</button></div>'; };
   var progressHtml = function(u){
     var lit = litSet(), all = provUnits[u.p], n = all.filter(function(x){ return lit[x.a]; }).length;
@@ -582,6 +631,9 @@ html.gl-layered{overflow:hidden}
         + '<p class="muted">需求存好了，在下面「我的需求」里，地图上这座城市会闪蓝框。在手机 Claude App 里连上电脑的 Claude Code，说「处理攻略请求」就开始做。</p>'
         + '<p class="small">也可以直接复制这句给 Claude Code：</p>' + cmdBox(c.text)
         + '<div class="row-btns"><button type="button" class="btn ghost" data-act="close">关闭</button></div>';
+    } else if (c.kind === 'start') {
+      o += '<h2>想去' + esc(c.u.s) + '？</h2><p class="muted">填出发地、天数、日期和偏好，生成一句给 Claude Code 的指令' + (state.sb ? '，或者直接提交需求' : '') + '。做完推送到网站后，地图上这座城市就会点亮。</p>'
+        + progressHtml(c.u) + '<div class="row-btns"><button type="button" class="btn" data-act="start">生成攻略指令</button></div>';
     } else if (c.kind === 'form') {
       o += formHtml(c);
     } else if (c.kind === 'cmd') {
@@ -698,7 +750,7 @@ html.gl-layered{overflow:hidden}
   };
 
   // ---------- 全国热门 + 从杭州出发 ----------
-  var cityBtn = function(o){ return '<button type="button" class="nm" data-locate="' + o.a + '" title="在地图上看">' + esc(o.city) + '</button><span class="pv">' + esc(o.province) + ' · ' + esc(o.plan) + '</span>'; };
+  var cityBtn = function(o){ return '<button type="button" class="nm" data-city="' + o.a + '" title="看城市介绍">' + esc(o.city) + '</button><span class="pv">' + esc(o.province) + ' · ' + esc(o.plan) + '</span>'; };
   var genBtn = function(o){ return '<button type="button" class="sbtn pri" data-rec="' + o.a + '">生成指令</button>'; };
   var pcHit = function(h){ var hi = h.platform === '携程' || h.platform === '同程'; return '<span class="pc' + (hi ? ' hi' : '') + '" title="' + esc(h.event + (h.metric ? ' ' + h.metric : '') + (h.rank ? ' 第 ' + h.rank + ' 名' : '') + (h.repost ? '（转载）' : '')) + '">' + esc(h.platform) + ' <i>' + esc(h.event.replace('2026 ', '')) + (h.rank ? ' #' + h.rank : '') + (h.repost ? ' 转载' : '') + '</i></span>'; };
   var renderRecs = function(){
@@ -799,10 +851,11 @@ html.gl-layered{overflow:hidden}
   document.addEventListener('click', function(e){
     var t;
     if ((t = e.target.closest('[data-copy]'))) { copyText(t); return; }
-    if ((t = e.target.closest('[data-locate]'))) { var u = byA[t.getAttribute('data-locate')]; flyTo(u, 5); selectUnit(u.a); stage.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
-    if ((t = e.target.closest('[data-rec]'))) {
+    if ((t = e.target.closest('[data-locate]'))) { var u = byA[t.getAttribute('data-locate')]; flyTo(u, 5); state.sel = u.a; paintUnits(); stage.scrollIntoView({ behavior: 'smooth', block: 'center' }); return; }
+    if ((t = e.target.closest('[data-city]'))) { openCityNav(Number(t.getAttribute('data-city'))); return; }
+    if ((t = e.target.closest('[data-rec]'))) {          // 推荐榜「生成指令」：打开城市详情并直接展开需求表单（按推荐填好）
       var ru = byA[t.getAttribute('data-rec')]; if (!ru) return;
-      flyTo(ru, 5); selectUnit(ru.a); stage.scrollIntoView({ behavior: 'smooth', block: 'center' }); return;
+      openCityNav(ru.a, true); return;
     }
     if ((t = e.target.closest('[data-rtab]'))) { state.rtab = t.getAttribute('data-rtab'); state.rtabSet = true; renderReqs(); return; }
     if ((t = e.target.closest('[data-auth]'))) {
@@ -832,6 +885,7 @@ html.gl-layered{overflow:hidden}
     if ((t = e.target.closest('[data-act]'))) {
       var act = t.getAttribute('data-act'), c = state.card;
       if (act === 'close') { closeCard(); return; }
+      if (act === 'start') { state.card = { kind: 'form', u: c.u, city: c.u.s, type: '新建', rec: recForUnit(c.u) }; renderCard(); return; }
       if (act === 'new-anyway') { state.card = { kind: 'form', u: c.u, city: c.u.s, type: '新建', rec: recForUnit(c.u) }; renderCard(); return; }
       if (act === 'refresh' || act === 'revise') { state.card = { kind: 'form', u: c.u, city: c.u.s, type: act === 'refresh' ? '刷新' : '改版' }; renderCard(); }
     }
@@ -855,9 +909,11 @@ html.gl-layered{overflow:hidden}
     GL = { el: el, dim: dim, frame: null, key: null };
     return GL;
   };
+  // 攻略层底下那一层的地址：城市详情开着就是它，否则是地图
+  var underHash = function(){ return CY && CY.a && CY.el.classList.contains('in') ? '#city/' + CY.a : location.pathname + location.search; };
   var glBack = function(){
     if (glPushed) history.back();
-    else { history.replaceState(null, '', location.pathname + location.search); closeGuide(true); }
+    else { history.replaceState(null, '', underHash()); closeGuide(true); }
   };
   // 攻略页加载完：「← 攻略地图」改成关闭这一层；站外链接开新标签；页内锚点只滚动、不写浏览器历史（返回键一步就回地图）
   var wireFrame = function(f){
@@ -882,26 +938,29 @@ html.gl-layered{overflow:hidden}
       if (L.frame) L.frame.remove();
       L.el.classList.remove('ready');
       var f = document.createElement('iframe'); f.title = g.title || g.city;
-      // 攻略页 DOM 一就绪就接管「← 攻略地图」等链接并显示（不等图片下载完，否则早点返回会在层里打开地图本身）
+      // 攻略页的 document 一出现就接管「← 攻略地图」等链接（加载中也能接：监听挂在 document 上）；
+      // 页面结构就绪后再撤掉骨架、显示内容。不能等 load：图片、外部字体会让它拖很久，早点返回会在层里打开地图本身
       var wire = function(){
         var d; try { d = f.contentDocument; } catch (e) { return true; }
-        if (!d || d.URL === 'about:blank' || d.readyState === 'loading') return false;
+        if (!d || d.URL === 'about:blank') return false;
         if (!guideByHref(d.URL)) return true;                    // 不是攻略页（保险会处理），不接管
-        if (!d.__glWired) { d.__glWired = 1; wireFrame(f); L.el.classList.add('ready'); console.debug('[Guide] 攻略页已接管', d.readyState); }
-        return true;
+        if (!d.__glWired) { d.__glWired = 1; wireFrame(f); console.debug('[Guide] 攻略页已接管', d.readyState); }
+        if (d.readyState === 'loading') return false;
+        L.el.classList.add('ready'); return true;
       };
       var poll = function(){ if (L.frame === f && !wire()) setTimeout(poll, 50); };
       f.addEventListener('load', function(){
         wire();
         // 保险：层里跳到了不是攻略的页面（比如地图本身），直接关掉这一层
         var h = ''; try { h = f.contentWindow.location.href; } catch (e) {}
-        if (h && h.indexOf('about:') !== 0 && !guideByHref(h) && GL.frame === f) { console.debug('[Guide] 层里跳到了非攻略页面，关层', h); history.replaceState(null, '', location.pathname + location.search); closeGuide(true); }   // 不用 history.back：iframe 的跳转也写了历史，后退只会退 iframe
+        if (h && h.indexOf('about:') !== 0 && !guideByHref(h) && GL.frame === f) { console.debug('[Guide] 层里跳到了非攻略页面，关层', h); history.replaceState(null, '', underHash()); closeGuide(true); }   // 不用 history.back：iframe 的跳转也写了历史，后退只会退 iframe
       });
       f.src = g.url; L.el.appendChild(f); L.frame = f; L.key = key;
       setTimeout(poll, 50);
     }
     if (L.el.classList.contains('in')) return;
     document.documentElement.classList.add('gl-layered');
+    if (CY && CY.el.classList.contains('in')) CY.el.classList.add('under');
     if (anim) { void L.el.offsetWidth; requestAnimationFrame(function(){ L.el.classList.add('in'); L.dim.classList.add('on'); }); }
     else { L.el.classList.add('noanim', 'in'); L.dim.classList.add('on'); void L.el.offsetWidth; L.el.classList.remove('noanim'); }
     console.debug('[Guide] 打开攻略层', key);
@@ -911,7 +970,8 @@ html.gl-layered{overflow:hidden}
     var L = GL; anim = anim && !glSwiped; glSwiped = false; glPushed = false;
     if (!anim) L.el.classList.add('noanim');
     L.el.classList.remove('in'); L.el.style.transform = ''; L.dim.classList.remove('on');
-    document.documentElement.classList.remove('gl-layered');
+    if (CY && CY.el.classList.contains('in')) CY.el.classList.remove('under');      // 下面还有城市详情：露出来，继续锁住地图滚动
+    else document.documentElement.classList.remove('gl-layered');
     var clear = function(){ if (!L.el.classList.contains('in') && L.frame) { L.frame.remove(); L.frame = null; L.key = null; } };
     if (anim) setTimeout(clear, 400); else { clear(); void L.el.offsetWidth; L.el.classList.remove('noanim'); }
     console.debug('[Guide] 关闭攻略层');
@@ -963,13 +1023,141 @@ html.gl-layered{overflow:hidden}
     var v = ($('search-input').value || '').trim().replace(/市$/, '');
     if (!v) return;
     var u = unitByName(v);
-    if (u) { flyTo(u, 5); selectUnit(u.a); }
+    if (u) { flyTo(u, 5); openCityNav(u.a); }
     else { state.sel = null; paintUnits(); state.card = { kind: 'form', u: null, city: v, type: '新建' }; renderCard(); }
   });
 
   // ---------- 数据：guides.json ----------
   var banner = function(text){ var b = $('banner'); b.innerHTML = text ? '<b>注意</b>' + esc(text) : ''; b.hidden = !text; };
   setView(); renderAll();
+  // ---------- 城市详情：新开一层（#city/<区划代码>），介绍 + 做攻略的操作区；返回时滑走 ----------
+  // 基础版 cities/base.json（AI 整理）+ 5A 名单 cities/a5.json；丰富版 cities/<区划代码>.json 由 /go-city-intro 生成
+  var CY = null, cyPushed = false, cySwiped = false, CITY = { base: null, a5: null, rich: {} }, cityLoading = null;
+  var loadCityData = function(){
+    if (!cityLoading) cityLoading = Promise.all([getJSON('cities/base.json').catch(function(){ return {}; }), getJSON('cities/a5.json').catch(function(){ return {}; })])
+      .then(function(r){ CITY.base = r[0]; CITY.a5 = r[1]; });
+    return cityLoading;
+  };
+  var loadRich = function(a){
+    if (a in CITY.rich) return Promise.resolve(CITY.rich[a]);
+    return getJSON('cities/' + a + '.json').then(function(d){ return (CITY.rich[a] = d); }, function(){ return (CITY.rich[a] = null); });
+  };
+  var cyEls = function(){
+    if (CY) return CY;
+    var dim = document.createElement('div'); dim.className = 'cy-dim';
+    var el = document.createElement('section'); el.className = 'cy-layer';
+    el.innerHTML = '<div class="cy-bar"><button type="button" class="cy-back" data-cyback aria-label="返回地图"><b>‹</b>地图</button><span class="t"></span></div><div class="cy-body"></div>';
+    document.body.appendChild(dim); document.body.appendChild(el);
+    CY = { el: el, dim: dim, body: el.querySelector('.cy-body'), a: null };
+    cySwipe(el);
+    return CY;
+  };
+  var introCmd = function(u){ return '/go-city-intro ' + u.s + '（' + u.p + (u.n !== u.p ? ' ' + u.n : '') + '，区划代码 ' + u.a + '）'; };
+  var richHtml = function(R){
+    var o = '';
+    (R.sections || []).forEach(function(sec){
+      o += '<section class="cy-sec"><h2>' + esc(sec.title) + (sec.note ? '<small>' + esc(sec.note) + '</small>' : '') + '</h2><div class="cy-grid">'
+        + (sec.items || []).map(function(it){
+          return '<div class="cy-box">' + (it.img ? '<img src="' + esc(it.img) + '" alt="" loading="lazy" style="width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:10px">' : '')
+            + '<h3>' + esc(it.name) + '</h3>' + (it.meta ? '<p class="small">' + esc(it.meta) + '</p>' : '') + (it.note ? '<p>' + esc(it.note) + '</p>' : '')
+            + (it.url ? '<a class="small" href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.src || '原文') + ' ↗</a>' : '') + '</div>';
+        }).join('') + '</div></section>';
+    });
+    if (R.sources && R.sources.length) o += '<p class="cy-src">丰富版来源：' + R.sources.map(function(x){ return x.url ? '<a href="' + esc(x.url) + '" target="_blank" rel="noopener">' + esc(x.title) + '</a>' : esc(x.title); }).join(' · ') + (R.updated ? '（' + esc(R.updated) + ' 整理）' : '') + '</p>';
+    return o;
+  };
+  // 详情内容（操作区 #card 单独搬进来，不随内容重画）
+  var renderCity = function(){
+    var L = CY, u = byA[L.a]; if (!u) return;
+    var B = CITY.base ? CITY.base[u.a] : undefined, A5 = CITY.a5 ? (CITY.a5[u.a] || []) : null, R = CITY.rich[u.a], rec = recForUnit(u);
+    var g = guideForUnit(u), rq = !g && openReqForUnit(u), lit = litSet();
+    var badges = (g ? '<span class="badge lit">已点亮</span>' : '') + (rq ? '<span class="badge' + (rq.status === '处理中' ? ' doing' : '') + '">' + esc(rq.status) + '</span>' : '') + (rec ? '<span class="badge">推荐</span>' : '');
+    var hero = R && R.hero ? ' img" style="background-image:url(\'' + esc(R.hero).replace(/'/g, '%27') + '\')' : '';
+    var o = '<header class="cy-hero' + hero + '"><div class="badges">' + badges + '</div><h1>' + esc(u.s) + '</h1><p class="sub">' + esc(u.p + (u.n !== u.p ? ' · ' + u.n : '')) + '</p>'
+      + ((R && R.impression) || (B && B.tag) ? '<p class="tag">' + esc((R && R.impression) || B.tag) + '</p>' : '') + '</header>';
+    if (rec) o += '<div class="cy-recs"><span><b>为什么推荐</b>' + esc(rec.reason) + '</span>' + (rec.season ? '<span><b>当季</b>' + esc(rec.season) + '</span>' : '') + (rec.drive ? '<span><b>从杭州</b>' + esc(rec.drive) + '</span>' : '') + '</div>';
+    o += '<div id="cy-slot"></div>';
+    if (R) o += richHtml(R);
+    if (CITY.base === null) o += '<div class="cy-skel"></div>';
+    else if (B) o += '<section class="cy-sec"><h2>认识' + esc(u.s) + '<small>AI 整理，仅供参考</small></h2><div class="cy-grid">'
+      + [['🧭', '怎么玩', B.play], ['🍜', '吃什么', B.eat], ['🗓', '什么时候去', B.when]].filter(function(x){ return x[2]; })
+        .map(function(x){ return '<div class="cy-box"><h3>' + x[0] + ' ' + x[1] + '</h3><p>' + esc(x[2]) + '</p></div>'; }).join('') + '</div></section>';
+    else o += '<section class="cy-sec"><h2>认识' + esc(u.s) + '</h2><p class="muted">这座城市的介绍还没整理好。</p></section>';
+    if (A5 && A5.length) o += '<section class="cy-sec"><h2>5A 景区<small>' + A5.length + ' 处 · 国家 5A 级旅游景区名单</small></h2><div class="cy-5a">' + A5.map(function(x){ return '<span>' + esc(x) + '</span>'; }).join('') + '</div></section>';
+    if (!R && CITY.base !== null) o += '<div class="cy-more"><b>想看小红书热帖、同程景点评分和实拍图？</b><p class="small">复制这句到 Claude Code，会用你登录的浏览器读小红书、同程和高德，整理成带实拍图的丰富版，推送后这里就会显示。</p>' + cmdBox(introCmd(u)) + '</div>';
+    o += '<p class="cy-src">本省已点亮 ' + provUnits[u.p].filter(function(x){ return lit[x.a]; }).length + ' / ' + provUnits[u.p].length + ' 市。基础介绍由 AI 整理，出发前以景区公告为准；5A 景区名单整理自维基百科「国家5A级旅游景区」条目（CC BY-SA）。</p>';
+    var card = $('card'); card.remove();
+    L.body.innerHTML = o;
+    $('cy-slot').appendChild(card);
+    L.el.querySelector('.cy-bar .t').textContent = u.s + ' · ' + u.p;
+  };
+  var openCity = function(a, anim, withForm){
+    var u = byA[a]; if (!u) return;
+    var L = cyEls(), same = L.a === a && L.el.classList.contains('in');
+    L.a = a; state.sel = a; paintUnits();
+    state.card = defaultCard(u);
+    if (withForm && state.card.kind === 'start') state.card = { kind: 'form', u: u, city: u.s, type: '新建', rec: recForUnit(u) };
+    renderCity(); renderCard();
+    if (!same) L.el.scrollTop = 0;
+    loadCityData().then(function(){ return loadRich(a); }).then(function(){ if (CY.a === a) { renderCity(); } });
+    if (L.el.classList.contains('in')) return;
+    document.documentElement.classList.add('gl-layered');
+    if (anim) { void L.el.offsetWidth; requestAnimationFrame(function(){ L.el.classList.add('in'); L.dim.classList.add('on'); }); }
+    else { L.el.classList.add('noanim', 'in'); L.dim.classList.add('on'); void L.el.offsetWidth; L.el.classList.remove('noanim'); }
+    console.debug('[City] 打开城市详情', a);
+  };
+  var closeCity = function(anim){
+    if (!CY || !CY.el.classList.contains('in')) return;
+    var L = CY; anim = anim && !cySwiped; cySwiped = false; cyPushed = false;
+    if (!anim) L.el.classList.add('noanim');
+    L.el.classList.remove('in', 'under'); L.el.style.transform = ''; L.dim.classList.remove('on');
+    if (!(GL && GL.el.classList.contains('in'))) document.documentElement.classList.remove('gl-layered');
+    var card = $('card'); card.remove(); $('stage').appendChild(card);       // 操作区搬回地图上（收起）
+    state.card = null; state.sel = null; L.a = null; renderCard(); paintUnits();
+    if (anim) setTimeout(function(){ if (!L.el.classList.contains('in')) L.body.innerHTML = ''; }, 400);
+    else { L.body.innerHTML = ''; void L.el.offsetWidth; L.el.classList.remove('noanim'); }
+    console.debug('[City] 关闭城市详情');
+  };
+  var openCityNav = function(a, withForm){
+    if (!byA[a]) return;
+    var h = '#city/' + a;
+    if (location.hash !== h) { history.pushState({ city: 1 }, '', h); cyPushed = true; }
+    openCity(a, true, withForm);
+  };
+  var cyBack = function(){
+    if (cyPushed) history.back();
+    else { history.replaceState(null, '', location.pathname + location.search); closeCity(true); }
+  };
+  var syncCity = function(anim){
+    var m = location.hash.match(/^#city\/(\d+)$/);
+    if (m) { if (!CY || CY.a !== Number(m[1]) || !CY.el.classList.contains('in')) openCity(Number(m[1]), anim); }
+    else if (!/^#guide\//.test(location.hash)) closeCity(anim);
+  };
+  window.addEventListener('popstate', function(){ syncCity(true); });
+  document.addEventListener('click', function(e){ if (e.target.closest('[data-cyback]')) cyBack(); });
+  var cySwipe = function(el){
+    if (IS_IOS) return;
+    var x0 = null, y0 = 0, dx = 0, t0 = 0, active = false;
+    el.addEventListener('touchstart', function(e){
+      if (e.touches.length !== 1 || el.classList.contains('under')) return;
+      var t = e.touches[0]; if (t.clientX > 28) return;
+      x0 = t.clientX; y0 = t.clientY; dx = 0; t0 = Date.now(); active = false;
+    }, { passive: true });
+    el.addEventListener('touchmove', function(e){
+      if (x0 == null) return;
+      var t = e.touches[0]; dx = Math.max(0, t.clientX - x0);
+      if (!active) { if (Math.abs(t.clientY - y0) > 12 && Math.abs(t.clientY - y0) > dx) { x0 = null; return; } if (dx < 10) return; active = true; el.classList.add('dragging'); }
+      el.style.transform = 'translateX(' + dx + 'px)';
+    }, { passive: true });
+    el.addEventListener('touchend', function(){
+      if (x0 == null) return;
+      var done = active && (dx > innerWidth / 3 || (dx > 60 && dx / (Date.now() - t0) > 0.5));
+      x0 = null; el.classList.remove('dragging');
+      if (done) { el.style.transform = 'translateX(' + innerWidth + 'px)'; cySwiped = true; setTimeout(cyBack, 220); }
+      else el.style.transform = '';
+    });
+  };
+
   var getJSON = function(f){ return fetch(f, { cache: 'no-store' }).then(function(r){ if (!r.ok) throw new Error(r.status); return r.json(); }); };
   Promise.all([
     getJSON('guides.json').catch(function(){ banner('攻略清单 guides.json 读取失败，刷新页面再试。'); return []; }),
@@ -977,7 +1165,7 @@ html.gl-layered{overflow:hidden}
   ]).then(function(res){
     state.guides = Array.isArray(res[0]) ? res[0] : []; state.recs = res[1] && Array.isArray(res[1].lists) ? res[1] : null;
     state.loaded = true; renderAll();
-    syncGuide(false);                                   // 直接打开 #guide/<拼音> 的链接：地图画好后直接显示攻略层，不播进场
+    syncCity(false); syncGuide(false);                  // 直接打开 #city/… 或 #guide/<拼音> 的链接：地图画好后直接显示那一层，不播进场
   });
   if (window.supabase && window.supabase.createClient) {
     try {
