@@ -1144,14 +1144,19 @@ html.gl-layered{overflow:hidden}
   var cacheGet = function(k){ if (k in AMEM) return AMEM[k]; try { var v = sessionStorage.getItem(k); if (v) return (AMEM[k] = JSON.parse(v)); } catch (e) {} return undefined; };
   var cacheSet = function(k, v){ AMEM[k] = v; try { sessionStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
   var BAD_TYPE = /停车|游客中心|售票|服务中心|出入口|公共厕所|码头$|入口|充电/;
+  var ADC_ALIAS = { 810000: 810100, 820000: 820100 };
   // kind：spot 优先风景名胜，food 优先餐饮；返回 { name, addr, photos: [https 图片] } 或 null
   var amapFind = function(adcode, kw, kind){
     var key = 'am2|' + adcode + '|' + kind + '|' + kw, hit = cacheGet(key);
     if (hit !== undefined) return Promise.resolve(hit);
+    // 港澳用 810000 / 820000 会被高德算成「境外」查询，境外配额很小、用完就整片报错；换成 810100 / 820100 走普通配额
+    var city = String(ADC_ALIAS[adcode] || adcode);
     var job = amapQ.then(function(){ return loadAmap(); }).then(function(){
-      return new Promise(function(res){
-        new AMap.PlaceSearch({ city: String(adcode), citylimit: true, pageSize: 8, extensions: 'all' }).search(kw, function(st, out){
+      var once = function(){ return new Promise(function(res){
+        new AMap.PlaceSearch({ city: city, citylimit: true, pageSize: ADC_ALIAS[adcode] ? 20 : 8, extensions: 'all' }).search(kw, function(st, out){
           var pois = st === 'complete' && out && out.poiList ? out.poiList.pois : [];
+          // 港澳别名代码下 citylimit 不生效、会搜到全国，只留区划代码同前缀（81 / 82）的结果
+          if (ADC_ALIAS[adcode]) pois = pois.filter(function(p){ return String(p.adcode || '').slice(0, 2) === String(adcode).slice(0, 2); });
           var ok = pois.filter(function(p){ return (p.photos || []).length && !BAD_TYPE.test(p.type + p.name); });
           var pref = ok.filter(function(p){ return kind === 'food' ? /餐饮/.test(p.type) : /风景名胜|公园|博物馆|科教文化/.test(p.type); });
           var p = pref[0] || ok[0];
@@ -1164,8 +1169,12 @@ html.gl-layered{overflow:hidden}
           if (p) console.debug('[City] 高德命中', kw, '→', p.name, 'biz_ext=', JSON.stringify(p.biz_ext || null), 'photos=', (p.photos || []).length);
           if (st === 'complete' || st === 'no_data') cacheSet(key, v);
           else console.debug('[City] 高德搜索失败', kw, st, out && out.info);
-          res(v);
+          res({ v: v, err: !(st === 'complete' || st === 'no_data') });
         });
+      }); };
+      // 查得太密会被临时限流（status=error），隔 1.5 秒再试一次
+      return once().then(function(r){
+        return r.err ? new Promise(function(w){ setTimeout(w, 1500); }).then(once).then(function(r2){ return r2.v; }) : r.v;
       });
     }).catch(function(e){ console.debug('[City] 高德加载失败', e && e.message); return null; });
     amapQ = job.then(function(){ return new Promise(function(r){ setTimeout(r, 150); }); });   // 排队：一个接一个，间隔 0.15 秒，避免被限流
@@ -1224,7 +1233,7 @@ html.gl-layered{overflow:hidden}
       if (B.impression) o += sec('城市印象', 'AI 整理，仅供参考', '<div class="cy-prose">' + B.impression.map(function(x){ return '<p>' + esc(x) + '</p>'; }).join('') + '</div>');
       if (B.spots) o += sec('必去景点', B.spots.length + ' 处 · 点卡片看详情 · 图片来自高德地图', '<div class="cy-cards">' + B.spots.map(function(x){
         var i = L.items.push({ kind: 'spot', d: x, a5: isA5(x.kw || x.name), v: undefined }) - 1;
-        return '<article class="cy-card" data-ci="' + i + '" tabindex="0" role="button" aria-label="' + esc(x.name) + ' 详情"><div class="ph" data-kw="' + esc(x.kw || x.name) + '" data-kind="spot"><i></i></div><div class="bd"><h3>' + esc(x.name) + (L.items[i].a5 ? '<span class="a5">5A</span>' : '') + '</h3>'
+        return '<article class="cy-card" data-ci="' + i + '" tabindex="0" role="button" aria-label="' + esc(x.name) + ' 详情"><div class="ph" data-kw="' + esc(x.kw || x.name) + '" data-kind="spot"' + (x.ac ? ' data-ac="' + Number(x.ac) + '"' : '') + '><i></i></div><div class="bd"><h3>' + esc(x.name) + (L.items[i].a5 ? '<span class="a5">5A</span>' : '') + '</h3>'
           + '<p class="meta">' + esc([x.time ? '建议 ' + x.time : '', x.for].filter(Boolean).join(' · ')) + '</p><p>' + esc(x.why) + '</p><p class="addr small" data-addr></p><span class="more">查看详情 ›</span></div></article>';
       }).join('') + '</div>');
       if (B.foods) o += sec('吃什么', '点卡片看详情 · 图片为高德上当地相关店铺的实拍', '<div class="cy-foods">' + B.foods.map(function(x){
@@ -1260,7 +1269,8 @@ html.gl-layered{overflow:hidden}
     var slots = [].slice.call(L.body.querySelectorAll('[data-kw]'));
     var heroSet = !!L.body.querySelector('.cy-hero.img'), wall = L.body.querySelector('.cy-wall');
     slots.forEach(function(ph){
-      amapFind(a, ph.getAttribute('data-kw'), ph.getAttribute('data-kind')).then(function(v){
+      // data-ac：景点不在本市辖区时（如西宁条目里的青海湖属海南州），按它实际所在的区划搜
+      amapFind(Number(ph.getAttribute('data-ac')) || a, ph.getAttribute('data-kw'), ph.getAttribute('data-kind')).then(function(v){
         if (L.gen !== gen || L.a !== a) return;
         var box = ph.parentNode, it = L.items[Number(box.getAttribute('data-ci'))];
         if (it) { it.v = v || null; it.ph0 = L.photos.length; if (MD && !MD.el.hidden && MD.it === it) renderModal(); }
