@@ -21,7 +21,24 @@
     "门票和交通车需要提前在官方渠道购买，节假日和农历七月三十地藏菩萨圣诞前后人非常多，最好提前预约",
     "建议在九华街住一晚，早晚人少时逛寺庙更安静",
     "寺庙内注意礼仪，不要随意拍摄佛像，烧香以寺内提供的为准，不要被路边拉客买高价香"
-   ]
+   ],
+   "amap": {
+    "name": "九华山风景区",
+    "id": "B023600447",
+    "addr": "青阳县 九华镇九华街",
+    "type": "国家级景点",
+    "tel": "0566-2831288",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "1月16日-11月14日 07:30-17:30",
+    "lng": 117.809566,
+    "lat": 30.493152,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dd533d9045da9fe7a10ec93dbfe78147",
+     "https://store.is.autonavi.com/showpic/f0ed9d1cdc4b9a4dbd5d0efb5934deab",
+     "https://store.is.autonavi.com/showpic/fa88f119e4d98d466e3e4496f5552762"
+    ]
+   }
   },
   {
    "name": "化城寺",
@@ -36,7 +53,24 @@
    "tips": [
     "寺庙早上开门时香客较少，适合安静参观",
     "九华街上的寺庙基本都可以步行串联，不必坐车"
-   ]
+   ],
+   "amap": {
+    "name": "化城寺",
+    "id": "B023600JJF",
+    "addr": "青阳县 九华山镇219省道九华山风景区九华街景区内",
+    "type": "寺庙道观",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 117.802362,
+    "lat": 30.478743,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/20a9bb469b3dc2eebae5e052d873b31a",
+     "https://store.is.autonavi.com/showpic/08edafd476f0f460254c230ab3cd7622",
+     "https://store.is.autonavi.com/showpic/5706160ca1c3a0e10000002827940525?type=pic"
+    ]
+   }
   },
   {
    "name": "肉身宝殿",
@@ -51,7 +85,24 @@
    "tips": [
     "台阶较陡，老人慢慢走，雨天注意防滑",
     "节假日排队进殿的时间较长，尽量早去"
-   ]
+   ],
+   "amap": {
+    "name": "九华山风景区月身宝殿",
+    "id": "B0FFLENEFD",
+    "addr": "青阳县 九华山景区内",
+    "type": "回教寺",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 07:00-17:00",
+    "lng": 117.798358,
+    "lat": 30.47668,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/7f9a4b81-58e4-4001-ac4a-6938666ce424.jpg",
+     "https://store.is.autonavi.com/showpic/23cf72b986f296e40000006802982242?type=pic",
+     "https://store.is.autonavi.com/showpic/5e11874cc27f312a0000009442614017?type=pic"
+    ]
+   }
   },
   {
    "name": "百岁宫",
@@ -66,7 +117,24 @@
    "tips": [
     "上山坐索道、下山步行比较省力",
     "山脊上风大，冬天要多穿一件"
-   ]
+   ],
+   "amap": {
+    "name": "九华山-百岁宫景区",
+    "id": "B023600JJG",
+    "addr": "青阳县 九华山镇219省道九华山风景区内",
+    "type": "风景名胜",
+    "tel": "0566-2831288",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 06:00-17:00",
+    "lng": 117.809274,
+    "lat": 30.481035,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ec854129d3d80cf2a8864b99058717f6",
+     "https://aos-comment.amap.com/B023600JJG/comment/7702bf493dc1dc85b111eab40605de09_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B023600JJG/comment/9f4878b530135c125252ba38391b3c14_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "天台景区",
@@ -82,7 +150,24 @@
     "索道上去、步行下来是比较常见的走法",
     "山顶天气变化快，带好雨具和外套",
     "想看日出需要住在山上并提前确认天气"
-   ]
+   ],
+   "amap": {
+    "name": "九华山-天台景区",
+    "id": "B0FFFOTV6T",
+    "addr": "青阳县 风景区天台景区内",
+    "type": "寺庙道观",
+    "tel": "0566-2823169",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30",
+    "lng": 117.825058,
+    "lat": 30.46484,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4ba8af2bf7ff076ff2e1156bdace35d4",
+     "https://store.is.autonavi.com/showpic/0f1baaed3b252e98d51d9e5d98dc0ac4",
+     "https://store.is.autonavi.com/showpic/2eac5705534067a5df0b5d3268477ca2"
+    ]
+   }
   },
   {
    "name": "九华山大愿文化园",
@@ -97,7 +182,24 @@
    "tips": [
     "需要单独购票，以官方公告为准",
     "园区开阔少遮挡，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "九华山大愿文化园",
+    "id": "B0FFF56UEB",
+    "addr": "青阳县 九华山镇219省道九华山风景区柯村新区",
+    "type": "国家级景点",
+    "tel": "0566-2839936",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "01-01至09-09 周一至周日 08:00-17:00 最晚进入17:00；09-10至09-10 周一至周日 08:00-20:00；09-11至12-31 周一至周日 08:00-17:00 最晚进入17:00",
+    "lng": 117.800434,
+    "lat": 30.537364,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b3b94c0eb67d82ca8ee65ba89c3f54ef",
+     "https://aos-comment.amap.com/B0FFF56UEB/comment/5e5e581c28ed9cf47b0a5e4276f6f734_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/9137c69cd4449d6f4949a6dcfc9f185b"
+    ]
+   }
   },
   {
    "name": "杏花村文化旅游区",
@@ -112,7 +214,24 @@
    "tips": [
     "春天杏花季是最佳时间，其他季节期望别太高",
     "离市区近，可以和平天湖一带连起来逛"
-   ]
+   ],
+   "amap": {
+    "name": "杏花村文化旅游区",
+    "id": "B0FFGNTHE8",
+    "addr": "贵池区 福康路",
+    "type": "风景名胜",
+    "tel": "0566-2035566",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 117.451994,
+    "lat": 30.63509,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a6130c83a676b9110000002876520410?type=pic",
+     "https://aos-comment.amap.com/B0FFGNTHE8/comment/content_media_external_images_media_438438_ss_3_1729474325939_79867185.jpg",
+     "https://aos-comment.amap.com/B0FFGNTHE8/comment/content_media_external_images_media_438434_ss_2_1729474325940_30739247.jpg"
+    ]
+   }
   },
   {
    "name": "牯牛降",
@@ -127,7 +246,24 @@
    "tips": [
     "自驾前往更方便，山路弯多注意驾驶",
     "溪谷石头湿滑，穿防滑鞋，雨后注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "石台牯牛降景区",
+    "id": "B0FFFDX9LO",
+    "addr": "石台县 大演乡新农村",
+    "type": "国家级景点",
+    "tel": "0566-6028755",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日:8:00-17:00",
+    "lng": 117.490554,
+    "lat": 30.085776,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7493e129dab851ea3bf93026c7ad915b",
+     "https://store.is.autonavi.com/showpic/afe16c8c9b386cc9f632b755a8bf383e",
+     "https://store.is.autonavi.com/showpic/ca44f7b77a4b78a7ecba53b7f8181a44"
+    ]
+   }
   },
   {
    "name": "升金湖",
@@ -142,7 +278,24 @@
    "tips": [
     "最佳时间是 11 月到次年 2 月，带上望远镜或长焦镜头",
     "保护区内遵守规定，不要靠近或惊扰鸟群"
-   ]
+   ],
+   "amap": {
+    "name": "升金湖国家级自然保护区",
+    "id": "B0236003WT",
+    "addr": "东至县 015县道",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.054222,
+    "lat": 30.397535,
+    "photos": [
+     "https://aos-comment.amap.com/B0236003WT/comment/content_media_external_file_100006459_1769993706662_59964772.jpg",
+     "https://store.is.autonavi.com/showpic/0d87d3177295dda30000002600634254?type=pic",
+     "https://aos-comment.amap.com/B0236003WT/comment/7e1138a81dc0d07ef74ca7c99dc62984_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -157,7 +310,24 @@
    "tips": [
     "在寺庙斋堂用餐要遵守寺规，不浪费粮食",
     "九华街上饭店较多，点菜前先问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "九华山无斋餐厅",
+    "id": "B0KRV9MBES",
+    "addr": "青阳县 九华山风景区九华镇化城路17号",
+    "type": "清真菜馆",
+    "tel": "18815662277",
+    "rating": 4.6,
+    "cost": 36.0,
+    "open": "周一至周日 10:00-20:30",
+    "lng": 117.802891,
+    "lat": 30.477832,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/797aa37bd844a1fd0000001708900554?type=pic",
+     "https://store.is.autonavi.com/showpic/f313decd83a68e6a0000003336250538?type=pic",
+     "https://store.is.autonavi.com/showpic/db47a186a14835ca0000009220524802?type=pic"
+    ]
+   }
   },
   {
    "name": "臭鳜鱼",
@@ -170,7 +340,24 @@
    "tips": [
     "第一次吃可以先尝一筷子，接受度因人而异",
     "鱼价通常按重量算，点之前问清楚"
-   ]
+   ],
+   "amap": {
+    "name": "大帅土菜馆(九华山店)",
+    "id": "B0MBKHQ2PI",
+    "addr": "青阳县 拥华路B-B1栋",
+    "type": "安徽菜(徽菜)",
+    "tel": "17305666127",
+    "rating": 4.7,
+    "cost": 70.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 117.792391,
+    "lat": 30.545462,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7abb92487732f9900000009443014804?type=pic",
+     "https://store.is.autonavi.com/showpic/655075a676e3c6d80000009436926378?type=pic",
+     "https://store.is.autonavi.com/showpic/c7ae533c65e6daba0000008772342384?type=pic"
+    ]
+   }
   },
   {
    "name": "秋浦花鳜",
@@ -183,7 +370,24 @@
    "tips": [
     "清蒸最能吃出鱼的鲜味",
     "按重量计价，点前先问价"
-   ]
+   ],
+   "amap": {
+    "name": "秋浦面馆(翠微苑小区店)",
+    "id": "B0FFG0K6MG",
+    "addr": "贵池区 秋浦东路126号",
+    "type": "中餐厅",
+    "tel": "15956235001",
+    "rating": 4.3,
+    "cost": 13.0,
+    "open": "周一至周日 06:30-21:00",
+    "lng": 117.500025,
+    "lat": 30.654277,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/566fa12ba3101b6e5a0f8a5d",
+     "https://store.is.autonavi.com/showpic/60bc14b0d2e91660184710bf424a6d0c",
+     "https://store.is.autonavi.com/showpic/287b0c33b5d55e84fe4a69e576db9e42"
+    ]
+   }
   },
   {
    "name": "东至米饺",
@@ -195,7 +399,24 @@
    ],
    "tips": [
     "趁热吃，凉了皮会变硬"
-   ]
+   ],
+   "amap": {
+    "name": "红霞米饺(东至县文化商贸步行街店)",
+    "id": "B0FFG6FC07",
+    "addr": "东至县 尧渡镇建德路21号(土产公司门面)",
+    "type": "特色/地方风味餐厅",
+    "tel": "18856698092",
+    "rating": 4.4,
+    "cost": 8.0,
+    "open": "",
+    "lng": 117.022484,
+    "lat": 30.094991,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/37ac21b35b17c8bc2fd91d67ef688fa5",
+     "https://store.is.autonavi.com/showpic/e23ea9153e79bec018d57e6f146b8b41",
+     "https://store.is.autonavi.com/showpic/16b19e10de7e68c6377d17cc526e95b6"
+    ]
+   }
   },
   {
    "name": "刀板香",
@@ -208,7 +429,24 @@
    "tips": [
     "比较咸，记得配米饭",
     "冬季腊味正当时"
-   ]
+   ],
+   "amap": {
+    "name": "花红徽菜",
+    "id": "B0JA1HJOMM",
+    "addr": "青阳县 蓉城镇蓉溪南路99号",
+    "type": "安徽菜(徽菜)",
+    "tel": "18256663917",
+    "rating": 4.8,
+    "cost": 28.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 117.858028,
+    "lat": 30.636164,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b9fb4ca1aa058ba60000002334810676?type=pic",
+     "https://store.is.autonavi.com/showpic/477aba9b9f3ac8180000003301696946?type=pic",
+     "https://store.is.autonavi.com/showpic/340b84abc649b8d30000002259724060?type=pic"
+    ]
+   }
   },
   {
    "name": "九华黄精",
@@ -220,7 +458,24 @@
    ],
    "tips": [
     "选择正规店铺购买，注意看产地和成分"
-   ]
+   ],
+   "amap": {
+    "name": "吴振东九华黄精体验馆(青阳店)",
+    "id": "B0KKFCLWUS",
+    "addr": "青阳县 木镇路137号",
+    "type": "购物相关场所",
+    "tel": "13305666266",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 117.871979,
+    "lat": 30.642488,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ba517043ec7ccc30f934c22ca4b543fd",
+     "https://store.is.autonavi.com/showpic/a64f163888d2f8e7c1d5748679e519be",
+     "https://store.is.autonavi.com/showpic/e2aeec0a716cfdae740d9de9a919dc85"
+    ]
+   }
   },
   {
    "name": "石台雾里青",
@@ -233,7 +488,24 @@
    "tips": [
     "春茶季（清明前后）最新鲜",
     "买茶前可以先试喝"
-   ]
+   ],
+   "amap": {
+    "name": "雾里青茶馆",
+    "id": "B0FFFY12U1",
+    "addr": "贵池区 清溪映月公园内(北侧)",
+    "type": "茶艺馆",
+    "tel": "0566-2035059",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 09:00-24:00",
+    "lng": 117.496221,
+    "lat": 30.660477,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9fb2469e6c743d34c0b673034d82b138",
+     "https://store.is.autonavi.com/showpic/b5ade4e92bdf9d0ec300dff327933297",
+     "https://store.is.autonavi.com/showpic/f5915d803da09c12c80adbf7b109d82f"
+    ]
+   }
   }
  ],
  "food_areas": [

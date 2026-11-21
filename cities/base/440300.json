@@ -21,7 +21,24 @@
     "沿线有共享单车，骑一段走一段比全程步行轻松",
     "夏天中午太晒，最好傍晚去，顺便看日落",
     "地铁 2 号线、9 号线、11 号线都有站点靠近公园不同段，按想走的路段选站"
-   ]
+   ],
+   "amap": {
+    "name": "深圳湾公园",
+    "id": "B0FFFRDS71",
+    "addr": "南山区 滨海大道",
+    "type": "公园",
+    "tel": "0755-83706489",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "06:00-23:00 最晚进入23:00",
+    "lng": 113.972602,
+    "lat": 22.518968,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/01097aeb2341fba5245e9211d7268f0d",
+     "https://store.is.autonavi.com/showpic/48d1d71acae0e2be0000008555784059?type=pic",
+     "https://store.is.autonavi.com/showpic/ce2c58a94447287ca0aa1904403468a8"
+    ]
+   }
   },
   {
    "name": "莲花山公园",
@@ -37,7 +54,24 @@
     "傍晚上山，能同时看到日落和城市亮灯",
     "地铁 3 号线、4 号线少年宫站下车步行可到",
     "山顶广场没有遮挡，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "莲花山公园",
+    "id": "B02F306L5G",
+    "addr": "福田区 红荔路6030号",
+    "type": "公园",
+    "tel": "0755-83067950",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:00-23:00",
+    "lng": 114.058673,
+    "lat": 22.553594,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/c59ff16b-a30e-40d4-8c83-58d0514c17db.jpg",
+     "https://store.is.autonavi.com/showpic/cc42a9755d8652f18fc1379d95657db4",
+     "https://store.is.autonavi.com/showpic/3b6de362479d72aeaabbce6f017d09bb"
+    ]
+   }
   },
   {
    "name": "华侨城创意文化园",
@@ -53,7 +87,24 @@
     "部分展馆需要单独预约或购票，出发前查一下当期展览",
     "地铁 1 号线、2 号线侨城东站下车步行可到",
     "周一部分展馆和小店不开，安排在其他日子更好"
-   ]
+   ],
+   "amap": {
+    "name": "华侨城创意文化园北区C2展厅",
+    "id": "B0FFIFDNAF",
+    "addr": "南山区 华侨城创意文化园南山特色文化街区北区",
+    "type": "科教文化场所",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "",
+    "lng": 113.992219,
+    "lat": 22.54069,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIFDNAF/comment/7f05d49fdcf0cfdfd5fb13006ba5d962_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIFDNAF/comment/5c8837a1f4552d0a09a5a1226cf9c1ae_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIFDNAF/comment/965e19ab7af64c8f02b1ac0f067d2c5e_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "世界之窗",
@@ -69,7 +120,24 @@
     "门票建议在官方渠道提前买，节假日人多",
     "地铁 1 号线、2 号线世界之窗站出站即到",
     "园区大、要走很多路，穿舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "深圳世界之窗",
+    "id": "B02F37V2O5",
+    "addr": "南山区 深南大道9037号(世界之窗地铁站旁)",
+    "type": "国家级景点",
+    "tel": "0755-26608000",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "10-09至11-30 周一至周日 09:30-21:30 最晚进入20:30；10月24日起至11月22日，夜场入园时间调整为17点 10月24、25日、10月30日至11月1日夜场闭园时间为22:00",
+    "lng": 113.972981,
+    "lat": 22.534662,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/69a69293b76f898ade20f230c00c9502",
+     "https://aos-comment.amap.com/B02F37V2O5/headerImg/603AB0AC_1D2C_495A_913C_15FE5150073C_L0_001_4032_3024__1656761134704_c42d0148.jpg",
+     "https://store.is.autonavi.com/showpic/67df4ca03f1f25484b353ec03af1f695"
+    ]
+   }
   },
   {
    "name": "南头古城",
@@ -84,7 +152,24 @@
    "tips": [
     "地铁 1 号线、12 号线附近站点下车步行可到",
     "街巷里还有居民，拍照注意不要打扰人家"
-   ]
+   ],
+   "amap": {
+    "name": "南头古城",
+    "id": "B02F37U89L",
+    "addr": "南山区 南头街道南头城社区深南大道12024号(南头古城地铁站C口)",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.921429,
+    "lat": 22.543019,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a54b02c639acf54dd7a6f6f28c5a2f6b",
+     "https://store.is.autonavi.com/showpic/67a9f3b4338c5af791e615d93f3e5dc7",
+     "https://store.is.autonavi.com/showpic/5a25f087dfcb4ff10000009005952957?type=pic"
+    ]
+   }
   },
   {
    "name": "欢乐港湾",
@@ -100,7 +185,24 @@
     "摩天轮需要购票，傍晚日落时段最热门，可以提前在线上买",
     "地铁 1 号线、11 号线宝安中心附近站点下车后步行或打车",
     "海边风大，晚上可以带件薄外套"
-   ]
+   ],
+   "amap": {
+    "name": "欢乐港湾",
+    "id": "B0GDFSX0T6",
+    "addr": "宝安区 海天路15-4号",
+    "type": "风景名胜",
+    "tel": "4007622388",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "公园:06:00-23:00,商业:10:00-22:30",
+    "lng": 113.883731,
+    "lat": 22.544558,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/539cd587-d337-4302-ae57-71f1be22d1c6.jpg",
+     "https://store.is.autonavi.com/showpic/8a9d657f517ea6a0e782da33b9116570",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/a5905c97-5fbc-478b-9585-fbea8ef9c4ad.jpg"
+    ]
+   }
   },
   {
    "name": "梧桐山",
@@ -116,7 +218,24 @@
     "全程爬到山顶需要几个小时，体力一般的话量力而行",
     "节假日山上人很多，最好一早出发",
     "带足饮水，下雨后石阶湿滑要注意"
-   ]
+   ],
+   "amap": {
+    "name": "广东梧桐山风景名胜区",
+    "id": "B02F300115",
+    "addr": "罗湖区 茂仔村137号",
+    "type": "国家级景点",
+    "tel": "0755-25708918",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 06:00-19:00",
+    "lng": 114.214689,
+    "lat": 22.577706,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5f7558413670366d7d5ed79ce615028e",
+     "https://store.is.autonavi.com/showpic/7020fc7cbbfd6b4c01b4b5849cfc18ee",
+     "https://store.is.autonavi.com/showpic/1d17ed470f5641feccaf26a1c4e1a712"
+    ]
+   }
   },
   {
    "name": "大梅沙海滨公园",
@@ -132,7 +251,24 @@
     "夏天周末人多到挤，工作日或者傍晚去更舒服",
     "沿海的盐田海鲜街可以顺路吃海鲜",
     "下海游泳只在开放的区域，注意现场的安全提示"
-   ]
+   ],
+   "amap": {
+    "name": "大梅沙海滨公园",
+    "id": "B02F3001AA",
+    "addr": "盐田区 梅沙街道盐梅路105号(大梅沙地铁站A口步行100米)",
+    "type": "公园",
+    "tel": "0755-25209678",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:30-23:00 最晚进入23:00",
+    "lng": 114.307954,
+    "lat": 22.592429,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f9885f93cab5b3d16f29254403c16bb1",
+     "https://store.is.autonavi.com/showpic/e44740175331a2700000008286936547?type=pic",
+     "https://store.is.autonavi.com/showpic/3635157ef51ea4f10000009295146880?type=pic"
+    ]
+   }
   },
   {
    "name": "大鹏所城",
@@ -148,7 +284,24 @@
     "从市区去大鹏路程较远，节假日进出大鹏常堵车",
     "想住较场尾民宿要提前订，周末房价明显上涨",
     "古城里有居民生活，进屋参观要先打招呼"
-   ]
+   ],
+   "amap": {
+    "name": "大鹏所城",
+    "id": "B02F37VHXJ",
+    "addr": "龙岗区 大鹏新区南门东路",
+    "type": "风景名胜",
+    "tel": "0755-28824898",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 114.512449,
+    "lat": 22.595213,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/6ae4380d-2400-4d57-9046-7ae5ccbcfd40.jpg",
+     "https://store.is.autonavi.com/showpic/df017a59d461525a369481cc02727818",
+     "https://store.is.autonavi.com/showpic/1275abd0a1319dadc470f19c2cd36aca"
+    ]
+   }
   }
  ],
  "foods": [
@@ -163,7 +316,24 @@
    "tips": [
     "不同部位涮的时间不一样，听店员的建议，宁可短一点也别涮老",
     "热门店饭点排队，可以错开时间或者取号后再逛"
-   ]
+   ],
+   "amap": {
+    "name": "旺牛潮汕牛肉火锅店(福田店)",
+    "id": "B0IU6CRZG3",
+    "addr": "福田区 皇岗村牌坊(东方园后门)(福民地铁站C口步行380米)",
+    "type": "火锅店",
+    "tel": "13554995788",
+    "rating": 4.2,
+    "cost": 32.0,
+    "open": "周一至周日 11:00-06:00",
+    "lng": 114.063308,
+    "lat": 22.526071,
+    "photos": [
+     "https://aos-comment.amap.com/B0IU6CRZG3/comment/content_media_external_images_media_16613_ss_2_1660558737420_32337a21.jpg",
+     "https://store.is.autonavi.com/showpic/a3d999d372b9fff4ca149ef5d1f26d3d",
+     "https://store.is.autonavi.com/showpic/fe0af35c4f7507a097356e1507166c2a"
+    ]
+   }
   },
   {
    "name": "椰子鸡",
@@ -175,7 +345,24 @@
    ],
    "tips": [
     "先喝汤再下鸡，鸡肉煮几分钟就好，别煮太久"
-   ]
+   ],
+   "amap": {
+    "name": "润园四季椰子鸡火锅(卓越世纪中心店)",
+    "id": "B0FFHDAZW7",
+    "addr": "福田区 福华三路与金田路交汇处卓越世纪中心34号裙楼3楼",
+    "type": "火锅店",
+    "tel": "0755-25831999",
+    "rating": 4.7,
+    "cost": 115.0,
+    "open": "周一至周日 11:00-22:00",
+    "lng": 114.065407,
+    "lat": 22.531698,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHDAZW7/comment/661b635c36e6c70332d1174021ce5c91_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/6fa8244a1ffd8e6882ac92385734cd3b",
+     "https://store.is.autonavi.com/showpic/c42ba58abe53cd6868237611e8a82bb6"
+    ]
+   }
   },
   {
    "name": "光明乳鸽",
@@ -187,7 +374,24 @@
    ],
    "tips": [
     "光明离市中心较远，专程去吃可以和光明的农场、公园一起安排"
-   ]
+   ],
+   "amap": {
+    "name": "光明乳鸽(福田店)",
+    "id": "B0LK4OXDNX",
+    "addr": "福田区 皇岗上围一村171号101店铺",
+    "type": "广东菜(粤菜)",
+    "tel": "19896972629",
+    "rating": 4.5,
+    "cost": 57.0,
+    "open": "周一至周日 10:00-23:30",
+    "lng": 114.062675,
+    "lat": 22.528075,
+    "photos": [
+     "https://aos-comment.amap.com/B0LK4OXDNX/comment/6CF2EB8E_C673_4B24_A2B8_592C3DE43943_L0_001_1500_200_1769887013454_72396398.jpg",
+     "https://aos-comment.amap.com/B0LK4OXDNX/comment/content_media_external_images_media_227066_ss__1768909677558_66279065.jpg",
+     "https://aos-comment.amap.com/B0LK4OXDNX/comment/202601_20-19395_1768909206182_24637973.jpg"
+    ]
+   }
   },
   {
    "name": "广式早茶",
@@ -200,7 +404,24 @@
    "tips": [
     "周末上午人多，9 点前去或者提前取号",
     "茶位费一般按人收，入座前可以先问一下"
-   ]
+   ],
+   "amap": {
+    "name": "凤凰楼.粤宴点心(华强北店)",
+    "id": "B02F37USFB",
+    "addr": "福田区 红荔路2012号凤凰楼(华新地铁站C出口直线步行110米)",
+    "type": "中餐厅",
+    "tel": "0755-82076338",
+    "rating": 4.8,
+    "cost": 133.0,
+    "open": "周一至周日 08:30-21:30",
+    "lng": 114.088235,
+    "lat": 22.549471,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/164723477a29ff4b901071b9a242a4b4",
+     "https://store.is.autonavi.com/showpic/2235fd65bee56d73d8a8ca30891dac06",
+     "https://store.is.autonavi.com/showpic/611390639103a6e386c5d2bb0036f652"
+    ]
+   }
   },
   {
    "name": "沙井蚝",
@@ -213,7 +434,24 @@
    "tips": [
     "秋冬季节蚝更肥，夏天吃要选靠谱的店",
     "金蚝（蚝干）可以买一点带回去煲汤"
-   ]
+   ],
+   "amap": {
+    "name": "夜香来烧烤.小龙虾.海鲜.生蚝(星海路店)",
+    "id": "B0JU1YU8CW",
+    "addr": "宝安区 星跃路与星海路交叉口西北100米",
+    "type": "中餐厅",
+    "tel": "15219246154",
+    "rating": 4.3,
+    "cost": 42.0,
+    "open": "周一至周日 17:30-05:00",
+    "lng": 113.834997,
+    "lat": 22.727879,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8c6db5279facd365e7ead9414e30c4fc",
+     "https://store.is.autonavi.com/showpic/eb5ad13f0e2c24f28271bf2ed11c32d1",
+     "https://store.is.autonavi.com/showpic/2bce19a3d7215ac0e3781f35557c5782"
+    ]
+   }
   },
   {
    "name": "南澳海鲜",
@@ -226,7 +464,24 @@
    "tips": [
     "挑海鲜时问清单价、看清称重，加工费也事先问好",
     "不认识的鱼可以让店家推荐做法"
-   ]
+   ],
+   "amap": {
+    "name": "南湾海鲜餐厅",
+    "id": "B02F38MAR1",
+    "addr": "龙岗区 水头沙海鲜街7-13号",
+    "type": "海鲜酒楼",
+    "tel": "",
+    "rating": 4.1,
+    "cost": 93.0,
+    "open": "周一至周日 11:00-21:00",
+    "lng": 114.482404,
+    "lat": 22.549978,
+    "photos": [
+     "https://aos-comment.amap.com/B02F38MAR1/comment/content_media_external_images_media_1000067645_ss__1753975244936_51192384.jpg",
+     "https://aos-comment.amap.com/B02F38MAR1/comment/content_media_external_images_media_1000067635_ss__1753975244940_11720754.jpg",
+     "https://aos-comment.amap.com/B02F38MAR1/comment/content_media_external_images_media_1000067643_ss__1753975244939_93936241.jpg"
+    ]
+   }
   },
   {
    "name": "肠粉",
@@ -238,7 +493,24 @@
    ],
    "tips": [
     "早上 9 点前现蒸现卖的最好吃"
-   ]
+   ],
+   "amap": {
+    "name": "德米肠粉",
+    "id": "B0L23C5L7T",
+    "addr": "盐田区 盐田街道盐田社区北山道33号、35号、37号",
+    "type": "中餐厅",
+    "tel": "13714360847",
+    "rating": 4.6,
+    "cost": 15.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 114.277174,
+    "lat": 22.586375,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0dc1bdc14ced5f380000002407214318",
+     "https://store.is.autonavi.com/showpic/ce761a55087b04990000003101502362?type=pic",
+     "https://aos-comment.amap.com/B0L0ARD5MT/comment/0a659191-41a5-415a-a28b-fdc877e580ae.png"
+    ]
+   }
   }
  ],
  "food_areas": [

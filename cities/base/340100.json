@@ -21,7 +21,24 @@
     "免费参观，需提前在官方渠道预约，周一通常闭馆",
     "展馆大，按兴趣挑几个重点展厅",
     "和安徽名人馆、天鹅湖可以安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "安徽博物院",
+    "id": "B022716AQJ",
+    "addr": "蜀山区 怀宁路87号",
+    "type": "博物馆",
+    "tel": "0551-63736658",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一关闭（法定节假日除外），周二至周日09:00-17:00(16:30停止入馆)",
+    "lng": 117.220595,
+    "lat": 31.802102,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4b19ff0a50a896e0ccc5e3ff30e026b2",
+     "https://store.is.autonavi.com/showpic/19d8da865e5964e5a2630eb6be9d2867",
+     "https://store.is.autonavi.com/showpic/9e99a060660918bc0000008908924109?type=pic"
+    ]
+   }
   },
   {
    "name": "包公园",
@@ -36,7 +53,24 @@
    "tips": [
     "园区较大，各景点分开，可以按兴趣选择",
     "园内部分景点单独购票，以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "包公园",
+    "id": "B02270I1AV",
+    "addr": "包河区 芜湖路72号",
+    "type": "国家级景点",
+    "tel": "0551-62886107",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至4月,10月至12月 09:00-17:00 最晚进入16:30；5月至9月 09:00-17:30 最晚进入17:00",
+    "lng": 117.294805,
+    "lat": 31.856782,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/82f427dd5004b5b952fe733242a6a6e5",
+     "https://store.is.autonavi.com/showpic/908fe50b8b88f4ffa30a8018b7aae10a",
+     "https://store.is.autonavi.com/showpic/a8612b9a3bbd87fa3a3c04d29c9bf522"
+    ]
+   }
   },
   {
    "name": "李鸿章故居",
@@ -51,7 +85,24 @@
    "tips": [
     "位于步行街上，交通方便",
     "1 小时左右就能看完"
-   ]
+   ],
+   "amap": {
+    "name": "李鸿章故居",
+    "id": "B022702OO1",
+    "addr": "庐阳区 淮河路208号(四牌楼地铁站出入口步行370米)",
+    "type": "纪念馆",
+    "tel": "0551-62626949",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "",
+    "lng": 117.291221,
+    "lat": 31.864515,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a9529b98fc9626990000003581884561?type=pic",
+     "https://aos-comment.amap.com/B022702OO1/comment/content_media_external_file_100001432_1763254088213_82462739.jpg",
+     "https://store.is.autonavi.com/showpic/811eee016722ae040000003763996870?type=pic"
+    ]
+   }
   },
   {
    "name": "逍遥津公园",
@@ -66,7 +117,24 @@
    "tips": [
     "三国迷可以看看张辽像和相关遗迹",
     "公园免费，适合散步"
-   ]
+   ],
+   "amap": {
+    "name": "古逍遥津",
+    "id": "B022702VYA",
+    "addr": "庐阳区 寿春路16号",
+    "type": "公园",
+    "tel": "0551-62614651",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "5月1日至10月31日 06:00-22:00；11月1日至次年4月30日 06:30-21:30",
+    "lng": 117.295084,
+    "lat": 31.86898,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/778f95bdf4deee93ab15b67146646539",
+     "https://store.is.autonavi.com/showpic/94d0fd9fc2971d3ae6e25c865e761989",
+     "https://store.is.autonavi.com/showpic/104d05125632f7a21e7d5ea1b1f18825"
+    ]
+   }
   },
   {
    "name": "三河古镇",
@@ -82,7 +150,24 @@
     "古镇免费逛，内部景点可单独或联票参观，以景区公告为准",
     "从市区开车约 1 小时",
     "节假日人多，尽量早去"
-   ]
+   ],
+   "amap": {
+    "name": "三河古镇",
+    "id": "B02270I45I",
+    "addr": "肥西县 三河镇三杭路",
+    "type": "国家级景点",
+    "tel": "0551-68757113",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "00:00-24:00；1、内部小景点和摇橹船为:08:30-17:30。2、夜游运营时间:19:30-21:30",
+    "lng": 117.244782,
+    "lat": 31.511553,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/64d89937a636cfb55a7965600b464e54",
+     "https://store.is.autonavi.com/showpic/328c1101cd516da461fb1683a98ff99a",
+     "https://store.is.autonavi.com/showpic/bd8a4c5d92c4d9a164870fa3544b1121"
+    ]
+   }
   },
   {
    "name": "渡江战役纪念馆",
@@ -97,7 +182,24 @@
    "tips": [
     "免费参观，需提前预约，开放安排以官方公告为准",
     "和滨湖国家森林公园、巢湖边可以安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "渡江战役纪念馆",
+    "id": "B022717S02",
+    "addr": "包河区 云谷路299号(渡江纪念馆地铁站C口步行290米)",
+    "type": "纪念馆",
+    "tel": "0551-62635757",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "",
+    "lng": 117.330016,
+    "lat": 31.709623,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/56eea02b16ab0b275c55d8ec68062363",
+     "https://store.is.autonavi.com/showpic/1d376518a297eb88ac0668fcab0d665f",
+     "https://store.is.autonavi.com/showpic/bff698bc5d6515a5dc5b5ebcd45de781"
+    ]
+   }
   },
   {
    "name": "安徽名人馆",
@@ -112,7 +214,24 @@
    "tips": [
     "免费参观，需提前预约",
     "和安徽博物院、天鹅湖安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "安徽名人馆",
+    "id": "B022715O0M",
+    "addr": "包河区 金斗东路303号",
+    "type": "纪念馆",
+    "tel": "0551-62552828",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "1/1-12/31 周二–周日 09:00–17:00开放；1/1-12/31 周一 全天不开放；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00–17:00开放",
+    "lng": 117.327248,
+    "lat": 31.711018,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5e98879391a96e21dcdda0105c523e65",
+     "https://aos-comment.amap.com/B022715O0M/comment/cd39b87dd3ef3e2dc471adf923aec681_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/2ffcdb950e68d7b40170e73540899ccb"
+    ]
+   }
   },
   {
    "name": "大蜀山",
@@ -127,7 +246,24 @@
    "tips": [
     "山不高，适合轻松爬山",
     "旁边的野生动物园适合亲子"
-   ]
+   ],
+   "amap": {
+    "name": "蜀山森林公园",
+    "id": "B02270086A",
+    "addr": "蜀山区 玉兰大道8号",
+    "type": "公园",
+    "tel": "0551-65313400",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.170897,
+    "lat": 31.84159,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/65270dfd2c5ebf057ea0f0f48205b0a7",
+     "https://store.is.autonavi.com/showpic/d8485b47162828e6be88a058fec18add",
+     "https://store.is.autonavi.com/showpic/19537151c8b39cae72f8f4a8fe8c34b8"
+    ]
+   }
   },
   {
    "name": "巢湖姥山岛",
@@ -142,7 +278,24 @@
    "tips": [
     "上岛需要坐船，班次以码头公告为准",
     "可以在湖边吃巢湖三珍"
-   ]
+   ],
+   "amap": {
+    "name": "姥山岛景区",
+    "id": "B02350OBEG",
+    "addr": "巢湖市 中庙街道中庙街道巢湖湖心",
+    "type": "国家级景点",
+    "tel": "0551-88578318",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30",
+    "lng": 117.444882,
+    "lat": 31.56404,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0c82424fc84bc7c42223a5f43d0c0683",
+     "https://store.is.autonavi.com/showpic/87bf9c48489ede0f72e90d262fdbf17a",
+     "https://store.is.autonavi.com/showpic/204a52a74e3a5be9c2de6230dae8af0e"
+    ]
+   }
   }
  ],
  "foods": [
@@ -157,7 +310,24 @@
    "tips": [
     "鸭油烧饼刚出炉最好吃",
     "热门店排队时间长，可以错峰"
-   ]
+   ],
+   "amap": {
+    "name": "庐州烤鸭店(总店)",
+    "id": "B0H6MSFPXF",
+    "addr": "庐阳区 宿州路109号(四牌楼地铁站D口步行400米)",
+    "type": "特色/地方风味餐厅",
+    "tel": "0551-62692716",
+    "rating": 4.5,
+    "cost": 44.0,
+    "open": "周一至周日 06:00-22:00",
+    "lng": 117.289336,
+    "lat": 31.864858,
+    "photos": [
+     "https://aos-comment.amap.com/B0H6MSFPXF/comment/28BCDE9A_3933_43D1_BB07_F29B3982A1D7_L0_001_1179_80_1759219893981_52601975.jpg",
+     "https://store.is.autonavi.com/showpic/c1406cd1df5983f90000002407128627?type=pic",
+     "https://aos-comment.amap.com/B0H6MSFPXF/comment/content_media_external_images_media_207287_ss__1750850859357_52088173.jpg"
+    ]
+   }
   },
   {
    "name": "淮南牛肉汤",
@@ -170,7 +340,24 @@
    "tips": [
     "可以选择加辣或不辣",
     "配一个烧饼泡在汤里吃"
-   ]
+   ],
+   "amap": {
+    "name": "淮南子牛肉汤(总店)",
+    "id": "B0FFM7AP2J",
+    "addr": "蜀山区 十里庙路11号正创西景苑小区北门旁",
+    "type": "中餐厅",
+    "tel": "15215513933",
+    "rating": 4.6,
+    "cost": 13.0,
+    "open": "周一至周日 08:30-22:00 2026-02-14至2026-02-24 周一至周日 全天关闭",
+    "lng": 117.226205,
+    "lat": 31.852733,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/05ac44410283469ab58fe2c8e8220b38",
+     "https://aos-comment.amap.com/B0FFM7AP2J/comment/c0c28ec6f62bdef20b3decb0a91c2a50_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFM7AP2J/comment/37921d030d6a3190b269eeb6081322d5_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "吴山贡鹅",
@@ -182,7 +369,24 @@
    ],
    "tips": [
     "可以买真空包装作伴手礼"
-   ]
+   ],
+   "amap": {
+    "name": "吴山贡鹅(翠庭园店)",
+    "id": "B0FFGNWIEX",
+    "addr": "蜀山区 习友路翠庭园南3号门76-80门面",
+    "type": "综合酒楼",
+    "tel": "0551-63530017",
+    "rating": 4.5,
+    "cost": 83.0,
+    "open": "周一至周日 09:30-14:00,16:30-21:30",
+    "lng": 117.209024,
+    "lat": 31.805786,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGNWIEX/comment/content_media_external_images_media_1000136757_ss__1734530285599_66231087.jpg",
+     "https://store.is.autonavi.com/showpic/e4e29c200634abfd0d3bd4c770d38998",
+     "https://aos-comment.amap.com/B0FFGNWIEX/comment/content_media_external_images_media_1000136756_ss__1734530285600_12105115.jpg"
+    ]
+   }
   },
   {
    "name": "三河米饺",
@@ -194,7 +398,24 @@
    ],
    "tips": [
     "现炸现吃，凉了就不脆了"
-   ]
+   ],
+   "amap": {
+    "name": "壹佳土菜馆地方特色菜",
+    "id": "B0FFMELGOM",
+    "addr": "肥西县 三河镇中街163号中和详对面望月街向前30米",
+    "type": "中餐厅",
+    "tel": "15056949354",
+    "rating": 4.4,
+    "cost": 38.0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 117.244019,
+    "lat": 31.510953,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFMELGOM/comment/content_media_external_file_1000013039_ss__1759379788875_88818034.jpg",
+     "https://store.is.autonavi.com/showpic/692ba5d7e31fb02f52f09b2b75839c6a",
+     "https://aos-comment.amap.com/B0FFMELGOM/comment/IMG_20250613_195833_tem_1749815932462_46766565.jpg"
+    ]
+   }
   },
   {
    "name": "巢湖三珍",
@@ -207,7 +428,24 @@
    "tips": [
     "湖鲜按时价，点之前问清",
     "秋天吃湖蟹最好"
-   ]
+   ],
+   "amap": {
+    "name": "湖光月色渔庄",
+    "id": "B0FFFE2P64",
+    "addr": "巢湖市 中庙镇阳光步行街",
+    "type": "中餐厅",
+    "tel": "13856528023",
+    "rating": 4.4,
+    "cost": 42.0,
+    "open": "周一至周日 10:00-20:00",
+    "lng": 117.46835,
+    "lat": 31.585103,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFE2P64/comment/1251dfcb511edd7c55c0c52f5b70f9a9_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/e627faa605713be803925f48534c7231",
+     "https://aos-comment.amap.com/B0FFFE2P64/comment/37ea995a9d1178855990795cc01551d4_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "小龙虾",
@@ -220,7 +458,24 @@
    "tips": [
     "夏天晚上去罍街最有气氛",
     "麻辣和蒜泥口味可以各点一份"
-   ]
+   ],
+   "amap": {
+    "name": "边虾王龙虾螃蟹馆(新粮仓店)",
+    "id": "B0KGBH8SV2",
+    "addr": "蜀山区 望江西路388号新粮仓文化商业合集5栋",
+    "type": "海鲜酒楼",
+    "tel": "18963714330",
+    "rating": 4.7,
+    "cost": 105.0,
+    "open": "周一至周日 11:00-14:00,16:30-次日03:00",
+    "lng": 117.221697,
+    "lat": 31.836097,
+    "photos": [
+     "https://aos-comment.amap.com/B0KGBH8SV2/comment/content_media_external_file_381484_ss__1760295270194_21903755.jpg",
+     "https://aos-comment.amap.com/B0KGBH8SV2/comment/%5B2026-03-11-12-10-04%5D39FD972C-EDF5-4665-9E03-52BC6C626C2_1773202212518_01398642.jpg",
+     "https://aos-comment.amap.com/B0KGBH8SV2/comment/20260312-7aefefd989f95498d9fc14ab-9QL7vzNOGJh72kPMkWAPLo.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

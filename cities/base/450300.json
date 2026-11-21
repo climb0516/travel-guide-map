@@ -21,7 +21,24 @@
     "游船和竹筏都需要提前在官方渠道实名预约，旺季常常约满",
     "汛期江水上涨时可能停航或调整线路，以官方公告为准",
     "船上风大，春秋带件外套，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "漓江景区",
+    "id": "B030507SVW",
+    "addr": "灵川县 磨盘山",
+    "type": "国家级景点",
+    "tel": "0773-8287688",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 110.431685,
+    "lat": 25.147445,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6f7c4694ee69fd6d5c2c3cd8f374c1a1",
+     "https://store.is.autonavi.com/showpic/1c2cd1169885aa439d2ae9ca8d2c706c",
+     "https://store.is.autonavi.com/showpic/8f608dfe92f7413d352205f03d16a843"
+    ]
+   }
   },
   {
    "name": "象鼻山",
@@ -37,7 +54,24 @@
     "对岸的滨江路也能免费看到象鼻山全景，只是角度远一些",
     "傍晚光线好，拍照比中午出片",
     "离正阳步行街、东西巷都很近，可以步行串联"
-   ]
+   ],
+   "amap": {
+    "name": "象鼻山景区",
+    "id": "B030506W0W",
+    "addr": "象山区 民主路1号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "07:00-21:00 最晚进入21:00；入园时间:07:00-21:00(周一号门(可出可入))；07:00-18:00(周二号门(出口,不可入))；07:00-21:00(周三号门(可出可入))",
+    "lng": 110.296573,
+    "lat": 25.267579,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/85083b528216d28f25499ea8872ef850",
+     "https://store.is.autonavi.com/showpic/879a7a11a18fcfb54a32beed23e37280",
+     "https://store.is.autonavi.com/showpic/471edb1ee65919926066d5d9d74792aa"
+    ]
+   }
   },
   {
    "name": "两江四湖",
@@ -52,7 +86,24 @@
    "tips": [
     "夜游船需要提前预约，具体线路和班次以官方公告为准",
     "日月双塔晚上亮灯后最好看，前后可以顺路逛东西巷"
-   ]
+   ],
+   "amap": {
+    "name": "桂林市两江四湖景区",
+    "id": "B030507T9Q",
+    "addr": "秀峰区 杉湖北路",
+    "type": "国家级景点",
+    "tel": "0773-2822666",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "00:00-24:00航班时间:08:00、08:20、09:50、10:40、11:00、13:40、15:10、16:30,以上登船时间仅供参考,具体请以工作人员出发前通知为准。游船时间约70分钟",
+    "lng": 110.295526,
+    "lat": 25.27269,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0ad72477a50f83fb1d6e786e20b3c7c9",
+     "https://store.is.autonavi.com/showpic/b1986a20ef98f5ea860a21b9efe3fe77",
+     "https://store.is.autonavi.com/showpic/4890b9ad018cb5da5645a7485b77944d"
+    ]
+   }
   },
   {
    "name": "靖江王城和独秀峰",
@@ -67,7 +118,24 @@
    "tips": [
     "独秀峰台阶陡，登顶需要一些体力",
     "离正阳步行街和东西巷步行可到"
-   ]
+   ],
+   "amap": {
+    "name": "独秀峰·王城景区",
+    "id": "B0305097KU",
+    "addr": "秀峰区 王城路1号",
+    "type": "国家级景点",
+    "tel": "17777366779",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00",
+    "lng": 110.299118,
+    "lat": 25.281648,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/897a529e69c80f2d6790c91210dab316",
+     "https://store.is.autonavi.com/showpic/aac7ee85019298d8d7f50a1cee0db37b",
+     "https://store.is.autonavi.com/showpic/27ca8c8cc95cb20155a7ae5cf5650a0d"
+    ]
+   }
   },
   {
    "name": "芦笛岩",
@@ -83,7 +151,24 @@
     "洞里常年温度比较稳定，夏天很凉快",
     "洞内地面潮湿，穿防滑的鞋",
     "灯光彩色较多，喜欢自然色的可能会觉得有点艳"
-   ]
+   ],
+   "amap": {
+    "name": "芦笛岩",
+    "id": "B03050663D",
+    "addr": "秀峰区 芦笛路1号",
+    "type": "国家级景点",
+    "tel": "0773-2210889",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:30-18:00",
+    "lng": 110.272429,
+    "lat": 25.309942,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d9bed94effa350fede311ba76e0df014",
+     "https://store.is.autonavi.com/showpic/066cc40e51a726bd4d3078a35f3796c2",
+     "https://store.is.autonavi.com/showpic/b45090932b3e3ce6421975f4e052bfb7"
+    ]
+   }
   },
   {
    "name": "阳朔西街",
@@ -99,7 +184,24 @@
     "晚上人非常多，看好随身物品",
     "街上餐厅价格差别大，点菜前先问清价格",
     "《印象·刘三姐》需提前购票，演出安排以官方为准"
-   ]
+   ],
+   "amap": {
+    "name": "阳朔西街",
+    "id": "B0IAHC7KWH",
+    "addr": "阳朔县 西街117号",
+    "type": "旅游景点",
+    "tel": "0773-8810682",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 110.493986,
+    "lat": 24.773869,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9a3625b91f4c12cd0000004042472471?type=pic",
+     "https://store.is.autonavi.com/showpic/ba6d6ce13ebd57d20000003723528232?type=pic",
+     "https://store.is.autonavi.com/showpic/1b7a7f34c93e2fd2acdab4eacd4805ba"
+    ]
+   }
   },
   {
    "name": "遇龙河",
@@ -115,7 +217,24 @@
     "竹筏需要提前预约，不同码头之间的线路不同，下单前看清起止点",
     "骑行路段有车流，注意安全，夏天做好防晒",
     "雨后河水上涨时竹筏可能暂停"
-   ]
+   ],
+   "amap": {
+    "name": "遇龙河景区",
+    "id": "B03050V0PB",
+    "addr": "阳朔县 090乡道",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 110.433115,
+    "lat": 24.77753,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c1a91f0d5d1d498e838a90a5e7bd225c",
+     "https://store.is.autonavi.com/showpic/025085d5e9aa5e12cf12eefc482bf825",
+     "https://store.is.autonavi.com/showpic/6a31adf141b92449d2307d25b5e522e4"
+    ]
+   }
   },
   {
    "name": "兴坪古镇",
@@ -130,7 +249,24 @@
    "tips": [
     "二十元人民币背景的取景点在江边码头一带，人多时需要排队拍照",
     "看日出要很早出发，相公山观景台需要购票、登一段台阶"
-   ]
+   ],
+   "amap": {
+    "name": "兴坪古镇",
+    "id": "B030507XJK",
+    "addr": "阳朔县 兴坪镇新街146号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "00:00-24:00；兴坪码头竹筏体验参考时间:09:00-16:30",
+    "lng": 110.530606,
+    "lat": 24.916611,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6e9fcd7bf9b29f195f1780dc03b261f6",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/d6de02ea-68ba-4388-9dbb-e1e2de9bd2c0.jpg",
+     "https://store.is.autonavi.com/showpic/65b8ce64a7f5d5baad6adc8b83683405"
+    ]
+   }
   },
   {
    "name": "龙脊梯田",
@@ -146,7 +282,24 @@
     "从桂林市区开车约 2 小时，建议至少安排一整天，住一晚更从容",
     "大寨有索道，平安寨以步行为主，山路台阶多，穿防滑鞋",
     "春季灌水期通常在 5–6 月，秋季金黄在 9–10 月，具体看当年天气"
-   ]
+   ],
+   "amap": {
+    "name": "龙脊梯田风景名胜区",
+    "id": "B030509AO3",
+    "addr": "龙胜各族自治县 龙脊镇",
+    "type": "国家级景点",
+    "tel": "0773-7583088",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 110.140047,
+    "lat": 25.770717,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7b69d256c1aef3ab2e20d7b4a8a6fa52",
+     "https://store.is.autonavi.com/showpic/5463f4e6b11ed40d7f65fe0d1712e090",
+     "https://store.is.autonavi.com/showpic/2834cc6a2ac154564b0c0a7472f80953"
+    ]
+   }
   }
  ],
  "foods": [
@@ -161,7 +314,24 @@
    "tips": [
     "先干拌再加汤是本地吃法",
     "酸豆角、酸笋等配料一般可以自取"
-   ]
+   ],
+   "amap": {
+    "name": "碗碗都市香米粉店(铁西店)",
+    "id": "B0G10DFHOX",
+    "addr": "象山区 翠竹路14号铁西一里铁西港酒楼对面",
+    "type": "快餐厅",
+    "tel": "13687730382",
+    "rating": 4.7,
+    "cost": 10.0,
+    "open": "周一至周日 06:00-15:00",
+    "lng": 110.278422,
+    "lat": 25.262145,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9a4f47fa30d7cdef0000000702048815?type=pic",
+     "https://aos-comment.amap.com/B0G10DFHOX/comment/b182a513bd2ae538b151d1623ad2ab41_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0G10DFHOX/comment/20260317-0ae648649d89487eae10be46-1GugoO8O55P9vv0PCXAsqP.jpg"
+    ]
+   }
   },
   {
    "name": "啤酒鱼",
@@ -174,7 +344,24 @@
    "tips": [
     "按斤计价，点之前问清单价和鱼的重量",
     "剑骨鱼刺少一些，价格也更高"
-   ]
+   ],
+   "amap": {
+    "name": "赵师傅阳朔啤酒鱼",
+    "id": "B0LUVZCIIH",
+    "addr": "象山区 银锭路259-1号1-4号",
+    "type": "中餐厅",
+    "tel": "15678141745",
+    "rating": 4.0,
+    "cost": 40.0,
+    "open": "周一至周日 10:30-23:00",
+    "lng": 110.284407,
+    "lat": 25.265105,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/af469b5e42ad12f50000000948058110?type=pic",
+     "https://store.is.autonavi.com/showpic/8425f539e19f6e0b3e338897c891d749",
+     "https://store.is.autonavi.com/showpic/7b4a0e7dd985c3e80000002586594454?type=pic"
+    ]
+   }
   },
   {
    "name": "恭城油茶",
@@ -187,7 +374,24 @@
    "tips": [
     "第一口很苦很冲，可以先加点炒米再喝",
     "配套的小点心一般另外点"
-   ]
+   ],
+   "amap": {
+    "name": "瑶家香恭城油茶(枫和里店)",
+    "id": "B0FFM5JCJM",
+    "addr": "临桂区 西城大道时代枫林福祥里2号楼一层01号商铺",
+    "type": "中餐厅",
+    "tel": "0773-5589958",
+    "rating": 4.2,
+    "cost": 19.0,
+    "open": "周一至周日 10:00-21:30",
+    "lng": 110.182736,
+    "lat": 25.252861,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFM5JCJM/comment/content_media_external_file_92195_ss__1760195336001_22961284.jpg",
+     "https://aos-comment.amap.com/B0FFM5JCJM/comment/content_media_external_file_92211_ss__1760195335971_91010937.jpg",
+     "https://aos-comment.amap.com/B0FFM5JCJM/headerImg/dcde340c0019002af676935cc17c8f95_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "荔浦芋扣肉",
@@ -199,7 +403,24 @@
    ],
    "tips": [
     "偏油腻，配青菜和米饭一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "大师傅金奖啤酒鱼(壹号店)",
+    "id": "B0FFIE9LYZ",
+    "addr": "阳朔县 阳朔镇抗战路3号101室",
+    "type": "特色/地方风味餐厅",
+    "tel": "0773-8811661",
+    "rating": 4.6,
+    "cost": 75.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 110.496615,
+    "lat": 24.770329,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIE9LYZ/comment/9bb32d73f16803d2916e4fb556d3b6bf_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIE9LYZ/comment/d817689668e702ad329494c8bf9925b6_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/1447e0f923d43cdf4442b53a533f61ff"
+    ]
+   }
   },
   {
    "name": "田螺酿",
@@ -212,7 +433,24 @@
    "tips": [
     "吃的时候用牙签挑或者直接吸",
     "紫苏味比较明显，不喜欢的可以先少量尝试"
-   ]
+   ],
+   "amap": {
+    "name": "大师傅金奖啤酒鱼(新阳店)",
+    "id": "B0FFJMCFOC",
+    "addr": "阳朔县 抗战路20号(丽枫酒店旁)",
+    "type": "餐饮相关",
+    "tel": "0773-8811056",
+    "rating": 4.6,
+    "cost": 75.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 110.495417,
+    "lat": 24.768416,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d19323c61fead4cef09bd880534228bd",
+     "https://aos-comment.amap.com/B0FFJMCFOC/comment/a3b5f1a05ded8839bf65e15088e51f54_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFJMCFOC/comment/IMG_20260107_140359_tem_1767765852062_28718106.jpg"
+    ]
+   }
   },
   {
    "name": "竹筒饭",
@@ -224,7 +462,24 @@
    ],
    "tips": [
     "现烤需要时间，可以先点好再去看风景"
-   ]
+   ],
+   "amap": {
+    "name": "黄洛瑶寨瑶乡映月楼餐厅",
+    "id": "B0GUG5ZQ73",
+    "addr": "龙胜各族自治县 龙脊镇黄洛瑶寨长发村南山风雨桥桥头旁(瑶膳堂斜对面)",
+    "type": "中餐厅",
+    "tel": "13635170958",
+    "rating": 4.2,
+    "cost": 71.0,
+    "open": "周一至周日 09:00-23:00",
+    "lng": 110.133489,
+    "lat": 25.746966,
+    "photos": [
+     "https://aos-comment.amap.com/B0GUG5ZQ73/comment/66fd195983a86d3f9de8c2327962a1bb_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/7d8470c38a5af2e6457d26c9dd883b60",
+     "https://aos-comment.amap.com/B0GUG5ZQ73/comment/dc90681da26e17e35214ae5e123b0bbf_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

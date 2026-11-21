@@ -21,7 +21,24 @@
     "园区很大，可以坐电瓶车或游船节省体力",
     "门票需要提前预约，旺季以官方公告为准",
     "早上进园人少，湖区晨景很好看"
-   ]
+   ],
+   "amap": {
+    "name": "承德避暑山庄",
+    "id": "B013A0000B",
+    "addr": "双桥区 山庄东路6号",
+    "type": "国家级景点",
+    "tel": "0314-2025918",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10月10日至翌年3月31日:丽正门:08:00-16:40,停止售票:16:30；德汇门:购票通道:08:00-16:40,停止售票:16:30；年票通道:07:00-18:00；万树园门:07:00-18:00；城关门:07:00-18:00；",
+    "lng": 117.934794,
+    "lat": 40.995449,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/582b89c6922d02479ed1840b82670356",
+     "https://store.is.autonavi.com/showpic/8013292b34d2c9e2d6dc790b6d7fd2e6",
+     "https://store.is.autonavi.com/showpic/87dce8c26f6fb859a9e4bea9dbdb16c7"
+    ]
+   }
   },
   {
    "name": "普宁寺",
@@ -36,7 +53,24 @@
    "tips": [
     "大佛阁内光线较暗，佛像禁止拍照的区域请遵守规定",
     "可以和普佑寺、安远庙排在同一路线"
-   ]
+   ],
+   "amap": {
+    "name": "普宁寺",
+    "id": "B013A009N7",
+    "addr": "双桥区 普宁路1号",
+    "type": "寺庙道观",
+    "tel": "0314-2058871",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "4月1日至4月30日08:30-16:10 （17:00清场），5月1日至10月9日08:00-17:10（18:00清场），10月10日至3月31日08:30-16:10 （17:00清场）",
+    "lng": 117.95273,
+    "lat": 41.015817,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/69d823e1cc156d9797c880d23bb435d7",
+     "https://store.is.autonavi.com/showpic/b446d1423b34ab049742e269c6e4f7f6",
+     "https://store.is.autonavi.com/showpic/7118e7381a9b8a8b301020742dcd332e"
+    ]
+   }
   },
   {
    "name": "普陀宗乘之庙",
@@ -51,7 +85,24 @@
    "tips": [
     "台阶较多，穿舒适的鞋",
     "和旁边的须弥福寿之庙连着参观很方便"
-   ]
+   ],
+   "amap": {
+    "name": "普陀宗乘之庙",
+    "id": "B013A028SQ",
+    "addr": "双桥区 狮子沟北侧北环路",
+    "type": "国家级景点",
+    "tel": "0314-2025918",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10月10日至翌年3月31日:08:30-17:00, 停止售票:16:00停止入园:16:10；4月:周一至周日 08:00-17:30,16:40停止入园,16:30停止售票；5月至10月:周一至周日:08:00-18:00,17:00停止售票,17:10停止入园；",
+    "lng": 117.934105,
+    "lat": 41.013051,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/541aa86736f62b4b57769c59f90267b5",
+     "https://store.is.autonavi.com/showpic/521c3c275938fcaea20ee442179d1829",
+     "https://store.is.autonavi.com/showpic/cf624ef34e6db061c51ba6332146bee9"
+    ]
+   }
   },
   {
    "name": "须弥福寿之庙",
@@ -66,7 +117,24 @@
    "tips": [
     "就在普陀宗乘之庙东边，步行即到",
     "上午光线照在金顶上最好看"
-   ]
+   ],
+   "amap": {
+    "name": "须弥福寿之庙",
+    "id": "B013A007Y2",
+    "addr": "双桥区 狮子沟桥西",
+    "type": "寺庙道观",
+    "tel": "0314-2160274",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "8:30-17:00,16:00售票处停止售票,16:10停止入园",
+    "lng": 117.942153,
+    "lat": 41.010413,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/84adb21a552f1a80da7c32279b55b6cd",
+     "https://store.is.autonavi.com/showpic/f83ffe1be4ebd70d72837862e241e3bd",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/3656f4a8-9a3f-4cd3-ac9e-4a9fc169760a.jpg"
+    ]
+   }
   },
   {
    "name": "普乐寺和磬锤峰",
@@ -81,7 +149,24 @@
    "tips": [
     "磬锤峰有索道，上下山都可选择",
     "傍晚从普乐寺看磬锤峰剪影很漂亮"
-   ]
+   ],
+   "amap": {
+    "name": "磬锤峰国家森林公园",
+    "id": "B013A017GU",
+    "addr": "双桥区 普乐路",
+    "type": "风景名胜",
+    "tel": "0314-2025918",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "10月10日至翌年3月31日: 08:30-16:30,索道旁中心售票室:停止售票:15:30南门、北门售票室:停止售票:15:30,停止入园:15:40",
+    "lng": 117.983028,
+    "lat": 40.990727,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/65446ec0c50ef8031085d657adb1f6ff",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/58f1640d-a0c0-44e1-b393-c9fd50c68039.jpg",
+     "https://store.is.autonavi.com/showpic/5fa8010c7a3b2a8fb386c42d4b18ceb6"
+    ]
+   }
   },
   {
    "name": "金山岭长城",
@@ -97,7 +182,24 @@
     "有索道可以直接到城墙上，节省体力",
     "部分段落坡度很陡，注意安全",
     "从北京过来更近，可以作为北京进出承德的中转站"
-   ]
+   ],
+   "amap": {
+    "name": "金山岭长城",
+    "id": "B013A00S2S",
+    "addr": "滦平县 516县道",
+    "type": "国家级景点",
+    "tel": "0314-8830222",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 05:00-17:30 最晚进入16:30；4月至10月 周一至周日 04:30-18:00 最晚进入17:00；景区东门入园时间:08:30，停止入园:15:30，东五眼楼开门时间:09:00，东五眼楼关闭时间:16:00；",
+    "lng": 117.248826,
+    "lat": 40.697879,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9378580842a2f51a4f00a78cad8b13b5",
+     "https://store.is.autonavi.com/showpic/9aaae6799b54c277d914700b25c47fa3",
+     "https://store.is.autonavi.com/showpic/e45ca7946255e6d97b5bc3c36284a577"
+    ]
+   }
   },
   {
    "name": "塞罕坝和木兰围场",
@@ -113,7 +215,24 @@
     "距离市区较远，建议自驾并在坝上住一晚",
     "坝上昼夜温差大，夏天也要带外套",
     "国庆前后摄影季住宿紧张，提前订"
-   ]
+   ],
+   "amap": {
+    "name": "河北塞罕坝国家森林公园",
+    "id": "B013A00013",
+    "addr": "围场满族蒙古族自治县 256省道",
+    "type": "国家级景点",
+    "tel": "0314-7802275",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30",
+    "lng": 117.391222,
+    "lat": 42.362139,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4f3462eb8870874d2bd8097d4fd64f1d",
+     "https://store.is.autonavi.com/showpic/bf3dec08b1fc32b9ef3b6f6d20e63872",
+     "https://store.is.autonavi.com/showpic/8fb613e301e6711c75949b5fea772d1a"
+    ]
+   }
   },
   {
    "name": "安远庙和殊像寺",
@@ -128,7 +247,24 @@
    "tips": [
     "部分寺庙开放时间和范围会调整，以官方公告为准",
     "可以买外八庙的联票，比较划算"
-   ]
+   ],
+   "amap": {
+    "name": "安远庙",
+    "id": "B013A0077J",
+    "addr": "双桥区 狮子沟镇普乐北路磬锤峰国家森林公园内(西北角)",
+    "type": "寺庙道观",
+    "tel": "0314-2025918",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "10月10日至翌年3月31日:08:30-17:00,停止售票:16:00停止入园:16:10",
+    "lng": 117.958278,
+    "lat": 41.004105,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/adfa8cd2517981d00000003084586234?type=pic",
+     "https://store.is.autonavi.com/showpic/9b1509ca5a55d34a0000008438860293?type=pic",
+     "https://store.is.autonavi.com/showpic/833f83280144e5370000000589796449"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    "tips": [
     "凉吃热炒都可以试",
     "辣椒油可以按口味加"
-   ]
+   ],
+   "amap": {
+    "name": "二仙居锅贴铺(陕西营小区店)",
+    "id": "B0KARUBV9Z",
+    "addr": "双桥区 马市街8号西南方向190米陕西营小区",
+    "type": "中餐厅",
+    "tel": "18395751291",
+    "rating": 4.1,
+    "cost": 30.0,
+    "open": "周一至周日 09:30-21:00",
+    "lng": 117.932705,
+    "lat": 40.979784,
+    "photos": [
+     "https://aos-comment.amap.com/B0KARUBV9Z/comment/3c99791182b465d95394507fb47b7661_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/0b3eed08ad34086f5c40eaa250f37452",
+     "https://aos-comment.amap.com/B0KARUBV9Z/comment/b90ee5a3e16ca467e10de9b79d0e5a03_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "拨面",
@@ -155,7 +308,24 @@
    ],
    "tips": [
     "卤汁种类多，可以选两种分着吃"
-   ]
+   ],
+   "amap": {
+    "name": "百家春臻选餐厅·一百家子拨御面",
+    "id": "B0FFL7E4LW",
+    "addr": "双桥区 双桥区开发区铂悦山项目二期A-05地块3幢1层128号",
+    "type": "中餐厅",
+    "tel": "0314-2156653",
+    "rating": 4.6,
+    "cost": 49.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 117.963588,
+    "lat": 40.88948,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFL7E4LW/comment/content_media_external_file_100010359_1770640860381_26461394.jpg",
+     "https://aos-comment.amap.com/B0FFL7E4LW/comment/3feedback_sendimag_1742639244044_53676424.jpg",
+     "https://aos-comment.amap.com/B0FFL7E4LW/comment/C9F02EB9_9C7C_4AA8_BEC7_722D56CCFCB2_L0_001_1500_2000_1742639252708_54840494.jpg"
+    ]
+   }
   },
   {
    "name": "荞面饸饹",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "配羊肉汤最地道"
-   ]
+   ],
+   "amap": {
+    "name": "荞玉饸饹·中华粗粮面·满族八大碗",
+    "id": "B0L0LCA4Q3",
+    "addr": "双桥区 车站路38-9号中居宅16号楼底商",
+    "type": "中餐厅",
+    "tel": "18910289987",
+    "rating": 4.3,
+    "cost": 14.0,
+    "open": "周一至周日 06:00-21:00",
+    "lng": 117.957454,
+    "lat": 40.962113,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a1064746315035060000007341376062?type=pic",
+     "https://store.is.autonavi.com/showpic/0171baf543998a0a0000007341352832?type=pic",
+     "https://store.is.autonavi.com/showpic/6abaa3fc525274bb0000007164126372?type=pic"
+    ]
+   }
   },
   {
    "name": "羊汤",
@@ -180,7 +367,24 @@
    "tips": [
     "汤可以续，烧饼掰进去泡着吃",
     "怕膻可以多加香菜和胡椒"
-   ]
+   ],
+   "amap": {
+    "name": "喜兰老丁羊汤",
+    "id": "B013A00T1D",
+    "addr": "双桥区 中华路街道竹林寺社区中华路(近竹林寺小学)",
+    "type": "清真菜馆",
+    "tel": "13722418689",
+    "rating": 4.7,
+    "cost": 22.0,
+    "open": "周一至周日 06:00-16:00 2026-02-15至2026-02-18 周一至周日 全天关闭",
+    "lng": 117.94303,
+    "lat": 40.974729,
+    "photos": [
+     "https://aos-comment.amap.com/B013A00T1D/comment/0e2f169f30cf188a12d8b268c4cadc1c_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/e5f4dabe18cf113e7058e1ae69434d8d",
+     "https://aos-comment.amap.com/B013A00T1D/comment/b003d225e73a592c73791ca71305129f_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "烤全羊",
@@ -193,7 +397,24 @@
    "tips": [
     "烤全羊一般要提前预订，问清价格和分量",
     "人少就点羊腿或羊排"
-   ]
+   ],
+   "amap": {
+    "name": "格桑花餐厅·炭火烤羊腿(丰宁坝上草原店)",
+    "id": "B0GU7XNHFD",
+    "addr": "丰宁满族自治县 格桑花·云畔Retreat全景美宿(大滩镇店)北侧",
+    "type": "特色/地方风味餐厅",
+    "tel": "13552397104",
+    "rating": 4.5,
+    "cost": 109.0,
+    "open": "周一至周日 11:00-17:00",
+    "lng": 115.952445,
+    "lat": 41.595661,
+    "photos": [
+     "https://aos-comment.amap.com/B0GU7XNHFD/comment/D3D397BE_599E_41FB_93FE_D805ECE0862A_L0_001_2000_150_1759826262856_87573975.jpg",
+     "https://aos-comment.amap.com/B0GU7XNHFD/comment/8B409C5F_6800_415C_ACA9_B66C589B33F3_L0_001_2000_150_1759826262856_12408378.jpg",
+     "https://aos-comment.amap.com/B0GU7XNHFD/comment/D4A2A2D1_2E36_49B4_A8D2_EAE9CC714B7B_L0_001_1500_200_1759826262856_25156951.jpg"
+    ]
+   }
   },
   {
    "name": "杏仁露",
@@ -205,7 +426,24 @@
    ],
    "tips": [
     "超市就能买到，比景区便宜"
-   ]
+   ],
+   "amap": {
+    "name": "香和兴剪刀面(承德总店)",
+    "id": "B0FFGHJFXT",
+    "addr": "双桥区 流水沟枯柳树街道24号邮电局办公用房102号",
+    "type": "中餐厅",
+    "tel": "0314-5921219",
+    "rating": 4.6,
+    "cost": 34.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 117.940247,
+    "lat": 40.978121,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGHJFXT/comment/57c5cff38d08bfbaae45921333e23e27_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/b46e393b8fdd712c0000001817540684?type=pic",
+     "https://aos-comment.amap.com/B0FFGHJFXT/comment/4336994F_9696_4541_8352_51D776179635_L0_001_2016_1512_1750486403428_62103934.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

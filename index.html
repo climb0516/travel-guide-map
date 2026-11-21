@@ -1269,8 +1269,12 @@ html.gl-layered{overflow:hidden}
     var slots = [].slice.call(L.body.querySelectorAll('[data-kw]'));
     var heroSet = !!L.body.querySelector('.cy-hero.img'), wall = L.body.querySelector('.cy-wall');
     slots.forEach(function(ph){
+      // 数据文件里已固化 amap 字段（null 也算，表示查过没图）就直接用，不再调高德；没有这个字段的才现场查
       // data-ac：景点不在本市辖区时（如西宁条目里的青海湖属海南州），按它实际所在的区划搜
-      amapFind(Number(ph.getAttribute('data-ac')) || a, ph.getAttribute('data-kw'), ph.getAttribute('data-kind')).then(function(v){
+      var it0 = L.items[Number(ph.parentNode.getAttribute('data-ci'))];
+      var src = it0 && 'amap' in it0.d ? Promise.resolve(it0.d.amap)
+        : amapFind(Number(ph.getAttribute('data-ac')) || a, ph.getAttribute('data-kw'), ph.getAttribute('data-kind'));
+      src.then(function(v){
         if (L.gen !== gen || L.a !== a) return;
         var box = ph.parentNode, it = L.items[Number(box.getAttribute('data-ci'))];
         if (it) { it.v = v || null; it.ph0 = L.photos.length; if (MD && !MD.el.hidden && MD.it === it) renderModal(); }

@@ -197,6 +197,21 @@ RLS 规则：owner select / owner insert / owner update（authenticated）、fri
 
 prefs 只能从「吃、海边、古城、拜佛、带娃、自然风光、博物馆、夜景」里选；plan 只能是「三天两晚 / 两天一晚 / 四天三晚 / 五天四晚 / 一天」。
 
+### cities/base/<区划代码>.json（城市详情，一城一个文件）
+
+地图或推荐榜点城市打开的详情层（`#city/<区划代码>`）读这个文件；没有文件的城市只显示「还在整理中」和 5A 名单。内容由 AI 整理，以 510100.json（成都）为样板。
+
+```
+city, adcode, tag, impression[3 段]
+spots[]: name, kw, why, time, for, intro[2 段], tips[], ac?, amap
+foods[]: name, kw, desc, intro[2 段], tips[], amap
+food_areas[], routes[{title, days[]}], stay[{area, for}], when{best, seasons, avoid}, from_hz[[方式, 时长]], tips[]
+```
+
+- `kw`：在高德「本市范围」搜的词；`ac`（可选）：景点不在本市辖区时按哪个区划搜，如西宁条目里的青海湖用 632500
+- `amap`：固化的高德结果 `{name, id, addr, type, tel, rating, cost, open, lng, lat, photos[]}`，查过没结果为 `null`。由 skill 的 `scripts/bake_amap.py` 用 Web 服务 v5 地点搜索一次性写入，**页面有这个字段就不再现场调高德**（个人开发者月配额 15 万次，网站访客现场查太费）；没有这个字段的新城市才回退到 JS API 现场查。图片不会自动更新，建议每季度重跑一次（先删掉 `amap` 字段）
+- 港澳：区划 810000 / 820000 会被高德算成境外查询（配额极小），改用 810100 / 820100 查，并只保留区划代码前缀 81 / 82 的结果
+
 ### 地图数据（index.html 内嵌的 `#china-data` / china-lite.json）
 
 ```
@@ -393,11 +408,12 @@ templates/
 - 提交前看 `git status`，只提交 index.html、img/、guides.json 等；`git commit -m "guide: <城市> <N> 天"` 后 push
 - **pages-dashboard 联动**：大屏「攻略地图」卡片读 `guides.json` + `china-lite.json` 自动点亮，不用改大屏；地图数据重新生成时 `china-lite.json` 用 `build_china.py … 1.8` 再去掉 `jd`、`inset` 生成。注意：大屏目前只按 `adcode` 点亮，不读 `also_adcodes`（潮汕只亮潮州）
 
-### 脚本清单（15 个）
+### 脚本清单（16 个）
 
 | 脚本 | 用途 | 输入 → 输出 |
 |------|------|-------------|
 | `apply_theme.py` | 给攻略页套城市主题（三组变量、标题字体、纹样） | `<index.html> <theme.json>` → 原地改 index.html |
+| `bake_amap.py` | 把城市详情每个景点 / 美食的高德结果（图片、地址、电话、评分、营业时间、坐标）固化进数据文件，网站不再现场调高德；已有 `amap` 字段的跳过，可断点续跑 | `<仓库目录> [区划代码...]`，key 读环境变量 `AMAP_KEY` 或 hz-weekend/.amap_key → 原地改 cities/base/*.json |
 | `build_areas.py` | 合并高德分区榜 + 大众点评，按区县 → 商圈出榜单 | `<config.json>` → zs.json，并写回 data.json 的 `intro` |
 | `build_china.py` | DataV 市级边界 → Albers 投影的 SVG 地图数据 | `<datav 目录> <输出 json> [容差]` → `{vb, units, prov, jd, inset}` |
 | `bundle_html.py` | 打包成图片内嵌的单文件 HTML | `<页面目录> <输出.html>` → 单文件 |

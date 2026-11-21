@@ -21,7 +21,24 @@
     "请讲解或租讲解器，否则很多宋代建筑的看点容易错过",
     "圣母殿内的彩塑不能拍照",
     "离市区有一段距离，打车或坐公交都可以"
-   ]
+   ],
+   "amap": {
+    "name": "晋祠博物馆",
+    "id": "B015F0IFI3",
+    "addr": "晋源区 晋祠天龙山景区内(东侧)",
+    "type": "博物馆",
+    "tel": "4006088608",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 09:00-17:00 最晚进入16:30；4月 08:30-17:30 最晚进入17:00；5月至10月 08:30-18:00 最晚进入17:30",
+    "lng": 112.441692,
+    "lat": 37.708813,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/377e2866af7e31e9fc7985306c3f4846",
+     "https://store.is.autonavi.com/showpic/a36e61fc8c0969eeaad7c50a3d035ea0",
+     "https://store.is.autonavi.com/showpic/42906861f42c71f0ceeefb10e65a2b1f"
+    ]
+   }
   },
   {
    "name": "山西博物院",
@@ -37,7 +54,24 @@
     "免费参观，需要提前预约",
     "周一闭馆",
     "馆里有餐厅和休息区，可以安排一整个上午"
-   ]
+   ],
+   "amap": {
+    "name": "山西博物院",
+    "id": "B015F031GS",
+    "addr": "万柏林区 滨河西路13号",
+    "type": "博物馆",
+    "tel": "0351-8789188",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一 全天关闭（法定节假日除外），周二至周日 09:00-17:00（16:00停止进入），2026年4月4日至2026年4月6日:09:00-17:00（16:00停止进入）",
+    "lng": 112.531258,
+    "lat": 37.865449,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d4417086347d4d658e0bbbc266b23966",
+     "https://store.is.autonavi.com/showpic/5c7c5ff168a1d2c2cef836b34cdee74b",
+     "https://store.is.autonavi.com/showpic/620484871b615447677ff9eeac29f801"
+    ]
+   }
   },
   {
    "name": "天龙山石窟",
@@ -53,7 +87,24 @@
     "部分洞窟有开放限制，以景区当天安排为准",
     "山路弯多，自驾注意安全",
     "建议先在山西博物院了解北朝佛教造像再来"
-   ]
+   ],
+   "amap": {
+    "name": "天龙山石窟",
+    "id": "BY0001NB4U",
+    "addr": "晋源区 晋祠镇晋祠天龙山景区(西北角)",
+    "type": "风景名胜",
+    "tel": "0351-6349668",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 112.385807,
+    "lat": 37.737599,
+    "photos": [
+     "https://aos-comment.amap.com/BY0001NB4U/comment/content_media_external_file_100000161_1767761905938_57682931.jpg",
+     "https://store.is.autonavi.com/showpic/655d14c4b09966410000001280276289?type=pic",
+     "https://store.is.autonavi.com/showpic/4666da01849ebb390000000717234855?type=pic"
+    ]
+   }
   },
   {
    "name": "蒙山大佛",
@@ -68,7 +119,24 @@
    "tips": [
     "景区较大，有观光车可以节省体力",
     "和晋祠、天龙山可以排在同一天，自驾最方便"
-   ]
+   ],
+   "amap": {
+    "name": "蒙山大佛景区",
+    "id": "B0FFG3K9DA",
+    "addr": "晋源区 寺底村",
+    "type": "风景名胜",
+    "tel": "0351-6862502",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10-19至10-20 周一至周日 08:30-18:30 最晚进入17:00；10-21至03-31 周一至周日 08:30-17:30 最晚进入16:00",
+    "lng": 112.447061,
+    "lat": 37.780667,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/811b8a22922b6b113a92e343e42c4a86",
+     "https://store.is.autonavi.com/showpic/f244900d8829d765a86c312df2c318ff",
+     "https://store.is.autonavi.com/showpic/16fcd7ebf47417e7997d50406e9fa978"
+    ]
+   }
   },
   {
    "name": "双塔寺",
@@ -83,7 +151,24 @@
    "tips": [
     "牡丹一般在春天开花，花期前后人多",
     "登塔需要体力，楼梯又窄又陡"
-   ]
+   ],
+   "amap": {
+    "name": "太原双塔寺",
+    "id": "B0FFGDWKNR",
+    "addr": "迎泽区 双塔南巷甲字8号",
+    "type": "寺庙道观",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "4月至10月 08:30-17:30 最晚进入17:30；1月至3月,11月至12月 09:00-17:00 最晚进入17:00",
+    "lng": 112.596251,
+    "lat": 37.846162,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4eb78168069d4d362b056945a0e26581",
+     "https://store.is.autonavi.com/showpic/4de35c4eda44a52416ea47b6c1d224bc",
+     "https://store.is.autonavi.com/showpic/79e03ee8a783254175c714802b9d595e"
+    ]
+   }
   },
   {
    "name": "太原古县城",
@@ -99,7 +184,24 @@
     "很多建筑是近年重建的，期待别太高",
     "晚上去比白天更好看",
     "和晋祠可以顺路"
-   ]
+   ],
+   "amap": {
+    "name": "太原古县城",
+    "id": "B0FFIPF59F",
+    "addr": "晋源区 凤城东街19号",
+    "type": "风景名胜",
+    "tel": "0351-6598888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "09:30-22:00 最晚进入21:30；周一、民宿:24小时开放,周二、关帝庙、文庙、隆恩寺、玉皇庙:10:00-18:00,周三、城门开放时间:1. 观澜门、望翠门、进贤门:09:00开门、22:00关门,2. 延西门、青龙门:24小时开放,周四、灯光开关时间:1. 酒吧街开放期间,酒吧街范围灯光亮至22:00,2. 民宿开放期间,外环道路,民宿街巷范围灯光亮至24:00,3. 城内亮化至22:00",
+    "lng": 112.485924,
+    "lat": 37.727627,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8ff66706415bc8d543796bb62b4b7cc6",
+     "https://store.is.autonavi.com/showpic/530ad522a77c785c81c3f77539362915",
+     "https://store.is.autonavi.com/showpic/0a9104f707bbe2440000009302390700?type=pic"
+    ]
+   }
   },
   {
    "name": "钟楼街和柳巷",
@@ -114,7 +216,24 @@
    "tips": [
     "老字号店铺多，买特产可以在这里一次买齐",
     "周末晚上人比较多"
-   ]
+   ],
+   "amap": {
+    "name": "柳巷/钟楼街(路口)",
+    "id": "B0MRJ98L6I",
+    "addr": "迎泽区 钟楼街与柳巷南路交叉口西南20米",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "",
+    "lng": 112.567601,
+    "lat": 37.867878,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bec615fa95b4269d0000009274752128?type=pic",
+     "https://store.is.autonavi.com/showpic/8d531d77a614090a0000009274742507?type=pic",
+     "https://store.is.autonavi.com/showpic/f3dbf95bddb8d9620000009274750308?type=pic"
+    ]
+   }
   },
   {
    "name": "纯阳宫",
@@ -129,7 +248,24 @@
    "tips": [
     "在市中心，可以和钟楼街排在一起",
     "周一一般闭馆，出发前确认"
-   ]
+   ],
+   "amap": {
+    "name": "纯阳宫",
+    "id": "B015F02WHA",
+    "addr": "迎泽区 起凤街1号",
+    "type": "省级景点",
+    "tel": "0351-5282802",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 09:00-17:30",
+    "lng": 112.572122,
+    "lat": 37.862385,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dba8cfcf2f1a5f55384dee27d924cebc",
+     "https://store.is.autonavi.com/showpic/d952b6de187614033ea59b2b6009fa09",
+     "https://store.is.autonavi.com/showpic/d8aba49f6c3c311d62b7efee11833c95"
+    ]
+   }
   }
  ],
  "foods": [
@@ -144,7 +280,24 @@
    "tips": [
     "一定要加醋，山西人吃面离不开醋",
     "分量通常很大，饭量小的点小碗"
-   ]
+   ],
+   "amap": {
+    "name": "山西会馆 (和平南路店)",
+    "id": "B015F17YH0",
+    "addr": "万柏林区 和平南路139号",
+    "type": "博物馆",
+    "tel": "0351-2727287",
+    "rating": 4.7,
+    "cost": 95.0,
+    "open": "周一至周日 10:00-21:30",
+    "lng": 112.510003,
+    "lat": 37.839514,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFY1NF1/comment/content_media_external_images_media_26642_1729746087637_33909386.jpg",
+     "https://store.is.autonavi.com/showpic/ef4a8a43e504c3690000002240966121?type=pic",
+     "https://aos-comment.amap.com/comment/content_service__1770914748454_80774697_1770914974308_57151903.jpg"
+    ]
+   }
   },
   {
    "name": "头脑",
@@ -157,7 +310,24 @@
    "tips": [
     "一般只在秋冬到春季的早上供应，去之前确认",
     "黄酒味较浓，不能喝酒的人注意"
-   ]
+   ],
+   "amap": {
+    "name": "清和元·傅山头脑(太原铜锣湾店)",
+    "id": "B0FFJP9MLZ",
+    "addr": "迎泽区 柳巷北路铜锣湾宝地小区A1座22号1-3层",
+    "type": "清真菜馆",
+    "tel": "0351-6635777",
+    "rating": 4.4,
+    "cost": 42.0,
+    "open": "周一至周日 06:30-14:00,17:00-21:00",
+    "lng": 112.568841,
+    "lat": 37.870261,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a7e8b2d49ddfdffa28b44b6e0f74639c",
+     "https://aos-comment.amap.com/B0FFJP9MLZ/comment/55153B68_134A_4326_BE55_27FF25660996_L0_001_1440_93_1770465846899_17388208.jpg",
+     "https://store.is.autonavi.com/showpic/ebef9561f6874d9a0000002923036174?type=pic"
+    ]
+   }
   },
   {
    "name": "过油肉",
@@ -169,7 +339,24 @@
    ],
    "tips": [
     "配米饭或刀削面都很好"
-   ]
+   ],
+   "amap": {
+    "name": "林香斋旗舰店(千峰南路店)",
+    "id": "B0FFJNP9L2",
+    "addr": "万柏林区 千峰南路111号(唐明茶城南侧)",
+    "type": "中餐厅",
+    "tel": "0351-6161314",
+    "rating": 4.7,
+    "cost": 92.0,
+    "open": "周一至周日 11:00-14:30,18:00-22:00",
+    "lng": 112.516882,
+    "lat": 37.825459,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/127c81cd38053bbd0000002900014330?type=pic",
+     "https://aos-comment.amap.com/B0FFJNP9L2/comment/7b52d9da0a4134310db2803c40d4ac25_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/79f6ffb68f9c38ed0000008654546196?type=pic"
+    ]
+   }
   },
   {
    "name": "羊杂割",
@@ -181,7 +368,24 @@
    ],
    "tips": [
     "不吃内脏的可以选纯羊肉汤"
-   ]
+   ],
+   "amap": {
+    "name": "老太原羊杂割(桥东店)",
+    "id": "B0KRFHMA0Q",
+    "addr": "迎泽区 中正银苑底商阳光42",
+    "type": "中餐厅",
+    "tel": "18935106579",
+    "rating": 3.6,
+    "cost": 14.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 112.576402,
+    "lat": 37.857029,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bef457cbf57012ee0000000682394341?type=pic",
+     "https://store.is.autonavi.com/showpic/42a960187bc428a70000000682376846?type=pic",
+     "https://store.is.autonavi.com/showpic/3576455b4d9d81adec19d2f21e0aee17"
+    ]
+   }
   },
   {
    "name": "莜面栲栳栳",
@@ -193,7 +397,22 @@
    ],
    "tips": [
     "莜面比较顶饱，几个人分一笼就够"
-   ]
+   ],
+   "amap": {
+    "name": "栲栳栳平遥碗托",
+    "id": "B0MA5PN2VF",
+    "addr": "迎泽区 解放路与奶生堂东三巷交叉口东160米",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.1,
+    "cost": 8.0,
+    "open": "",
+    "lng": 112.562362,
+    "lat": 37.86948,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/afe9e4c5d485b66e9ade3724bf801933"
+    ]
+   }
   },
   {
    "name": "剔尖和猫耳朵",
@@ -205,7 +424,24 @@
    ],
    "tips": [
     "几个人多点几样分着吃"
-   ]
+   ],
+   "amap": {
+    "name": "山西会馆 (和平南路店)",
+    "id": "B015F17YH0",
+    "addr": "万柏林区 和平南路139号",
+    "type": "博物馆",
+    "tel": "0351-2727287",
+    "rating": 4.7,
+    "cost": 95.0,
+    "open": "周一至周日 10:00-21:30",
+    "lng": 112.510003,
+    "lat": 37.839514,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFY1NF1/comment/content_media_external_images_media_26642_1729746087637_33909386.jpg",
+     "https://store.is.autonavi.com/showpic/ef4a8a43e504c3690000002240966121?type=pic",
+     "https://aos-comment.amap.com/comment/content_service__1770914748454_80774697_1770914974308_57151903.jpg"
+    ]
+   }
   },
   {
    "name": "老陈醋",
@@ -218,7 +454,24 @@
    "tips": [
     "带上飞机的醋要托运或买小瓶装",
     "可以买小瓶装多试几个年份"
-   ]
+   ],
+   "amap": {
+    "name": "老醋食府(东湖醋园)",
+    "id": "B0MA37YXHV",
+    "addr": "杏花岭区 马道坡街26号东湖醋园院内",
+    "type": "中餐厅",
+    "tel": "13353434512",
+    "rating": 4.4,
+    "cost": 66.0,
+    "open": "周一至周日 08:00-14:30,17:00-19:30",
+    "lng": 112.595045,
+    "lat": 37.878534,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ac9946a8cf5e7db60000002905692779?type=pic",
+     "https://store.is.autonavi.com/showpic/153829b83c5dca1f0000002521954484?type=pic",
+     "https://store.is.autonavi.com/showpic/231d4983f35ac8310000002351952457?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

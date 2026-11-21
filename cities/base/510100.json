@@ -21,7 +21,24 @@
     "门票和观光车都要提前在官方小程序实名预约，节假日常常提前几天就约满",
     "从市区打车或坐地铁 3 号线到熊猫大道站再换接驳车，8 点前到最理想",
     "园区上坡路多，全部走完要 3 小时以上，带老人小孩可以坐观光车"
-   ]
+   ],
+   "amap": {
+    "name": "成都大熊猫繁育研究基地",
+    "id": "B001C7WE5S",
+    "addr": "成华区 熊猫大道1375号",
+    "type": "国家级景点",
+    "tel": "028-83510033",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "03-16至10-31 周一至周日 07:30-17:00；11-01至03-15 周一至周日 08:00-16:30",
+    "lng": 104.138176,
+    "lat": 30.740573,
+    "photos": [
+     "https://aos-comment.amap.com/B001C7WE5S/comment/content_media_external_file_40545_1767501720604_43994986.jpg",
+     "https://aos-comment.amap.com/B001C7WE5S/comment/D9A52A3A_A680_4447_9647_0C0069242BF2_L0_001_1500_200_1767303057334_10874921.jpg",
+     "https://store.is.autonavi.com/showpic/f8c5d8db0b8aa5fbbd3cd63202204c26"
+    ]
+   }
   },
   {
    "name": "宽窄巷子",
@@ -37,7 +54,24 @@
     "巷子里的小吃偏贵，想吃地道的可以出去到奎星楼街",
     "掏耳朵、川剧变脸表演要问清价格再开始",
     "地铁 4 号线宽窄巷子站下车步行即到"
-   ]
+   ],
+   "amap": {
+    "name": "宽窄巷子景区",
+    "id": "B001C7YCM4",
+    "addr": "青羊区 少城街道金河路口宽窄巷子",
+    "type": "旅游景点",
+    "tel": "028-86259233",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一，周三至周日 00:00-24:00",
+    "lng": 104.053307,
+    "lat": 30.663869,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fc7730e46d3557e30000009400596380?type=pic",
+     "https://store.is.autonavi.com/showpic/6ac52470ad6f89950000009469432912?type=pic",
+     "https://store.is.autonavi.com/showpic/5735d9883d6becee0000009430848261"
+    ]
+   }
   },
   {
    "name": "武侯祠和锦里",
@@ -53,7 +87,24 @@
     "武侯祠需要购票，锦里免费",
     "红墙竹影的小路早上人少，适合拍照",
     "锦里小吃以游客店为主，尝尝就好，正餐另找"
-   ]
+   ],
+   "amap": {
+    "name": "成都武侯祠博物馆",
+    "id": "B001C07VJ2",
+    "addr": "武侯区 武侯祠大街231号",
+    "type": "博物馆",
+    "tel": "028-85535951",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 104.047992,
+    "lat": 30.646168,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2a74b5da7192e4628a9bdcc368e002ac",
+     "https://store.is.autonavi.com/showpic/96a6372e5faa32096847b76b5a59af7c",
+     "https://store.is.autonavi.com/showpic/d60e252c0c13b260465aeba6b146c832"
+    ]
+   }
   },
   {
    "name": "杜甫草堂",
@@ -69,7 +120,24 @@
     "适合一早或傍晚去，避开旅游团",
     "和浣花溪公园挨着，可以连起来散步",
     "园内有茶座，坐下喝杯茶比赶景点更有味道"
-   ]
+   ],
+   "amap": {
+    "name": "成都杜甫草堂博物馆",
+    "id": "B001C06EMZ",
+    "addr": "青羊区 青华路37号",
+    "type": "博物馆",
+    "tel": "028-68921800",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 104.028514,
+    "lat": 30.660153,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/afa4c7dfa19bb60e18618913136bda7d",
+     "https://store.is.autonavi.com/showpic/59f06bb43e1b5cd7f6ec27052fa220af",
+     "https://store.is.autonavi.com/showpic/5c37ea973d74d7949607dd75d9f36821"
+    ]
+   }
   },
   {
    "name": "人民公园",
@@ -85,7 +153,24 @@
     "盖碗茶二三十元一杯，可以续水坐一下午",
     "掏耳朵前先问价，不想要可以直接拒绝",
     "地铁 2 号线人民公园站下车即到"
-   ]
+   ],
+   "amap": {
+    "name": "人民公园",
+    "id": "B001C7X8QA",
+    "addr": "青羊区 小南街8号(人民公园地铁站B口步行250米)",
+    "type": "国家级景点",
+    "tel": "028-86132021",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "00:00-24:00具体营业状态以当天开放情况为准",
+    "lng": 104.057641,
+    "lat": 30.65699,
+    "photos": [
+     "https://aos-comment.amap.com/B001C7X8QA/comment/content_media_external_file_100003153_1767367568289_40288788.jpg",
+     "https://aos-comment.amap.com/B001C7X8QA/comment/57CB8B05_1E45_4134_9A2D_865DBEEE553B_L0_001_1179_86_1766480459732_07341334.jpg",
+     "https://aos-comment.amap.com/B001C7X8QA/comment/1F5D05D1_071C_45F4_B86C_1DE32DB1151A_L0_001_1206_120_1767139271327_64300218.jpg"
+    ]
+   }
   },
   {
    "name": "太古里和春熙路",
@@ -101,7 +186,24 @@
     "IFS 楼顶爬墙熊猫是必拍点",
     "大慈寺免费开放，闹中取静",
     "周末晚上人特别多，地铁 2、3 号线春熙路站出站会排队"
-   ]
+   ],
+   "amap": {
+    "name": "YELLOW KORNER(成都远洋太古里店)",
+    "id": "B0G3FCLPNS",
+    "addr": "锦江区 中纱帽街8号成都太古里M层M073b",
+    "type": "展览馆",
+    "tel": "",
+    "rating": 3.0,
+    "cost": 0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 104.082544,
+    "lat": 30.653403,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fbd0fdf29de635c1a51771891f53192f",
+     "https://store.is.autonavi.com/showpic/5e7d91e0dfc980e9970dddce9a499543",
+     "https://store.is.autonavi.com/showpic/e14b9b3b91dbee051bb184752bfcc42e"
+    ]
+   }
   },
   {
    "name": "四川博物院",
@@ -117,7 +219,24 @@
     "免费参观，但需要提前预约，周一闭馆",
     "就在杜甫草堂旁边，可以安排同一天",
     "看三星堆要单独留出一天，从市区开车约 1 小时"
-   ]
+   ],
+   "amap": {
+    "name": "四川博物院",
+    "id": "B001C7Y7I2",
+    "addr": "青羊区 青华路5号",
+    "type": "博物馆",
+    "tel": "028-65521888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "05/18 09:00–17:00开放 最晚进入16:00；10/05 09:00–17:00开放；01/01-05/17 周二–周日 09:00–17:00开放 最晚进入16:00；05/19-10/04 周二–周日 09:00–17:00开放 最晚进入16:00；10/06-12/31 周二–周日 09:00–17:00开放 最晚进入16:00；01/01-05/17 周一 全天不开放；05/19-10/04 周一 全天不开放；10/06-12/31 周一 全天不开放；清明节,端午节 09:00–17:00开放 最晚进入16:00；每周一闭馆(国家法定节假日除外）",
+    "lng": 104.034127,
+    "lat": 30.660792,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/836d32ef2e76c2a17135c284dde5fe79",
+     "https://store.is.autonavi.com/showpic/9844ec34e25766f924dc264d0e2c6bde",
+     "https://store.is.autonavi.com/showpic/fa5a27611ec15cd1d4f1819367772a15"
+    ]
+   }
   },
   {
    "name": "都江堰",
@@ -133,7 +252,24 @@
     "从犀浦站坐城际高铁到都江堰站约 30 分钟",
     "景区观光车和扶梯能省不少体力",
     "夏天的放水节（清明前后）人非常多"
-   ]
+   ],
+   "amap": {
+    "name": "都江堰景区",
+    "id": "B001C06PA9",
+    "addr": "都江堰市 公园路",
+    "type": "国家级景点",
+    "tel": "028-96526",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "03-02至10-31 周一至周日 08:00-18:00 最晚进入17:30；11-01至03-01 周一至周日 08:00-17:30 最晚进入17:00",
+    "lng": 103.610529,
+    "lat": 31.003363,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/31fab45390b5932dfa51a67dbf8548f4",
+     "https://store.is.autonavi.com/showpic/9dd769964bd96b13c2990058c0bfce5c",
+     "https://store.is.autonavi.com/showpic/7b311531ba597ec4464683df23df3365"
+    ]
+   }
   },
   {
    "name": "青城山",
@@ -149,7 +285,24 @@
     "前山有索道，上山坐索道、下山步行比较轻松",
     "前山和后山门票分开，一天只够玩一边",
     "雨后石阶湿滑，穿防滑的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "青城山景区",
+    "id": "B001C06ESL",
+    "addr": "都江堰市 青城山镇青城山路168号",
+    "type": "世界遗产",
+    "tel": "028-87111907",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "11月1日-次年3月31日:08:30-17:00(16:30分停售当日票)",
+    "lng": 103.563817,
+    "lat": 30.9044,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/259f92e8e83511f6ef58afd321d2a08e",
+     "https://store.is.autonavi.com/showpic/653d22dcaa4c11b7b55ad375fc629dea",
+     "https://store.is.autonavi.com/showpic/7fc9d943f628d5ba2b2c8379d17c8606"
+    ]
+   }
   }
  ],
  "foods": [
@@ -165,7 +318,24 @@
     "油碟是香油加蒜泥、蚝油，用来降温解辣",
     "热门店傍晚 5 点前到，可以少排队",
     "怕上火可以配凉茶或者冰粉"
-   ]
+   ],
+   "amap": {
+    "name": "翠孃孃老火锅(春熙路老店)",
+    "id": "B0KRORQOAQ",
+    "addr": "锦江区 永兴巷15号附1号(熊猫邮局旁50米)",
+    "type": "火锅店",
+    "tel": "15328052249",
+    "rating": 4.7,
+    "cost": 102.0,
+    "open": "周一至周日 11:00-01:00",
+    "lng": 104.078075,
+    "lat": 30.661312,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/88678c30257f9168423b01e063561dd0",
+     "https://store.is.autonavi.com/showpic/6b7d94c785ca7ecf0000008508402885?type=pic",
+     "https://store.is.autonavi.com/showpic/1257c74a1076e70af60478ac05e81b89"
+    ]
+   }
   },
   {
    "name": "串串香",
@@ -179,7 +349,24 @@
     "签子按根计价，结账前别乱扔签子",
     "可以点一份蘸碟加香菜和葱",
     "夏天加份冰粉或者冰啤酒"
-   ]
+   ],
+   "amap": {
+    "name": "龙户人家串串香火锅(春熙路店)",
+    "id": "B0LATS7BTE",
+    "addr": "锦江区 红星路四段265号附1号",
+    "type": "中餐厅",
+    "tel": "18123356772",
+    "rating": 4.7,
+    "cost": 73.0,
+    "open": "周一至周日 11:00-02:00",
+    "lng": 104.077761,
+    "lat": 30.6511,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b78c5e09d97dbf560000008458128400?type=pic",
+     "https://store.is.autonavi.com/showpic/e1fb1cca35bd93540000009194954016?type=pic",
+     "https://store.is.autonavi.com/showpic/31f7ef74595217e10000000482630415"
+    ]
+   }
   },
   {
    "name": "钵钵鸡",
@@ -192,7 +379,24 @@
    "tips": [
     "红油味偏辣，藤椒味麻香，可以两种都试",
     "冬天也是凉着吃，怕凉胃的少吃点"
-   ]
+   ],
+   "amap": {
+    "name": "叶婆婆钵钵鸡(太古里店)",
+    "id": "B0FFJ3DRVL",
+    "addr": "锦江区 油篓街48号附1.2号(太古里店)",
+    "type": "中餐厅",
+    "tel": "18280451300",
+    "rating": 4.7,
+    "cost": 42.0,
+    "open": "周一至周日 10:30-21:30",
+    "lng": 104.084318,
+    "lat": 30.651005,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJ3DRVL/comment/20260323-18008ee976ab54cdfb599e22-5cXZbqS4tHF7keK8ybAhCd.jpg",
+     "https://store.is.autonavi.com/showpic/0399eacfaf9fda050000000741990776?type=pic",
+     "https://store.is.autonavi.com/showpic/72393997d2710af60000002239074991?type=pic"
+    ]
+   }
   },
   {
    "name": "甜水面",
@@ -205,7 +409,24 @@
    "tips": [
     "面很粗很筋道，老人小孩可以要小份",
     "和钟水饺、龙抄手一起点，一次尝几样"
-   ]
+   ],
+   "amap": {
+    "name": "顺兴老茶馆",
+    "id": "B001C8MPZ8",
+    "addr": "武侯区 高新区世纪城路166号",
+    "type": "中餐厅",
+    "tel": "028-85380007",
+    "rating": 4.7,
+    "cost": 87.0,
+    "open": "周一至周日 11:00-14:00,17:00-21:30",
+    "lng": 104.073872,
+    "lat": 30.559275,
+    "photos": [
+     "https://aos-comment.amap.com/B001C8MPZ8/comment/content_media_external_images_media_100004845_1734589787838_61513747.jpg",
+     "https://aos-comment.amap.com/B001C8MPZ8/comment/content_media_external_file_1000008955_ss__1752984025420_40670995.jpg",
+     "https://aos-comment.amap.com/B001C8MPZ8/comment/content_media_external_file_1000018685_ss__1755912176563_40669012.jpg"
+    ]
+   }
   },
   {
    "name": "龙抄手",
@@ -218,7 +439,24 @@
    "tips": [
     "想多吃几样就点小吃套餐",
     "红油抄手微甜微辣，怕辣可以点清汤"
-   ]
+   ],
+   "amap": {
+    "name": "龙抄手(总店)",
+    "id": "B001C7UMYH",
+    "addr": "锦江区 春熙路中山广场东侧城守街63号",
+    "type": "特色/地方风味餐厅",
+    "tel": "028-86653668",
+    "rating": 4.6,
+    "cost": 33.0,
+    "open": "周一至周日 09:00-21:30",
+    "lng": 104.077614,
+    "lat": 30.654531,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a7381ed94677e707581afbf4fef4f663",
+     "https://store.is.autonavi.com/showpic/5fa7c108329a63e429d076fe2754a707",
+     "https://store.is.autonavi.com/showpic/8c2ba29c9dca8e2f822d401a03c232e8"
+    ]
+   }
   },
   {
    "name": "蛋烘糕",
@@ -231,7 +469,24 @@
    "tips": [
     "一个不大，可以甜咸各来一个",
     "趁热吃最好，凉了就软了"
-   ]
+   ],
+   "amap": {
+    "name": "兴隆街高记蛋烘糕",
+    "id": "B0FFFFPZ4Z",
+    "addr": "锦江区 红星路一段35号创意产业园B区",
+    "type": "糕饼店",
+    "tel": "13438390752",
+    "rating": 4.6,
+    "cost": 9.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 104.088245,
+    "lat": 30.667036,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFFPZ4Z/comment/2bcd2d1de05eaf195a2c61a7ba522f80_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFFFPZ4Z/comment/5E0623F8_ACE2_4054_998C_4CE4F652FCB6_L0_001_1500_200_1753892079328_29085554.jpg",
+     "https://store.is.autonavi.com/showpic/ba6db188deb3ad8d0000001103102863?type=pic"
+    ]
+   }
   },
   {
    "name": "冒菜",
@@ -244,7 +499,24 @@
    "tips": [
     "按重量称的店，挑菜时注意控制量",
     "可以加一份冒脑花或冒毛肚，很地道"
-   ]
+   ],
+   "amap": {
+    "name": "毛记和意冒菜(解放西街店)",
+    "id": "B0FFJ7R3IG",
+    "addr": "金牛区 解放西街9号附2号",
+    "type": "中餐厅",
+    "tel": "13658015998",
+    "rating": 4.7,
+    "cost": 58.0,
+    "open": "周一至周日 10:00-14:00,16:00-20:00",
+    "lng": 104.084317,
+    "lat": 30.688938,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJ7R3IG/comment/EDE6D8E2_DA19_4110_B00C_B0814B9A9BDC_L0_001_2000_150_1759225214259_52955204.jpg",
+     "https://store.is.autonavi.com/showpic/12543151d1d5692f0000001195692449?type=pic",
+     "https://aos-comment.amap.com/B0FFJ7R3IG/comment/content_media_external_file_1000009939_ss__1768188553835_24719638.jpg"
+    ]
+   }
   },
   {
    "name": "兔头",
@@ -257,7 +529,24 @@
    "tips": [
     "店里一般会给手套，啃起来更方便",
     "不敢吃整只的，可以先试兔丁"
-   ]
+   ],
+   "amap": {
+    "name": "双流老妈兔头(宽窄总店)",
+    "id": "B0HDAYX32J",
+    "addr": "青羊区 长顺上街245号",
+    "type": "中餐厅",
+    "tel": "13882154655",
+    "rating": 4.1,
+    "cost": 30.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 104.055933,
+    "lat": 30.664103,
+    "photos": [
+     "https://aos-comment.amap.com/B0HDAYX32J/comment/E12EC3A0_2756_4712_A020_F1DDFBD6D470_L0_001_1080_1920_1734582285294_16349614.jpg",
+     "https://store.is.autonavi.com/showpic/1c8779e911480eec2db92d22ed082ad6",
+     "https://store.is.autonavi.com/showpic/09c6d3bb12ef932d83291a9f0151ae6f"
+    ]
+   }
   }
  ],
  "food_areas": [

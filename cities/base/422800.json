@@ -21,7 +21,24 @@
     "全程步行较多，体力一般的提早出发，留足时间",
     "山上天气多变，带雨具和外套",
     "索道、扶梯运行以景区当天安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "恩施大峡谷",
+    "id": "B02CE02V2J",
+    "addr": "恩施市 沐抚村",
+    "type": "国家级景点",
+    "tel": "4000718126",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 08:30-16:00 最晚进入15:30；3月至10月 周一至周日 08:00-16:00 最晚进入16:00；景区现场项目售票截止时间为: 七星寨:16:00 云龙地缝:16:30； 索道上行停止检票时间为16:30； 前往七星寨步行入口景交车停运时间为16:00 云龙地缝景区停止检票时间为16:00 七星寨景区步行入口停止检票时间为16:00 上述各项执行时间段为3月1日-11月30日，请各位游客朋友们合理安排浏览时间及游览顺序，如遇不可抗力性因素请以景区当天现场通知为准",
+    "lng": 109.194306,
+    "lat": 30.403162,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1625c32dfdd3616a05249aa490d4bd1b",
+     "https://store.is.autonavi.com/showpic/b5b1b341f01239f1e58c18d3a287eb12",
+     "https://store.is.autonavi.com/showpic/4ddcc1b6535749dfbdbfd02bc93454ed"
+    ]
+   }
   },
   {
    "name": "云龙河地缝",
@@ -36,7 +53,24 @@
    "tips": [
     "栈道湿滑，穿防滑鞋",
     "和七星寨通常联票游览，具体以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "云龙地缝",
+    "id": "B0FFF2QFCX",
+    "addr": "恩施市 沐抚街道恩施大峡谷山脚",
+    "type": "风景名胜",
+    "tel": "0718-8542333",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 08:30-16:00 最晚进入15:00；3月至10月 周一至周日 08:00-16:30 最晚进入16:00；闭园时间不固定，以当日实际情况为准",
+    "lng": 109.190728,
+    "lat": 30.416873,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFF2QFCX/comment/48b35a9ac41f5f7ca1fde6a936553292_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/b580d51f924b24140000004389606148?type=pic",
+     "https://aos-comment.amap.com/B0FFF2QFCX/comment/content_media_external_images_media_196072_ss_2_1697638316361_90220068.jpg"
+    ]
+   }
   },
   {
    "name": "腾龙洞",
@@ -52,7 +86,24 @@
     "洞内较暗、地面潮湿，注意脚下",
     "演出场次以景区当天安排为准",
     "从恩施市区到利川坐高铁很快，再转车去景区"
-   ]
+   ],
+   "amap": {
+    "name": "腾龙洞",
+    "id": "B02CE00USF",
+    "addr": "利川市 旅游路070乡",
+    "type": "国家级景点",
+    "tel": "0718-7262455",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30 最晚进入15:50；2月12日(腊月二十五)-3月3日(正月十五)期间演出时间为:歌舞:11:10-16:00；激光:10:20-15:00；2月18日起8:30-17:30",
+    "lng": 108.99141,
+    "lat": 30.333284,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/24c009312ae8aefd4b16f8eebf8a57b8",
+     "https://store.is.autonavi.com/showpic/2ddc9ac9726fceebfcf963360c59c115",
+     "https://store.is.autonavi.com/showpic/54d62de36a60ba0228d45373a9808e4f"
+    ]
+   }
   },
   {
    "name": "恩施土司城",
@@ -67,7 +118,24 @@
    "tips": [
     "园内上下坡多，慢慢走",
     "开放和表演安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "恩施土司城",
+    "id": "B02CE005L9",
+    "addr": "恩施市 土司路138号",
+    "type": "国家级景点",
+    "tel": "0718-8458166",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:30-18:00",
+    "lng": 109.472098,
+    "lat": 30.301061,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6c7f6d275c85b1a4a01dd9b1ed814456",
+     "https://store.is.autonavi.com/showpic/a3d261a5dc2435432ace154cc2c5de75",
+     "https://store.is.autonavi.com/showpic/f72e30739aa65ce215ec539f5b284568"
+    ]
+   }
   },
   {
    "name": "恩施土家女儿城",
@@ -82,7 +150,24 @@
    "tips": [
     "晚上去最有氛围",
     "小吃店价格偏景区，尝个新鲜就好"
-   ]
+   ],
+   "amap": {
+    "name": "恩施土家女儿城",
+    "id": "B02CE0P84E",
+    "addr": "恩施市 金龙大道98号",
+    "type": "国家级景点",
+    "tel": "0718-8027119",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 109.502984,
+    "lat": 30.269545,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/872913ca00e21bc3d6f672aea467b08f",
+     "https://store.is.autonavi.com/showpic/056ea3ce3343e21d49994a2240904796",
+     "https://store.is.autonavi.com/showpic/7c0c06a4c861494bf91f5990348558bb"
+    ]
+   }
   },
   {
    "name": "梭布垭石林",
@@ -97,7 +182,24 @@
    "tips": [
     "林间小路较窄，注意别迷路，跟着指示牌走",
     "雨后石头湿滑，注意防滑"
-   ]
+   ],
+   "amap": {
+    "name": "梭布垭石林景区",
+    "id": "B02CE030WK",
+    "addr": "恩施市 太阳河乡白奉路南门",
+    "type": "国家级景点",
+    "tel": "0718-8788066",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "4月至10月 08:00-18:00 最晚进入16:30；1月至3月,11月至12月 08:30-17:00 最晚进入15:30",
+    "lng": 109.57458,
+    "lat": 30.574048,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/38870f18894bf6a314baac775023de12",
+     "https://store.is.autonavi.com/showpic/df48e9424c505a527c69cdca0d1fb06b",
+     "https://store.is.autonavi.com/showpic/3f096622f18151e507450bdfaccac6ab"
+    ]
+   }
   },
   {
    "name": "屏山峡谷",
@@ -113,7 +215,24 @@
     "离市区远，最好单独安排一天",
     "水色受天气影响，出发前关注天气",
     "游船安排以景区当天公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "鹤峰屏山峡谷",
+    "id": "B0FFKHT5HG",
+    "addr": "鹤峰县 容美镇屏山村",
+    "type": "风景名胜",
+    "tel": "0718-5282222",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1/1-12/31 08:00–16:00开放；劳动节 07:00–16:30开放",
+    "lng": 110.076853,
+    "lat": 29.932729,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e2abc3a0335de1b027960ccf6718341e",
+     "https://store.is.autonavi.com/showpic/14559b64d9fe0ea426fd808f879afee7",
+     "https://store.is.autonavi.com/showpic/4663aa091be8584b0456f70a7eb5de1e"
+    ]
+   }
   }
  ],
  "foods": [
@@ -128,7 +247,24 @@
    "tips": [
     "腊肉偏咸，配米饭刚好",
     "想带回家可以买真空包装的"
-   ]
+   ],
+   "amap": {
+    "name": "喳西坝子·民族菜(宣恩店)",
+    "id": "B0FFKOBO8U",
+    "addr": "宣恩县 建设路珠山镇政府老院子2层",
+    "type": "中餐厅",
+    "tel": "0718-5801999",
+    "rating": 4.6,
+    "cost": 66.0,
+    "open": "周一至周日 09:00-22:30 10-01至10-07 周一至周日 09:00-23:00",
+    "lng": 109.496131,
+    "lat": 29.992451,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/314080a084b46ecf3d6002d9e7e4d035",
+     "https://aos-comment.amap.com/B0FFKOBO8U/comment/8617B22A_CF13_4C81_8831_D9E8DC37958A_L0_001_1275_84_1751435183291_51286046.jpg",
+     "https://aos-comment.amap.com/B0FFKOBO8U/comment/42fba0a2329f3b214d843d1109c94ffc_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "炕土豆",
@@ -140,7 +276,22 @@
    ],
    "tips": [
     "辣椒面可以让老板少放"
-   ]
+   ],
+   "amap": {
+    "name": "恩施炕土豆土家快餐",
+    "id": "B0MB470804",
+    "addr": "恩施市 七里坪街道办事处阳鹊坝村螺丝井组8号梅昌孝房屋",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "",
+    "lng": 109.547459,
+    "lat": 30.312108,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7aa491979ddb385843e3219c88728d50"
+    ]
+   }
   },
   {
    "name": "土家掉渣烧饼",
@@ -152,7 +303,22 @@
    ],
    "tips": [
     "要趁热吃，凉了就不够酥"
-   ]
+   ],
+   "amap": {
+    "name": "恩施特色掉渣烧饼(东方城店)",
+    "id": "B0MDVROWBC",
+    "addr": "利川市 东城路92号",
+    "type": "中餐厅",
+    "tel": "15671883336",
+    "rating": 4.2,
+    "cost": 14.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 108.954271,
+    "lat": 30.297027,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/afefd6acf4958496fec56c0858cad1ac"
+    ]
+   }
   },
   {
    "name": "合渣",
@@ -164,7 +330,24 @@
    ],
    "tips": [
     "味道清淡，可以加一点辣椒酱"
-   ]
+   ],
+   "amap": {
+    "name": "张关合渣(航空路店)",
+    "id": "B0FFFHA9MQ",
+    "addr": "恩施市 航空大道62号(近金三角文娱广场)",
+    "type": "湖北菜(鄂菜)",
+    "tel": "0718-8213777",
+    "rating": 4.7,
+    "cost": 64.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 109.478806,
+    "lat": 30.28606,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFHA9MQ/comment/file_media_Photo_9496_IMG_1767681642_9023_IMG_9023_jp_1767689543770_85010957.jpg",
+     "https://aos-comment.amap.com/B0FFFHA9MQ/comment/8D8A4B94_88C6_453F_B3E3_A07C324FEE34_L0_001_1440_108_1761631399857_63009636.jpg",
+     "https://store.is.autonavi.com/showpic/cf4ab8af3391f0da0000002342794723?type=pic"
+    ]
+   }
   },
   {
    "name": "油茶汤",
@@ -176,7 +359,24 @@
    ],
    "tips": [
     "味道偏咸香，第一次喝可以先尝一小碗"
-   ]
+   ],
+   "amap": {
+    "name": "喳西坝子·民族菜(宣恩店)",
+    "id": "B0FFKOBO8U",
+    "addr": "宣恩县 建设路珠山镇政府老院子2层",
+    "type": "中餐厅",
+    "tel": "0718-5801999",
+    "rating": 4.6,
+    "cost": 66.0,
+    "open": "周一至周日 09:00-22:30 10-01至10-07 周一至周日 09:00-23:00",
+    "lng": 109.496131,
+    "lat": 29.992451,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/314080a084b46ecf3d6002d9e7e4d035",
+     "https://aos-comment.amap.com/B0FFKOBO8U/comment/8617B22A_CF13_4C81_8831_D9E8DC37958A_L0_001_1275_84_1751435183291_51286046.jpg",
+     "https://aos-comment.amap.com/B0FFKOBO8U/comment/42fba0a2329f3b214d843d1109c94ffc_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "恩施玉露",
@@ -188,7 +388,23 @@
    ],
    "tips": [
     "购买前可以先试喝"
-   ]
+   ],
+   "amap": {
+    "name": "立早恩施玉露(金凤苑店)",
+    "id": "B0HKUSWMCV",
+    "addr": "恩施市 金凤苑西门东北50米",
+    "type": "中餐厅",
+    "tel": "15549249999",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "",
+    "lng": 109.485317,
+    "lat": 30.276211,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/152515f0b7c062aa874239ed32e0e751",
+     "https://store.is.autonavi.com/showpic/c523940223d79b02d67bf4f7bb42ae6c"
+    ]
+   }
   },
   {
    "name": "社饭",
@@ -200,7 +416,24 @@
    ],
    "tips": [
     "糯米较多，不好消化的少吃点"
-   ]
+   ],
+   "amap": {
+    "name": "尹家社饭",
+    "id": "B0FFGEJ0KR",
+    "addr": "恩施市 金子坝街道奥山雅阁酒店背后尹家社饭4-115-116",
+    "type": "湖北菜(鄂菜)",
+    "tel": "15377236536",
+    "rating": 4.6,
+    "cost": 61.0,
+    "open": "周一至周日 11:30-14:30,16:30-21:00",
+    "lng": 109.489455,
+    "lat": 30.346565,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0d19c53c36196a7b609cd024f47baef1",
+     "https://aos-comment.amap.com/B0FFGEJ0KR/comment/content_media_external_file_93671_ss__1749967805805_25470962.jpg",
+     "https://aos-comment.amap.com/B0FFGEJ0KR/comment/216A2798_51A5_498E_992D_D0933B652F0A_L0_001_2000_1500_1729156365932_94683312.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

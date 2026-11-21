@@ -21,7 +21,24 @@
     "船票和上岛门票以官方公告为准，旺季建议提前在线购买",
     "留意末班船时间，别玩过头",
     "岛上可以坐观光车，也可以步行"
-   ]
+   ],
+   "amap": {
+    "name": "刘公岛景区",
+    "id": "B0FFF6BKO3",
+    "addr": "环翠区 海滨北路101-2号",
+    "type": "国家级景点",
+    "tel": "0631-5287807",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "8:00-16:30,14:30停止入园",
+    "lng": 122.190069,
+    "lat": 37.504524,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a92991b5cde628656b99f7ca1c64de40",
+     "https://store.is.autonavi.com/showpic/d1adb885f9691f864cd9b1d7b3c15f54",
+     "https://store.is.autonavi.com/showpic/989abc9ddece5ec4d2fb6e2cf78dc251"
+    ]
+   }
   },
   {
    "name": "威海国际海水浴场",
@@ -36,7 +53,24 @@
    "tips": [
     "夏天下海在有救生员的开放区域",
     "周末人多，早上去更清净"
-   ]
+   ],
+   "amap": {
+    "name": "威海国际海水浴场",
+    "id": "B02770ISI3",
+    "addr": "环翠区 北环海路178号",
+    "type": "海滩",
+    "tel": "0631-5623885",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "00:00-24:00(非开放期禁止下海游泳)",
+    "lng": 122.042078,
+    "lat": 37.527543,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/125caef497aceef3146494fc1d93371b",
+     "https://store.is.autonavi.com/showpic/16db5c89b6b24f400000003772500558?type=pic",
+     "https://store.is.autonavi.com/showpic/ceca565fa6191cc7ad5a94e8047b0f86"
+    ]
+   }
   },
   {
    "name": "火炬八街",
@@ -51,7 +85,24 @@
    "tips": [
     "街上有车辆通行，拍照注意安全、不要站到马路中间",
     "清晨或傍晚光线好、人也少"
-   ]
+   ],
+   "amap": {
+    "name": "火炬八街",
+    "id": "B0I3VKA05D",
+    "addr": "环翠区 火炬八街-1号",
+    "type": "旅游景点",
+    "tel": "15726308132",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 122.030731,
+    "lat": 37.524534,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/de7c3958af24daf40000007175034547?type=pic",
+     "https://store.is.autonavi.com/showpic/75d60708793c0a640000006787034693?type=pic",
+     "https://store.is.autonavi.com/showpic/e212e0a6027beaa20000008487300865?type=pic"
+    ]
+   }
   },
   {
    "name": "威海公园和幸福门",
@@ -66,7 +117,24 @@
    "tips": [
     "幸福门登顶是否开放以现场为准",
     "海边风大，晚上带件外套"
-   ]
+   ],
+   "amap": {
+    "name": "威海公园",
+    "id": "B027700J6O",
+    "addr": "环翠区 海滨中路58号",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 122.144823,
+    "lat": 37.465201,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/24fd9a03839c8247bb580de2157c0f80",
+     "https://store.is.autonavi.com/showpic/83da5d237c10962e0000003168150351?type=pic",
+     "https://store.is.autonavi.com/showpic/0b4f9f652fd048ec0000003173858701?type=pic"
+    ]
+   }
   },
   {
    "name": "成山头",
@@ -81,7 +149,24 @@
    "tips": [
     "从市区过去车程较长，建议自驾或包车",
     "想看日出要提前住在附近"
-   ]
+   ],
+   "amap": {
+    "name": "成山头国家重点风景名胜区",
+    "id": "B027700015",
+    "addr": "荣成市",
+    "type": "国家级景点",
+    "tel": "0631-7834888",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:30-17:30 最晚进入16:00",
+    "lng": 122.698982,
+    "lat": 37.401724,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/701a01dd3dd7cfac32dd834a51245a21",
+     "https://aos-comment.amap.com/B027700015/comment/content_media_external_file_1000089354_ss__1757091178644_30830989.jpg",
+     "https://store.is.autonavi.com/showpic/d6de024e879d9c6603b33c1c900734e7"
+    ]
+   }
   },
   {
    "name": "烟墩角天鹅湖",
@@ -96,7 +181,24 @@
    "tips": [
     "天鹅季大约在冬季，具体到来时间每年不同",
     "不要投喂不适合的食物，也别靠太近惊扰天鹅"
-   ]
+   ],
+   "amap": {
+    "name": "烟墩角天鹅海景区",
+    "id": "B0FFKXMIDD",
+    "addr": "荣成市",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 07:00-24:00",
+    "lng": 122.567295,
+    "lat": 37.294121,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKXMIDD/comment/48513A65_BBB5_47DF_B2E3_46F23B8CDF51_L0_001_2016_151_1755832779479_64574499.jpg",
+     "https://store.is.autonavi.com/showpic/1fc3cc89298237400000009459930563?type=pic",
+     "https://aos-comment.amap.com/B0FFKXMIDD/comment/content_media_external_file_72230_1770083595685_74316143.jpg"
+    ]
+   }
   },
   {
    "name": "那香海",
@@ -111,7 +213,24 @@
    "tips": [
     "离市区有一段距离，建议自驾",
     "夏天防晒要做足"
-   ]
+   ],
+   "amap": {
+    "name": "那香海国家4A级景区",
+    "id": "B027716LHP",
+    "addr": "荣成市 环海路6699号(威海经济开发区与荣成交汇处)",
+    "type": "国家级景点",
+    "tel": "0631-7861666",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 122.415268,
+    "lat": 37.404053,
+    "photos": [
+     "https://aos-comment.amap.com/B027716LHP/headerImg/1a9ce98fad3bd3eee1a6a01eefd27e3d_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/30c6ef468d08bfc826a936e9e7b45e46",
+     "https://store.is.autonavi.com/showpic/0b9df5d423c44e22fe22efb12935678b"
+    ]
+   }
   },
   {
    "name": "华夏城",
@@ -126,7 +245,24 @@
    "tips": [
     "演出场次和票价以官方公告为准",
     "景区较大，可以坐观光车"
-   ]
+   ],
+   "amap": {
+    "name": "威海华夏城",
+    "id": "B02770IVCC",
+    "addr": "环翠区 华夏路1号",
+    "type": "国家级景点",
+    "tel": "0631-5999150",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00 最晚进入16:30；停止售票16:30 09-22至10-06 周一至周日 08:00-17:30 最晚进入17:00；停止售票17:00",
+    "lng": 122.115425,
+    "lat": 37.424765,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bf5728fc4eb7de8a0bf021ea80c63bae",
+     "https://store.is.autonavi.com/showpic/1a685843483b1d5a4e8d14292ed73cd7",
+     "https://store.is.autonavi.com/showpic/92583a665e383716035ea32e7acddb1a"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    "tips": [
     "点之前问清包含哪些海鲜、多少份量",
     "人少可以点小份或单点"
-   ]
+   ],
+   "amap": {
+    "name": "五谷丰登农家院·胶东菜·海鲜烧烤(威海总店)",
+    "id": "B0FFHYRL7A",
+    "addr": "环翠区 沈阳路315号(沈阳路和天津路交叉口)",
+    "type": "休闲场所",
+    "tel": "13296310302",
+    "rating": 4.6,
+    "cost": 80.0,
+    "open": "周一至周日 11:00-21:30",
+    "lng": 122.054683,
+    "lat": 37.504967,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHYRL7A/comment/content_media_external_file_100002539_1764818495341_99040039.jpg",
+     "https://store.is.autonavi.com/showpic/0c32faf355a97c3d6aa274f78c3957f5",
+     "https://store.is.autonavi.com/showpic/386fbfc2b961997f0000009498928049?type=pic"
+    ]
+   }
   },
   {
    "name": "鲅鱼饺子",
@@ -153,7 +306,24 @@
    ],
    "tips": [
     "海胆饺子价格偏高，点之前看清价格"
-   ]
+   ],
+   "amap": {
+    "name": "聚朋大鲅鱼饺子饭店(威海总店)",
+    "id": "B0FFKI5CEN",
+    "addr": "环翠区 皇冠街道办事处南区华夏路东21-5号",
+    "type": "中餐厅",
+    "tel": "0631-5961726",
+    "rating": 4.7,
+    "cost": 64.0,
+    "open": "周一至周日 10:30-21:00",
+    "lng": 122.159728,
+    "lat": 37.431966,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKI5CEN/comment/3BDFAA30_C34F_4AE2_A486_9F8DEC4DAD78_L0_001_2016_151_1759909070287_48172362.jpg",
+     "https://store.is.autonavi.com/showpic/bca60c88b6aecbaa0000002505656783?type=pic",
+     "https://aos-comment.amap.com/B0FFKI5CEN/comment/241A4A8A_0918_44EE_9254_D803C56E0C95_L0_001_2000_150_1746444220141_69755036.jpg"
+    ]
+   }
   },
   {
    "name": "海胆",
@@ -166,7 +336,24 @@
    "tips": [
     "买的时候挑刺会动的、新鲜的",
     "肠胃敏感的人生吃要谨慎"
-   ]
+   ],
+   "amap": {
+    "name": "赶海归来·小船海鲜·渔家菜(韩乐坊总店)",
+    "id": "B0I01US1QV",
+    "addr": "环翠区 皇冠街道办事处乐天世纪城-22号-114",
+    "type": "中餐厅",
+    "tel": "0631-5215678",
+    "rating": 4.6,
+    "cost": 85.0,
+    "open": "周一至周日 10:30-22:30",
+    "lng": 122.154872,
+    "lat": 37.427377,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/348ddfe36ee9a5fd911c584eaf1d9fba",
+     "https://store.is.autonavi.com/showpic/90277c87be722fd00000009386498317?type=pic",
+     "https://aos-comment.amap.com/B0I01US1QV/comment/A1BE694F_9713_4843_AD33_17F76F6890EC_L0_001_2000_150_1759308434708_46286075.jpg"
+    ]
+   }
   },
   {
    "name": "海肠",
@@ -178,7 +365,24 @@
    ],
    "tips": [
     "爆炒要快，点菜时可以提醒别炒老"
-   ]
+   ],
+   "amap": {
+    "name": "巧克力渔家(韩乐坊店)",
+    "id": "B0LDSD2SS9",
+    "addr": "环翠区 韩乐坊东门西北100米",
+    "type": "住宿服务相关",
+    "tel": "13210909377",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 10:30-23:00",
+    "lng": 122.153688,
+    "lat": 37.429324,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8c48eb9a835ff4620000007833202391?type=pic",
+     "https://store.is.autonavi.com/showpic/f29aac8ced6296ff0000008555826193?type=pic",
+     "https://store.is.autonavi.com/showpic/e6d7af79e60747f6437ad53e989d50cb"
+    ]
+   }
   },
   {
    "name": "胶东大饽饽",
@@ -191,7 +395,22 @@
    "tips": [
     "个头很大，可以买小的尝",
     "带回家要注意保存时间"
-   ]
+   ],
+   "amap": {
+    "name": "喜迎迎胶东花饽饽",
+    "id": "B0FFMDG0W1",
+    "addr": "环翠区 古寨东路与科技路交叉口南20米",
+    "type": "中餐厅",
+    "tel": "15588326840",
+    "rating": 4.2,
+    "cost": 19.0,
+    "open": "周一至周日 09:00-14:00,17:00-20:30",
+    "lng": 122.098939,
+    "lat": 37.512484,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/685cbdb228cc204c998cb96c6b413d21"
+    ]
+   }
   },
   {
    "name": "韩式料理",
@@ -203,7 +422,24 @@
    ],
    "tips": [
     "韩国料理店多，挑评价好的去"
-   ]
+   ],
+   "amap": {
+    "name": "韩乐坊",
+    "id": "B0FFGC7MCX",
+    "addr": "环翠区 青岛中路附近",
+    "type": "国家级景点",
+    "tel": "+861056320612,44527156",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-23:30",
+    "lng": 122.153991,
+    "lat": 37.428035,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2dcb2fcae94b89f90000009415416973?type=pic",
+     "https://store.is.autonavi.com/showpic/9372c766e86861910000009227562536?type=pic",
+     "https://store.is.autonavi.com/showpic/879f31fee5a232380000005513480496?type=pic"
+    ]
+   }
   },
   {
    "name": "炸蛎黄",
@@ -215,7 +451,24 @@
    ],
    "tips": [
     "趁热吃最好，凉了会腥"
-   ]
+   ],
+   "amap": {
+    "name": "云海富瑞海鲜饭店",
+    "id": "B0LG3H1JJO",
+    "addr": "荣成市 成山镇成山头路185号楼商业13号",
+    "type": "餐饮相关",
+    "tel": "15684585598",
+    "rating": 4.3,
+    "cost": 50.0,
+    "open": "周一至周日 08:00-22:30",
+    "lng": 122.689606,
+    "lat": 37.393448,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7ba74a051bc0ebfd0000008419680263?type=pic",
+     "https://store.is.autonavi.com/showpic/5de381a7e1134c0c1f881fde11571cd3",
+     "https://aos-comment.amap.com/B0LG3H1JJO/comment/content_media_external_file_100001869_1772814543752_53182795.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

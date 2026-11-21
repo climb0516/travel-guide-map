@@ -21,7 +21,24 @@
     "三孔可以购买联票，以官方公告为准",
     "请讲解或租讲解器，碑刻和建筑的故事很多",
     "早上开园时有开城仪式，可以早点去"
-   ]
+   ],
+   "amap": {
+    "name": "孔庙",
+    "id": "B02190XU6B",
+    "addr": "曲阜市 神道路1号",
+    "type": "世界遗产",
+    "tel": "0537-4712172",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:30(16:30停止入园)",
+    "lng": 116.990055,
+    "lat": 35.5949,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bd690b10165076c50000009490832745?type=pic",
+     "https://store.is.autonavi.com/showpic/3c7825b8cdbd1c900000007882360545?type=pic",
+     "https://store.is.autonavi.com/showpic/773f5f611f7479670000002594522623?type=pic"
+    ]
+   }
   },
   {
    "name": "孔府",
@@ -36,7 +53,24 @@
    "tips": [
     "和孔庙紧挨着，可以连着参观",
     "节假日人多，早点去"
-   ]
+   ],
+   "amap": {
+    "name": "曲阜三孔景区-孔府",
+    "id": "B02190A8QE",
+    "addr": "曲阜市 鼓楼西街",
+    "type": "世界遗产",
+    "tel": "0537-4414789",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1/1-12/31 08:00–16:30开放 最晚进入16:30；国庆节 07:30–17:00开放",
+    "lng": 116.991965,
+    "lat": 35.597051,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fe5f596bddfd160544e80059c7dea4e2",
+     "https://store.is.autonavi.com/showpic/dd587e8f512c7ce17870a61f4053339e",
+     "https://store.is.autonavi.com/showpic/0f130beeed27efb38734f9460bb06343"
+    ]
+   }
   },
   {
    "name": "孔林",
@@ -51,7 +85,24 @@
    "tips": [
     "离孔庙孔府有一段距离，可以坐观光车或打车",
     "林区很大，带上水"
-   ]
+   ],
+   "amap": {
+    "name": "曲阜明故城(三孔)旅游区-孔林",
+    "id": "B02190148D",
+    "addr": "曲阜市 林道路",
+    "type": "世界遗产",
+    "tel": "0537-4712172",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1/1-12/31 08:30–17:00开放 最晚进入17:00；国庆节 08:00–17:30开放",
+    "lng": 116.991834,
+    "lat": 35.620779,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/112713d43ef227c219dfed242d968af9",
+     "https://store.is.autonavi.com/showpic/a8893a692a52ad14fc65339254fd6d6d",
+     "https://store.is.autonavi.com/showpic/d178e2055bf486a36fdceace893f92ff"
+    ]
+   }
   },
   {
    "name": "颜庙",
@@ -66,7 +117,24 @@
    "tips": [
     "开放时间以官方公告为准",
     "就在古城里，离孔庙不远，可以步行前往"
-   ]
+   ],
+   "amap": {
+    "name": "颜庙",
+    "id": "B021902002",
+    "addr": "曲阜市 颜庙街",
+    "type": "寺庙道观",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:30 最晚进入16:30",
+    "lng": 116.994256,
+    "lat": 35.600216,
+    "photos": [
+     "https://aos-comment.amap.com/B021902002/comment/content_media_external_file_5739_ss__1768876448077_86803916.jpg",
+     "https://store.is.autonavi.com/showpic/887446a38fdda0c50000009394408385?type=pic",
+     "https://aos-comment.amap.com/B021902002/comment/content_media_external_file_100001702_1766665936027_76509326.jpg"
+    ]
+   }
   },
   {
    "name": "曲阜明故城",
@@ -81,7 +149,24 @@
    "tips": [
     "演出和夜游活动以当地公告为准",
     "古城不大，步行就能逛完"
-   ]
+   ],
+   "amap": {
+    "name": "曲阜明故城(三孔)旅游区",
+    "id": "B02190A3JB",
+    "addr": "曲阜市 静轩中路北鼓楼南街",
+    "type": "国家级景点",
+    "tel": "0537-3709609",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:30-17:00 最晚进入16:30",
+    "lng": 116.992007,
+    "lat": 35.596283,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b141bbb517fa555a6055bbc8e1ee13af",
+     "https://store.is.autonavi.com/showpic/bdb5a888acdda7ccb9e9a4c2b8b98432",
+     "https://store.is.autonavi.com/showpic/895bb3f3c722dcf3ad2c9dff3115972a"
+    ]
+   }
   },
   {
    "name": "尼山圣境",
@@ -97,7 +182,24 @@
     "离曲阜市区约半小时车程",
     "园区开放和演出时间以官方公告为准",
     "园区很大，坐观光车更省力"
-   ]
+   ],
+   "amap": {
+    "name": "尼山圣境景区",
+    "id": "B0FFGLX9LT",
+    "addr": "曲阜市 尼山镇",
+    "type": "风景名胜",
+    "tel": "4006882323",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "7月20日-9月30日 09:30-21:00开放（19:50停止售票，20:00停止入园）；具体开放时间以官方通知为准",
+    "lng": 117.213076,
+    "lat": 35.492403,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cc577eb53a071025cce87ff871625e3e",
+     "https://store.is.autonavi.com/showpic/8f097a33f38de62c934283eedae8999f",
+     "https://store.is.autonavi.com/showpic/090bd3596c3c3824fc246e7d48604d86"
+    ]
+   }
   },
   {
    "name": "孟庙孟府",
@@ -112,7 +214,24 @@
    "tips": [
     "从曲阜开车或坐车前往约半小时",
     "人比三孔少，适合慢慢看"
-   ]
+   ],
+   "amap": {
+    "name": "孟庙",
+    "id": "B0FFGRN2WN",
+    "addr": "邹城市 亚圣路1498号",
+    "type": "寺庙道观",
+    "tel": "0537-5221377",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "1月至5月,10月至12月 周一至周日 08:20-17:30；6月至9月 周一至周日 08:20-18:00",
+    "lng": 116.974154,
+    "lat": 35.38762,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fc7f2da768ddeb2cfd9596d75fe1a9c1",
+     "https://store.is.autonavi.com/showpic/8964bc0bc3e8869078c3e2fa5e19ecdd",
+     "https://store.is.autonavi.com/showpic/63157048df01b2e2de772d7534f5a000"
+    ]
+   }
   },
   {
    "name": "微山湖",
@@ -127,7 +246,24 @@
    "tips": [
     "离市区和曲阜都有一段距离，单独安排半天以上",
     "荷花季在夏季，具体花期以当年为准"
-   ]
+   ],
+   "amap": {
+    "name": "微山湖旅游区",
+    "id": "B02190AN5F",
+    "addr": "微山县 微山湖",
+    "type": "省级景点",
+    "tel": "0537-8550005",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "夏季 1/1-12/31(夏季) 08:30–17:30开放 最晚售票17:00 最晚进入17:00；冬季 1/1-12/31(冬季) 08:30–17:00开放 最晚售票16:30 最晚进入16:30",
+    "lng": 117.275952,
+    "lat": 34.683813,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/767a7e6fadcdfb90ad700bc75b026fdd",
+     "https://store.is.autonavi.com/showpic/9450f32dd08bc9c4b6b2eb6fcc3073bb",
+     "https://store.is.autonavi.com/showpic/58adbddeacc83dcf1fe66a47b15c3429"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    "tips": [
     "诗礼银杏、一品豆腐是代表菜，可以优先尝",
     "人少不必点整桌，单点即可"
-   ]
+   ],
+   "amap": {
+    "name": "觀鲁宴·鲁菜名店",
+    "id": "B0LUSR3IM4",
+    "addr": "曲阜市 鼓楼北街与东门大街交叉口东北40米",
+    "type": "中餐厅",
+    "tel": "0537-4415678",
+    "rating": 4.6,
+    "cost": 66.0,
+    "open": "周一至周日 10:00-20:30",
+    "lng": 116.993394,
+    "lat": 35.596726,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c066a5f0eeb45a930000002795106924?type=pic",
+     "https://aos-comment.amap.com/B0LUSR3IM4/comment/content_media_external_file_1000010890_ss__1758858467130_47260928.jpg",
+     "https://store.is.autonavi.com/showpic/13e376a952986f1e0000003109440316?type=pic"
+    ]
+   }
   },
   {
    "name": "甏肉干饭",
@@ -155,7 +308,24 @@
    "tips": [
     "可以加卤蛋、面筋泡、炸青椒",
     "肉比较肥，怕腻可以选瘦一点的"
-   ]
+   ],
+   "amap": {
+    "name": "老济宁甏肉干饭(凌云路店)",
+    "id": "B0JRS5M6PJ",
+    "addr": "任城区 凌云小区西区东门旁",
+    "type": "餐饮相关",
+    "tel": "13345186258",
+    "rating": 4.7,
+    "cost": 41.0,
+    "open": "周一至周日 11:00-20:30",
+    "lng": 116.641382,
+    "lat": 35.422925,
+    "photos": [
+     "https://aos-comment.amap.com/B0JRS5M6PJ/comment/ebb4c351feffb2b7577223bebff9144d_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/3d1f007ba9500f7f0000009175442101?type=pic",
+     "https://aos-comment.amap.com/B0JRS5M6PJ/comment/50fd20112f56d1a3b584c035157bf62f_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "煎饼卷大葱",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "刚摊好的煎饼最香"
-   ]
+   ],
+   "amap": {
+    "name": "煎饼卷大葱",
+    "id": "B0FFFE9ILP",
+    "addr": "曲阜市 春秋路苗孔东十巷24号",
+    "type": "中餐厅",
+    "tel": "15263710995",
+    "rating": 4.3,
+    "cost": 67.0,
+    "open": "周一至周日 11:30-14:00,17:00-21:00",
+    "lng": 116.972938,
+    "lat": 35.582067,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFE9ILP/comment/d05c4b8489a675c6e52caacfed46a792_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/4792e074d315bce00000003103280631?type=pic",
+     "https://aos-comment.amap.com/B0FFFE9ILP/comment/172813725356_1728137294389_37658759.jpg"
+    ]
+   }
   },
   {
    "name": "微山湖鱼",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "点菜前问清价格和计价方式"
-   ]
+   ],
+   "amap": {
+    "name": "微山湖野 生鱼",
+    "id": "B0LAKUJSAD",
+    "addr": "嘉祥县 嘉祥街道S319省道路南护山小学向东280米",
+    "type": "中餐厅",
+    "tel": "15263798195",
+    "rating": 3.4,
+    "cost": 53.0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 116.326732,
+    "lat": 35.423741,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/67066f02e09d3b0255178b488d206637",
+     "https://store.is.autonavi.com/showpic/a83a460c7b51bf51502de690c68c5cde",
+     "https://store.is.autonavi.com/showpic/66783ef47f2fe63a9fc23c5b679c6d0b"
+    ]
+   }
   },
   {
    "name": "熏豆腐",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "配辣椒酱或蒜泥更香"
-   ]
+   ],
+   "amap": {
+    "name": "寻秦记(三孔景区店)",
+    "id": "B0JDRKD8K8",
+    "addr": "曲阜市 大同路阙里社区金贵街四胡同4号",
+    "type": "中餐厅",
+    "tel": "15865726627",
+    "rating": 4.5,
+    "cost": 56.0,
+    "open": "周一至周日 11:00-14:30,16:30-21:30",
+    "lng": 116.991583,
+    "lat": 35.586313,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1b02f9fd42fed14e0000003383692413?type=pic",
+     "https://store.is.autonavi.com/showpic/2c1511918c8e48300b6011e0358e8efc?operate=original",
+     "https://aos-comment.amap.com/B0JDRKD8K8/comment/content_media_external_file_100002201_1758609805539_37377393.jpg"
+    ]
+   }
   },
   {
    "name": "玉堂酱菜",
@@ -203,7 +424,24 @@
    ],
    "tips": [
     "小包装方便携带"
-   ]
+   ],
+   "amap": {
+    "name": "玉堂酱园(红星东路店)",
+    "id": "B0FFFQVD3K",
+    "addr": "任城区 红星东路43-22号明珠小区",
+    "type": "餐饮相关",
+    "tel": "13863751152",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 08:00-19:00",
+    "lng": 116.618075,
+    "lat": 35.41525,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/69176d229c94bf7b1f071be23733fb63",
+     "https://store.is.autonavi.com/showpic/37eed57dd532d0952b72e8a3abb6e4c1",
+     "https://aos-comment.amap.com/B0FFFQVD3K/comment/content_media_external_file_100000482_1772257437962_58250278.jpg"
+    ]
+   }
   },
   {
    "name": "羊肉汤",
@@ -215,7 +453,24 @@
    ],
    "tips": [
     "汤一般可以续，饼泡进汤里吃"
-   ]
+   ],
+   "amap": {
+    "name": "柳行羊汤馆(刘庄路)",
+    "id": "B02190AD2E",
+    "addr": "任城区 刘庄路12号菜市新区",
+    "type": "清真菜馆",
+    "tel": "13355103141",
+    "rating": 4.6,
+    "cost": 21.0,
+    "open": "周一至周日 05:00-14:00",
+    "lng": 116.597488,
+    "lat": 35.409777,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ed0d87336ad91f7f0000003573482697?type=pic",
+     "https://aos-comment.amap.com/B02190AD2E/comment/f5d7e503236ef0f615fc31d0de3443ee_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/eee33a921fb5123b0000000980342202?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

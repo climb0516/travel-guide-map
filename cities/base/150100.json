@@ -20,7 +20,24 @@
    "tips": [
     "寺内部分殿堂禁止拍照，遵守现场提示",
     "宗教活动期间人多，注意秩序"
-   ]
+   ],
+   "amap": {
+    "name": "大召无量寺",
+    "id": "B01D7023U2",
+    "addr": "玉泉区 大召前街",
+    "type": "寺庙道观",
+    "tel": "0471-6303154",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "04-30至10-08 周一至周日 08:00-18:30 最晚进入17:30；10-09至04-29 周一至周日 08:30-17:30 最晚进入17:00",
+    "lng": 111.654236,
+    "lat": 40.799767,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/6f79d325-2e5e-496a-b9da-3dbb09a27728.jpg",
+     "https://store.is.autonavi.com/showpic/db134c8a2efeb9e2c85fbb02195caa6b",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/0dd765be-f776-4922-80f8-7b3f7a85056b.jpg"
+    ]
+   }
   },
   {
    "name": "席力图召",
@@ -35,7 +52,24 @@
    "tips": [
     "和大召、塞上老街步行可达",
     "白塔和经堂外墙的装饰值得细看"
-   ]
+   ],
+   "amap": {
+    "name": "席力图召",
+    "id": "B01D702WT3",
+    "addr": "玉泉区 石头巷北端",
+    "type": "风景名胜",
+    "tel": "13848618234",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30 最晚进入17:00",
+    "lng": 111.656084,
+    "lat": 40.800935,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a713d73bd80767d730e080f343feaf2f",
+     "https://store.is.autonavi.com/showpic/2293fdd994c452c5c92688ba3e43f92c",
+     "https://store.is.autonavi.com/showpic/5ea87a5527fdbbc7af058dc3f38b5293"
+    ]
+   }
   },
   {
    "name": "塞上老街",
@@ -50,7 +84,24 @@
    "tips": [
     "牛肉干、奶食品多比较几家再买",
     "老街里有烧麦馆，逛完可以顺便吃"
-   ]
+   ],
+   "amap": {
+    "name": "塞上老街",
+    "id": "B0MU3PNUZ0",
+    "addr": "玉泉区 大南街街道",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 111.647018,
+    "lat": 40.797729,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/277feea8f0fb7eea0000003493832902?type=pic",
+     "https://store.is.autonavi.com/showpic/96c9b4c79e3271db90e9353c5409d013",
+     "https://store.is.autonavi.com/showpic/5dad0019856a8f96e67dfc3c47d37ca4"
+    ]
+   }
   },
   {
    "name": "五塔寺",
@@ -65,7 +116,24 @@
    "tips": [
     "规模较小，一小时足够",
     "可以和大召、席力图召连在一起"
-   ]
+   ],
+   "amap": {
+    "name": "五塔寺",
+    "id": "B0FFGMDTBH",
+    "addr": "玉泉区 五塔寺后街48号",
+    "type": "寺庙道观",
+    "tel": "0471-5972640",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一,周三至周日 09:00-17:00开放 最晚进入16:30；周二 全天不开放；元旦节,春节,清明节,劳动节,中秋节,国庆节 09:00-17:00开放 最晚进入16:30；端午节 09:00-19:00开放 最晚进入18:30；具体开放时间以官方通知为准",
+    "lng": 111.664521,
+    "lat": 40.799381,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/12dd89c92181b90d0000002638812995?type=pic",
+     "https://store.is.autonavi.com/showpic/19b6bd2c5d02f3690000004747090735?type=pic",
+     "https://store.is.autonavi.com/showpic/614da27dad01f98b0000008018408353?type=pic"
+    ]
+   }
   },
   {
    "name": "内蒙古博物院",
@@ -80,7 +148,24 @@
    "tips": [
     "免费参观，需要提前预约，周一闭馆，以官方公告为准",
     "节假日预约名额紧张，提前几天约"
-   ]
+   ],
+   "amap": {
+    "name": "内蒙古博物院",
+    "id": "B0FFJVJ58F",
+    "addr": "赛罕区 新华东街76号",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00,16:00停止入馆周一 不开放(国家法定节假日除外)",
+    "lng": 111.76568,
+    "lat": 40.841694,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ba4b3cb12c6d91a90000009431108595?type=pic",
+     "https://store.is.autonavi.com/showpic/8fe542a7c6514d8f0000007329824286",
+     "https://store.is.autonavi.com/showpic/7783fdef8a0d77e8d559ded6d6bb4431"
+    ]
+   }
   },
   {
    "name": "昭君博物院",
@@ -95,7 +180,24 @@
    "tips": [
     "离市区有一段距离，打车前往",
     "园区较大，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "昭君博物院",
+    "id": "B01D701IUD",
+    "addr": "玉泉区 209国道",
+    "type": "旅游景点",
+    "tel": "0471-5150061",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至9月 周一,周三至周日 09:00-17:00 最晚进入16:30；1月至9月 周二 全天关闭 10-01至10-07 周一至周日 09:00-17:00 最晚进入16:30；10-08至12-31 周一,周三至周日 09:00-17:00 最晚进入16:30；10-08至12-31 周二 全天关闭",
+    "lng": 111.683529,
+    "lat": 40.708696,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4b82806929cd5513e8526c70c6940858",
+     "https://aos-comment.amap.com/B01D701IUD/comment/content_media_external_file_100003017_1773378591125_33651059.jpg",
+     "https://store.is.autonavi.com/showpic/15b9b4585c8d8085b5ed9cdc539bd612"
+    ]
+   }
   },
   {
    "name": "将军衙署",
@@ -110,7 +212,24 @@
    "tips": [
     "开放时间以官方公告为准",
     "规模不大，一小时左右即可看完"
-   ]
+   ],
+   "amap": {
+    "name": "绥远城将军衙署",
+    "id": "B01D70QPMF",
+    "addr": "新城区 新城西街(将军衙署地铁站B1口步行200米)",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 09:30-16:30",
+    "lng": 111.687347,
+    "lat": 40.825998,
+    "photos": [
+     "https://aos-comment.amap.com/B01D70QPMF/comment/content_media_external_file_1000097378_ss__1756601594117_50709179.jpg",
+     "https://aos-comment.amap.com/B01D70QPMF/comment/content_media_external_file_1000097381_ss__1756601594117_86742474.jpg",
+     "https://aos-comment.amap.com/B01D70QPMF/comment/content_media_external_file_1000097384_ss__1756601594200_21469794.jpg"
+    ]
+   }
   },
   {
    "name": "敕勒川草原",
@@ -126,7 +245,24 @@
     "希拉穆仁、辉腾锡勒都不在呼和浩特市范围内，需要包车或自驾",
     "草原上骑马、射箭等项目先问清价格和时长",
     "草原早晚温差大，夏天也要带外套"
-   ]
+   ],
+   "amap": {
+    "name": "敕勒川草原",
+    "id": "B0G25SVB25",
+    "addr": "新城区 苏尔干街8号",
+    "type": "风景名胜",
+    "tel": "0471-4102864",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00；具体营业状态以当天开放情况为准。",
+    "lng": 111.883372,
+    "lat": 40.92357,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d8212fd6a4871af50000003726802662?type=pic",
+     "https://store.is.autonavi.com/showpic/7d7eb8577bd2c07502d01f7be8250968",
+     "https://store.is.autonavi.com/showpic/f8cf10bb50eb26f30000003950908490?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    "tips": [
     "按两计量，先少点，不够再加",
     "配砖茶或奶茶最地道"
-   ]
+   ],
+   "amap": {
+    "name": "德顺源·非遗烧麦·老菜 (东河御府店)",
+    "id": "B0HKYSR6K3",
+    "addr": "新城区 察哈尔大街东河御府南门S1一层102号商铺",
+    "type": "中餐厅",
+    "tel": "0471-6789456",
+    "rating": 4.7,
+    "cost": 55.0,
+    "open": "周一至周日 06:00-14:00,17:00-21:30",
+    "lng": 111.734614,
+    "lat": 40.860319,
+    "photos": [
+     "https://aos-comment.amap.com/B0HKYSR6K3/comment/2850995C_7D93_4ADB_A3F4_098319895812_L0_001_1166_85_1760929242810_77144771.jpg",
+     "https://store.is.autonavi.com/showpic/d137a5ae3ea548270000002636138439?type=pic",
+     "https://aos-comment.amap.com/B0HKYSR6K3/comment/5B62507F_40C8_494D_B85B_62492B0D6ABC_L0_001_1170_140_1760929242811_30904379.jpg"
+    ]
+   }
   },
   {
    "name": "蒙古奶茶",
@@ -154,7 +307,24 @@
    "tips": [
     "炒米泡进奶茶里吃",
     "第一次喝咸奶茶可能不习惯，可以先点一小壶"
-   ]
+   ],
+   "amap": {
+    "name": "歌日乐格冰煮羊(金桥店)",
+    "id": "B0I1XCRKIS",
+    "addr": "赛罕区 帅家营路千家和泰B14号楼6号商铺",
+    "type": "特色/地方风味餐厅",
+    "tel": "13674759069",
+    "rating": 4.6,
+    "cost": 65.0,
+    "open": "周一至周日 10:30-14:30,16:30-23:30",
+    "lng": 111.706566,
+    "lat": 40.764446,
+    "photos": [
+     "https://aos-comment.amap.com/B0I1XCRKIS/comment/68d5e3863b2a45a892970ba62ed9f056_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0I1XCRKIS/comment/46df17e295a101117b8a8bdd86b4de97_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0I1XCRKIS/comment/89cbdeafd3691202e6521d9738b5dd39_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "手把肉",
@@ -167,7 +337,24 @@
    "tips": [
     "蘸韭菜花最地道",
     "按斤计价的话先问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "塞伊德蒙餐(腾飞北路店)",
+    "id": "B0I6CHN5E5",
+    "addr": "新城区 腾飞北路名都和景52号楼底商1-2层",
+    "type": "中餐厅",
+    "tel": "0471-6683111",
+    "rating": 4.8,
+    "cost": 97.0,
+    "open": "周一至周日 07:00-10:30,10:30-14:30,17:00-21:30",
+    "lng": 111.740956,
+    "lat": 40.855669,
+    "photos": [
+     "https://aos-comment.amap.com/B0I6CHN5E5/comment/9B56008E_C71B_4188_B175_C42207BFED32_L0_001_2000_150_1756192154855_27580626.jpg",
+     "https://aos-comment.amap.com/B0I6CHN5E5/comment/BB4D8652_4A7F_46DB_BD2E_0D167F3CFF9C_L0_001_2000_1500_1725712808981_54679896.jpg",
+     "https://aos-comment.amap.com/B0I6CHN5E5/comment/748e15b99eb9a0c2a29d7e4e325bb0d9_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "烤羊腿",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "人少就点羊腿或羊排，不必点全羊"
-   ]
+   ],
+   "amap": {
+    "name": "放羊的红太狼烤羊腿(水岸小镇店)",
+    "id": "B0K2Z72A70",
+    "addr": "新城区 水岸小镇水岸漫街9号别墅",
+    "type": "特色/地方风味餐厅",
+    "tel": "18548144461",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周日 10:30-14:30,16:00-03:00",
+    "lng": 111.752945,
+    "lat": 40.84546,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c92b96a913614bae0000005211008909?type=pic",
+     "https://store.is.autonavi.com/showpic/2c732b9c2e7dff1d0000000906326424?type=pic",
+     "https://aos-comment.amap.com/comment/content_service__1769991340012_36342516_1769991349000_87447679.jpg"
+    ]
+   }
   },
   {
    "name": "羊杂碎",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "配焙子吃是本地习惯"
-   ]
+   ],
+   "amap": {
+    "name": "老·贝尔杂碎馆",
+    "id": "B01D701JU2",
+    "addr": "新城区 电动小区北区南2门西110米",
+    "type": "中餐厅",
+    "tel": "18247105888",
+    "rating": 4.7,
+    "cost": 28.0,
+    "open": "周一至周日 06:30-13:00",
+    "lng": 111.700395,
+    "lat": 40.832793,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/47351b110b0370a22c84d77bd681f248",
+     "https://store.is.autonavi.com/showpic/440270a7ad32ec850ff2ed57163262da",
+     "https://store.is.autonavi.com/showpic/e4489d14d542152dbf02882d70300a3a"
+    ]
+   }
   },
   {
    "name": "焙子",
@@ -203,7 +424,24 @@
    ],
    "tips": [
     "配羊杂碎或奶茶一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "杨老大焙子铺",
+    "id": "B0LUHACKUN",
+    "addr": "回民区 通道街街道回民区宽巷子西口",
+    "type": "餐饮相关",
+    "tel": "15335575668",
+    "rating": 4.5,
+    "cost": 19.0,
+    "open": "周一至周日 06:30-21:30",
+    "lng": 111.65603,
+    "lat": 40.8109,
+    "photos": [
+     "https://aos-comment.amap.com/B0LUHACKUN/comment/78C53A12_5C93_4319_A460_F6049EE9B74B_L0_001_1500_200_1773015637837_17803895.jpg",
+     "https://store.is.autonavi.com/showpic/5f61402a2ab4f8b30000003519582183?type=pic",
+     "https://store.is.autonavi.com/showpic/9083243a71c92e530000009194808503?type=pic"
+    ]
+   }
   },
   {
    "name": "莜面",
@@ -215,7 +453,24 @@
    ],
    "tips": [
     "比较顶饱，几个人分一笼就够"
-   ]
+   ],
+   "amap": {
+    "name": "半亩地莜面大王(呼和浩特加利大厦店)",
+    "id": "B01D701JOA",
+    "addr": "回民区 锡林郭勒南路3加利大厦1、2层",
+    "type": "中餐厅",
+    "tel": "17747141774",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周日 11:30-14:30,17:30-21:30",
+    "lng": 111.672434,
+    "lat": 40.811429,
+    "photos": [
+     "https://aos-comment.amap.com/B01D701JOA/comment/8e03232ef2a1356024fe33ea6f64f30c_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B01D701JOA/comment/content_media_external_file_1000087475_ss__1758979651040_61241513.jpg",
+     "https://store.is.autonavi.com/showpic/bb66236bf8f629800000005511736204?type=pic"
+    ]
+   }
   },
   {
    "name": "奶食品",
@@ -227,7 +482,24 @@
    ],
    "tips": [
     "奶皮子要冷藏，注意保质期"
-   ]
+   ],
+   "amap": {
+    "name": "萨礼情鲜奶食巨华嘉禧店",
+    "id": "B0KRHZPVC0",
+    "addr": "赛罕区 东影南路萨礼情鲜奶食巨华嘉禧店",
+    "type": "餐饮相关",
+    "tel": "15598087685",
+    "rating": 4.0,
+    "cost": 38.0,
+    "open": "周一至周日 08:30-23:00",
+    "lng": 111.714971,
+    "lat": 40.814933,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2d28ea551c4d9b450000009470723000?type=pic",
+     "https://aos-comment.amap.com/B0KRHZPVC0/comment/content_media_external_file_100001329_1754959746880_18529688.jpg",
+     "https://store.is.autonavi.com/showpic/4f581db362351e406d704353a57c5bf6"
+    ]
+   }
   }
  ],
  "food_areas": [

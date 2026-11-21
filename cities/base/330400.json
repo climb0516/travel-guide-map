@@ -21,7 +21,24 @@
     "南湖革命纪念馆免费，需要提前预约",
     "上湖心岛要坐船，节假日排队较久",
     "七一前后和节假日团队很多"
-   ]
+   ],
+   "amap": {
+    "name": "嘉兴南湖旅游区",
+    "id": "B023D02T8E",
+    "addr": "南湖区 南溪西路1号",
+    "type": "国家级景点",
+    "tel": "0573-82532848",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "00:00-24:00开放式景区,除湖心岛需渡船上岛外,其余大部分均24小时免费开放",
+    "lng": 120.753137,
+    "lat": 30.753681,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5d0af50b145ffa6a4cc8242164b3b77a",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/bb2994e7-b3db-4fab-9879-eea4ba682388.jpg",
+     "https://store.is.autonavi.com/showpic/c55c610edcb51937f9309e4ba4e77176"
+    ]
+   }
   },
   {
    "name": "乌镇西栅",
@@ -37,7 +54,24 @@
     "西栅门票包含夜游，下午进去待到晚上最划算",
     "景区内住宿价格偏高，周末要提前订",
     "乌镇戏剧节期间人多房贵，也有很多演出可以看"
-   ]
+   ],
+   "amap": {
+    "name": "乌镇西栅景区",
+    "id": "B023D02SCY",
+    "addr": "桐乡市 石佛南路18号",
+    "type": "国家级景点",
+    "tel": "0573-88731088",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1/1-12/31 周二至周日:09:00-22:00开放； 说明:【西栅景区】周二至周日:09:00-22:00,【西栅夜景灯光】夏令周日至周四 22:30关闭,周五至周六 23:00关闭冬令周日至周四 22:00关闭,周五至周六 22:30关闭, 西栅景区木心美术馆科技馆东栅景区茅盾故居东栅景区木心故居纪念馆月15号闭馆",
+    "lng": 120.484263,
+    "lat": 30.75027,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4b67afbc2a499100ea4aa6c8f2922718",
+     "https://store.is.autonavi.com/showpic/0d3db572be90f3481eabf93ca86ec7aa",
+     "https://store.is.autonavi.com/showpic/a2c066207271d2aae1bc2c5567e03f04"
+    ]
+   }
   },
   {
    "name": "西塘古镇",
@@ -53,7 +87,24 @@
     "古镇内的景点需要购票，晚上进镇一般不查票",
     "河边酒吧晚上声音大，住宿选离酒吧街远一点的",
     "节假日游客很多，尽量平日去"
-   ]
+   ],
+   "amap": {
+    "name": "西塘古镇",
+    "id": "B023D02T2B",
+    "addr": "嘉善县 西塘镇南苑路258号",
+    "type": "国家级景点",
+    "tel": "0573-84567890",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.893704,
+    "lat": 30.942938,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a144ebb7c9009ab356c91e3dec3329bb",
+     "https://store.is.autonavi.com/showpic/2435a137998e01c3922fd3a72b85589d",
+     "https://store.is.autonavi.com/showpic/986af7d63b11effa24b5b29bd98919e8"
+    ]
+   }
   },
   {
    "name": "月河历史街区",
@@ -68,7 +119,24 @@
    "tips": [
     "街区免费开放，晚上灯亮以后更有味道",
     "周边停车位有限，周末建议打车"
-   ]
+   ],
+   "amap": {
+    "name": "月河历史街区",
+    "id": "B023D03XX5",
+    "addr": "南湖区 禾兴街道建国北路22号",
+    "type": "国家级景点",
+    "tel": "0573-82205588",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.749976,
+    "lat": 30.770826,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8ff95a83a001c1e02716009f52abb91c",
+     "https://store.is.autonavi.com/showpic/33fc7d5880c3dc030000008570558805?type=pic",
+     "https://store.is.autonavi.com/showpic/da998c89ab6665432a7058af6072248e"
+    ]
+   }
   },
   {
    "name": "盐官观潮",
@@ -84,7 +152,24 @@
     "潮水时间每天不同，出发前查好当天的潮汐时刻",
     "观潮一定要站在安全区域，不要下到堤坝下面",
     "农历八月十八前后观潮节人非常多，要早到"
-   ]
+   ],
+   "amap": {
+    "name": "海宁盐官旅游度假区",
+    "id": "B023D0319X",
+    "addr": "海宁市 盐官镇春熙路78号",
+    "type": "国家级景点",
+    "tel": "0573-87088888",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；1. 日场馆:城隍庙、陈阁老宅、五土庙、海神庙、金庸书院、孔庙学宫、王国维故居 营业时间:8:30-17:30。",
+    "lng": 120.551205,
+    "lat": 30.401994,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7e583795dcb09d3a92ee0c4a5462a5cd",
+     "https://store.is.autonavi.com/showpic/38f10dc806c80fb5b25cd2dcbd1ad1f6",
+     "https://store.is.autonavi.com/showpic/b601238afafadf8fa9a7abf05fa4b76d"
+    ]
+   }
   },
   {
    "name": "南北湖",
@@ -99,7 +184,24 @@
    "tips": [
     "景区比较大，自驾最方便",
     "鹰窠顶的路有些陡，穿运动鞋"
-   ]
+   ],
+   "amap": {
+    "name": "南北湖风景名胜区",
+    "id": "B023D02TDV",
+    "addr": "海盐县 澉浦镇331县道",
+    "type": "国家级景点",
+    "tel": "0573-86513123",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-22:00",
+    "lng": 120.847395,
+    "lat": 30.372508,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/39d5f7236be7536e94057d4f5b6fc1c5",
+     "https://store.is.autonavi.com/showpic/cd49246c5784e2310e183ec92b5be78c",
+     "https://store.is.autonavi.com/showpic/4b112de7ec9b543c3703a3bfab513bf7"
+    ]
+   }
   },
   {
    "name": "梅花洲",
@@ -114,7 +216,24 @@
    "tips": [
     "景区规模小，两三个小时足够",
     "公共交通不太方便，自驾或打车前往"
-   ]
+   ],
+   "amap": {
+    "name": "梅花洲景区",
+    "id": "B023D03OFF",
+    "addr": "南湖区 三星路10号",
+    "type": "旅游景点",
+    "tel": "0573-83188333",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 120.851894,
+    "lat": 30.669386,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0d6db47c4ce02cdd5d36d7bad475048a",
+     "https://aos-comment.amap.com/B023D03OFF/comment/4BDA0EFB_7108_4F86_88DB_30AE1F9F5994_L0_001_1179_153_1757288684338_46101374.jpg",
+     "https://aos-comment.amap.com/B023D03OFF/comment/content_media_external_file_1170_1768520256139_94285082.jpg"
+    ]
+   }
   },
   {
    "name": "嘉兴博物馆",
@@ -129,7 +248,24 @@
    "tips": [
     "免费参观，周一一般闭馆",
     "和南湖、纪念馆在一片，步行可达"
-   ]
+   ],
+   "amap": {
+    "name": "嘉兴博物馆",
+    "id": "B023D02TGS",
+    "addr": "南湖区 海盐塘路485号(南湖新渡口南)",
+    "type": "博物馆",
+    "tel": "0573-83677092",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00",
+    "lng": 120.764396,
+    "lat": 30.742223,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a92bc86c95aef14987fa6234933fbd45",
+     "https://store.is.autonavi.com/showpic/49ac05866f0111d455650dc68781d7a5",
+     "https://store.is.autonavi.com/showpic/b3fd26f2e2a4a8cc0000008502492984?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    ],
    "tips": [
     "买回家的选真空包装，保质期更长"
-   ]
+   ],
+   "amap": {
+    "name": "五芳斋(嘉兴总店)",
+    "id": "B023D0235B",
+    "addr": "南湖区 建国南路286号",
+    "type": "老字号",
+    "tel": "18067092072",
+    "rating": 4.6,
+    "cost": 18.0,
+    "open": "周一至周日 06:30-20:30",
+    "lng": 120.753728,
+    "lat": 30.763324,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/551599b64d376a7f014e9513a7124bb8?operate=original",
+     "https://store.is.autonavi.com/showpic/a6a9f51a82f7d99aab4ba51f331bf422",
+     "https://store.is.autonavi.com/showpic/aec290749072a86b5a92dee722bd4759"
+    ]
+   }
   },
   {
    "name": "文虎酱鸭",
@@ -155,7 +308,24 @@
    ],
    "tips": [
     "整只很大，买半只或切块更方便"
-   ]
+   ],
+   "amap": {
+    "name": "文虎酱鸭旗舰店(禾兴南路店)",
+    "id": "B0FFI7XG7Z",
+    "addr": "南湖区 禾兴南路913号(环城北路,雅莹旗舰店斜对面)",
+    "type": "餐饮相关",
+    "tel": "0573-82096286",
+    "rating": 4.5,
+    "cost": 46.0,
+    "open": "周一至周日 07:00-18:30 10-01至10-07 周一至周日 07:00-18:00",
+    "lng": 120.749012,
+    "lat": 30.766825,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFI7XG7Z/comment/content_media_external_file_1000037393_ss__1764302836928_54663971.jpg",
+     "https://aos-comment.amap.com/B0FFI7XG7Z/comment/88bcc1c903e789dac010822f3246248b_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFI7XG7Z/comment/content_media_external_file_1000037390_ss__1764302836925_53640952.jpg"
+    ]
+   }
   },
   {
    "name": "乌镇羊肉",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "秋冬最当季，夏天很多店不做"
-   ]
+   ],
+   "amap": {
+    "name": "书生羊肉面馆",
+    "id": "B0FFIMF14L",
+    "addr": "桐乡市 乌镇西栅大街220号(西栅景区内)",
+    "type": "中餐厅",
+    "tel": "0573-88730377",
+    "rating": 4.5,
+    "cost": 54.0,
+    "open": "周一至周日 07:00-22:00",
+    "lng": 120.485538,
+    "lat": 30.748443,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/380f2e71502843b8d2f975614ab0a8a6",
+     "https://store.is.autonavi.com/showpic/b384ca0e41d3015206e4db295bbdb9c7",
+     "https://store.is.autonavi.com/showpic/ead14640f3784323b6ba72eefdc8ff2d"
+    ]
+   }
   },
   {
    "name": "西塘荷叶粉蒸肉",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "有点油，一个人吃一个就够"
-   ]
+   ],
+   "amap": {
+    "name": "宴西塘海鲜豆捞(嘉善施家宾馆店)(暂停营业)",
+    "id": "B0FFJGOG5Z",
+    "addr": "嘉善县 施家北路141号",
+    "type": "火锅店",
+    "tel": "0573-84271777",
+    "rating": 4.4,
+    "cost": 105.0,
+    "open": "周一至周日 10:30-13:30,16:00-02:00",
+    "lng": 120.936289,
+    "lat": 30.84673,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/624166e5abaae34d9d1c0319e092c94b",
+     "https://store.is.autonavi.com/showpic/6a19dff4abc047d704c5e999276107c4",
+     "https://store.is.autonavi.com/showpic/2bff4c7f86b52ec6c4e587ab724f5dc1"
+    ]
+   }
   },
   {
    "name": "南湖菱",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "只在夏末秋初有，其他季节很难吃到"
-   ]
+   ],
+   "amap": {
+    "name": "古茗(嘉兴南湖天地)",
+    "id": "B0J2GRBWXN",
+    "addr": "南湖区 南湖路173号",
+    "type": "休闲餐饮场所",
+    "tel": "15068208137",
+    "rating": 4.3,
+    "cost": 15.0,
+    "open": "周一至周四,周日 09:30-21:30；周五至周六 09:30-22:00",
+    "lng": 120.764443,
+    "lat": 30.756549,
+    "photos": [
+     "https://img.alicdn.com/imgextra/i2/O1CN013xzjdi1RsXLRp0pfX_!!6000000002167-2-tps-3333-3333.png",
+     "https://store.is.autonavi.com/showpic/656349af58e16fb30000002352784992?type=pic",
+     "https://store.is.autonavi.com/showpic/9c77dcfa86cf38e9194471614624de4c"
+    ]
+   }
   },
   {
    "name": "海宁缸肉",
@@ -203,7 +424,24 @@
    ],
    "tips": [
     "分量大，按块或按份点，先问清楚"
-   ]
+   ],
+   "amap": {
+    "name": "贾老板缸肉馆",
+    "id": "B0FFJ4W2MT",
+    "addr": "海宁市 盐官景区潮韵街11号",
+    "type": "中餐厅",
+    "tel": "15024375455",
+    "rating": 4.4,
+    "cost": 44.0,
+    "open": "周一至周日 10:00-15:00",
+    "lng": 120.547772,
+    "lat": 30.40356,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJ4W2MT/comment/b2b42c7495b080619f8ed6f5d5c01cdd_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/61ac5acf3dc8b2f6be474268e9147c50",
+     "https://aos-comment.amap.com/B0FFJ4W2MT/comment/1d354d996ed2d314082bafc8c12319ec_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

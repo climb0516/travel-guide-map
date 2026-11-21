@@ -21,7 +21,24 @@
     "需要购票，以景区公告为准",
     "土楼里有居民生活，参观注意礼貌，不要擅自进入私人房间",
     "可以住在土楼民宿，晚上体验楼里的宁静"
-   ]
+   ],
+   "amap": {
+    "name": "福建土楼永定景区·洪坑土楼群",
+    "id": "B0HBNCXVTY",
+    "addr": "永定区 湖坑镇洪坑村福建土楼永定景区内",
+    "type": "国家级景点",
+    "tel": "0592-2390551",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 116.974213,
+    "lat": 24.651185,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/640691f885043133aa1ed7d20b03a76e",
+     "https://aos-comment.amap.com/B0HBNCXVTY/comment/file_media_Photo_8169_IMG_1791176820_7734_IMG_20261005_130520_heic_ss__1792210438073_06967869.jpg",
+     "https://aos-comment.amap.com/B0HBNCXVTY/comment/content_media_external_file_100000667_1768710701204_80161656.jpg"
+    ]
+   }
   },
   {
    "name": "承启楼",
@@ -36,7 +53,24 @@
    "tips": [
     "从洪坑过来车程不远，可以安排在同一天",
     "楼内光线较暗，拍照注意"
-   ]
+   ],
+   "amap": {
+    "name": "承启楼",
+    "id": "B025502AT5",
+    "addr": "永定区 高头乡利民路15号",
+    "type": "世界遗产",
+    "tel": "0597-3252703",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 06:30-20:30 最晚进入20:30",
+    "lng": 117.007956,
+    "lat": 24.660456,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d7aa056afe93157ce5c26d230627b8c8",
+     "https://store.is.autonavi.com/showpic/8979ddeedca2165e344bd19071d8e625",
+     "https://store.is.autonavi.com/showpic/ed570b17e9ffe6722e4bc33feff14baf"
+    ]
+   }
   },
   {
    "name": "初溪土楼群",
@@ -51,7 +85,24 @@
    "tips": [
     "距离洪坑、高北有一段车程，提前规划",
     "观景台在早上或傍晚光线最好"
-   ]
+   ],
+   "amap": {
+    "name": "初溪土楼群",
+    "id": "B02550PAC7",
+    "addr": "永定区 下洋镇初溪村",
+    "type": "风景名胜",
+    "tel": "0597-5586500",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月1日至5月31日 08:30-19:00开放(18:30停止售票,18:30停止入园)；6月1日至9月30日 08:30-19:30开放(19:00停止售票,19:00停止入园)；10月1日至12月31日 08:30-19:00开放(18:30停止售票,18:30停止入园)",
+    "lng": 116.906065,
+    "lat": 24.546628,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e9cb0476c13eb6110000009223368869?type=pic",
+     "https://store.is.autonavi.com/showpic/dd7472cb53e6b0316618c5c98c90b920",
+     "https://store.is.autonavi.com/showpic/dfcccb9b25381dc90000000962398505?type=pic"
+    ]
+   }
   },
   {
    "name": "古田会议旧址",
@@ -67,7 +118,24 @@
     "一般免费参观，可能需要预约，以官方公告为准",
     "节假日团队多，尽量早去",
     "和纪念馆、周边旧址一起安排半天"
-   ]
+   ],
+   "amap": {
+    "name": "古田会议会址",
+    "id": "B025502B2U",
+    "addr": "上杭县 古田镇",
+    "type": "国家级景点",
+    "tel": "0597-3609366",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "06月01日至10月08日 08:00-18:00 (最晚进入17:30),10月09日至05月31日 08:00-17:30 (最晚进入17:00),2026-02-16全天关闭",
+    "lng": 116.826084,
+    "lat": 25.216883,
+    "photos": [
+     "https://aos-comment.amap.com/B025502B2U/comment/file_media_Photo_24721_IMG_1764125543_19641_IMG_20251126_105043_jpg_ss__1772629564647_01561315.jpg",
+     "https://store.is.autonavi.com/showpic/63a184362b139c590000009005522922",
+     "https://store.is.autonavi.com/showpic/1a971229dbf46dfc02210ef5748ff9c2"
+    ]
+   }
   },
   {
    "name": "冠豸山",
@@ -82,7 +150,24 @@
    "tips": [
     "登山和游船安排以景区公告为准",
     "夏天山上晒，做好防晒"
-   ]
+   ],
+   "amap": {
+    "name": "冠豸山景区",
+    "id": "B025501M3Y",
+    "addr": "连城县 石景路1号",
+    "type": "国家级景点",
+    "tel": "0597-8931866",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "4月1日至5月31日08:00-17:30最晚进入15:30；6月1日至10月15日08:00-18:00最晚进入16:00；10月16日至3月31日08:00-17:00最晚进入14:30",
+    "lng": 116.791399,
+    "lat": 25.708726,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d514447dc616b37547019464684cfb39",
+     "https://store.is.autonavi.com/showpic/8284f536d1beffac13220378b7946ad1",
+     "https://store.is.autonavi.com/showpic/5e3b276e48b58c5a4e2841b645ffeff4"
+    ]
+   }
   },
   {
    "name": "培田古民居",
@@ -97,7 +182,24 @@
    "tips": [
     "请个讲解能更好地理解建筑和家族故事",
     "开放和票务安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "连城县培田古村落",
+    "id": "B02550OQB1",
+    "addr": "连城县 宣和镇培田村新福路1-1号",
+    "type": "风景名胜",
+    "tel": "0597-8388998",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-19:00 最晚进入19:00",
+    "lng": 116.639521,
+    "lat": 25.637433,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4c13d325b3527ef54ad06a790f97fb03",
+     "https://store.is.autonavi.com/showpic/30beba11a0255f9cab2d11dbcd58a672",
+     "https://store.is.autonavi.com/showpic/f9f893f2d1486933256870adaae0e15c"
+    ]
+   }
   },
   {
    "name": "长汀古城",
@@ -112,7 +214,24 @@
    "tips": [
     "适合住一晚，晚上城墙和江边夜景好看",
     "店头街小吃多，可以边逛边吃"
-   ]
+   ],
+   "amap": {
+    "name": "长汀古城",
+    "id": "B025502CBI",
+    "addr": "长汀县 汀州镇兆征路99号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 116.354445,
+    "lat": 25.832938,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/0dde375d-2e07-4086-a1c0-52754bb5680b.jpg",
+     "https://store.is.autonavi.com/showpic/d5a52459f8873d940000005235502816?type=pic",
+     "https://store.is.autonavi.com/showpic/1312fd60b864fd32569365c5c2d3a0da"
+    ]
+   }
   },
   {
    "name": "梅花山中国虎园",
@@ -127,7 +246,24 @@
    "tips": [
     "开放和票务安排以官方公告为准",
     "山区天气多变，带件外套"
-   ]
+   ],
+   "amap": {
+    "name": "龙岩梅花山虎园",
+    "id": "B025502B7F",
+    "addr": "上杭县 古田镇上福村112号",
+    "type": "风景名胜",
+    "tel": "0597-3601599",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周五 08:00-17:30 最晚进入17:00；周六至周日 08:00-18:00 最晚进入17:30；萌虎天团见面会，即日起 - 8月30日 (每日 8:00-18:00)",
+    "lng": 116.883326,
+    "lat": 25.296351,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c20de18715d87739c8e282e60acab26c",
+     "https://store.is.autonavi.com/showpic/60ffe0787ce818ff6d4188265debb09d",
+     "https://store.is.autonavi.com/showpic/b18571f48450721402291f76c690d833"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    "tips": [
     "配米饭，分量足可以多人分",
     "菜干可以买一些带回家"
-   ]
+   ],
+   "amap": {
+    "name": "梅菜扣肉饼(龙岩万达广场店)",
+    "id": "B0FFKP0E78",
+    "addr": "新罗区 双龙路1号万达广场龙岩新罗店1F层",
+    "type": "冷饮店",
+    "tel": "15880362689",
+    "rating": 3.6,
+    "cost": 10.0,
+    "open": "周一至周日 10:30-22:30",
+    "lng": 117.021425,
+    "lat": 25.056475,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c9aa42dcfd8dfa0687ff62b890b8f21b",
+     "https://store.is.autonavi.com/showpic/cb692ce5fedb8c432cbddf0f8e2d3f61",
+     "https://store.is.autonavi.com/showpic/b8193b9148c95573601f767ac367b825"
+    ]
+   }
   },
   {
    "name": "长汀河田鸡",
@@ -154,7 +307,24 @@
    ],
    "tips": [
     "白斩最能吃出鸡本身的味道"
-   ]
+   ],
+   "amap": {
+    "name": "天元河田土鸡店(莲花山店)",
+    "id": "B0255020FL",
+    "addr": "新罗区 南环西路178号",
+    "type": "中餐厅",
+    "tel": "0597-2280049",
+    "rating": 4.5,
+    "cost": 62.0,
+    "open": "周一至周日 11:00-14:00,16:00-22:00 10-01至10-07 周一至周日 08:30-14:00,16:00-21:00",
+    "lng": 117.028419,
+    "lat": 25.079623,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6619ee0e1aeaf7dd12696f555fb3f3cf",
+     "https://store.is.autonavi.com/showpic/a1f13940369af9010000009397054427?type=pic",
+     "https://store.is.autonavi.com/showpic/21ae16f32743ee4cb62cf8b22f6609d3"
+    ]
+   }
   },
   {
    "name": "连城白鸭",
@@ -166,7 +336,23 @@
    ],
    "tips": [
     "炖汤最常见，适合秋冬吃"
-   ]
+   ],
+   "amap": {
+    "name": "连城白鸭之香(城市桂冠店)",
+    "id": "B0JUYRV4LE",
+    "addr": "新罗区 双泉路78号城市桂冠",
+    "type": "餐饮相关",
+    "tel": "13959079465",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "",
+    "lng": 117.03395,
+    "lat": 25.088621,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d8e411fe4aea2b4046911fc568232b8b",
+     "https://store.is.autonavi.com/showpic/b244f6b01bcd75007ba6489f4e193181"
+    ]
+   }
   },
   {
    "name": "芋子包",
@@ -178,7 +364,22 @@
    ],
    "tips": [
     "刚蒸出来的最好吃"
-   ]
+   ],
+   "amap": {
+    "name": "冠记芋子包笋粄",
+    "id": "B0MADZHS19",
+    "addr": "永定区 华侨新街与061乡道交叉口西南440米",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.0,
+    "cost": 17.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 116.828549,
+    "lat": 24.59075,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/33cdaefcf470d898b69ef1ef6e9f00cd"
+    ]
+   }
   },
   {
    "name": "客家酿豆腐",
@@ -190,7 +391,24 @@
    ],
    "tips": [
     "趁热吃，豆腐最嫩"
-   ]
+   ],
+   "amap": {
+    "name": "肉丸酿豆腐猪肉汤(宏祥华都店)",
+    "id": "B0J1B7NXSP",
+    "addr": "武平县 平川镇宏祥华都20号",
+    "type": "中餐厅",
+    "tel": "13559987312",
+    "rating": 3.8,
+    "cost": 23.0,
+    "open": "周一至周日 06:00-20:00",
+    "lng": 116.10013,
+    "lat": 25.088208,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bf0c8c5b22f42bdc84b1a0231f5a537d",
+     "https://store.is.autonavi.com/showpic/4778114310dd2910484a73edd18d7a1f",
+     "https://store.is.autonavi.com/showpic/79a9296526108a741b9b5877a4a3c13f"
+    ]
+   }
   },
   {
    "name": "簸箕粄",
@@ -202,7 +420,24 @@
    ],
    "tips": [
     "早上去吃，搭配一碗汤"
-   ]
+   ],
+   "amap": {
+    "name": "宣成簸箕粄(富贵嘉园店)",
+    "id": "B0JKMU40Z2",
+    "addr": "长汀县 金碧路50-2号",
+    "type": "中餐厅",
+    "tel": "15860181934",
+    "rating": 4.4,
+    "cost": 12.0,
+    "open": "周一至周日 06:30-13:00",
+    "lng": 116.348569,
+    "lat": 25.835302,
+    "photos": [
+     "https://aos-comment.amap.com/B0JKMU40Z2/comment/97E624E2_90E4_4DFD_9C71_E5F9F178AB3F_L0_001_1126_200_1759748123322_78259293.jpg",
+     "https://store.is.autonavi.com/showpic/7fc6f10817dee79579277779372cf8d1",
+     "https://aos-comment.amap.com/B0JKMU40Z2/comment/content_media_external_images_media_838787_ss__1765163470094_01112538.jpg"
+    ]
+   }
   },
   {
    "name": "闽西八大干",
@@ -214,7 +449,24 @@
    ],
    "tips": [
     "连城地瓜干适合当零食，带回家很受欢迎"
-   ]
+   ],
+   "amap": {
+    "name": "闽西八大干(罗龙东路店)",
+    "id": "B0FFHKGM7J",
+    "addr": "新罗区 罗龙路189号西安红大门综合批发市场",
+    "type": "土特产专卖店",
+    "tel": "13685966135",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 117.018472,
+    "lat": 25.098453,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHKGM7J/comment/cb1801ca462136f6e38c4cfe91f6fcb1_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFHKGM7J/comment/2026-02-04-10-37-36%2BB20F414A-50AB-4059-979B-C9B9878F79A_1770172757081_38553013.jpg",
+     "https://aos-comment.amap.com/B0FFHKGM7J/comment/2026-02-04-10-39-03%2B99B9BD79-68F1-442D-B89D-7C18B8D50B4_1770172757090_44363162.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

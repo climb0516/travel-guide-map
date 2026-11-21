@@ -21,7 +21,24 @@
     "免费参观，需要提前在官方渠道预约，节假日很难约",
     "周一通常闭馆，具体以官方公告为准",
     "华夏古乐演出场次有限，想看要提前查好时间"
-   ]
+   ],
+   "amap": {
+    "name": "河南博物院",
+    "id": "B01730HZRE",
+    "addr": "金水区 农业路8号",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "04/01-10/07 周二-周日 09:00-17:30开放；10/08-03/31 周二-周日 09:00-17:00开放；全年 周一 全天不开放；劳动节,端午节 09:00-18:00开放",
+    "lng": 113.672097,
+    "lat": 34.788263,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a841511758b1da7ea8cc808384911c7e",
+     "https://store.is.autonavi.com/showpic/6129a9cb2f9a66fb061ea96865ee4303",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/09a73b60-8d97-4d51-be02-c50f45abb768.jpeg"
+    ]
+   }
   },
   {
    "name": "只有河南·戏剧幻城",
@@ -37,7 +54,24 @@
     "门票和场次需要提前在官方渠道购买或预约",
     "园区很大，穿舒服的鞋，留出走路时间",
     "离市区较远，返程要提前规划交通"
-   ]
+   ],
+   "amap": {
+    "name": "只有河南·戏剧幻城",
+    "id": "B0FFKEZM5H",
+    "addr": "中牟县 平安大道与广信街交叉口西北角",
+    "type": "风景名胜",
+    "tel": "4000001992",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "10月12日-12月30日:10:00-20:00",
+    "lng": 114.002921,
+    "lat": 34.799139,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/28d243fc89a18432b00ce8f476ec2cf6",
+     "https://store.is.autonavi.com/showpic/e3b7f5a92cb77045c0558117657e1bf7",
+     "https://store.is.autonavi.com/showpic/32b4c03e07ac4721154d1c21f2a54761"
+    ]
+   }
   },
   {
    "name": "郑州黄河风景名胜区",
@@ -53,7 +87,24 @@
     "河滩上的游乐项目问清价格再上",
     "风大时河滩沙尘多，带上口罩和帽子",
     "从市区开车前往约四十分钟"
-   ]
+   ],
+   "amap": {
+    "name": "郑州黄河文化公园",
+    "id": "B01730839D",
+    "addr": "惠济区 江山路黄河南岸1号",
+    "type": "国家级景点",
+    "tel": "0371-68222228",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "08:00-18:00 最晚进入17:30",
+    "lng": 113.512589,
+    "lat": 34.953667,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/06451ab48e112accdbfba5000b48b0d7",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/92110366-c494-4bed-afea-7c37218b902c.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/4d333d06-9519-40f8-ad63-02ca99df4ac1.jpg"
+    ]
+   }
   },
   {
    "name": "二七纪念塔",
@@ -68,7 +119,22 @@
    "tips": [
     "塔内展馆的开放安排以官方公告为准",
     "周边吃饭方便，可以顺路去吃烩面"
-   ]
+   ],
+   "amap": {
+    "name": "郑州二七纪念塔",
+    "id": "B0M1XZ54ZA",
+    "addr": "二七区 西大街21号",
+    "type": "纪念馆",
+    "tel": "",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "",
+    "lng": 113.666521,
+    "lat": 34.752283,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/31decbefd2be65bed6a796dce458a10c"
+    ]
+   }
   },
   {
    "name": "少林寺",
@@ -84,7 +150,24 @@
     "景区面积大，常住院、塔林、初祖庵之间有一段距离，可以坐景区观光车",
     "武术表演有固定场次，以现场公告为准",
     "从郑州市区到登封约一个多小时车程，最好早上出发"
-   ]
+   ],
+   "amap": {
+    "name": "少林寺",
+    "id": "B0173065N4",
+    "addr": "登封市 河南省郑州市登封市少林街道",
+    "type": "寺庙道观",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "07:00-17:00 最晚进入17:00",
+    "lng": 112.941373,
+    "lat": 34.507029,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/05a0a1d3a38831f24c23ead9f3e88fd0",
+     "https://store.is.autonavi.com/showpic/0c3f12d98994f40d65f0a9089d08e01b",
+     "https://store.is.autonavi.com/showpic/e908b00e43a571209cd334ea0d4ed52a"
+    ]
+   }
   },
   {
    "name": "嵩山三皇寨",
@@ -100,7 +183,24 @@
     "栈道临崖，恐高的人量力而行",
     "索道运行受天气影响，以景区当天安排为准",
     "穿防滑鞋，雨天石阶湿滑"
-   ]
+   ],
+   "amap": {
+    "name": "三皇寨",
+    "id": "B0FFFCLJNL",
+    "addr": "登封市 西南15公里的少室山西南侧",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00；同少林景区开放时间",
+    "lng": 112.952063,
+    "lat": 34.473496,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9b756e4618f348e13a375e63916ac894",
+     "https://store.is.autonavi.com/showpic/6853521d5d40a3f9fbc27d65fe8c410a",
+     "https://aos-comment.amap.com/B0FFFCLJNL/comment/46180FE1_7354_4997_8804_60527B98DDDA_L0_001_1170_181_1772209268093_78978356.jpg"
+    ]
+   }
   },
   {
    "name": "嵩阳书院",
@@ -115,7 +215,24 @@
    "tips": [
     "可以和中岳庙、观星台安排在同一天",
     "参观安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "嵩阳书院",
+    "id": "B0173049F0",
+    "addr": "登封市 嵩阳南路",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00 最晚进入17:00",
+    "lng": 113.033552,
+    "lat": 34.480289,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e598d77176b8938197689da8e7b632f9",
+     "https://store.is.autonavi.com/showpic/f0c4fddc31add02df1dea3d4133b240c",
+     "https://store.is.autonavi.com/showpic/90ec5d1fec21e8758ad13d122b9e49a7"
+    ]
+   }
   },
   {
    "name": "中岳庙",
@@ -130,7 +247,24 @@
    "tips": [
     "离登封市区很近，适合作为登封行程的收尾",
     "观星台和中岳庙都属于「天地之中」历史建筑群"
-   ]
+   ],
+   "amap": {
+    "name": "中岳庙",
+    "id": "B0173049EE",
+    "addr": "登封市 少林大道附近",
+    "type": "国家级景点",
+    "tel": "0371-62850819",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:30-17:00 最晚进入17:00",
+    "lng": 113.074125,
+    "lat": 34.457862,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b6df0ac0cc78a3b50000008090428223?type=pic",
+     "https://store.is.autonavi.com/showpic/897dcb62c71874d5f81fd2f629c6e869",
+     "https://store.is.autonavi.com/showpic/802da1ba1ac94dc00000009072952411?type=pic"
+    ]
+   }
   },
   {
    "name": "康百万庄园",
@@ -145,7 +279,24 @@
    "tips": [
     "巩义在郑州和洛阳之间，可以放在去洛阳的路上",
     "开放安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "康百万庄园",
+    "id": "B01730489F",
+    "addr": "巩义市 康店镇庄园路59号",
+    "type": "国家级景点",
+    "tel": "0371-64322766",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "8:30-17:30,17:00停止入园",
+    "lng": 112.950939,
+    "lat": 34.762906,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8174600752f56b758397ab156aed8c3c",
+     "https://store.is.autonavi.com/showpic/2423b2b64a4c60745413e4d0d8c4a16a",
+     "https://store.is.autonavi.com/showpic/aa89a819130c3809f04c5ac171332a27"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +311,24 @@
    "tips": [
     "可以选「三鲜烩面」或「羊肉烩面」，分量很足",
     "面条宽而长，用筷子挑着吃，注意汤烫"
-   ]
+   ],
+   "amap": {
+    "name": "萧记三鲜烩面(商城路店)",
+    "id": "B0173089KN",
+    "addr": "管城回族区 商城路231-10号",
+    "type": "中餐厅",
+    "tel": "0371-66215554",
+    "rating": 4.6,
+    "cost": 53.0,
+    "open": "周一至周日 10:30-22:30",
+    "lng": 113.672503,
+    "lat": 34.754583,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=ste4f07c9e-9b49-42ac-b964-82f7af227a99&user=search&operate=original",
+     "https://aos-comment.amap.com/B0173089KN/comment/B05D6412_2451_4037_A9D1_07D5C5FEC3E4_L0_001_1206_86_1772183312173_38699086.jpg",
+     "https://aos-comment.amap.com/B0173089KN/comment/content_media_external_file_138123_ss__1768387061355_64909736.jpg"
+    ]
+   }
   },
   {
    "name": "胡辣汤",
@@ -173,7 +341,24 @@
    "tips": [
     "胡椒味很冲，第一次喝可以要两掺",
     "早餐店一般上午卖完就收，早点去"
-   ]
+   ],
+   "amap": {
+    "name": "方中山胡辣汤(布厂街店)",
+    "id": "B0FFK9D1V9",
+    "addr": "管城回族区 陇海东路237号陇海大厦底商",
+    "type": "清真菜馆",
+    "tel": "15290035269",
+    "rating": 4.6,
+    "cost": 21.0,
+    "open": "周一至周日 06:00-14:00",
+    "lng": 113.670152,
+    "lat": 34.740412,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFK9D1V9/comment/content_media_external_images_media_1000056024_ss__1735787971206_61854159.jpg",
+     "https://aos-comment.amap.com/B0FFK9D1V9/comment/content_media_external_images_media_100009855_1748967610447_13228654.jpg",
+     "https://aos-comment.amap.com/B0FFK9D1V9/comment/DD641A6D_EA1E_41F1_9AD1_C06298B0AC92_L0_001_1500_200_1767972457990_91619108.jpg"
+    ]
+   }
   },
   {
    "name": "蔡记蒸饺",
@@ -186,7 +371,24 @@
    "tips": [
     "刚出笼的蒸饺很烫，先咬个小口",
     "可以几种馅各点一笼一起尝"
-   ]
+   ],
+   "amap": {
+    "name": "老蔡记(二七广场店)",
+    "id": "B017308VXG",
+    "addr": "二七区 德化美食街与彩虹路路口(德化街2号楼4号)",
+    "type": "综合酒楼",
+    "tel": "0371-66950885",
+    "rating": 4.4,
+    "cost": 34.0,
+    "open": "周一至周日 06:30-21:30",
+    "lng": 113.66768,
+    "lat": 34.751026,
+    "photos": [
+     "https://aos-comment.amap.com/B017308VXG/comment/content_media_external_file_42244_ss__1758288117626_11707225.jpg",
+     "https://store.is.autonavi.com/showpic/30a8d779d708ead30000008666086305?type=pic",
+     "https://aos-comment.amap.com/B017308VXG/comment/53ED4D91_E96B_4E13_848E_295D5D0AF055_L0_001_1080_1920_1744346430465_08431228.jpg"
+    ]
+   }
   },
   {
    "name": "葛记焖饼",
@@ -198,7 +400,24 @@
    ],
    "tips": [
     "口味偏重，可以配一碗清汤解腻"
-   ]
+   ],
+   "amap": {
+    "name": "葛记焖饼(伏牛路总店)",
+    "id": "B0FFFQLGJY",
+    "addr": "中原区 建设西路100号院(路东)",
+    "type": "特色/地方风味餐厅",
+    "tel": "0371-67869797",
+    "rating": 4.6,
+    "cost": 39.0,
+    "open": "周一至周日 11:00-14:30,17:30-22:00",
+    "lng": 113.607042,
+    "lat": 34.754763,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/134d660f96723788ace12bb102b36ffd",
+     "https://store.is.autonavi.com/showpic/ac6fccbd11555d120000003032088443?type=pic",
+     "https://aos-comment.amap.com/B0FFFQLGJY/comment/content_media_external_images_media_25245_1774008372028_08812251.jpg"
+    ]
+   }
   },
   {
    "name": "炒凉粉",
@@ -210,7 +429,24 @@
    ],
    "tips": [
     "锅底的焦脆部分最香，可以让老板多煎一会儿"
-   ]
+   ],
+   "amap": {
+    "name": "胖子炒凉粉",
+    "id": "B0L21HT4UY",
+    "addr": "管城回族区 城东路街道商城东路20号",
+    "type": "中餐厅",
+    "tel": "13939056623",
+    "rating": 4.6,
+    "cost": 17.0,
+    "open": "周一至周日 10:30-21:30",
+    "lng": 113.692417,
+    "lat": 34.751088,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a7350461b7fbc4240000009488874636?type=pic",
+     "https://store.is.autonavi.com/showpic/57ea093b7e43f3e00000005305522655?type=pic",
+     "https://aos-comment.amap.com/B0L21HT4UY/comment/%5B2026-01-19-23-32-44%5D2B3B7ECB-5E76-4A34-89EC-BAF8CDFDA53_1768836775234_66555962.jpg"
+    ]
+   }
   },
   {
    "name": "黄河鲤鱼",
@@ -223,7 +459,24 @@
    "tips": [
     "整条鱼分量大，人少可以问能否做小一点的",
     "鱼刺多，吃的时候注意"
-   ]
+   ],
+   "amap": {
+    "name": "阿五黄河大鲤鱼(英协路店)",
+    "id": "B01730ICL9",
+    "addr": "金水区 英协路229号",
+    "type": "中餐厅",
+    "tel": "0371-65850888",
+    "rating": 4.8,
+    "cost": 100.0,
+    "open": "周一至周日 11:30-14:00,17:30-21:00",
+    "lng": 113.718661,
+    "lat": 34.760293,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/120f0dd327d83ae064a35ab545f0f8e7",
+     "https://store.is.autonavi.com/showpic/4bc44389cc1ff7541622063e264b19c4",
+     "https://aos-comment.amap.com/B01730ICL9/comment/content_media_external_file_1000174089_ss__1763361191535_80312755.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

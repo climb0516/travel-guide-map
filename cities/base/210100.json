@@ -21,7 +21,24 @@
     "门票需要提前在官方渠道预约购买",
     "周一一般闭馆，出发前确认",
     "和张氏帅府、中街步行可达，可以安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "沈阳故宫博物院",
+    "id": "B001809F61",
+    "addr": "沈河区 沈阳路171号",
+    "type": "国家级景点",
+    "tel": "024-24843809",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "夏秋04:10-10:10日:周二至周日 08:30-17:00 16:15停止入馆；冬春10:11-4.9日:周二至周日 09:00-16:30 15:45停止入馆,国家法定节假日除外",
+    "lng": 123.455677,
+    "lat": 41.798387,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2d15219b6a147017203952563a011a3a",
+     "https://store.is.autonavi.com/showpic/f0471fbd66cf78a7fb929c1e02abbb3c",
+     "https://store.is.autonavi.com/showpic/72d301075d03d0d2467191a6f39522f8"
+    ]
+   }
   },
   {
    "name": "张氏帅府",
@@ -37,7 +54,24 @@
     "门票需要提前预约购买",
     "离沈阳故宫很近，步行可达",
     "请讲解能听到很多有意思的历史细节"
-   ]
+   ],
+   "amap": {
+    "name": "张氏帅府博物馆",
+    "id": "B0FFJH89KM",
+    "addr": "沈河区 南顺城路",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 08:30-17:30,节假日营业时间以官方通知为准",
+    "lng": 123.459848,
+    "lat": 41.794078,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f984e7a91a1ddde32246b8a6b9760a78",
+     "https://store.is.autonavi.com/showpic/a8b2cfb52278fbd90000003810624958?type=pic",
+     "https://store.is.autonavi.com/showpic/a964ce7a08a8f38f0000001496660423?type=pic"
+    ]
+   }
   },
   {
    "name": "北陵公园",
@@ -53,7 +87,24 @@
     "公园和昭陵分别售票，只逛公园不进陵区也可以",
     "地铁 2 号线北陵公园站下车",
     "冬天下雪后去最好看"
-   ]
+   ],
+   "amap": {
+    "name": "北陵公园",
+    "id": "B00180J99V",
+    "addr": "皇姑区 泰山路12号",
+    "type": "国家级景点",
+    "tel": "024-86901330",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 05:00-21:00；4月至10月 05:00-21:30；淡季:(11月1日-3月31日),北陵公园开放时间:05:00-21:00,北陵公园售票时间:08:00-16:00,清昭陵开放时间:08:30-16:30,清昭陵停止检票时间:16:00,旺季:(4月1日-10月31日),北陵公园开放时间:05:00-21:30,北陵公园售票时间:07:00-17:00,清昭陵开放时间:07:30-17:30,清昭陵停止检票时间:17:00",
+    "lng": 123.428469,
+    "lat": 41.851637,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7af25e92bdaa258591daa802c7bb462b",
+     "https://store.is.autonavi.com/showpic/46a3a888e2a5cd70b81b1423cc6eea26",
+     "https://store.is.autonavi.com/showpic/63ce9f0a51b2f9461fdf473e4087065c"
+    ]
+   }
   },
   {
    "name": "福陵",
@@ -68,7 +119,24 @@
    "tips": [
     "离市区较远，打车或自驾更方便",
     "秋天山上的树叶变色时最好看"
-   ]
+   ],
+   "amap": {
+    "name": "沈阳市东陵公园",
+    "id": "B00180J791",
+    "addr": "浑南区 古井路与G1501沈阳绕城高速交叉口东陵路210号(东陵路)",
+    "type": "国家级景点",
+    "tel": "024-88031478",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 08:30-16:30 最晚进入16:30；4月至10月 周一至周日 08:00-17:00 最晚进入17:00",
+    "lng": 123.592798,
+    "lat": 41.839119,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/312a63318f4b92cdababdbefe1dd2101",
+     "https://store.is.autonavi.com/showpic/1505180dec99b1e2df61cabf7f39056a",
+     "https://store.is.autonavi.com/showpic/556e0c26070c1813f53f0cfba02c8ef4"
+    ]
+   }
   },
   {
    "name": "九一八历史博物馆",
@@ -84,7 +152,24 @@
     "免费参观，需要提前预约",
     "周一闭馆",
     "参观时保持安静和尊重"
-   ]
+   ],
+   "amap": {
+    "name": "九·一八历史博物馆",
+    "id": "B00180IVIR",
+    "addr": "大东区 望花南街46号",
+    "type": "博物馆",
+    "tel": "024-88338981",
+    "rating": 5.0,
+    "cost": 0,
+    "open": "5月1日至10月10日 周二至周日 周二至周日:09:00-17:00开放(16:30停止入馆)；10月11日至次年4月30日 周二至周日 09:00-16:30(16:00停止入馆国家法定节假日除外)具体开放时间以官方通知为准",
+    "lng": 123.467533,
+    "lat": 41.836397,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ceb3d0ce6ef5576226482e7a09391eec",
+     "https://store.is.autonavi.com/showpic/10bbcf96b88513e9cd46eff3e1446ba0",
+     "https://store.is.autonavi.com/showpic/a0b2a6ce4d6ab3f30000003832488612?type=pic"
+    ]
+   }
   },
   {
    "name": "辽宁省博物馆",
@@ -100,7 +185,24 @@
     "免费参观，需要提前预约",
     "周一闭馆",
     "在浑南，离市中心较远，坐地铁或打车"
-   ]
+   ],
+   "amap": {
+    "name": "辽宁省博物馆",
+    "id": "B00181CCPS",
+    "addr": "浑南区 智慧三街157号",
+    "type": "博物馆",
+    "tel": "024-22741193",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周二至周日:09:00-17:00,16:30停止入场(,法定节假日和寒暑假除外)特殊情况另行公告",
+    "lng": 123.460464,
+    "lat": 41.678023,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/98113510b8aa19d6e7cdb4d7c88dbd03",
+     "https://store.is.autonavi.com/showpic/69b47a220778f47ef1625f6e0bcee4d5",
+     "https://store.is.autonavi.com/showpic/c5d29e96418fc3637b1f7a14aff6ea70"
+    ]
+   }
   },
   {
    "name": "中街",
@@ -115,7 +217,24 @@
    "tips": [
     "和沈阳故宫、张氏帅府连在一起逛",
     "冬天的中街冰雕和灯光也很好看"
-   ]
+   ],
+   "amap": {
+    "name": "沈阳中街步行街",
+    "id": "B00180IOR6",
+    "addr": "沈河区 中街路",
+    "type": "步行街",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 123.461542,
+    "lat": 41.80125,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1208611beed48d0aab83dc91bd1507e6",
+     "https://store.is.autonavi.com/showpic/8d413c734a2f822cabd3156b20278f3e",
+     "https://store.is.autonavi.com/showpic/b251ba08b00550850000009391136677?type=pic"
+    ]
+   }
   },
   {
    "name": "西塔",
@@ -130,7 +249,24 @@
    "tips": [
     "热门烤肉店晚饭时间要排队",
     "冷面可以先尝一小碗，比较酸甜"
-   ]
+   ],
+   "amap": {
+    "name": "西塔",
+    "id": "B00180J6UM",
+    "addr": "和平区 北市场街道市府大路25号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-16:00",
+    "lng": 123.408655,
+    "lat": 41.805107,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e36583dc861f421e1b0e0a4dac8a3699",
+     "https://store.is.autonavi.com/showpic/081dcc872f7b38a1acc020ab011d1c76",
+     "https://store.is.autonavi.com/showpic/be08b67a3042563b0000004590330198?type=pic"
+    ]
+   }
   },
   {
    "name": "中国工业博物馆",
@@ -146,7 +282,24 @@
     "免费参观，需要提前预约",
     "周一闭馆",
     "在铁西区，可以和 1905 文化创意园一起安排"
-   ]
+   ],
+   "amap": {
+    "name": "中国工业博物馆",
+    "id": "B0018172PT",
+    "addr": "铁西区 重工街道卫工北街14号(近北一路)",
+    "type": "博物馆",
+    "tel": "024-25702088",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一 全天关闭(法定节假日除外),周二至周日09:00-16:00,2026年2月15日至2026年2月18日全天关闭",
+    "lng": 123.355206,
+    "lat": 41.82148,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/61d06dc367f0396f97c41696ab793d18",
+     "https://store.is.autonavi.com/showpic/0c378384330ede75f881fe79eb3cf10e",
+     "https://store.is.autonavi.com/showpic/fe58eda0afb5f8c83a8a7ddda8e05203"
+    ]
+   }
   }
  ],
  "foods": [
@@ -161,7 +314,24 @@
    "tips": [
     "人少的话点几种口味的小份对比着吃",
     "正餐时间人多，可以错峰"
-   ]
+   ],
+   "amap": {
+    "name": "老边饺子馆(总店)",
+    "id": "B001808B2B",
+    "addr": "沈河区 中街路208号1-3层(中街地铁站B1口旁)",
+    "type": "特色/地方风味餐厅",
+    "tel": "024-24315666",
+    "rating": 4.5,
+    "cost": 70.0,
+    "open": "周一至周日 10:00-21:30 2026-05-01至2026-05-05 周一至周日 10:00-21:30",
+    "lng": 123.460651,
+    "lat": 41.801507,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1771639912847_30510524_1771639929813_61110694.jpg",
+     "https://store.is.autonavi.com/showpic/51521e9e2833fd309e30eba8085b811c",
+     "https://store.is.autonavi.com/showpic/e3ebf426a3779c1c0000002690028325?type=pic"
+    ]
+   }
   },
   {
    "name": "马家烧麦",
@@ -173,7 +343,24 @@
    ],
    "tips": [
     "趁热吃，小心汤汁烫嘴"
-   ]
+   ],
+   "amap": {
+    "name": "马家烧麦总店",
+    "id": "B0FFIKEDL2",
+    "addr": "沈河区 小西路64号",
+    "type": "清真菜馆",
+    "tel": "024-83831555",
+    "rating": 4.0,
+    "cost": 47.0,
+    "open": "周一至周日 10:00-20:30 10-01至10-07 周一至周日 10:00-20:30",
+    "lng": 123.442377,
+    "lat": 41.80165,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIKEDL2/comment/20260316-ffb435069b7c3eb6ebeb6295-7O7vgi6ihgY6G5OOknAoXN.jpg",
+     "https://store.is.autonavi.com/showpic/dd495cf5b58793040000000961858260?type=pic",
+     "https://store.is.autonavi.com/showpic/fc0373e02fbc01a80000002478902688?type=pic"
+    ]
+   }
   },
   {
    "name": "鸡架",
@@ -186,7 +373,24 @@
    "tips": [
     "熏鸡架和烤鸡架都可以尝尝",
     "配啤酒是标准吃法"
-   ]
+   ],
+   "amap": {
+    "name": "老奉天焦火鸡架",
+    "id": "B0IUPRE7NI",
+    "addr": "皇姑区 白云山路26号老奉天焦火鸡架",
+    "type": "快餐厅",
+    "tel": "18604053332",
+    "rating": 4.7,
+    "cost": 10.0,
+    "open": "周一至周日 14:00-20:30",
+    "lng": 123.402571,
+    "lat": 41.816656,
+    "photos": [
+     "https://aos-comment.amap.com/B0IUPRE7NI/comment/886de5059ebab0761d616d408fda2a2b_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0IUPRE7NI/comment/73bed74b-0c70-47e6-880b-cbef0fd562bd.png",
+     "https://aos-comment.amap.com/B0IUPRE7NI/comment/54b0f843edaef4f531942a54c99ba32a_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "锅包肉",
@@ -198,7 +402,24 @@
    ],
    "tips": [
     "趁热吃最酥，放凉就软了"
-   ]
+   ],
+   "amap": {
+    "name": "王厚元饺子(高登店)",
+    "id": "B0H1F5EWLO",
+    "addr": "沈河区 青年大街52号",
+    "type": "特色/地方风味餐厅",
+    "tel": "024-22912777",
+    "rating": 4.7,
+    "cost": 76.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 123.4311,
+    "lat": 41.799148,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f10cd4bf31cf5dfb0000008830022005?type=pic",
+     "https://store.is.autonavi.com/showpic/eabb816a60e6a9eb0000003587480415?type=pic",
+     "https://aos-comment.amap.com/B0H1F5EWLO/comment/E93CD0D4_0E7C_48C8_98D7_F3605475146D_L0_001_1620_155_1766029115944_45334998.jpg"
+    ]
+   }
   },
   {
    "name": "西塔烤肉",
@@ -210,7 +431,24 @@
    ],
    "tips": [
     "热门店傍晚就开始排队，早点去"
-   ]
+   ],
+   "amap": {
+    "name": "金家烤鳗鱼(图们路店)",
+    "id": "B0FFF4GDIT",
+    "addr": "和平区 图门路82号1-1-4",
+    "type": "餐饮相关",
+    "tel": "024-22526988",
+    "rating": 4.5,
+    "cost": 130.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 123.414231,
+    "lat": 41.805126,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/92c5213d89be56bebdf36789038aa2d0",
+     "https://aos-comment.amap.com/B0FFF4GDIT/comment/content_media_external_file_2235_1769517868117_75469678.jpg",
+     "https://store.is.autonavi.com/showpic/c2b82c5d6008c8730000001496892194?type=pic"
+    ]
+   }
   },
   {
    "name": "酸菜白肉锅",
@@ -222,7 +460,24 @@
    ],
    "tips": [
     "血肠是特色，可以尝尝"
-   ]
+   ],
+   "amap": {
+    "name": "興記·酸菜銅鍋涮肉",
+    "id": "B0K0UMZOXS",
+    "addr": "和平区 天津北街11号",
+    "type": "火锅店",
+    "tel": "024-31014766",
+    "rating": 4.6,
+    "cost": 52.0,
+    "open": "周一至周日 10:00-00:00 10-01至10-07 周一至周日 10:00-00:00",
+    "lng": 123.405297,
+    "lat": 41.794817,
+    "photos": [
+     "https://aos-comment.amap.com/B0K0UMZOXS/comment/content_media_external_file_87927_ss__1765782220176_31975722.jpg",
+     "https://store.is.autonavi.com/showpic/0363a2485a1e2dc70000002351930945?type=pic",
+     "https://aos-comment.amap.com/B0K0UMZOXS/comment/content_media_external_file_1758_1762122873493_15116531.jpg"
+    ]
+   }
   },
   {
    "name": "李连贵熏肉大饼",
@@ -234,7 +489,24 @@
    ],
    "tips": [
     "肥瘦可以按口味选择"
-   ]
+   ],
+   "amap": {
+    "name": "李连贵熏肉大饼(浑南店)",
+    "id": "B0FFIJOMNZ",
+    "addr": "浑南区 世纪路5-4号8门",
+    "type": "北京菜",
+    "tel": "",
+    "rating": 3.9,
+    "cost": 53.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 123.455275,
+    "lat": 41.717182,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIJOMNZ/comment/175927703862_1759277040508_92402188.jpg",
+     "https://store.is.autonavi.com/showpic/d5f93e73d9e0c86d0000002382190542?type=pic",
+     "https://aos-comment.amap.com/B0FFIJOMNZ/comment/20260315-4d4dc7a3d104976c5bfd70ae-4vnK3c7kyiN7AGL18vSako.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

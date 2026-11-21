@@ -21,7 +21,24 @@
     "提前在官方渠道购票，留意多日票的使用规则",
     "景区很大，跟着环保车路线图走，不要一天跑太多地方",
     "雨天石阶湿滑，带雨衣比打伞方便"
-   ]
+   ],
+   "amap": {
+    "name": "张家界国家森林公园",
+    "id": "B02E800EFM",
+    "addr": "武陵源区 金鞭路279号",
+    "type": "国家级景点",
+    "tel": "0744-5712345",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 07:00-17:00",
+    "lng": 110.46945,
+    "lat": 29.353896,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/77ad479478f6b6cc6f9ea4a59bbfa689",
+     "https://store.is.autonavi.com/showpic/9dca6025c249adec8184e3f2d372baef",
+     "https://store.is.autonavi.com/showpic/5bd1aacbf146c79480103f2174b2942b"
+    ]
+   }
   },
   {
    "name": "袁家界",
@@ -36,7 +53,24 @@
    "tips": [
     "百龙天梯旺季排队时间长，早上早点去",
     "迷魂台、乾坤柱人多，耐心等位置拍照"
-   ]
+   ],
+   "amap": {
+    "name": "袁家界景区-观景台",
+    "id": "B0FFFPNBKF",
+    "addr": "武陵源区 张家界国家森林公园内",
+    "type": "观景点",
+    "tel": "",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 07:00-17:00",
+    "lng": 110.448512,
+    "lat": 29.34457,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFPNBKF/comment/content_media_external_file_1000187716_ss__1758332415442_90641964.jpg",
+     "https://store.is.autonavi.com/showpic/79a24be0f9bae69c0000005190734680?type=pic",
+     "https://store.is.autonavi.com/showpic/baa66375519347530000005190738400?type=pic"
+    ]
+   }
   },
   {
    "name": "天子山",
@@ -51,7 +85,24 @@
    "tips": [
     "云海需要碰运气，雨后放晴时概率较大",
     "索道运行以景区当天安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "天子山风景区",
+    "id": "B02E80MWZH",
+    "addr": "武陵源区 军地坪武陵源风景名胜区西北部",
+    "type": "风景名胜",
+    "tel": "0744-5617942",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 06:30-17:00；具体营业状态以当天开放情况为准",
+    "lng": 110.443813,
+    "lat": 29.401558,
+    "photos": [
+     "https://aos-comment.amap.com/B02E80MWZH/comment/4c2f9820e690dc2c692bdc985e3c2580_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/0185faf8fa8ec59c9a7ffd404d2bb821",
+     "https://aos-comment.amap.com/B02E80MWZH/comment/120564abeb2547ab7ab0bfb828061541_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "金鞭溪",
@@ -67,7 +118,24 @@
     "猕猴会抢食物，零食和塑料袋收好",
     "全程走完需要两三个小时，可以只走一段",
     "夏天溪边凉快，是最适合避暑的一段"
-   ]
+   ],
+   "amap": {
+    "name": "金鞭溪",
+    "id": "B0FFF3O6X7",
+    "addr": "武陵源区 锣鼓塔街道军地坪武陵源风景名胜区张家界国家森林公园内",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:00-18:00",
+    "lng": 110.469684,
+    "lat": 29.342977,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/27ce2081a340e314ca7bf9fee893c57c",
+     "https://store.is.autonavi.com/showpic/7eaef438773663704f2268d5a613df96",
+     "https://aos-comment.amap.com/B0FFF3O6X7/comment/1B5D05F7_4519_4D10_A441_3E298E85E546_L0_001_1500_200_1748502252488_42065562.jpg"
+    ]
+   }
   },
   {
    "name": "十里画廊",
@@ -82,7 +150,24 @@
    "tips": [
     "小火车运行安排以景区公告为准",
     "步行单程约一个小时，路比较平"
-   ]
+   ],
+   "amap": {
+    "name": "十里画廊",
+    "id": "B0FFF3LH57",
+    "addr": "武陵源区 索溪峪自然保护区",
+    "type": "城市广场",
+    "tel": "0744-5616988",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 110.483406,
+    "lat": 29.370488,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/32262adfdbb25844ede2755741475e48",
+     "https://store.is.autonavi.com/showpic/477db3f07b058f57093428774ee0b309",
+     "https://store.is.autonavi.com/showpic/aac6b901758c60cbcc723d2c41e42044"
+    ]
+   }
   },
   {
    "name": "天门山",
@@ -98,7 +183,24 @@
     "上下山的路线和索道、大巴组合较多，提前在官方渠道看好线路",
     "玻璃栈道恐高的人量力而行",
     "山顶比市区冷，带件外套"
-   ]
+   ],
+   "amap": {
+    "name": "天门山国家森林公园",
+    "id": "B02E800EDY",
+    "addr": "永定区 天门路",
+    "type": "国家级景点",
+    "tel": "0744-8369999",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:00-19:00 最晚进入16:00；具体闭园时间以当天客流量而定",
+    "lng": 110.478686,
+    "lat": 29.032962,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e39ba2232cb87477187620e8ad0f006e",
+     "https://store.is.autonavi.com/showpic/21534f0f941c1292362845ac9c37be9c",
+     "https://store.is.autonavi.com/showpic/d8a1d619f6d62e72f80da636b19d2634"
+    ]
+   }
   },
   {
    "name": "张家界大峡谷玻璃桥",
@@ -114,7 +216,24 @@
     "玻璃桥有时会因天气或检修暂停开放，以景区公告为准",
     "过桥可能需要穿鞋套，随身物品可能有限制",
     "台阶较多，下峡谷需要一定体力"
-   ]
+   ],
+   "amap": {
+    "name": "张家界大峡谷",
+    "id": "B02E80MUST",
+    "addr": "慈利县 三官寺乡",
+    "type": "国家级景点",
+    "tel": "0744-3559999",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "11/02-11/04 08:30–16:00开放；11/05-03/31 08:00–15:30开放；国庆节 07:30–16:30开放",
+    "lng": 110.700739,
+    "lat": 29.410804,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d285447d6475c2010a6b54157e94d7ee",
+     "https://store.is.autonavi.com/showpic/db802a8e2b799270cc0dfe68cf25cc27",
+     "https://store.is.autonavi.com/showpic/cd1c16cae715115288c228e29d5aabf4"
+    ]
+   }
   },
   {
    "name": "黄龙洞",
@@ -129,7 +248,24 @@
    "tips": [
     "洞内湿滑、光线暗，注意脚下",
     "离武陵源城区很近，适合半天安排"
-   ]
+   ],
+   "amap": {
+    "name": "黄龙洞景区",
+    "id": "B02E800EFT",
+    "addr": "武陵源区 索溪峪镇河口村",
+    "type": "国家级景点",
+    "tel": "0744-5618489",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "5月1日-5月4日:07:30-18:00；5月5日:08:00-18:00；5月6日:08:00-13:00；5月7日起:08:00-18:00",
+    "lng": 110.614919,
+    "lat": 29.361874,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/51020518193bd96ccee8da006d6515b7",
+     "https://store.is.autonavi.com/showpic/1051990c233e8bea5c91f13bf3539f21",
+     "https://store.is.autonavi.com/showpic/738f8c5f3ad27bad612d66ccf586f370"
+    ]
+   }
   },
   {
    "name": "宝峰湖",
@@ -144,7 +280,24 @@
    "tips": [
     "游船安排以景区当天公告为准",
     "可以和黄龙洞安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "宝峰湖风景区",
+    "id": "B02E800EDV",
+    "addr": "武陵源区 宝峰路",
+    "type": "国家级景点",
+    "tel": "0744-5616843",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "1月至4月,11月至12月 周一至周日 07:30-17:00；5月至10月 周一至周日 07:00-17:40",
+    "lng": 110.542465,
+    "lat": 29.318776,
+    "photos": [
+     "https://aos-comment.amap.com/B02E800EDV/comment/f71d6aea79f8bd1b57a7991d1e05239a_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02E800EDV/comment/AC86D7BD_28AD_49C1_A329_C536403BC33B_L0_001_900_120_1745673147594_50815303.jpg",
+     "https://aos-comment.amap.com/B02E800EDV/comment/6702ea7de163cea42390031560b06b4b_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -159,7 +312,24 @@
    "tips": [
     "可以选干锅或汤锅，干锅更香",
     "辣度可以和店家商量"
-   ]
+   ],
+   "amap": {
+    "name": "毛氏小馆·特色菜",
+    "id": "B0HKRURVV1",
+    "addr": "武陵源区 军地坪街道吴家峪七组300号",
+    "type": "湖南菜(湘菜)",
+    "tel": "15274472013",
+    "rating": 4.6,
+    "cost": 62.0,
+    "open": "周一至周日 10:30-22:00",
+    "lng": 110.54001,
+    "lat": 29.351279,
+    "photos": [
+     "https://aos-comment.amap.com/B0HKRURVV1/comment/content_media_external_file_1433_1761903327168_64550476.jpg",
+     "https://aos-comment.amap.com/B0HKRURVV1/comment/02763793437d8940133d21aea30601d8_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0HKRURVV1/comment/68f5ce666b4c6d285f241fe9b82ff0b6_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "土家腊肉",
@@ -171,7 +341,24 @@
    ],
    "tips": [
     "腊肉偏咸，配米饭吃刚好"
-   ]
+   ],
+   "amap": {
+    "name": "印象鲵宴(七十二奇楼店)",
+    "id": "B0JRR9ZF27",
+    "addr": "永定区 72奇楼景区大门口旁(不用进景区)",
+    "type": "中餐厅",
+    "tel": "0744-2833779",
+    "rating": 4.6,
+    "cost": 76.0,
+    "open": "周一至周日 11:00-22:00",
+    "lng": 110.456534,
+    "lat": 29.144378,
+    "photos": [
+     "https://aos-comment.amap.com/B0JRR9ZF27/comment/content_media_external_images_media_299017_ss__1727955685105_67590376.jpg",
+     "https://aos-comment.amap.com/B0JRR9ZF27/comment/78cf6a34b4a7797cf75dd32a32b26b81_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0JRR9ZF27/comment/4990BE04_174F_463B_ACC2_0D8B4657F4FB_L0_001_1279_1706_1742658928024_80946948.jpg"
+    ]
+   }
   },
   {
    "name": "葛根粉",
@@ -183,7 +370,24 @@
    ],
    "tips": [
     "酸辣味的偏辣，怕辣可以要少辣"
-   ]
+   ],
+   "amap": {
+    "name": "泉水石锅鱼",
+    "id": "B0FFG7C6OL",
+    "addr": "永定区 官黎坪华天城s07号",
+    "type": "海鲜酒楼",
+    "tel": "0744-8289099",
+    "rating": 4.3,
+    "cost": 63.0,
+    "open": "周一至周日 10:00-22:00 10-01至10-07 周一至周日 09:30-22:00",
+    "lng": 110.482508,
+    "lat": 29.113144,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG7C6OL/comment/content_media_external_file_481_1770690108854_90447696.jpg",
+     "https://aos-comment.amap.com/B0FFG7C6OL/comment/20260321-4845a10010333ddce8e2c7cd-1hREvOpG5CNAv6515ggfR7.jpg",
+     "https://aos-comment.amap.com/B0FFG7C6OL/comment/content_media_external_file_481_1770690108855_98510623.jpg"
+    ]
+   }
   },
   {
    "name": "米豆腐",
@@ -195,7 +399,24 @@
    ],
    "tips": [
     "可以热吃也可以凉吃，天热选凉的更爽口"
-   ]
+   ],
+   "amap": {
+    "name": "陈坛子灶锅鱼(溪布街店)",
+    "id": "B0G2JAIW06",
+    "addr": "武陵源区 索溪路65号免费停车正宗柴火灶招牌柴火鸡柴火鱼",
+    "type": "中餐厅",
+    "tel": "13367445877",
+    "rating": 4.3,
+    "cost": 66.0,
+    "open": "周一至周日 09:30-22:00",
+    "lng": 110.553123,
+    "lat": 29.343932,
+    "photos": [
+     "https://aos-comment.amap.com/B0G2JAIW06/comment/EFF95406_CB12_40BD_A91F_A2D1123FB34D_L0_001_1080_192_1763818489765_61924869.jpg",
+     "https://store.is.autonavi.com/showpic/f70fc4e66538b14cbb502b21784d8a40",
+     "https://store.is.autonavi.com/showpic/999fb56d17e467b3bf71069662b52402"
+    ]
+   }
   },
   {
    "name": "岩耳炖土鸡",
@@ -207,7 +428,24 @@
    ],
    "tips": [
     "岩耳价格较高，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "索溪山寨·湘西民间土菜(溪布街店)",
+    "id": "B0FFKB97RV",
+    "addr": "武陵源区 溪布老街西门旁",
+    "type": "中餐厅",
+    "tel": "15607441616",
+    "rating": 4.6,
+    "cost": 76.0,
+    "open": "周一至周日 10:00-22:30",
+    "lng": 110.552689,
+    "lat": 29.343712,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1ffd8346311aafa0997c8ace0b185ea5",
+     "https://store.is.autonavi.com/showpic/3cbfa4ed89b1d7767b8b6b10666bffcc",
+     "https://store.is.autonavi.com/showpic/a9c65d1eb9e514ab6ddd9dae40298430"
+    ]
+   }
   },
   {
    "name": "糍粑",
@@ -219,7 +457,24 @@
    ],
    "tips": [
     "糯米不好消化，一次别吃太多"
-   ]
+   ],
+   "amap": {
+    "name": "印象鲵宴·天门山索道店",
+    "id": "B0L0ZBDNFF",
+    "addr": "永定区 官黎坪办事处官黎坪居委会(华天城)S1栋S06",
+    "type": "湖南菜(湘菜)",
+    "tel": "18813091879",
+    "rating": 4.6,
+    "cost": 80.0,
+    "open": "周一至周日 10:30-22:00",
+    "lng": 110.482273,
+    "lat": 29.113048,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e46816c09b84bb320000007822348312?type=pic",
+     "https://aos-comment.amap.com/B0L0ZBDNFF/comment/content_media_external_file_1000098784_ss__1770787557012_00514427.jpg",
+     "https://store.is.autonavi.com/showpic/15e4cad42c33cf390107e60a8b2c8133"
+    ]
+   }
   }
  ],
  "food_areas": [

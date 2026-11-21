@@ -21,7 +21,24 @@
     "爬郎峰很陡，恐高和体力一般的人谨慎",
     "雨天石阶湿滑，注意安全",
     "离衢州市区约 1 小时车程"
-   ]
+   ],
+   "amap": {
+    "name": "江郎山省级旅游度假区",
+    "id": "B023A00E21",
+    "addr": "江山市 石门镇余家坞村",
+    "type": "国家级景点",
+    "tel": "0570-4911010",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:00-17:00,16:00停止入场(郎峰开放时间09:00-15:30)",
+    "lng": 118.563311,
+    "lat": 28.553412,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7b4ece8fea8a216ec3dac616032c0d78",
+     "https://store.is.autonavi.com/showpic/eb04a62247244cfcdb6dde979c52c3f5",
+     "https://store.is.autonavi.com/showpic/fa9b97ff742d4c6b063d6a256481d6b3"
+    ]
+   }
   },
   {
    "name": "廿八都古镇",
@@ -36,7 +53,24 @@
    "tips": [
     "从江郎山开车约 1 小时",
     "镇上住宿以民宿为主，选择不多"
-   ]
+   ],
+   "amap": {
+    "name": "江郎山·廿八都旅游区廿八都古镇",
+    "id": "B023A009B5",
+    "addr": "江山市 枫岭路1号",
+    "type": "国家级景点",
+    "tel": "0570-4887543",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30 最晚进入16:00",
+    "lng": 118.483632,
+    "lat": 28.290363,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f4a7970ab5ef45c4a48844e39682a084",
+     "https://store.is.autonavi.com/showpic/7fd0f46f4c9347380000003282608905?type=pic",
+     "https://store.is.autonavi.com/showpic/b4ba8b535ebe43098f0934a2f23f099c"
+    ]
+   }
   },
   {
    "name": "根宫佛国",
@@ -51,7 +85,24 @@
    "tips": [
     "园区大，坐观光车会省力不少",
     "开化离衢州市区约 1 小时车程"
-   ]
+   ],
+   "amap": {
+    "name": "根宫佛国文化旅游区",
+    "id": "B023A1546R",
+    "addr": "开化县 根博路1号",
+    "type": "国家级景点",
+    "tel": "0570-6162588",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "5月1日至10月8日:08:30-18:00(16:30停止入园),10月9日至4月30日:08:30-17:00(16:30停止入园),2026-02-16全天关闭",
+    "lng": 118.390558,
+    "lat": 29.137386,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7c0d992a90b4e002c3f24ac440af4971",
+     "https://store.is.autonavi.com/showpic/a4aa86042d8c237639273fe0c550e696",
+     "https://store.is.autonavi.com/showpic/7afe38f9a8bdc26bf00568810d218712"
+    ]
+   }
   },
   {
    "name": "孔氏南宗家庙",
@@ -66,7 +117,24 @@
    "tips": [
     "在衢州老城内，步行到水亭门街区很方便",
     "可以请讲解员讲讲南宗的故事"
-   ]
+   ],
+   "amap": {
+    "name": "衢州古城文化旅游区孔氏南宗家庙",
+    "id": "B023A00E01",
+    "addr": "柯城区 府山街道新桥街96号街坊附近",
+    "type": "寺庙道观",
+    "tel": "0570-3041551",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00 最晚进入17:30",
+    "lng": 118.876804,
+    "lat": 28.960366,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/59aad3711e4975730000003753656156?type=pic",
+     "https://store.is.autonavi.com/showpic/15cb49c5bb35f2a10000009293408116?type=pic",
+     "https://store.is.autonavi.com/showpic/b1d2991bf82f76ff0000009405884419?type=pic"
+    ]
+   }
   },
   {
    "name": "水亭门历史文化街区",
@@ -81,7 +149,24 @@
    "tips": [
     "免费开放，晚上去最有氛围",
     "衢州菜偏辣，吃不了辣先说一声"
-   ]
+   ],
+   "amap": {
+    "name": "衢州古城文化旅游区水亭门历史文化街区",
+    "id": "B0FFK9U6TG",
+    "addr": "柯城区 县西街",
+    "type": "国家级景点",
+    "tel": "0570-8031818",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.867315,
+    "lat": 28.962062,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d1d9fc323c136ff70000009035918751?type=pic",
+     "https://store.is.autonavi.com/showpic/9ccc04789a8120460000009383664913?type=pic",
+     "https://store.is.autonavi.com/showpic/091afa5f1ee251070000009383412647?type=pic"
+    ]
+   }
   },
   {
    "name": "龙游石窟",
@@ -96,7 +181,24 @@
    "tips": [
     "洞内潮湿阴凉，夏天也带件薄外套",
     "龙游离衢州市区约 40 分钟车程"
-   ]
+   ],
+   "amap": {
+    "name": "龙游石窟",
+    "id": "B023A00E1D",
+    "addr": "龙游县 裕民路44号",
+    "type": "国家级景点",
+    "tel": "0570-7053663",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "01-01至02-15 周一至周日 08:00-16:30 最晚进入16:10；02-16至02-16 周一至周日 08:00-11:00；02-17至12-31 周一至周日 08:00-16:30；16:20停止检票，无固定闭园时间",
+    "lng": 119.190437,
+    "lat": 29.059803,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/51a3918206c274d5ebd57b0c7e24ca9e",
+     "https://store.is.autonavi.com/showpic/88ad0936b4f55e739397e65e5d7f5955",
+     "https://store.is.autonavi.com/showpic/395518e02b295f5d33a1a24e7f5c9730"
+    ]
+   }
   },
   {
    "name": "烂柯山",
@@ -111,7 +213,24 @@
    "tips": [
     "山不高，一两个小时就能走完",
     "离衢州市区开车约 20 分钟"
-   ]
+   ],
+   "amap": {
+    "name": "衢州市烂柯山风景区",
+    "id": "B023A0IGO0",
+    "addr": "柯城区 石室乡",
+    "type": "省级景点",
+    "tel": "0570-3060880",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 118.923911,
+    "lat": 28.876666,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cc37f88cba26e1db6ae705bddbb91abe",
+     "https://store.is.autonavi.com/showpic/7004d069643ac01a5d0cb55833f60772",
+     "https://aos-comment.amap.com/B023A0IGO0/comment/content_media_external_file_16853_ss__1764312805313_78805024.jpg"
+    ]
+   }
   },
   {
    "name": "衢州博物馆",
@@ -126,7 +245,24 @@
    "tips": [
     "免费参观，周一一般闭馆",
     "适合安排在雨天或到达当天的下午"
-   ]
+   ],
+   "amap": {
+    "name": "衢州古城文化旅游区衢州博物馆",
+    "id": "B023A0HY58",
+    "addr": "柯城区 新桥街98号",
+    "type": "博物馆",
+    "tel": "0570-8586971",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "(法定节假日除外),周二至周日 周二至周日:09:00-18:00",
+    "lng": 118.877655,
+    "lat": 28.960507,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c075aec8505864090000003095818720?type=pic",
+     "https://aos-comment.amap.com/B023A0HY58/comment/20260320-0c28ea003f232be5872b06c9-1xNR4XVKxRZAwgx5MSVW4t.jpg",
+     "https://store.is.autonavi.com/showpic/b85045c0c1dfc6f10000003872660479?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    "tips": [
     "辣度不低，怕辣的先试小份",
     "啃的时候店家会给手套"
-   ]
+   ],
+   "amap": {
+    "name": "衢州鸭头",
+    "id": "B0LR6HFDQM",
+    "addr": "柯城区 府山街道县西街156号",
+    "type": "餐饮相关",
+    "tel": "15700000111",
+    "rating": 4.3,
+    "cost": 21.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 118.868875,
+    "lat": 28.962825,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bec9c026f41990180000001995870842?type=pic",
+     "https://store.is.autonavi.com/showpic/6eb90a5296264336f15e371c59523543",
+     "https://aos-comment.amap.com/B0LR6HFDQM/comment/A85535EE_279C_4F31_A4C7_48B1037A6A49_L0_001_1500_200_1761408356839_55458458.jpg"
+    ]
+   }
   },
   {
    "name": "衢州烤饼",
@@ -153,7 +306,22 @@
    ],
    "tips": [
     "刚出炉很烫，小心别烫嘴"
-   ]
+   ],
+   "amap": {
+    "name": "衢州烤饼",
+    "id": "B0KR610BBO",
+    "addr": "江山市 上余小学东北侧250米",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 2.3,
+    "cost": 0,
+    "open": "",
+    "lng": 118.670111,
+    "lat": 28.802788,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/08c25482844d61e7cb86e0a7bf63ac5a"
+    ]
+   }
   },
   {
    "name": "龙游发糕",
@@ -165,7 +333,24 @@
    ],
    "tips": [
     "回家后蒸热或煎一下更好吃"
-   ]
+   ],
+   "amap": {
+    "name": "龙游发糕(马站底店)",
+    "id": "B0FFHDC3NN",
+    "addr": "柯城区 府山街道马站底13号",
+    "type": "糕饼店",
+    "tel": "18367083192",
+    "rating": 4.2,
+    "cost": 13.0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 118.875005,
+    "lat": 28.957582,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHDC3NN/comment/content_media_external_file_24688_ss__1768796629807_68535712.jpg",
+     "https://store.is.autonavi.com/showpic/ddf727bcc98b03569623d099438c7a09",
+     "https://aos-comment.amap.com/B0FFHDC3NN/comment/content_media_external_file_24692_ss__1768796629808_27459713.jpg"
+    ]
+   }
   },
   {
    "name": "开化清水鱼",
@@ -177,7 +362,24 @@
    ],
    "tips": [
     "去根宫佛国、钱江源时顺路吃最合适"
-   ]
+   ],
+   "amap": {
+    "name": "开化清水鱼(芹北路店)",
+    "id": "B0J6AX8NEL",
+    "addr": "开化县 芹北路与林场路交叉口西20米",
+    "type": "中餐厅",
+    "tel": "15215716622",
+    "rating": 4.0,
+    "cost": 51.0,
+    "open": "周一至周日 09:00-23:00",
+    "lng": 118.401839,
+    "lat": 29.137989,
+    "photos": [
+     "https://aos-comment.amap.com/B0J6AX8NEL/comment/a6b67cf4896fb68afad9ea864789cca8_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0J6AX8NEL/comment/58889fafd504cd2853945fc0c469a806_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0J6AX8NEL/comment/a2ee17cfafc644e0cff98d3cd20b551b_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "常山胡柚",
@@ -189,7 +391,24 @@
    ],
    "tips": [
     "秋冬季最新鲜，耐储存可以带走"
-   ]
+   ],
+   "amap": {
+    "name": "常山胡柚祖宗树",
+    "id": "B0L6TZWGRS",
+    "addr": "常山县 澄潭村",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 3.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.61759,
+    "lat": 28.918772,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/14fc7a82b72be93fe84c8d66076db8c7",
+     "https://store.is.autonavi.com/showpic/cacd5b0302c4534fbed373222a9913aa",
+     "https://store.is.autonavi.com/showpic/db00352db3a22b5ab4fd54cfd3f52d05"
+    ]
+   }
   },
   {
    "name": "邵永丰麻饼",
@@ -201,7 +420,24 @@
    ],
    "tips": [
     "不太甜的口味也有，可以问店员"
-   ]
+   ],
+   "amap": {
+    "name": "邵永丰(水亭街店)",
+    "id": "B0FFHE1FZ3",
+    "addr": "柯城区 水亭街63-67号(周宣灵王庙入口南90米)",
+    "type": "糕饼店",
+    "tel": "13575656455",
+    "rating": 4.4,
+    "cost": 21.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 118.866927,
+    "lat": 28.962083,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHE1FZ3/comment/95bf7557bb59710aecaadfffde83f7a9_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFHE1FZ3/comment/3601BB54_2466_41DA_A542_FF556D7541E0_L0_001_1500_2000_1726994707875_39449916.jpg",
+     "https://aos-comment.amap.com/B0FFHE1FZ3/comment/77ff86ccb233311a5825ed19eee64f6a_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

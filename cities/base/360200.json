@@ -21,7 +21,24 @@
     "需要提前预约，开放安排以官方公告为准",
     "博物馆的拱形建筑在傍晚光线下最好看",
     "和陶阳里街区安排在一起，步行即可"
-   ]
+   ],
+   "amap": {
+    "name": "景德镇御窑博物馆",
+    "id": "B031E13Y61",
+    "addr": "珠山区 珠山中路187号",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日 09:00-22:00开放,最晚进入21:30周一 不开放；法定节假日 09:00-22:00开放,最晚进入21:30周一不开放(法定节假日除外)",
+    "lng": 117.207107,
+    "lat": 29.296615,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c3ba36c9502fa9d40000003370658779?type=pic",
+     "https://store.is.autonavi.com/showpic/6402f64127223b680000003182620616?type=pic",
+     "https://store.is.autonavi.com/showpic/af1971d23609f7a80000009291172439?type=pic"
+    ]
+   }
   },
   {
    "name": "中国陶瓷博物馆",
@@ -36,7 +53,24 @@
    "tips": [
     "免费参观，需要提前预约，周一通常闭馆，以官方公告为准",
     "馆比较大，留出半天比较从容"
-   ]
+   ],
+   "amap": {
+    "name": "景德镇中国陶瓷博物馆",
+    "id": "B031E0HX27",
+    "addr": "昌江区 紫晶北路1号",
+    "type": "博物馆",
+    "tel": "0798-8253701",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00，周一全天关闭，节假日营业时间以官方通知为准",
+    "lng": 117.17553,
+    "lat": 29.29324,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a849a6866f582960ed5f8f0fcbcc7c1d",
+     "https://store.is.autonavi.com/showpic/27ed38156849c6450000009457758025?type=pic",
+     "https://store.is.autonavi.com/showpic/b82301f0a235d97a5f88ecf748a0852a"
+    ]
+   }
   },
   {
    "name": "陶阳里历史文化街区",
@@ -51,7 +85,24 @@
    "tips": [
     "和御窑博物馆一起逛最顺路",
     "晚上灯光亮起来更好看"
-   ]
+   ],
+   "amap": {
+    "name": "景德镇陶阳里历史文化旅游区",
+    "id": "B0LBACTXK3",
+    "addr": "珠山区 东门游客服务中心",
+    "type": "风景名胜",
+    "tel": "0798-8226233",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "除夕08:30-16:00开放；08:30-22:00开放",
+    "lng": 117.204535,
+    "lat": 29.296459,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/eb74253137f3cdf30000009412614584?type=pic",
+     "https://store.is.autonavi.com/showpic/6bf508a26efea4c90000009403618095?type=pic",
+     "https://store.is.autonavi.com/showpic/f8b112a6f8b22687b522dc27ff37d071"
+    ]
+   }
   },
   {
    "name": "陶溪川文创街区",
@@ -66,7 +117,24 @@
    "tips": [
     "想逛市集最好安排在周末晚上，具体以园区公告为准",
     "买了瓷器可以让店家打包或寄快递，带着走容易碎"
-   ]
+   ],
+   "amap": {
+    "name": "陶溪川文创街区A区",
+    "id": "B0J1MZTB0H",
+    "addr": "珠山区 里村街道新厂西路351号陶溪川文创街区",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "10:00-22:00, 具体开放时间以现场公示为准",
+    "lng": 117.236185,
+    "lat": 29.29624,
+    "photos": [
+     "https://aos-comment.amap.com/B0J1MZTB0H/comment/content_media_external_file_1000205124_ss__1772092627252_91464345.jpg",
+     "https://store.is.autonavi.com/showpic/5997b403e96c898c0000009305676782?type=pic",
+     "https://aos-comment.amap.com/B0J1MZTB0H/comment/content_media_external_file_1000205122_ss__1772092627256_45523495.jpg"
+    ]
+   }
   },
   {
    "name": "古窑民俗博览区",
@@ -81,7 +149,24 @@
    "tips": [
     "想看柴窑烧窑，可以提前了解景区的活动安排",
     "体验做的作品可能需要后期烧制邮寄，问清楚时间"
-   ]
+   ],
+   "amap": {
+    "name": "景德镇古窑民俗博览区",
+    "id": "B031E0035B",
+    "addr": "昌江区 瓷都大道古窑路1号",
+    "type": "国家级景点",
+    "tel": "0798-8534444",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:00-17:30(16:30停止入园)",
+    "lng": 117.184813,
+    "lat": 29.28343,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/97b8d07cd46ce47967363a813344ffa8",
+     "https://aos-comment.amap.com/B031E0035B/headerImg/605f6211b309584a6a2e90c1c4f90672_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/22af5790bf890cd15716449cd09f04ff"
+    ]
+   }
   },
   {
    "name": "三宝国际陶艺村",
@@ -96,7 +181,24 @@
    "tips": [
     "自驾或打车前往，村里路窄",
     "部分工作室不对外开放，进门前先问一下"
-   ]
+   ],
+   "amap": {
+    "name": "景德镇陶源谷·三宝旅游度假区·三宝国际陶艺村",
+    "id": "B031E0HWOS",
+    "addr": "珠山区 经开区三宝村四家里",
+    "type": "风景名胜",
+    "tel": "0798-8496513",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.26534,
+    "lat": 29.247141,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/798edd800c3a27c36d824df129b6a785",
+     "https://store.is.autonavi.com/showpic/c3eddf8185d7fe670000002393350093?type=pic",
+     "https://aos-comment.amap.com/B031E0HWOS/comment/content_media_external_file_1000032211_ss__1769075229643_36317947.jpg"
+    ]
+   }
   },
   {
    "name": "雕塑瓷厂",
@@ -111,7 +213,24 @@
    "tips": [
     "市集时间以组织方公告为准",
     "喜欢的东西可以多比较几家"
-   ]
+   ],
+   "amap": {
+    "name": "景德镇市雕塑瓷厂·国际陶瓷中心",
+    "id": "B0J0HHTODE",
+    "addr": "珠山区 雕塑瓷厂雕塑精品馆",
+    "type": "科教文化场所",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:00",
+    "lng": 117.254575,
+    "lat": 29.300475,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/730d74715a7b9374d750158eda67bd44",
+     "https://aos-comment.amap.com/B0J0HHTODE/comment/content_media_external_file_1000082058_ss__1758940401617_28180115.jpg",
+     "https://aos-comment.amap.com/B0J0HHTODE/comment/content_media_external_file_1000082059_ss__1758940401604_30353488.jpg"
+    ]
+   }
   },
   {
    "name": "浮梁古县衙",
@@ -126,7 +245,24 @@
    "tips": [
     "和瑶里古镇顺路，可以安排在同一天",
     "开放安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "浮梁古县衙",
+    "id": "B031E0HUCY",
+    "addr": "浮梁县 县衙路",
+    "type": "国家级景点",
+    "tel": "0798-2620150",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "10-15至12-31 周一至周日 07:30-18:00",
+    "lng": 117.251149,
+    "lat": 29.366887,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0422282ee27a98ea873d6ab7c51999ff",
+     "https://aos-comment.amap.com/B031E0HUCY/comment/content_media_external_images_media_100000499_1740062619188_51875379.jpg",
+     "https://aos-comment.amap.com/B031E0HUCY/comment/content_media_external_images_media_40232_ss__1730040525528_98784119.jpg"
+    ]
+   }
   },
   {
    "name": "瑶里古镇",
@@ -141,7 +277,24 @@
    "tips": [
     "自驾前往更方便，山路注意安全",
     "开放安排和票务以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "瑶里古镇风景区",
+    "id": "B031E0HT42",
+    "addr": "浮梁县 瑶里镇",
+    "type": "国家级景点",
+    "tel": "0798-2601228",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.577684,
+    "lat": 29.540982,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a95d3a4757633fbdd9df9bea1a34c657",
+     "https://store.is.autonavi.com/showpic/2bf0e1f0cc17217d2eb47e52331bec17",
+     "https://store.is.autonavi.com/showpic/79adbb04bd9155cbbff3b08f2c56acff"
+    ]
+   }
   }
  ],
  "foods": [
@@ -156,7 +309,24 @@
    "tips": [
     "辣度可以调，先点微辣",
     "晚上去夜宵摊吃最有氛围"
-   ]
+   ],
+   "amap": {
+    "name": "陶姐冷粉(新厂店)",
+    "id": "B0JB2ARCNG",
+    "addr": "珠山区 陶阳中路10号",
+    "type": "餐饮相关",
+    "tel": "14701002824",
+    "rating": 4.5,
+    "cost": 17.0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 117.247436,
+    "lat": 29.300137,
+    "photos": [
+     "https://aos-comment.amap.com/B0JB2ARCNG/comment/b4f2e4fc4c7b0cea7377ff046e0cf2bc_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/3d9c7d34f05efd640000009348680073?type=pic",
+     "https://aos-comment.amap.com/B0JB2ARCNG/comment/3588055a6e12cea1f616ed307bdda817_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "饺子粑",
@@ -168,7 +338,24 @@
    ],
    "tips": [
     "趁热吃最好"
-   ]
+   ],
+   "amap": {
+    "name": "乐乐大排档·30年传承(陶溪川店)",
+    "id": "B0LG3CC838",
+    "addr": "珠山区 新厂西路275号",
+    "type": "中餐厅",
+    "tel": "19082163285",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周日 11:00-02:30",
+    "lng": 117.232379,
+    "lat": 29.293148,
+    "photos": [
+     "https://aos-comment.amap.com/B0LG3CC838/comment/content_media_external_file_100002146_1772147446170_50849294.jpg",
+     "https://aos-comment.amap.com/B0LG3CC838/comment/content_media_external_file_100003608_1772254479011_65808837.jpg",
+     "https://store.is.autonavi.com/showpic/38b639c501ca5c3d0000001612486827?type=pic"
+    ]
+   }
   },
   {
    "name": "碱水粑",
@@ -180,7 +367,24 @@
    ],
    "tips": [
     "和腊肉一起炒最香"
-   ]
+   ],
+   "amap": {
+    "name": "瓷都饭局·瓷都菜(古窑博物馆店)",
+    "id": "B0JA1SOB0F",
+    "addr": "昌江区 时代奥园3栋3号",
+    "type": "中餐厅",
+    "tel": "0798-8571677",
+    "rating": 4.7,
+    "cost": 63.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 117.189149,
+    "lat": 29.290672,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7d24d5d4902532d90000002949280001?type=pic",
+     "https://store.is.autonavi.com/showpic/c21d60d451015dda0000003099964724?type=pic",
+     "https://store.is.autonavi.com/showpic/84500934e337e4510000002462432976?type=pic"
+    ]
+   }
   },
   {
    "name": "油炸馍",
@@ -192,7 +396,24 @@
    ],
    "tips": [
     "刚出锅的最酥脆"
-   ]
+   ],
+   "amap": {
+    "name": "景德镇鸡排哥",
+    "id": "B0L3NHDTMP",
+    "addr": "昌江区",
+    "type": "快餐厅",
+    "tel": "13767918956",
+    "rating": 4.8,
+    "cost": 10.0,
+    "open": "周一至周日 14:30-22:00",
+    "lng": 117.176862,
+    "lat": 29.290929,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/504cf70e7c1ca83d0000002891234563?type=pic",
+     "https://store.is.autonavi.com/showpic/c1828345847715f30000009008508698?type=pic",
+     "https://store.is.autonavi.com/showpic/8dc631f93b68436d0000003054152319?type=pic"
+    ]
+   }
   },
   {
    "name": "瓷泥煨鸡",
@@ -204,7 +425,24 @@
    ],
    "tips": [
     "制作时间较长，最好提前打电话预订"
-   ]
+   ],
+   "amap": {
+    "name": "三宝别院·村宴非遗景德菜(三宝村店)",
+    "id": "B0HR1CD0IO",
+    "addr": "珠山区 三宝路竟城镇姨婆坞2号",
+    "type": "餐饮相关",
+    "tel": "0798-8461777",
+    "rating": 4.6,
+    "cost": 90.0,
+    "open": "周一至周日 11:00-14:00,17:00-21:00",
+    "lng": 117.26845,
+    "lat": 29.244839,
+    "photos": [
+     "https://aos-comment.amap.com/B0HR1CD0IO/comment/content_media_external_file_1000038039_ss__1762429586252_13806025.jpg",
+     "https://aos-comment.amap.com/B0HR1CD0IO/comment/f51508d0e3be978e87207b9cb3191dbe_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0HR1CD0IO/headerImg/content_media_external_images_media_60020_1661255662010_9f049fc8.jpg"
+    ]
+   }
   },
   {
    "name": "浮梁茶",
@@ -216,7 +454,24 @@
    ],
    "tips": [
     "买茶前先试喝"
-   ]
+   ],
+   "amap": {
+    "name": "浮梁茶九龙山专卖(御窑厂)店",
+    "id": "B0FFG08BH0",
+    "addr": "珠山区 新村街道广场北路327号港逸豪庭",
+    "type": "专营店",
+    "tel": "15807085685",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-22:00",
+    "lng": 117.220029,
+    "lat": 29.305751,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b67e06c206d15110cfd98c26c5c7d840",
+     "https://store.is.autonavi.com/showpic/ed638e16846a3f310000003238200757",
+     "https://store.is.autonavi.com/showpic/c87494480e7c41da0000003238194664"
+    ]
+   }
   },
   {
    "name": "清汤",
@@ -228,7 +483,24 @@
    ],
    "tips": [
     "和冷粉、油炸馍一起点，组成景德镇式早餐"
-   ]
+   ],
+   "amap": {
+    "name": "壹碗粉(瑞启店)",
+    "id": "B0FFK5CMVV",
+    "addr": "乐平市 瑞启花园96号",
+    "type": "快餐厅",
+    "tel": "18179899921",
+    "rating": 4.4,
+    "cost": 16.0,
+    "open": "周一至周日 07:30-22:30",
+    "lng": 117.138258,
+    "lat": 28.976178,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFK5CMVV/comment/content_media_external_file_39385_1765440146777_20913821.jpg",
+     "https://aos-comment.amap.com/B0FFK5CMVV/comment/20260324-84ce70ead4e09f53efc591ed-AMohlHhSDOn5xbA7CQOmw7.jpg",
+     "https://aos-comment.amap.com/B0FFK5CMVV/comment/content_media_external_file_39385_1765440146794_24624384.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

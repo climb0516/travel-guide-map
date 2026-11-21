@@ -21,7 +21,24 @@
     "寺院依山而建，台阶较多，穿舒适的鞋",
     "金山、焦山、北固山常有联票，以景区公告为准",
     "傍晚在金山湖边看日落和塔影很美"
-   ]
+   ],
+   "amap": {
+    "name": "金山寺",
+    "id": "B0FFH6P9L9",
+    "addr": "润州区 金山路62号金山公园内",
+    "type": "国家级景点",
+    "tel": "0511-85516700",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 119.415147,
+    "lat": 32.215473,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/db75b3f5ce5499be0000007658396950?type=pic",
+     "https://store.is.autonavi.com/showpic/0755b4b27a0e99e7dbb244afeaf98eb3",
+     "https://aos-comment.amap.com/B0FFH8UBAY/comment/content_media_external_file_555291_ss__1747725671978_66240403.jpg"
+    ]
+   }
   },
   {
    "name": "焦山",
@@ -37,7 +54,24 @@
     "上岛需要坐渡船，往返班次以码头公告为准",
     "岛上爬山不难，但走一圈要两三个小时",
     "书法爱好者可以多留点时间在碑林"
-   ]
+   ],
+   "amap": {
+    "name": "焦山景区",
+    "id": "B01FF0O69Z",
+    "addr": "京口区 东吴路",
+    "type": "国家级景点",
+    "tel": "0511-88817103",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日:8:00-17:30",
+    "lng": 119.488094,
+    "lat": 32.236547,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/af297ba21bbea35389e546d6a80a8ed6",
+     "https://store.is.autonavi.com/showpic/1e4bec3ecc66968fc0f56cda29e8d903",
+     "https://store.is.autonavi.com/showpic/2860f3f0569bca1019b82c425422ffb7"
+    ]
+   }
   },
   {
    "name": "北固山",
@@ -52,7 +86,24 @@
    "tips": [
     "三座山中北固山最小，体力差也能轻松走完",
     "和西津渡离得近，可以连着逛"
-   ]
+   ],
+   "amap": {
+    "name": "北固山公园",
+    "id": "B01FF00853",
+    "addr": "京口区 东吴路3号",
+    "type": "公园",
+    "tel": "0511-88858088",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:30",
+    "lng": 119.457298,
+    "lat": 32.216642,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/57fdaa7e9119a7381b6518359897db7a",
+     "https://store.is.autonavi.com/showpic/9466ea2a09f41db70af26aa2219df731",
+     "https://store.is.autonavi.com/showpic/c7b7b5312e532e7032cb5b34c63a1783"
+    ]
+   }
   },
   {
    "name": "西津渡",
@@ -68,7 +119,24 @@
     "老街依山，坡道和台阶比较多",
     "晚上灯亮以后逛更有味道",
     "街口附近停车位紧张，建议打车"
-   ]
+   ],
+   "amap": {
+    "name": "西津渡古街",
+    "id": "B01FF01RIP",
+    "addr": "润州区 西津渡街9号",
+    "type": "省级景点",
+    "tel": "0511-85288777",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周四,周日 10:00-21:00；周五至周六 10:00-22:00",
+    "lng": 119.43107,
+    "lat": 32.214537,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2a3242f3800e7a4e57b858a8e04d70dc",
+     "https://store.is.autonavi.com/showpic/4812dc6c92b63aa3b31afce1962721f9",
+     "https://store.is.autonavi.com/showpic/2592e6d416af2b1f8e678e0585527b7d"
+    ]
+   }
   },
   {
    "name": "南山风景区",
@@ -83,7 +151,24 @@
    "tips": [
     "山路较长，按体力选择路线",
     "带好水，部分步道补给少"
-   ]
+   ],
+   "amap": {
+    "name": "南山风景区",
+    "id": "B0FFF0BTHZ",
+    "addr": "润州区 竹林路98号",
+    "type": "国家级景点",
+    "tel": "0511-84498660",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1月1日-12月31日 07:30-17:30",
+    "lng": 119.44836,
+    "lat": 32.167452,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/db843862b7a6610563ccb81deaba60a9",
+     "https://store.is.autonavi.com/showpic/d2937bd5f0e46be55b872f5337c614ce",
+     "https://store.is.autonavi.com/showpic/6ecb88b7e5a7ed2a5b2185f559530b68"
+    ]
+   }
   },
   {
    "name": "镇江博物馆",
@@ -98,7 +183,24 @@
    "tips": [
     "免费参观，开放安排以官方公告为准",
     "就在西津渡旁边，可以顺路"
-   ]
+   ],
+   "amap": {
+    "name": "镇江博物馆",
+    "id": "B01FF014VZ",
+    "addr": "润州区 伯先路85号",
+    "type": "博物馆",
+    "tel": "0511-85277143",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10/08 周四 全天不开放；1/1-12/31 周二–周三, 周五–周日 09:00–17:00开放；01/01-10/07 周四 09:00–17:00开放；10/09-12/31 周四 09:00–17:00开放；1/1-12/31 周一 全天不开放；国庆节 09:00–20:00开放",
+    "lng": 119.431782,
+    "lat": 32.213824,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ba6726ee237dc97c0000000738192894?type=pic",
+     "https://store.is.autonavi.com/showpic/359c8dc9f54fb4c90000003121488138?type=pic",
+     "https://store.is.autonavi.com/showpic/62464beb7c8f023b0000008120586080?type=pic"
+    ]
+   }
   },
   {
    "name": "茅山",
@@ -113,7 +215,24 @@
    "tips": [
     "从镇江市区开车约 1 小时",
     "可以和常州的东方盐湖城安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "茅山风景区-茅山道院",
+    "id": "B01FF01RLF",
+    "addr": "句容市 大茅路茅山风景区(西南角)",
+    "type": "寺庙道观",
+    "tel": "0511-87828446",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 08:00-16:50",
+    "lng": 119.31536,
+    "lat": 31.782319,
+    "photos": [
+     "https://aos-comment.amap.com/B01FF01RLF/comment/file_media_Photo_668_IMG_1754021999_622_IMG_20250801_121819_jpg_ss_2.jpg",
+     "https://aos-comment.amap.com/B01FF01RLF/comment/c6bb65e50d50c724cf08716bdd77e4d7_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/1bfae5c70dc078da0000003290922994?type=pic"
+    ]
+   }
   },
   {
    "name": "宝华山",
@@ -128,7 +247,24 @@
    "tips": [
     "寺院清规较严，参观时保持安静",
     "山路有坡，穿防滑的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "宝华山国家森林公园",
+    "id": "B01FF00SET",
+    "addr": "句容市 宝华镇杨柳泉路",
+    "type": "国家级景点",
+    "tel": "4001588815",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-21:00 最晚进入20:30售票截止时间北门入口为20:30,南门、山周一方入口为16:30",
+    "lng": 119.084254,
+    "lat": 32.127501,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/754ccdb7716c2175089ca1413606d0f9",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/1b028686-5968-4a38-bac8-ff82575c716f.jpg",
+     "https://store.is.autonavi.com/showpic/b49bf7b7e6eaa59b5ba6c8f7d8113de5"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    "tips": [
     "浇头可以加两样，像长鱼加腰花",
     "早上去面馆人多但更有气氛"
-   ]
+   ],
+   "amap": {
+    "name": "镇南锅盖面馆(解放路店)",
+    "id": "B01FF01V0K",
+    "addr": "润州区 解放路4号自由领地4-1号",
+    "type": "中餐厅",
+    "tel": "13921585718",
+    "rating": 4.7,
+    "cost": 29.0,
+    "open": "周一至周日 06:00-14:30",
+    "lng": 119.458135,
+    "lat": 32.192258,
+    "photos": [
+     "https://aos-comment.amap.com/B01FF01V0K/comment/9A6DDF0F_4D34_493B_B9B1_F00D105A822F_L0_001_1512_2016_1736596780386_41527396.jpg",
+     "https://aos-comment.amap.com/B01FF01V0K/comment/a8185b0b4a1ebbcb5de0ce4ca48d8872_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B01FF01V0K/comment/881b335fab8463c14dcf1d48879cb4fb_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "水晶肴肉",
@@ -155,7 +308,24 @@
    ],
    "tips": [
     "一定要配姜丝香醋，味道更好"
-   ]
+   ],
+   "amap": {
+    "name": "宴春酒楼(大市口店)",
+    "id": "B0KUZ5O0K8",
+    "addr": "京口区 解放路87号(近大市口南站)",
+    "type": "综合酒楼",
+    "tel": "0511-85010477",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "",
+    "lng": 119.454332,
+    "lat": 32.203014,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/404d1b13b448a9470000000965980218?type=pic",
+     "https://store.is.autonavi.com/showpic/5ddb608e3698a9ab0493b8573a4541ad",
+     "https://store.is.autonavi.com/showpic/f2c6c3a80d7d3ad88d20f96facebbb13"
+    ]
+   }
   },
   {
    "name": "蟹黄汤包",
@@ -168,7 +338,24 @@
    "tips": [
     "汤很烫，先吹一吹再吸",
     "蟹季价格较高，以店内为准"
-   ]
+   ],
+   "amap": {
+    "name": "飞泉·镇江早茶(总店)",
+    "id": "B01FF01O26",
+    "addr": "京口区 正东路12-1号七区",
+    "type": "中餐厅",
+    "tel": "18652866770",
+    "rating": 4.7,
+    "cost": 39.0,
+    "open": "周一至周五 07:00-16:00；周六至周日 07:00-19:00 2026-10-01至2026-10-07 07:00-19:00",
+    "lng": 119.4622,
+    "lat": 32.201987,
+    "photos": [
+     "https://aos-comment.amap.com/B01FF01O26/comment/8AE42F63_106F_4F15_AC28_192C3AD77A06_L0_001_1496_199_1767512726169_24771418.jpg",
+     "https://aos-comment.amap.com/B01FF01O26/comment/20260317-4d170dfb46a40f396a8304ba-2SeCooFzjW698uUNDPBUFO.jpg",
+     "https://aos-comment.amap.com/B01FF01O26/comment/content_media_external_file_1000228638_ss__1759704341115_36181356.jpg"
+    ]
+   }
   },
   {
    "name": "镇江香醋",
@@ -181,7 +368,24 @@
    "tips": [
     "带回家注意包装防漏",
     "醋文化博物馆开放安排以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "恒顺味道金山店",
+    "id": "B0KKPUC3ZR",
+    "addr": "润州区 金山路62号金山公园金山咖啡隔壁",
+    "type": "中餐厅",
+    "tel": "0511-88058930",
+    "rating": 4.2,
+    "cost": 32.0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 119.415683,
+    "lat": 32.214604,
+    "photos": [
+     "https://aos-comment.amap.com/B0KKPUC3ZR/comment/A9D7B883_31CD_4A1A_8685_AD3D9BC0B323_L0_001_1500_200_1752496049087_73123252.jpg",
+     "https://store.is.autonavi.com/showpic/cdf95008d6b5f7160000009378984208?type=pic",
+     "https://aos-comment.amap.com/B0KKPUC3ZR/comment/content_media_external_file_556348_ss__1749551479523_88451424.jpg"
+    ]
+   }
   },
   {
    "name": "江鲜",
@@ -194,7 +398,24 @@
    "tips": [
     "江鲜按时价，点之前问清",
     "河豚只在有资质的正规餐厅吃"
-   ]
+   ],
+   "amap": {
+    "name": "香正府土菜馆(弥陀寺巷店)",
+    "id": "B0FFHBTLVU",
+    "addr": "京口区 弥陀寺巷20号",
+    "type": "特色/地方风味餐厅",
+    "tel": "15896383973",
+    "rating": 4.1,
+    "cost": 75.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.452546,
+    "lat": 32.207469,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHBTLVU/comment/content_media_external_images_media_10543_1733791938217_58987302.jpg",
+     "https://store.is.autonavi.com/showpic/5651b4dc6fe3cbd2ff56a659ed09f96d",
+     "https://aos-comment.amap.com/B0FFHBTLVU/comment/content_media_external_images_media_10542_1733791938221_25424538.jpg"
+    ]
+   }
   },
   {
    "name": "百花酒焖肉",
@@ -206,7 +427,24 @@
    ],
    "tips": [
     "偏甜偏油，配面条或米饭吃"
-   ]
+   ],
+   "amap": {
+    "name": "淮扬酒家(江苏大学总店)",
+    "id": "B0FFM51UJC",
+    "addr": "京口区 学府路江苏大学香江世纪名城二区16栋106室",
+    "type": "餐饮相关",
+    "tel": "13151693519",
+    "rating": 4.6,
+    "cost": 76.0,
+    "open": "周一至周日 09:00-13:30,16:00-21:30",
+    "lng": 119.509252,
+    "lat": 32.192466,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFM51UJC/comment/content_media_external_images_media_1000059059_ss__1727022882157_06185397.jpg",
+     "https://store.is.autonavi.com/showpic/25edb0777efa74a6667bd928f95b9acd",
+     "https://aos-comment.amap.com/B0FFM51UJC/comment/content_media_external_file_1000042638_ss__1763200181821_38442507.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

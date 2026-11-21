@@ -21,7 +21,24 @@
     "节假日人多，提前在官方渠道购票",
     "傍晚登楼能看日落和亮灯，体验更好",
     "下山后可以顺路去户部巷吃小吃"
-   ]
+   ],
+   "amap": {
+    "name": "黄鹤楼公园",
+    "id": "B001B0IY32",
+    "addr": "武昌区 蛇山西山坡特1号",
+    "type": "旅游景点",
+    "tel": "4007009798",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "日场:08:30-18:00开放(17:00停止售票,17:20停止入园)；夜场:19:30-22:00开放(21:30停止入园)",
+    "lng": 114.307795,
+    "lat": 30.542529,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/22cbbe3f04476d779a154637a4de5006",
+     "https://store.is.autonavi.com/showpic/d549e9fc3fc7b25c79b7771350beabbd",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/d06fad7a-6583-4860-be66-083c3770c4ac.jpeg"
+    ]
+   }
   },
   {
    "name": "湖北省博物馆",
@@ -37,7 +54,24 @@
     "免费参观，需要提前预约，一般周一闭馆",
     "编钟演出有固定场次，到馆先确认时间",
     "热门展厅人多，建议开馆就进"
-   ]
+   ],
+   "amap": {
+    "name": "湖北省博物馆",
+    "id": "B001B0JYXS",
+    "addr": "武昌区 东湖路160号",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周二至周五09:00-17:30,最晚进入16:30；周六至周日 09:00-20:30,最晚进入19:30(法定节假日除外)",
+    "lng": 114.365446,
+    "lat": 30.561506,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cd524fe1b7a74f4b808ddb74cfed2588",
+     "https://store.is.autonavi.com/showpic/1cfe3d2992a7fd8df1a75628da94c442",
+     "https://store.is.autonavi.com/showpic/d871c6564d6c781f5c8c8dfb9cd2b3bf"
+    ]
+   }
   },
   {
    "name": "东湖",
@@ -53,7 +87,24 @@
     "东湖绿道很长，选一两段骑就够了",
     "春季樱花季周末人很多",
     "夏天骑行注意防晒，尽量傍晚去"
-   ]
+   ],
+   "amap": {
+    "name": "东湖生态旅游风景区",
+    "id": "B001B0A0CK",
+    "addr": "武昌区 沿湖大道16号",
+    "type": "国家级景点",
+    "tel": "027-86793760",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 114.41397,
+    "lat": 30.549509,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/26d4b69f28d4a5261dcc0e4086333452",
+     "https://store.is.autonavi.com/showpic/78f1a01143257890d61346845947eb28",
+     "https://store.is.autonavi.com/showpic/abf65937962774e0a4226e499c26cbb5"
+    ]
+   }
   },
   {
    "name": "武汉大学",
@@ -69,7 +120,24 @@
     "樱花季需要提前预约入校，名额很紧张",
     "非樱花季进校规定以学校通知为准",
     "校园很大，山坡多，穿舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "武汉大学",
+    "id": "B001B0IZY1",
+    "addr": "武昌区 珞珈山街道八一路299号",
+    "type": "高等院校",
+    "tel": "",
+    "rating": 5.0,
+    "cost": 0,
+    "open": "",
+    "lng": 114.364514,
+    "lat": 30.536243,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5220e1963469b41897bab3c027873afe",
+     "https://store.is.autonavi.com/showpic/4720ba875c90eee20000008413414309?type=pic",
+     "https://store.is.autonavi.com/showpic/89d3ebe1b3d0ff100000009227910058?type=pic"
+    ]
+   }
   },
   {
    "name": "汉口江滩和江汉路",
@@ -84,7 +152,24 @@
    "tips": [
     "江滩傍晚最舒服，夏天的风也很凉快",
     "地铁江汉路站下车，步行到江滩很近"
-   ]
+   ],
+   "amap": {
+    "name": "汉口江滩",
+    "id": "B0FFGCIG85",
+    "addr": "江岸区 江滩大道1号",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 114.319404,
+    "lat": 30.610162,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7964b9c526b99c070a7dd642feae3e71",
+     "https://store.is.autonavi.com/showpic/ce963506922cccae2bf7fb96d145e8b1",
+     "https://store.is.autonavi.com/showpic/677a890c594893e136355e6a69509f04"
+    ]
+   }
   },
   {
    "name": "黎黄陂路",
@@ -99,7 +184,24 @@
    "tips": [
     "适合上午或傍晚去，光线柔和",
     "和江汉路、汉口江滩可以安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "黎黄陂路街头博物馆",
+    "id": "B001B0B59E",
+    "addr": "江岸区 沿江大道162号",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-16:00",
+    "lng": 114.302226,
+    "lat": 30.586444,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/822a21590a57443cc462f7c9bcf84d7a",
+     "https://aos-comment.amap.com/B001B0B59E/comment/1be6d7cc9ccfe24d90af4452e195de4b_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B001B0B59E/comment/5ac2ecfe54d91966faa80150f6787c60_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "昙华林",
@@ -114,7 +216,24 @@
    "tips": [
     "老街巷子多，用地图导航不容易迷路",
     "周末游客较多，工作日更舒服"
-   ]
+   ],
+   "amap": {
+    "name": "昙华林",
+    "id": "B001B1H7IS",
+    "addr": "武昌区 粮道街道胭脂路仁济医院西侧",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-19:00",
+    "lng": 114.308791,
+    "lat": 30.55194,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c795cc743c0ea600824f70edebec1d10",
+     "https://store.is.autonavi.com/showpic/1db553c3421671610000004846094502",
+     "https://store.is.autonavi.com/showpic/c0f54eeef977ca190d49d8a2b056ba66"
+    ]
+   }
   },
   {
    "name": "武汉长江大桥",
@@ -130,7 +249,24 @@
     "桥上风大，冬天注意保暖",
     "傍晚走桥能看日落和两岸亮灯",
     "从黄鹤楼走过去很近"
-   ]
+   ],
+   "amap": {
+    "name": "武汉长江大桥",
+    "id": "B001B0JP4S",
+    "addr": "武昌区 临江大道19附近",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；武汉两江游览游船的开船时间以票种披露为参考，具体以景区现场实际为准",
+    "lng": 114.292874,
+    "lat": 30.547225,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/21a20bacb271bf0f39306f34e5ea83d4",
+     "https://store.is.autonavi.com/showpic/d19086ed5a4cef336056069aec0dbf04",
+     "https://store.is.autonavi.com/showpic/b0fbec52fb11678d562a067e2a03e4ef"
+    ]
+   }
   },
   {
    "name": "归元寺",
@@ -145,7 +281,24 @@
    "tips": [
     "春节和初一十五人很多",
     "寺内保持安静，拍照注意不要打扰别人"
-   ]
+   ],
+   "amap": {
+    "name": "归元禅寺",
+    "id": "B001B0IZ9W",
+    "addr": "汉阳区 归元寺路20号",
+    "type": "寺庙道观",
+    "tel": "027-84844756",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:00-17:00 最晚进入16:30",
+    "lng": 114.259018,
+    "lat": 30.545268,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e05f2c0f18d7b6cad935de562d67b749",
+     "https://aos-comment.amap.com/B001B0IZ9W/comment/content_media_external_file_100000530_1767059562672_81058694.jpg",
+     "https://aos-comment.amap.com/B001B0IZ9W/comment/content_media_external_file_100002663_1768900716772_07798755.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +313,24 @@
    "tips": [
     "芝麻酱比较腻，配一杯蛋酒更顺口",
     "趁热拌匀了吃，凉了会结块"
-   ]
+   ],
+   "amap": {
+    "name": "蔡林记(统一街店)",
+    "id": "B001B0JTCE",
+    "addr": "江汉区 统一街272号(江汉路地铁站G口步行280米)",
+    "type": "中餐厅",
+    "tel": "15271903370",
+    "rating": 4.4,
+    "cost": 17.0,
+    "open": "周一至周日 06:30-21:00",
+    "lng": 114.289366,
+    "lat": 30.576465,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=stffc0d30c-36dc-44ef-8bed-263977e4969d&user=search&operate=original",
+     "https://store.is.autonavi.com/showpic/ec5043257a23ff9841cd4bc6e323ea3f",
+     "https://aos-comment.amap.com/B001B0JTCE/comment/content_media_external_file_18135_ss__1770107920200_37673743.jpg"
+    ]
+   }
   },
   {
    "name": "三鲜豆皮",
@@ -172,7 +342,24 @@
    ],
    "tips": [
     "刚出锅最好吃，外皮最酥"
-   ]
+   ],
+   "amap": {
+    "name": "老汉口三鲜豆皮(大成路店)",
+    "id": "B0FFLHSALH",
+    "addr": "武昌区 大成路32号(黄鹤世家南门旁)",
+    "type": "中餐厅",
+    "tel": "15071373928",
+    "rating": 4.4,
+    "cost": 7.0,
+    "open": "周一至周日 06:00-14:30",
+    "lng": 114.296157,
+    "lat": 30.543239,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dc3b16ccf060ea5c0000007842058744?type=pic",
+     "https://store.is.autonavi.com/showpic/0f567318d7102d8ea046cafa48abecb4",
+     "https://aos-comment.amap.com/B0FFLHSALH/comment/content_media_external_file_31974_ss__1765710547765_03535934.jpg"
+    ]
+   }
   },
   {
    "name": "油焖大虾",
@@ -185,7 +372,24 @@
    "tips": [
     "小龙虾季去才最好吃",
     "热门店晚上要排队，早点去"
-   ]
+   ],
+   "amap": {
+    "name": "虾搞油焖大虾馆",
+    "id": "B0FFGCB4IQ",
+    "addr": "江汉区 前进二路53号(六渡桥地铁站C1口步行300米)",
+    "type": "海鲜酒楼",
+    "tel": "13971631452",
+    "rating": 4.6,
+    "cost": 111.0,
+    "open": "周一至周日 17:00-01:00 2026-02-15至2026-03-06 周一至周日 全天关闭",
+    "lng": 114.28499,
+    "lat": 30.577203,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGCB4IQ/comment/108d9a5fd5c79f4171a3cd52139d0e32_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/cb9114d932fca1bcfc16da9cdd097d6f",
+     "https://aos-comment.amap.com/B0FFGCB4IQ/comment/cb0812c313e67b5f0a8fc357fb9f586c_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "鸭脖",
@@ -198,7 +402,24 @@
    "tips": [
     "真空包装的更适合带走",
     "辣度普遍偏高，怕辣可以选微辣"
-   ]
+   ],
+   "amap": {
+    "name": "精武鸭脖(总部店)",
+    "id": "B0FFHSF4M5",
+    "addr": "江汉区 新华街办事处新华西路三金华都商铺B5",
+    "type": "中餐厅",
+    "tel": "19947591993",
+    "rating": 4.4,
+    "cost": 41.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 114.263992,
+    "lat": 30.614829,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHSF4M5/comment/2cdca1c31825ad49d21702a18f499464_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/f649c3dc41c32c240000002434718594?type=pic",
+     "https://store.is.autonavi.com/showpic/bb22620777a6c32f0000002434690978?type=pic"
+    ]
+   }
   },
   {
    "name": "莲藕排骨汤",
@@ -210,7 +431,24 @@
    ],
    "tips": [
     "冬天的藕最粉，汤最浓"
-   ]
+   ],
+   "amap": {
+    "name": "东湖34号",
+    "id": "B0L2LCP9P4",
+    "addr": "洪山区 东湖风景区鲁磨路大李村34号(音乐公园旁)",
+    "type": "中餐厅",
+    "tel": "027-65390709",
+    "rating": 4.7,
+    "cost": 90.0,
+    "open": "周一至周日 10:00-14:00,16:30-21:00",
+    "lng": 114.415252,
+    "lat": 30.537771,
+    "photos": [
+     "https://aos-comment.amap.com/B0H0K5NDZ0/comment/4e153319649eeb89f1ace8614473b6ab_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/e72f3c5f9b5eebce0000001024368730?type=pic",
+     "https://aos-comment.amap.com/B0H0K5NDZ0/comment/b52d6e34534a3f7aee61cf96000e72d3_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "面窝",
@@ -222,7 +460,24 @@
    ],
    "tips": [
     "刚炸出来最脆，放凉了口感会变"
-   ]
+   ],
+   "amap": {
+    "name": "余艳梅拌面世家",
+    "id": "B0GU77ERQI",
+    "addr": "江汉区 马场角横路79号(范湖地铁站F口步行440米)",
+    "type": "中餐厅",
+    "tel": "13387668369",
+    "rating": 4.9,
+    "cost": 22.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 114.265259,
+    "lat": 30.605744,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/eba32795583fef3668f2c1c58d617e9e",
+     "https://store.is.autonavi.com/showpic/8afd623c9a131ab20000004870794330?type=pic",
+     "https://aos-comment.amap.com/B0GU77ERQI/comment/content_media_external_file_100009719_1773479805005_24415921.jpg"
+    ]
+   }
   },
   {
    "name": "糊汤粉",
@@ -235,7 +490,24 @@
    "tips": [
     "配油条泡着吃最地道",
     "很多店上午就卖完，早点去"
-   ]
+   ],
+   "amap": {
+    "name": "德华楼(吉庆街店)",
+    "id": "B0FFHZZWG3",
+    "addr": "江岸区 江汉二路177号179号吉庆民俗街二期1栋1-2层",
+    "type": "中餐厅",
+    "tel": "13317124205",
+    "rating": 4.6,
+    "cost": 21.0,
+    "open": "周一至周日 07:00-20:30",
+    "lng": 114.293082,
+    "lat": 30.585742,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=sta5be0faf-5872-47c8-8c8a-54eaa2a92947&user=search&operate=original",
+     "https://store.is.autonavi.com/showpic/684e8dc239b414cafbbce3d41617f556",
+     "https://store.is.autonavi.com/showpic/f018c3fb4671dec60000003004962431?type=pic"
+    ]
+   }
   },
   {
    "name": "重油烧麦",
@@ -247,7 +519,24 @@
    ],
    "tips": [
     "烧麦比较油，配杯清淡的豆浆刚好"
-   ]
+   ],
+   "amap": {
+    "name": "赵师傅油饼包烧麦",
+    "id": "B001B09GR7",
+    "addr": "武昌区 粮道街139号(司门口黄鹤楼地铁站B口步行410米)",
+    "type": "中餐厅",
+    "tel": "15971466333",
+    "rating": 4.7,
+    "cost": 14.0,
+    "open": "周一至周四 06:00-15:00；周五至周日 06:00-20:00 2026-10-03至2026-10-07 05:30-20:00",
+    "lng": 114.305833,
+    "lat": 30.548154,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c03a5b15f77f2664da6c3ec8aefb9f50",
+     "https://aos-comment.amap.com/B001B09GR7/comment/200BF677_A0DB_4B74_A731_3493F3FB9235_L0_001_1334_200_1772525068709_56479814.jpg",
+     "https://aos-comment.amap.com/B001B09GR7/comment/177313049261_1773130499260_64498697.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

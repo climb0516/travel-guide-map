@@ -21,7 +21,24 @@
     "古镇本身免费，进主要景点要买联票",
     "嘉业堂藏书楼和小莲庄挨在一起，可以一起看",
     "从湖州市区开车约 40 分钟"
-   ]
+   ],
+   "amap": {
+    "name": "南浔古镇",
+    "id": "B023C0OMFN",
+    "addr": "南浔区 南浔镇东塘路",
+    "type": "国家级景点",
+    "tel": "0572-3016999",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "4月-11月8日 08:00-17:00",
+    "lng": 120.430911,
+    "lat": 30.869863,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5bd366082ae4a2839e247ad6654aa4e6",
+     "https://store.is.autonavi.com/showpic/fc8c248add0f6a6500041295b5c142ce",
+     "https://store.is.autonavi.com/showpic/e083d7c7741bb633ce561681684aafb4"
+    ]
+   }
   },
   {
    "name": "莫干山",
@@ -37,7 +54,24 @@
     "山上路窄弯多，开车要小心",
     "周末和暑假民宿很抢手，要提前订",
     "山上景点要购票，山下的民宿区域可自由活动"
-   ]
+   ],
+   "amap": {
+    "name": "莫干山风景名胜区",
+    "id": "B0G23SCQ3S",
+    "addr": "德清县 莫干山",
+    "type": "国家级景点",
+    "tel": "0572-8412345",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；室内景点:08:30-16:30",
+    "lng": 119.866469,
+    "lat": 30.607076,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/06b05a23e230ca883d6616d1108f0173",
+     "https://store.is.autonavi.com/showpic/eb78cbd763645adee212ffbe7215ff3f",
+     "https://store.is.autonavi.com/showpic/cd9adfc60cb0789451fd3763d4643b75"
+    ]
+   }
   },
   {
    "name": "安吉余村和竹海",
@@ -52,7 +86,24 @@
    "tips": [
     "安吉景点分散，自驾最方便",
     "竹林里蚊子多，夏天带驱蚊水"
-   ]
+   ],
+   "amap": {
+    "name": "中国大竹海景区",
+    "id": "B023C02MNS",
+    "addr": "安吉县 天荒坪镇五鹤村",
+    "type": "省级景点",
+    "tel": "0572-5210999",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30",
+    "lng": 119.65698,
+    "lat": 30.482534,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e5222b52f0a160206d32547d5dc1f35",
+     "https://store.is.autonavi.com/showpic/f9612b6b4f7ec5f89341411ded40ce05",
+     "https://store.is.autonavi.com/showpic/26a2560aadebd9ae567967bca2f594e2"
+    ]
+   }
   },
   {
    "name": "安吉云上草原",
@@ -68,7 +119,24 @@
     "上山要坐索道，节假日排队较久",
     "山顶温差大，带件外套",
     "高空项目单独收费，按需选"
-   ]
+   ],
+   "amap": {
+    "name": "云上草原国际山地旅游度假区",
+    "id": "B0FFJSOFS2",
+    "addr": "安吉县 山川乡山川村",
+    "type": "风景名胜",
+    "tel": "4007771117",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "景区常规营业时间 9月1日-11月30日:09:00-20:00（最晚入园时间19:00）悬崖心跳乐园、高山草原开放时间09:00-16:30徒步入园时间09:00-13:00徒步下山时间15:00仙侠夜场开放时间到20:00仙侠镇项目开放时间09:00-19:30",
+    "lng": 119.654302,
+    "lat": 30.447119,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2d818b0d7fa6d18d7855a1bb110dfe4e",
+     "https://store.is.autonavi.com/showpic/0ed7fbc4020d979a5a539eb0069f36ae",
+     "https://store.is.autonavi.com/showpic/6e3700d2bf04ed07ec4918bb60c6c1fd"
+    ]
+   }
   },
   {
    "name": "太湖旅游度假区",
@@ -83,7 +151,24 @@
    "tips": [
     "日落前一小时到最合适",
     "湖边风大，冬天要穿厚一些"
-   ]
+   ],
+   "amap": {
+    "name": "太湖月亮湾",
+    "id": "B0FFHWHMR5",
+    "addr": "吴兴区 滨湖街道太湖路5788号南太湖旅游度假区",
+    "type": "旅游景点",
+    "tel": "0572-2159552",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.108167,
+    "lat": 30.957332,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7f6ad8ea153e3f2b64e982f4db50cfdf",
+     "https://store.is.autonavi.com/showpic/386722a108734233c8f12b1187958bac",
+     "https://store.is.autonavi.com/showpic/d7715e3791fd2d1a7518be893afb8485"
+    ]
+   }
   },
   {
    "name": "小西街",
@@ -98,7 +183,24 @@
    "tips": [
     "免费开放，晚上去最有氛围",
     "停车可以停在周边商场"
-   ]
+   ],
+   "amap": {
+    "name": "吴兴区小西街历史文化街区",
+    "id": "B0FFM2GSNI",
+    "addr": "吴兴区 小西街文创休闲街区",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 120.097088,
+    "lat": 30.861983,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/828e8d5a3fd950c30000002446004178?type=pic",
+     "https://store.is.autonavi.com/showpic/c61ea1eb07914a5d0000003174984313?type=pic",
+     "https://aos-comment.amap.com/B0FFM2GSNI/comment/content_media_external_images_media_1000109316_ss__1767054934488_47259036.jpg"
+    ]
+   }
   },
   {
    "name": "飞英塔",
@@ -113,7 +215,24 @@
    "tips": [
     "和小西街距离不远，可以连着逛",
     "塔内能否登塔以现场开放情况为准"
-   ]
+   ],
+   "amap": {
+    "name": "飞英公园",
+    "id": "B023C020CW",
+    "addr": "吴兴区 湖州菰城景区",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "06:30-17:00、具体营业状态以当天开放情况为准",
+    "lng": 120.106635,
+    "lat": 30.873511,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a41a02bad5e2411d0000002769752834?type=pic",
+     "https://aos-comment.amap.com/B023C020CW/comment/F9849167_324D_4F90_B749_AD41938AD782_L0_001_2000_150_1767609749362_87228406.jpg",
+     "https://store.is.autonavi.com/showpic/f937624df032a5280000006142714915?type=pic"
+    ]
+   }
   },
   {
    "name": "下渚湖湿地",
@@ -128,7 +247,24 @@
    "tips": [
     "湿地以坐船游览为主，船票另算",
     "看鸟带个望远镜会更好"
-   ]
+   ],
+   "amap": {
+    "name": "下渚湖·湿地公园",
+    "id": "B023C00AE4",
+    "addr": "德清县 三合乡下渚湖",
+    "type": "风景名胜",
+    "tel": "0572-8484158",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "05-01至10-08 周一至周日 08:00-16:30 最晚进入16:30；10-09至04-30 周一至周日 08:30-16:30 最晚进入16:00",
+    "lng": 120.051336,
+    "lat": 30.519303,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/08ed426487eb2e6245e99431a396f052",
+     "https://store.is.autonavi.com/showpic/169b802ac4f2a26f9ef4988377196000",
+     "https://store.is.autonavi.com/showpic/76ca69ef0ce1722754dbd380b3afa60e"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    ],
    "tips": [
     "豆沙粽是诸老大的招牌，喜欢甜的可以试"
-   ]
+   ],
+   "amap": {
+    "name": "诸老大(湖州新华农贸市场店)",
+    "id": "B023C01X6M",
+    "addr": "吴兴区 新华路20号",
+    "type": "餐饮相关",
+    "tel": "18657300016",
+    "rating": 4.5,
+    "cost": 14.0,
+    "open": "周一至周日 06:30-20:30",
+    "lng": 120.110469,
+    "lat": 30.868569,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6f1d93cc098cca4c85a6cb72a6315282",
+     "https://store.is.autonavi.com/showpic/79750c2df43536d576fdad40282cf01c",
+     "https://store.is.autonavi.com/showpic/770bee031090635daf6403dadad15df5"
+    ]
+   }
   },
   {
    "name": "丁莲芳千张包",
@@ -154,7 +307,24 @@
    ],
    "tips": [
     "早上去吃最地道"
-   ]
+   ],
+   "amap": {
+    "name": "丁莲芳(衣裳街店)",
+    "id": "B023C02M4L",
+    "addr": "吴兴区 衣裳街街街区113幢衣裳街75-79号单号",
+    "type": "中餐厅",
+    "tel": "0572-2023899",
+    "rating": 4.3,
+    "cost": 27.0,
+    "open": "周日 07:00-22:30；周一至周六 07:00-23:00",
+    "lng": 120.101476,
+    "lat": 30.864277,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/20c3dfdcc49ee945d2440e63b95074bf",
+     "https://aos-comment.amap.com/B023C02M4L/comment/content_media_external_file_100019598_1767856552274_67452718.jpg",
+     "https://aos-comment.amap.com/B023C02M4L/comment/content_media_external_file_1000022302_ss__1765699416407_13456066.jpg"
+    ]
+   }
   },
   {
    "name": "太湖三白",
@@ -166,7 +336,24 @@
    ],
    "tips": [
     "湖鲜按斤计价，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "王家大院.农家土菜馆(龙之梦店)",
+    "id": "B0HD3HPK56",
+    "addr": "长兴县 龙之梦大道1969号",
+    "type": "浙江菜",
+    "tel": "13819262525",
+    "rating": 4.8,
+    "cost": 104.0,
+    "open": "周一至周日 11:00-20:30",
+    "lng": 120.059541,
+    "lat": 30.974271,
+    "photos": [
+     "https://aos-comment.amap.com/B0HD3HPK56/comment/c4e9231656c2d3511f1eb34cb5d20aee_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0HD3HPK56/comment/e1375330678b80706acb633460d8a651_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0HD3HPK56/headerImg/3585a7b52b437304975c79e91518e016_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "安吉白茶",
@@ -178,7 +365,24 @@
    ],
    "tips": [
     "茶叶价差很大，买之前多试几家"
-   ]
+   ],
+   "amap": {
+    "name": "安吉白茶(太湖路店)",
+    "id": "B0MA2RSL0X",
+    "addr": "吴兴区 太湖路168号",
+    "type": "专营店",
+    "tel": "18705821369",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 08:00-22:00",
+    "lng": 120.101661,
+    "lat": 30.881617,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d3f26e2b9e408b800000002261656784",
+     "https://store.is.autonavi.com/showpic/77626e8c6e91ca3e0000002261750086",
+     "https://store.is.autonavi.com/showpic/22bb9a98273e80960000002261696547"
+    ]
+   }
   },
   {
    "name": "南浔定胜糕",
@@ -190,7 +394,24 @@
    ],
    "tips": [
     "现蒸的最好吃，买了马上吃"
-   ]
+   ],
+   "amap": {
+    "name": "新市茶糕(通达路店)",
+    "id": "B0FFH677N7",
+    "addr": "南浔区 通达路重兆小学西南侧",
+    "type": "餐饮相关",
+    "tel": "15957221982",
+    "rating": 3.8,
+    "cost": 12.0,
+    "open": "周一至周日 04:30-16:30",
+    "lng": 120.252,
+    "lat": 30.774765,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3760f36d0243c073daff8554e47039df",
+     "https://store.is.autonavi.com/showpic/2c083bad58862e31f2083befd08b544b",
+     "https://store.is.autonavi.com/showpic/907ff368c5776d397405dc127708aeed"
+    ]
+   }
   },
   {
    "name": "德清羊肉",
@@ -202,7 +423,23 @@
    ],
    "tips": [
     "夏天不少店不供应，秋冬再去"
-   ]
+   ],
+   "amap": {
+    "name": "开封羊鲜汤",
+    "id": "B0H1X41DMN",
+    "addr": "德清县 枫华府第北门旁",
+    "type": "中餐厅",
+    "tel": "13285726058",
+    "rating": 4.2,
+    "cost": 21.0,
+    "open": "周一至周日 10:00-24:00",
+    "lng": 120.280934,
+    "lat": 30.61687,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/478420f7cda248f33b9c1d05337eb4d6",
+     "https://store.is.autonavi.com/showpic/4e7df2f8a88d4f1aaa262e94d1cb0a94"
+    ]
+   }
   }
  ],
  "food_areas": [

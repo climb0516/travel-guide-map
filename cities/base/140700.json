@@ -21,7 +21,24 @@
     "古城本身可以自由进入，景点通票需要购买，以官方公告为准",
     "古城内禁止机动车，可以坐电瓶车或步行",
     "晚上住在古城里的院落客栈，体验更好"
-   ]
+   ],
+   "amap": {
+    "name": "平遥古城",
+    "id": "B016200MKK",
+    "addr": "平遥县 古城街道",
+    "type": "世界遗产",
+    "tel": "0354-5690000",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "01-01至10-09 周一至周日 00:00-24:00；10-10至12-31 周一至周日 08:00-17:30 最晚进入17:15；自10月10日起，平遥古城景区执行冬季运营时间:各景点（含双林寺、镇国寺）开放时间调整为:8:00—17:30，各景点闭馆前15分钟停止检票，当日最晚购票时间为17:00。 2026年10月1日起，平遥古城城墙部分段落开展日常保养维护工程，本次修缮范围为南门城墙云路以东段、北门城墙以东段。为保障游客人身安全，确保修缮工作顺利推进，修缮期间上述路段暂停对游客开放通行、参观。恢复开放时间另行通知。",
+    "lng": 112.183509,
+    "lat": 37.204136,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6766ebd3c75bac8f1968394b263be1fd",
+     "https://store.is.autonavi.com/showpic/34d291c4006fdf3cdefd3affa866244c",
+     "https://store.is.autonavi.com/showpic/b077a7b0ed404a4eb83237ff15a58e73"
+    ]
+   }
   },
   {
    "name": "平遥古城墙",
@@ -37,7 +54,24 @@
     "包含在古城通票里",
     "傍晚登城墙拍日落最好",
     "城墙上没有遮挡，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "平遥古城墙",
+    "id": "B016200T8S",
+    "addr": "平遥县 西大街和西马道街的交叉口附近",
+    "type": "风景名胜",
+    "tel": "0354-5690000",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "4月 08:00-18:00 最晚进入17:45；5月至12月 08:00-18:30 最晚进入18:15",
+    "lng": 112.183777,
+    "lat": 37.2109,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b91f00ce13298061d7b5b609d47ec922",
+     "https://aos-comment.amap.com/B0FFF03OGB/comment/F3201A44_535A_4F87_8195_99A904DC06D6_L0_001_2000_1500_1745828960126_90059246.jpg",
+     "https://aos-comment.amap.com/B0FFF03OGB/comment/content_media_external_file_1000020381_ss__1768352582077_60363643.jpg"
+    ]
+   }
   },
   {
    "name": "日升昌票号",
@@ -52,7 +86,24 @@
    "tips": [
     "建议请讲解，晋商的故事很精彩",
     "包含在古城通票里"
-   ]
+   ],
+   "amap": {
+    "name": "日昇昌旧址",
+    "id": "B016200T8P",
+    "addr": "平遥县 内西大街38号(中国票号博物馆内)",
+    "type": "科教文化场所",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:30 最晚进入18:15",
+    "lng": 112.183758,
+    "lat": 37.205379,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/13d84d3453e3ec250000009416520170?type=pic",
+     "https://aos-comment.amap.com/B016200T8P/comment/270ebf5310cf7681e53f90162311fff9_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/5f9a7f6e49d71c930000005023930570?type=pic"
+    ]
+   }
   },
   {
    "name": "平遥县署",
@@ -67,7 +118,24 @@
    "tips": [
     "表演场次以现场公告为准",
     "包含在古城通票里"
-   ]
+   ],
+   "amap": {
+    "name": "平遥县衙博物馆",
+    "id": "B016200PSI",
+    "addr": "平遥县 衙门街77号",
+    "type": "旅游景点",
+    "tel": "0354-5682909",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "如遇法定节假日和重大活动,具体开放时间以景区官方发布为准；4月4日-10月7日08:00-18:00,10月8日-4月3日08:00-17:30,其他说明:景点闭馆前15分钟停止检票",
+    "lng": 112.18261,
+    "lat": 37.202231,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b11910e3a1ba4a39b3ac2889bf820324",
+     "https://aos-comment.amap.com/B016200PSI/comment/content_media_external_file_100003276_1770449922152_32898274.jpg",
+     "https://aos-comment.amap.com/B016200PSI/comment/content_media_external_images_media_1000036019_ss__1767359480300_09490134.jpg"
+    ]
+   }
   },
   {
    "name": "双林寺",
@@ -82,7 +150,24 @@
    "tips": [
     "殿内禁止拍照",
     "离古城有一段距离，打车或包车前往"
-   ]
+   ],
+   "amap": {
+    "name": "双林寺",
+    "id": "B016200M7A",
+    "addr": "平遥县 双林正街28号",
+    "type": "寺庙道观",
+    "tel": "0354-5779023",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "01-01至10-09 周一至周日 08:00-18:30；10-10至12-31 周一至周日 08:00-17:30 最晚进入17:15",
+    "lng": 112.131544,
+    "lat": 37.171457,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4203bfc12b6281a40be3283f39ca6c19",
+     "https://store.is.autonavi.com/showpic/3c08b251586d451ba93611087b475351",
+     "https://store.is.autonavi.com/showpic/c4d8272c2ef69a7707c27f48cf7ffdcd"
+    ]
+   }
   },
   {
    "name": "王家大院",
@@ -97,7 +182,24 @@
    "tips": [
     "离平遥约 1 小时车程，可以和张壁古堡、绵山排在同一天",
     "院子很大，穿舒适的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "山西灵石王家大院",
+    "id": "B016200MX2",
+    "addr": "灵石县 静升镇静升村",
+    "type": "国家级景点",
+    "tel": "0354-7722122",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "04-01至10-16 周一至周日 08:00-18:00 最晚进入18:00；10-17至03-31 周一至周日 08:00-17:30 最晚进入17:30",
+    "lng": 111.87422,
+    "lat": 36.895802,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a488e1e5865b33526f06369d2f09cfd2",
+     "https://store.is.autonavi.com/showpic/4182de78b923d798f2e6ca5c5bc57155",
+     "https://store.is.autonavi.com/showpic/336f5c39e19480b46a404f2fb3a21393"
+    ]
+   }
   },
   {
    "name": "乔家大院",
@@ -112,7 +214,24 @@
    "tips": [
     "节假日游客很多，早去避开人流",
     "从平遥或太原开车过去都比较方便"
-   ]
+   ],
+   "amap": {
+    "name": "乔家大院",
+    "id": "B016200AUC",
+    "addr": "祁县 东观镇乔家堡村",
+    "type": "风景名胜",
+    "tel": "0354-3831421",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "05-01至10-07 周一至周日 08:30-18:30 最晚进入17:30；10-08至04-30 周一至周日 08:30-17:00",
+    "lng": 112.437238,
+    "lat": 37.406608,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d23386793984a05e772641765b712afb",
+     "https://store.is.autonavi.com/showpic/a72d75a8b05819c60fe81204fd4e109d",
+     "https://store.is.autonavi.com/showpic/f9c39275e0b264db665aa7d40c021dee"
+    ]
+   }
   },
   {
    "name": "张壁古堡",
@@ -127,7 +246,24 @@
    "tips": [
     "地道里较暗、空间窄，注意脚下",
     "离王家大院和绵山都不远"
-   ]
+   ],
+   "amap": {
+    "name": "张壁古堡",
+    "id": "B016200N0B",
+    "addr": "介休市 龙凤镇张壁村",
+    "type": "国家级景点",
+    "tel": "4001161600",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:50开放 最晚进入17:45；劳动节 08:00-21:30开放 最晚进入20:50；具体开放时间以官方通知为准",
+    "lng": 111.973143,
+    "lat": 36.962271,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4f85f8b85066a9f41b37c530d80f0e27",
+     "https://store.is.autonavi.com/showpic/9eae2fab452dccdceac4e3d474ee4e9e",
+     "https://store.is.autonavi.com/showpic/6722fd4f2b117e2d1ae63f2f0a540211"
+    ]
+   }
   },
   {
    "name": "绵山",
@@ -142,7 +278,24 @@
    "tips": [
     "景区大，建议坐观光车",
     "山上温度比平地低，带外套"
-   ]
+   ],
+   "amap": {
+    "name": "绵山风景区",
+    "id": "B01620MOKY",
+    "addr": "介休市 南槐志村",
+    "type": "国家级景点",
+    "tel": "0354-7055111",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "4月至10月 周一至周日 08:00-18:00；1月至3月,11月至12月 周一至周日 08:00-16:30，2026年春节期间正常开放",
+    "lng": 111.962967,
+    "lat": 36.905438,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/00c474211a81930f49c4470c4842252b",
+     "https://aos-comment.amap.com/B01620MOKY/comment/content_media_external_file_1000010826_ss__1758018094808_74951666.jpg",
+     "https://store.is.autonavi.com/showpic/b40dbead9098dc41cde038655feae120"
+    ]
+   }
   }
  ],
  "foods": [
@@ -157,7 +310,24 @@
    "tips": [
     "真空包装更方便带走",
     "不同店家口味有差别，可以先尝再买"
-   ]
+   ],
+   "amap": {
+    "name": "洪武记饭店",
+    "id": "B0FFKQRO3P",
+    "addr": "平遥县 古城南大街南大街84号",
+    "type": "中餐厅",
+    "tel": "15525139993",
+    "rating": 4.7,
+    "cost": 71.0,
+    "open": "周一至周日 10:30-23:00",
+    "lng": 112.185963,
+    "lat": 37.203044,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKQRO3P/comment/content_media_external_file_1000043693_ss__1769134312183_17496017.jpg",
+     "https://store.is.autonavi.com/showpic/37acdbe4ab23706e0000009406346553?type=pic",
+     "https://store.is.autonavi.com/showpic/0a3b447b5c7775fd0000003006080515?type=pic"
+    ]
+   }
   },
   {
    "name": "碗托",
@@ -170,7 +340,22 @@
    "tips": [
     "凉拌是最经典的吃法",
     "辣椒油很香，可以多要一点"
-   ]
+   ],
+   "amap": {
+    "name": "平遥小赵碗托",
+    "id": "B0LRF77W54",
+    "addr": "榆次区 新建北路211号",
+    "type": "中餐厅",
+    "tel": "18335466387",
+    "rating": 4.4,
+    "cost": 12.0,
+    "open": "",
+    "lng": 112.741425,
+    "lat": 37.700275,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a5c856537dc5d43def4baefc382c5167"
+    ]
+   }
   },
   {
    "name": "莜面栲栳栳",
@@ -182,7 +367,24 @@
    ],
    "tips": [
     "配羊肉汤最香"
-   ]
+   ],
+   "amap": {
+    "name": "信義久饭店",
+    "id": "B0KUZ9GX86",
+    "addr": "平遥县 南大街122号",
+    "type": "中餐厅",
+    "tel": "15934428942",
+    "rating": 4.0,
+    "cost": 45.0,
+    "open": "周一至周日 09:30-22:30",
+    "lng": 112.186257,
+    "lat": 37.201867,
+    "photos": [
+     "https://aos-comment.amap.com/B0KUZ9GX86/comment/f0596cfe-c559-402f-9a99-4c98f39391c1.png",
+     "https://store.is.autonavi.com/showpic/583fdfc5a29f5a93d0a28bcb16d2f46b?operate=original",
+     "https://store.is.autonavi.com/showpic/6143c09212cab1c40000002979862997?type=pic"
+    ]
+   }
   },
   {
    "name": "剔尖",
@@ -194,7 +396,24 @@
    ],
    "tips": [
     "加醋是标配"
-   ]
+   ],
+   "amap": {
+    "name": "田师傅剔尖馆(晋园店)",
+    "id": "B0FFJIUCRU",
+    "addr": "榆次区 对面经济开发区龙湖大街辽阳路299号晋中市环境保护局对面",
+    "type": "餐饮相关",
+    "tel": "18603541186",
+    "rating": 4.5,
+    "cost": 21.0,
+    "open": "周一至周日 11:00-14:30,18:00-22:00",
+    "lng": 112.733222,
+    "lat": 37.719087,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJIUCRU/comment/content_media_external_file_1000010080_ss__1764553666795_29664275.jpg",
+     "https://aos-comment.amap.com/B0FFJIUCRU/comment/content_media_external_file_100001083_1766757390843_88390946.jpg",
+     "https://aos-comment.amap.com/B0FFJIUCRU/comment/251da453-5a44-4c06-b638-62c0ba2f263a.png"
+    ]
+   }
   },
   {
    "name": "太谷饼",
@@ -206,7 +425,24 @@
    ],
    "tips": [
     "买小包装更方便携带"
-   ]
+   ],
+   "amap": {
+    "name": "鑫炳记太谷饼(厂家直营古城店)",
+    "id": "B0LBROD7HJ",
+    "addr": "太谷区 南大街84号",
+    "type": "餐饮相关",
+    "tel": "19581918888",
+    "rating": 4.4,
+    "cost": 32.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 112.559058,
+    "lat": 37.425068,
+    "photos": [
+     "https://aos-comment.amap.com/B0LBROD7HJ/comment/B48C2171_9AAA_4E54_B4D5_E680C50F6A93_L0_001_1500_200_1767357122497_63258357.jpg",
+     "https://store.is.autonavi.com/showpic/394660d22cb89fe91df025f7e830a1bc",
+     "https://aos-comment.amap.com/B0LBROD7HJ/comment/05C25C91_7A2D_4F7C_9D8C_AF85B190C533_L0_001_1500_200_1767357122534_72633347.jpg"
+    ]
+   }
   },
   {
    "name": "长山药",
@@ -218,7 +454,24 @@
    ],
    "tips": [
     "拔丝山药要趁热吃"
-   ]
+   ],
+   "amap": {
+    "name": "威林家常菜老汤刀削面",
+    "id": "B0FFK9FGJV",
+    "addr": "平遥县 田森汇·城市生活公园北门旁",
+    "type": "中餐厅",
+    "tel": "15535441763",
+    "rating": 4.5,
+    "cost": 37.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 112.170976,
+    "lat": 37.198692,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFK9FGJV/comment/202508_14-12373_1755146300920_74754859.jpg",
+     "https://store.is.autonavi.com/showpic/2640cf5372aac4810000002335572422?type=pic",
+     "https://store.is.autonavi.com/showpic/2d8d45b11c40fe670000003428816795?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

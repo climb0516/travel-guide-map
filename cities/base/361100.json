@@ -21,7 +21,24 @@
     "门票和索道都要提前买，节假日索道排队可能很久",
     "山上天气多变，带好雨衣和外套，夏天也不要穿太少",
     "全程以栈道和台阶为主，穿防滑舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "三清山国家级旅游风景区",
+    "id": "B0319005FP",
+    "addr": "玉山县 三清乡",
+    "type": "国家级景点",
+    "tel": "0793-2189189",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 06:00-17:30",
+    "lng": 118.06578,
+    "lat": 28.895559,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e1b781dd0f2cf20e2d5601b549ab7a57",
+     "https://store.is.autonavi.com/showpic/dc58f45f9880ed127a451bcfa36e8412",
+     "https://store.is.autonavi.com/showpic/9f9c4dce06a8f0080d8aec74f13ce604"
+    ]
+   }
   },
   {
    "name": "望仙谷",
@@ -37,7 +54,24 @@
     "门票需要提前购买，节假日人非常多，晚上出谷可能排队",
     "谷里上下坡和台阶多，穿舒服的鞋",
     "想避开人潮可以在谷内或附近住一晚"
-   ]
+   ],
+   "amap": {
+    "name": "望仙谷景区",
+    "id": "B0FFKHIMXK",
+    "addr": "广信区 636县道",
+    "type": "风景名胜",
+    "tel": "0793-8467888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:30-23:00 最晚进入21:00",
+    "lng": 117.819171,
+    "lat": 28.679503,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/64f73c8962f2adcdc47c5a51dffe7124",
+     "https://store.is.autonavi.com/showpic/92a14aed5386cfae5755f39f55a81204",
+     "https://store.is.autonavi.com/showpic/95105b909d69178a7469341457c5db59"
+    ]
+   }
   },
   {
    "name": "篁岭",
@@ -53,7 +87,24 @@
     "门票和索道一般要一起购买，旺季提前买",
     "晒秋的最佳时间大约在秋季，具体以景区公布为准",
     "油菜花季和国庆周末人非常多，尽量工作日去"
-   ]
+   ],
+   "amap": {
+    "name": "婺源篁岭景区",
+    "id": "B03190QMY3",
+    "addr": "婺源县 江湾镇346乡道",
+    "type": "风景名胜",
+    "tel": "0793-7255555",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "01-01至07-03 周一至周日 08:00-20:00 最晚进入17:00；07-04至12-31 周一至周日 08:30-20:30 最晚进入18:30",
+    "lng": 118.12006,
+    "lat": 29.319004,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/720f5724631fe594cb8d82c348104688",
+     "https://store.is.autonavi.com/showpic/77cea17bf2fa4916e45b40958083d0cc",
+     "https://store.is.autonavi.com/showpic/adac20da89ee0677defdef6854686172"
+    ]
+   }
   },
   {
    "name": "江岭",
@@ -68,7 +119,24 @@
    "tips": [
     "最佳时间是每年三月中下旬前后的油菜花季，具体花期每年略有不同",
     "山路弯多，自驾注意安全，旺季可能停车困难"
-   ]
+   ],
+   "amap": {
+    "name": "江岭风景区",
+    "id": "B03190QALD",
+    "addr": "婺源县 婺源风景区内",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:30-18:00",
+    "lng": 118.033068,
+    "lat": 29.453757,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fe4ff3a02ff48b14b95d3a72197defce",
+     "https://store.is.autonavi.com/showpic/ed5c57d3ca51bdcd6efc8d298670fcef",
+     "https://store.is.autonavi.com/showpic/84ba868b79acad649eb6b906be16b54d"
+    ]
+   }
   },
   {
    "name": "李坑",
@@ -83,7 +151,24 @@
    "tips": [
     "需要购票，部分老宅另外收费",
     "村里商铺较多，早上去更安静"
-   ]
+   ],
+   "amap": {
+    "name": "李坑",
+    "id": "B0319003J9",
+    "addr": "婺源县 秋口镇李坑村",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30",
+    "lng": 117.930146,
+    "lat": 29.324151,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/95430daa633a8365ce7e5a3783df63dd",
+     "https://store.is.autonavi.com/showpic/fd27b66874a7782d87f10373c7a5203b",
+     "https://store.is.autonavi.com/showpic/3bc51648661279f2677f7d4844bdad9e"
+    ]
+   }
   },
   {
    "name": "汪口",
@@ -98,7 +183,24 @@
    "tips": [
     "需要购票",
     "可以和江湾、晓起一带的村子顺路串联"
-   ]
+   ],
+   "amap": {
+    "name": "汪口景区",
+    "id": "B031904805",
+    "addr": "婺源县 江湾镇汪口村",
+    "type": "国家级景点",
+    "tel": "0793-7298002",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 07:00-18:00 最晚进入18:00",
+    "lng": 117.996174,
+    "lat": 29.348939,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4823406cc994648857e9a5cf04072a0d",
+     "https://store.is.autonavi.com/showpic/2a1259029c6d2a8453119c90a6909564",
+     "https://store.is.autonavi.com/showpic/1159c8276e1a78e2c1cc296a829d81c5"
+    ]
+   }
   },
   {
    "name": "思溪延村",
@@ -113,7 +215,24 @@
    "tips": [
     "需要购票，部分老宅里有人居住，参观时保持安静",
     "位于婺源西北，和李坑方向不同，自驾安排更灵活"
-   ]
+   ],
+   "amap": {
+    "name": "思溪延村景区",
+    "id": "B0319017S3",
+    "addr": "婺源县 明训别院思口镇延村",
+    "type": "风景名胜",
+    "tel": "0793-7335888",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30",
+    "lng": 117.796,
+    "lat": 29.338339,
+    "photos": [
+     "https://aos-comment.amap.com/B0319017S3/comment/399d2a2e3adbe8090aa70186f9db1a2c_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0319017S3/comment/b8b33747c4966e4c63a4f96d296e01d4_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/4d2f682b85b2d90e0000003341216427?type=pic"
+    ]
+   }
   },
   {
    "name": "石城",
@@ -129,7 +248,24 @@
     "最佳时间大约在 11 月前后的红叶季",
     "想拍晨雾要住在附近，天亮前出发",
     "山路较远较窄，自驾注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "石城红枫叶景区",
+    "id": "B0FFFOOXXY",
+    "addr": "婺源县 风景区内",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.594769,
+    "lat": 29.461036,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFOOXXY/comment/content_media_external_file_1000054063_ss__1766496573616_62778066.jpg",
+     "https://aos-comment.amap.com/B0FFFOOXXY/headerImg/HeadImage_1762683730373_20343078.jpg",
+     "https://store.is.autonavi.com/showpic/2bb2336b5f82ecac0000008426944306?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    ],
    "tips": [
     "按条或者按斤算价，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "寻味婺源(弦高古城店)",
+    "id": "B0J0NMG2RT",
+    "addr": "婺源县 东溪路与书乡路交叉口东220米",
+    "type": "中餐厅",
+    "tel": "15350158958",
+    "rating": 4.3,
+    "cost": 65.0,
+    "open": "周一至周日 09:00-13:30,16:00-21:00",
+    "lng": 117.86395,
+    "lat": 29.252444,
+    "photos": [
+     "https://aos-comment.amap.com/B0J0NMG2RT/comment/%5B2025-09-22-15-25-00%5D364292E9-0C52-4C4C-9DDB-6E8EAF88652_1758525910272_57713481.jpg",
+     "https://aos-comment.amap.com/B0J0NMG2RT/comment/487C7193_4B1C_4BE7_A946_D3AC7C6199A3_L0_001_2000_150_1761351034726_26043725.jpg",
+     "https://aos-comment.amap.com/B0J0NMG2RT/comment/content_media_external_file_100010434_1759367601940_34137735.jpg"
+    ]
+   }
   },
   {
    "name": "婺源粉蒸菜",
@@ -155,7 +308,24 @@
    ],
    "tips": [
     "几个人可以点不同的蒸菜，荤素搭配"
-   ]
+   ],
+   "amap": {
+    "name": "悦亭徽菜馆",
+    "id": "B0FFK0BMFE",
+    "addr": "婺源县 民德路与青年路交叉口东260米",
+    "type": "安徽菜(徽菜)",
+    "tel": "17779325988",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 117.838417,
+    "lat": 29.254171,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFK0BMFE/comment/69FCF8CD_094F_4979_A90B_FD9485EB0DC8_L0_001_960_1280_1741667621853_12315481.jpg",
+     "https://aos-comment.amap.com/B0FFK0BMFE/comment/content_media_external_images_media_100000300_1742097812294_62448952.jpg",
+     "https://aos-comment.amap.com/B0FFK0BMFE/comment/content_media_external_images_media_2982_ss__1742187369592_78096419.jpg"
+    ]
+   }
   },
   {
    "name": "糊豆腐",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "偏辣的可以让店家少放辣椒"
-   ]
+   ],
+   "amap": {
+    "name": "自家人(婺源县店)",
+    "id": "B0FFGYKPY1",
+    "addr": "婺源县 文公北路273号(婺源人家)",
+    "type": "中餐厅",
+    "tel": "0793-7297979",
+    "rating": 4.5,
+    "cost": 48.0,
+    "open": "周一至周日 11:00-13:30,17:00-20:30",
+    "lng": 117.856716,
+    "lat": 29.26767,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ed27bfb70c7e49abf6f6689651829da4",
+     "https://aos-comment.amap.com/B0FFGYKPY1/comment/content_media_external_images_media_1000010751_ss__1737799051566_35652492.jpg",
+     "https://store.is.autonavi.com/showpic/3d6046a08c3333310000000718952371?type=pic"
+    ]
+   }
   },
   {
    "name": "汽糕",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "要趁热吃，凉了就发硬"
-   ]
+   ],
+   "amap": {
+    "name": "婺源特色汽糕店",
+    "id": "B0I12P51YB",
+    "addr": "婺源县 书香路紫阳三小上200米",
+    "type": "餐饮相关",
+    "tel": "13979324277",
+    "rating": 4.5,
+    "cost": 10.0,
+    "open": "周一至周日 05:30-20:00",
+    "lng": 117.861516,
+    "lat": 29.257692,
+    "photos": [
+     "https://aos-comment.amap.com/B0I12P51YB/comment/96eef6e80bd4f0956514ca2b5f8c8224_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0I12P51YB/comment/e4b9098e5137452827a37bf5a3c0847b_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0I12P51YB/comment/menu/8e9955b94bb7e9ffc2d338965aa41cab_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "清明粿",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "春季时令小吃，其他季节不一定买得到"
-   ]
+   ],
+   "amap": {
+    "name": "武食娘·江西名小吃(婺源店)",
+    "id": "B0J04RTHLL",
+    "addr": "婺源县 婺源人家2期",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.9,
+    "cost": 17.0,
+    "open": "周一至周日 07:00-23:00",
+    "lng": 117.856642,
+    "lat": 29.266386,
+    "photos": [
+     "https://aos-comment.amap.com/B0J04RTHLL/comment/43832B56_A2D3_4926_8C55_D12EAC935877_L0_001_2000_112_1771678837462_95672165.jpg",
+     "https://store.is.autonavi.com/showpic/d767d12bb527517c3e1a33f9407ee788",
+     "https://store.is.autonavi.com/showpic/dfc305a15387514d0000000883446917?type=pic"
+    ]
+   }
   },
   {
    "name": "上饶鸡腿",
@@ -204,7 +425,24 @@
    "tips": [
     "刚炸出来很烫，小心烫嘴",
     "辣椒粉可以让老板少放"
-   ]
+   ],
+   "amap": {
+    "name": "老徐乡下菜(高铁站店)",
+    "id": "B0K62H69IF",
+    "addr": "信州区 晨光路与站前二路交叉口南120米",
+    "type": "中餐厅",
+    "tel": "18070347345",
+    "rating": 4.6,
+    "cost": 35.0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 118.01111,
+    "lat": 28.487907,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a7b4c982148a48120000003374098071?type=pic",
+     "https://store.is.autonavi.com/showpic/0e6d52851f33c4e50000009025324801?type=pic",
+     "https://aos-comment.amap.com/B0K62H69IF/comment/20260319-965b833780bf5f4d2b7b4758-6p3MwYcZTkT9xCIRkinwRM.jpg"
+    ]
+   }
   },
   {
    "name": "弋阳年糕",
@@ -216,7 +454,23 @@
    ],
    "tips": [
     "买回家的年糕可以放冰箱，吃之前泡一下更软"
-   ]
+   ],
+   "amap": {
+    "name": "弋阳国道口咱家厨房(上饶赣东北商业街店)",
+    "id": "B0FFGFT6OW",
+    "addr": "弋阳县 赣东北商业街赣东北贸易广场店西南门南190米",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 73.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 117.462202,
+    "lat": 28.355195,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGFT6OW/comment/content_media_external_file_28061_ss__1748841782995_72939216.jpg",
+     "https://store.is.autonavi.com/showpic/c4b9350c8ca0ae6ecec3296cb41f7f73"
+    ]
+   }
   }
  ],
  "food_areas": [

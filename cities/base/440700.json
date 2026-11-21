@@ -21,7 +21,24 @@
     "开平碉楼几个主要景点有联票，购票和开放安排以官方公告为准",
     "稻田季节（春夏插秧、秋季金黄）拍照最好看",
     "村里道路是田埂和乡道，穿舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "自力村碉楼群",
+    "id": "B0FFGKNGRU",
+    "addr": "开平市 塘口镇",
+    "type": "旅游景点",
+    "tel": "0750-2679078",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 09:10-17:50",
+    "lng": 112.580081,
+    "lat": 22.369751,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/49c89aa8f43b8cd6173ee85781531164",
+     "https://store.is.autonavi.com/showpic/59cac10d26bf3d3186becca768343238",
+     "https://store.is.autonavi.com/showpic/463313e0d06b3a4ec52e32d79a5ca4cf"
+    ]
+   }
   },
   {
    "name": "立园",
@@ -36,7 +53,24 @@
    "tips": [
     "和自力村同在塘口镇，可以连着参观",
     "别墅内部空间较小，人多时需要排队"
-   ]
+   ],
+   "amap": {
+    "name": "开平碉楼文化旅游区(立园景区)",
+    "id": "B02EE01Q5U",
+    "addr": "开平市 赓华村",
+    "type": "国家级景点",
+    "tel": "0750-2679788",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 112.566042,
+    "lat": 22.349721,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/057d56bdbd6eb496ebc2b4d3c985d25b",
+     "https://store.is.autonavi.com/showpic/99b6203191e47e46fd78e8f68e7537af",
+     "https://store.is.autonavi.com/showpic/2fa40c88dec2cce9dc135b9058f3d1e3"
+    ]
+   }
   },
   {
    "name": "马降龙碉楼群",
@@ -51,7 +85,24 @@
    "tips": [
     "村内仍有居民，参观时不要擅自进入民居",
     "竹林里蚊子多，记得防蚊"
-   ]
+   ],
+   "amap": {
+    "name": "开平碉楼文化旅游区(马降龙景区)",
+    "id": "B02EE01Q6U",
+    "addr": "开平市 马降龙村",
+    "type": "风景名胜",
+    "tel": "0750-2511338",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 09:20-17:30",
+    "lng": 112.569106,
+    "lat": 22.283683,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fc5fb423fdda01e35492218689df6847",
+     "https://store.is.autonavi.com/showpic/c19fe3a95fe04fc6d8900d91a40bf6fd",
+     "https://store.is.autonavi.com/showpic/a5651e67a8337f9c95f42d8f03b62c0b"
+    ]
+   }
   },
   {
    "name": "锦江里瑞石楼",
@@ -66,7 +117,24 @@
    "tips": [
     "瑞石楼内部开放情况以官方公告为准，有时只能在外围观看",
     "离开平市区和赤坎有一段车程，自驾或包车更方便"
-   ]
+   ],
+   "amap": {
+    "name": "瑞石楼",
+    "id": "B0FFFQLQ1H",
+    "addr": "开平市 蚬冈镇锦江里村",
+    "type": "旅游景点",
+    "tel": "0750-2522588",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 112.525787,
+    "lat": 22.258925,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFQLQ1H/comment/content_media_external_images_media_70845_ss__1735444666943_72486722.jpg",
+     "https://store.is.autonavi.com/showpic/9753ae46eff88991975dc775da7301ed",
+     "https://store.is.autonavi.com/showpic/160f45199188283068194e21c863039a"
+    ]
+   }
   },
   {
    "name": "赤坎古镇",
@@ -82,7 +150,24 @@
     "古镇开放和收费安排以官方公告为准",
     "晚上灯光秀和活动以景区当天安排为准",
     "住在古镇里，可以早晚避开人流慢慢逛"
-   ]
+   ],
+   "amap": {
+    "name": "赤坎·广东华侨国际旅游度假区",
+    "id": "B02EE01XFU",
+    "addr": "开平市 赤坎镇堤东路18号",
+    "type": "风景名胜",
+    "tel": "4000011922",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10:00-22:00,最晚进入21:30,10月1日至10月7日:9:00-23:30",
+    "lng": 112.589361,
+    "lat": 22.328785,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/124ee04893edf4f5ea78794c6bf7971d",
+     "https://store.is.autonavi.com/showpic/040a3978f06361ad0c15da31d214a989",
+     "https://store.is.autonavi.com/showpic/52db34fc894e2f2cbb4ffd3937458813"
+    ]
+   }
   },
   {
    "name": "小鸟天堂",
@@ -98,7 +183,24 @@
     "早上或傍晚来看鸟最好，中午鸟比较少",
     "观鸟带上望远镜，长焦镜头更容易拍到",
     "附近就是新会陈皮村，可以顺路安排"
-   ]
+   ],
+   "amap": {
+    "name": "小鸟天堂",
+    "id": "B02EE00516",
+    "addr": "新会区 会城银湖大道中22号",
+    "type": "风景名胜",
+    "tel": "0750-6300783",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "5月1日至12月31日 08:00-18:30(18:30停止售票,18:30停止入园)",
+    "lng": 113.051464,
+    "lat": 22.460021,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/027475ea52736e1c97d86522d14225d8",
+     "https://store.is.autonavi.com/showpic/d81275dd949edec0c738910e90a33dc6",
+     "https://store.is.autonavi.com/showpic/11eb62fa9cbb201a683d2bbe82213ada"
+    ]
+   }
   },
   {
    "name": "梁启超故居",
@@ -113,7 +215,24 @@
    "tips": [
     "故居和纪念馆连在一起，参观安排以官方公告为准",
     "可以和小鸟天堂、陈皮村一起安排新会一日"
-   ]
+   ],
+   "amap": {
+    "name": "梁启超故居",
+    "id": "B0FFH5OUUX",
+    "addr": "新会区 会城街道茶坑村银湖中路",
+    "type": "纪念馆",
+    "tel": "0750-6390437",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "",
+    "lng": 113.071687,
+    "lat": 22.460131,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4a020bfe1672703d0000009493724390",
+     "https://store.is.autonavi.com/showpic/2b513c9d75ba1161aed3b837dd37bc95",
+     "https://store.is.autonavi.com/showpic/77080cdc3619ed6962197a1370cf3644"
+    ]
+   }
   },
   {
    "name": "江门五邑华侨华人博物馆",
@@ -128,7 +247,24 @@
    "tips": [
     "免费参观，是否需要预约以官方公告为准",
     "在江门市区，适合到达或离开当天安排"
-   ]
+   ],
+   "amap": {
+    "name": "江门市博物馆(中国侨都华侨华人博物馆)",
+    "id": "B0J6DHBBD3",
+    "addr": "蓬江区 文化馆北门东200米",
+    "type": "博物馆",
+    "tel": "0750-3936219",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 09:00-17:00 最晚进入16:30",
+    "lng": 113.085105,
+    "lat": 22.614148,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9fe5dd1539ad30040000004104222747?type=pic",
+     "https://aos-comment.amap.com/B0J6DHBBD3/comment/content_media_external_images_media_1000003293_ss__1769223908971_43478126.jpg",
+     "https://store.is.autonavi.com/showpic/825322de6f400db90000002538996232?type=pic"
+    ]
+   }
   },
   {
    "name": "长堤历史文化街区",
@@ -143,7 +279,24 @@
    "tips": [
     "傍晚到晚上逛最舒服",
     "周边老街里有不少地道的粥粉面店"
-   ]
+   ],
+   "amap": {
+    "name": "长堤广场",
+    "id": "B02EE02BN1",
+    "addr": "蓬江区 白沙街道白沙街道镇东路58号",
+    "type": "城市广场",
+    "tel": "",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.091933,
+    "lat": 22.576667,
+    "photos": [
+     "https://aos-comment.amap.com/B02EE02BN1/comment/content_media_external_images_media_58417_ss__1747899066660_48290343.jpg",
+     "https://store.is.autonavi.com/showpic/8f5b3523aa57c29344736de57f51f209",
+     "https://store.is.autonavi.com/showpic/6385f682e6667dd6e089d4bda5585171"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,22 @@
    "tips": [
     "陈皮年份不同价格差距很大，买前多比较几家",
     "可以先在餐厅里点陈皮菜尝尝味道"
-   ]
+   ],
+   "amap": {
+    "name": "新会陈皮",
+    "id": "B0KRKD76X7",
+    "addr": "蓬江区 龙福路与龙福支路交叉口西40米",
+    "type": "医疗保健用品",
+    "tel": "",
+    "rating": 0,
+    "cost": 0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 113.06825,
+    "lat": 22.60252,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cd06efd78414e1fa789826c639fef329"
+    ]
+   }
   },
   {
    "name": "台山黄鳝饭",
@@ -171,7 +339,24 @@
    "tips": [
     "煲仔现做需要等一段时间，可以先点",
     "锅巴最香，最后记得刮出来吃"
-   ]
+   ],
+   "amap": {
+    "name": "台山黄鳝饭(江杜东路店)",
+    "id": "B0FFFSAZ9K",
+    "addr": "蓬江区 江杜东路105号",
+    "type": "中餐厅",
+    "tel": "0750-3668628",
+    "rating": 4.5,
+    "cost": 64.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 113.055996,
+    "lat": 22.596947,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ac422aecc0e67a5b10f7a37ef1b52b4d",
+     "https://store.is.autonavi.com/showpic/144dba27453531e72f6b2ef4a6e4bbb9",
+     "https://aos-comment.amap.com/B0FFFSAZ9K/comment/content_media_external_images_media_100000202_1728839573520_24967481.jpg"
+    ]
+   }
   },
   {
    "name": "马冈鹅",
@@ -183,7 +368,23 @@
    ],
    "tips": [
     "烧鹅配酸梅酱，白切配沙姜酱油"
-   ]
+   ],
+   "amap": {
+    "name": "梁家马冈鹅",
+    "id": "B0FFHECRTY",
+    "addr": "蓬江区 白沙路46号之1附近",
+    "type": "餐饮相关",
+    "tel": "13528313305",
+    "rating": 3.7,
+    "cost": 22.0,
+    "open": "",
+    "lng": 113.076592,
+    "lat": 22.569421,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8b80ded5f8a520e4cc7898352a99c2a7",
+     "https://store.is.autonavi.com/showpic/a60de5429ca7af6879fe67d87421b3bb"
+    ]
+   }
   },
   {
    "name": "古井烧鹅",
@@ -195,7 +396,22 @@
    ],
    "tips": [
     "刚出炉的最香，饭点前买最新鲜"
-   ]
+   ],
+   "amap": {
+    "name": "古井烧鹅",
+    "id": "B0MRHHD0N4",
+    "addr": "新会区 叠翠苑",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "",
+    "lng": 113.056775,
+    "lat": 22.520725,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/babe2eb6acb84a12be42f795c7b28de3"
+    ]
+   }
   },
   {
    "name": "赤坎豆腐角",
@@ -207,7 +423,23 @@
    ],
    "tips": [
     "趁热吃最酥"
-   ]
+   ],
+   "amap": {
+    "name": "老牌赤坎老关豆腐角",
+    "id": "B0FFK6B5HZ",
+    "addr": "开平市 东河路与太平路交叉口北60米",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.0,
+    "cost": 23.0,
+    "open": "",
+    "lng": 112.690766,
+    "lat": 22.356136,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/054d1116c3d40d19f2837b22c0108b28",
+     "https://store.is.autonavi.com/showpic/0855243a8e9ba45c78678149f0af2f80"
+    ]
+   }
   },
   {
    "name": "杜阮凉瓜",
@@ -219,7 +451,24 @@
    ],
    "tips": [
     "怕苦的可以点焖排骨或酿凉瓜，苦味会淡一些"
-   ]
+   ],
+   "amap": {
+    "name": "乐善农庄",
+    "id": "B0H06UGRQQ",
+    "addr": "蓬江区 杜阮镇上巷短嘴山(土名)自编2号房屋",
+    "type": "中餐厅",
+    "tel": "0750-3683626",
+    "rating": 4.4,
+    "cost": 59.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 113.017951,
+    "lat": 22.589255,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7315a7fe6a0b6e110000003383094420?type=pic",
+     "https://aos-comment.amap.com/B0H06UGRQQ/comment/b04d655d028e5b743d9c7d7324cf4866_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/acdd3e2b7e031d240000007907264370?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

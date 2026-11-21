@@ -21,7 +21,24 @@
     "需要提前预约购票，旺季以官方公告为准",
     "部分洞窟内禁止拍照，遵守现场提示",
     "从市区打车或坐公交都可到达，约 40 分钟"
-   ]
+   ],
+   "amap": {
+    "name": "云冈石窟",
+    "id": "B0160001P5",
+    "addr": "云冈区 晋福花园东北侧",
+    "type": "世界遗产",
+    "tel": "0352-7992666",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "08:30-16:30,2026年6月19日至2026年6月21日07:00-18:00,18:00停止检票",
+    "lng": 113.137763,
+    "lat": 40.113157,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/198e4a5e649f704337cade4a7409915d",
+     "https://store.is.autonavi.com/showpic/424d2d58e79bfedf392017c836489cb0",
+     "https://store.is.autonavi.com/showpic/e140a440809cf275d313d25407eb261c"
+    ]
+   }
   },
   {
    "name": "悬空寺",
@@ -37,7 +54,24 @@
     "登临寺庙需要预约，限流以景区公告为准",
     "离市区约 1 个多小时车程，可以和恒山安排在同一天",
     "恐高的人在栈道上会比较紧张"
-   ]
+   ],
+   "amap": {
+    "name": "悬空寺",
+    "id": "B0FFF3LXOW",
+    "addr": "浑源县 大磁窑镇203省道恒山山腰",
+    "type": "寺庙道观",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "5月1日至9月30日 08:00-18:00开放；10月1日至10月31日 08:00-17:00开放；11月1日至次年2月28日 08:00-16:30开放；3月1日至4月30日 08:00-17:00开放；国家法定节假日及旅游高峰期,售,停票时间依景区客流量情况制定为准。",
+    "lng": 113.715781,
+    "lat": 39.661139,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5bf8752acc094b9ecd65ae18483f9e8c",
+     "https://store.is.autonavi.com/showpic/782840d30cbaa280b1bec442fe808c33",
+     "https://store.is.autonavi.com/showpic/bf02d5c81ed43a0eade50248826cb639"
+    ]
+   }
   },
   {
    "name": "北岳恒山",
@@ -52,7 +86,24 @@
    "tips": [
     "有索道，上山建议坐索道",
     "山顶风大温度低，带外套"
-   ]
+   ],
+   "amap": {
+    "name": "北岳恒山",
+    "id": "B0160002CC",
+    "addr": "浑源县 恒山南路",
+    "type": "国家级景点",
+    "tel": "0352-8333077",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "春秋季(3月、4月、10月)08:00-16:30(16:00停止入园), 夏季(5月至9月)08:00-17:30(17:00停止入园), 冬季(11月至次年2月)08:30-16:00(15:30停止入园), 国家法定节假日及旅游高峰期,售、停票时间依景区客流量情况制定为准",
+    "lng": 113.727792,
+    "lat": 39.66954,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cabab5e510e976331f07a46f66c3fb52",
+     "https://store.is.autonavi.com/showpic/5fd24c1f7fed44ee3d411cc325b4eda4",
+     "https://store.is.autonavi.com/showpic/a7c6414778ac3f6bc776122fb4589771"
+    ]
+   }
   },
   {
    "name": "华严寺",
@@ -67,7 +118,24 @@
    "tips": [
     "殿内光线暗，看彩塑可以借助讲解",
     "部分殿内禁止拍照"
-   ]
+   ],
+   "amap": {
+    "name": "华严寺",
+    "id": "B0160007IG",
+    "addr": "平城区 清远街89号",
+    "type": "寺庙道观",
+    "tel": "0352-2042001",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30；17:00停止检票,2026年2月17日至2月24日 08:00-18:30；18:00停止检票",
+    "lng": 113.29506,
+    "lat": 40.092531,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/939b0b8a9038edc7b5fca4b284d92ebf",
+     "https://store.is.autonavi.com/showpic/d78f3a61ea14646ef2b788cfeaf37834",
+     "https://store.is.autonavi.com/showpic/9e22a30694d1e3b289ec72c914186d5e"
+    ]
+   }
   },
   {
    "name": "善化寺",
@@ -82,7 +150,24 @@
    "tips": [
     "就在古城南门附近，和城墙顺路",
     "对古建感兴趣的话可以请讲解"
-   ]
+   ],
+   "amap": {
+    "name": "善化古寺",
+    "id": "B0160002S2",
+    "addr": "平城区 大同古城南寺街6号(近楼房巷)",
+    "type": "寺庙道观",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 08:30-17:30 最晚进入17:00；4月至10月 周一至周日 08:00-17:30 最晚进入17:30",
+    "lng": 113.300335,
+    "lat": 40.087041,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/46552d487ed579b92c08819957c08eb0",
+     "https://store.is.autonavi.com/showpic/5c9833173eda99f1006ebd35fd8ee915",
+     "https://store.is.autonavi.com/showpic/c220935552363b1138dacb542a799660"
+    ]
+   }
   },
   {
    "name": "大同古城墙",
@@ -98,7 +183,24 @@
     "需要购票登城，具体以现场公告为准",
     "绕一圈走路要两个小时左右，骑车更省力",
     "冬天城墙上风大，注意保暖"
-   ]
+   ],
+   "amap": {
+    "name": "大同古城墙",
+    "id": "B0FFGRMZMG",
+    "addr": "平城区 和阳街与和阳门内街交叉口东100米",
+    "type": "旅游景点",
+    "tel": "0352-7699269",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "9月1日-11月30日 07:00-22:00开放；6月1日-8月31日 07:00-23:00开放；12月1日-12月31日 07:00-21:00开放；1月1日-5月31日 17:00-22:00开放 最晚进入21:45；中秋节,国庆节 07:00-22:30开放 最晚进入22:00；如遇降雪天气,城墙不开放.降雨天气,晚间不开放.为了不影响您的行程,请游客朋友提前做好安排,避开特殊天气；具体开放时间以官方通知为准",
+    "lng": 113.302262,
+    "lat": 40.084584,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/622178da5baba2e3286df5b4b2f09876",
+     "https://store.is.autonavi.com/showpic/55e937bed40a4a710000000650550090",
+     "https://store.is.autonavi.com/showpic/453c04f7daec68a60000005593392432?type=pic"
+    ]
+   }
   },
   {
    "name": "九龙壁",
@@ -113,7 +215,24 @@
    "tips": [
     "规模不大，半小时足够",
     "可以和代王府一起看"
-   ]
+   ],
+   "amap": {
+    "name": "九龙壁",
+    "id": "B0160005JK",
+    "addr": "平城区 大同古城大东街18号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "9月1日至10月31日 周一至周日 08:30-18:00开放；6月7日至8月31日 周一至周五 08:00-20:30开放(20:00停止售票,20:00停止入园)；周六至周日 08:00-21:30开放(21:00停止售票,21:00停止入园)；具体开放时间以官方通知为准",
+    "lng": 113.303979,
+    "lat": 40.093042,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/81983b85dc3754da0000003442818198?type=pic",
+     "https://store.is.autonavi.com/showpic/38becd66f16edeb20000003154004279?type=pic",
+     "https://store.is.autonavi.com/showpic/45ef47356f32a4900000009438232480?type=pic"
+    ]
+   }
   },
   {
    "name": "代王府",
@@ -128,7 +247,24 @@
    "tips": [
     "复建建筑为主，对古建原物感兴趣的可以优先看华严寺、善化寺",
     "就在九龙壁对面，两处可以一起看"
-   ]
+   ],
+   "amap": {
+    "name": "代王府·大明百戏园",
+    "id": "B01600N5QA",
+    "addr": "平城区 大同古城皇城街18号",
+    "type": "风景名胜",
+    "tel": "0352-2992699",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00 最晚进入17:00",
+    "lng": 113.304299,
+    "lat": 40.095887,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e059abc8dc94e130000003174044470?type=pic",
+     "https://store.is.autonavi.com/showpic/af1d68844fd4fd1b9813218eb0cf6ff7",
+     "https://store.is.autonavi.com/showpic/9e52961f4975d9c70000009348488426?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    "tips": [
     "记得加醋，山西人吃面离不开醋",
     "可以要求加一份卤蛋或豆腐干"
-   ]
+   ],
+   "amap": {
+    "name": "喜晋道面馆(绿地缤纷汇店)",
+    "id": "B0KRBUSCT4",
+    "addr": "平城区 南环东路80号",
+    "type": "中餐厅",
+    "tel": "0352-5333315",
+    "rating": 4.8,
+    "cost": 30.0,
+    "open": "周一至周六 07:00-21:30；周日 07:00-21:00",
+    "lng": 113.341821,
+    "lat": 40.062834,
+    "photos": [
+     "https://aos-comment.amap.com/B0KRBUSCT4/comment/content_media_external_images_media_733_1760592588002_34458222.jpg",
+     "https://aos-comment.amap.com/B0KRBUSCT4/comment/C3C98BF3_C965_4474_9D2F_C628297B5019_L0_001_2000_150_1757117854919_02879277.jpg",
+     "https://store.is.autonavi.com/showpic/0a4f9e9b1fbdfc7876c6f7a93cb83bbc"
+    ]
+   }
   },
   {
    "name": "羊杂割",
@@ -156,7 +309,24 @@
    "tips": [
     "辣椒油很香也很辣，按口味加",
     "怕膻的可以多加香菜和胡椒"
-   ]
+   ],
+   "amap": {
+    "name": "大同市花园大饭店",
+    "id": "B0FFHC4UYB",
+    "addr": "平城区 永泰街93号",
+    "type": "餐饮相关",
+    "tel": "0352-5865848",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "",
+    "lng": 113.301718,
+    "lat": 40.090239,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0b0d46f12f3d370203ddca8c46c5c45a",
+     "https://aos-comment.amap.com/B01600M89W/comment/AA49F1C7_A1CD_4A8C_82D2_F8B1A8DAF9CB_L0_001_2000_139_1760090989570_50821737.jpg",
+     "https://store.is.autonavi.com/showpic/a95c56f201d148da0000005979696011?type=pic"
+    ]
+   }
   },
   {
    "name": "黄糕",
@@ -169,7 +339,24 @@
    "tips": [
     "油炸糕刚出锅很烫，小心入口",
     "配羊肉或者炖菜最地道"
-   ]
+   ],
+   "amap": {
+    "name": "刘记羊杂",
+    "id": "B0K3DOP7RI",
+    "addr": "平城区 雁运街12号(雁运家属院东2门旁)",
+    "type": "中餐厅",
+    "tel": "18903523977",
+    "rating": 4.5,
+    "cost": 11.0,
+    "open": "周一至周日 06:30-14:00",
+    "lng": 113.294139,
+    "lat": 40.104034,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2eb3058e25c7bb0f0000006432166393?type=pic",
+     "https://store.is.autonavi.com/showpic/904da3cc7062aae2a524f559fd122bd8",
+     "https://store.is.autonavi.com/showpic/0ee6335781fa7fe40000003711538128"
+    ]
+   }
   },
   {
    "name": "浑源凉粉",
@@ -182,7 +369,24 @@
    "tips": [
     "夏天吃最解暑",
     "辣椒油是灵魂，可以多要一点"
-   ]
+   ],
+   "amap": {
+    "name": "晋北老厨",
+    "id": "B0H0C5WV1B",
+    "addr": "浑源县 恒山南路岳麓小区商铺37、38、39号",
+    "type": "中餐厅",
+    "tel": "0352-8333099",
+    "rating": 4.7,
+    "cost": 49.0,
+    "open": "周一至周日 10:30-22:00",
+    "lng": 113.701767,
+    "lat": 39.687862,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/373ebdead2820e623a4f7ba30e2dbb8b",
+     "https://aos-comment.amap.com/B0H0C5WV1B/comment/176873658059_1768736582034_48218373.jpg",
+     "https://aos-comment.amap.com/B0H0C5WV1B/comment/content_media_external_file_100001633_1751339972205_32024878.jpg"
+    ]
+   }
   },
   {
    "name": "兔头",
@@ -194,7 +398,24 @@
    ],
    "tips": [
     "店里一般有五香和香辣两种口味"
-   ]
+   ],
+   "amap": {
+    "name": "状元煮烤官(北都街店)",
+    "id": "B0GD5H3GQ1",
+    "addr": "平城区 南关东街怡景苑3楼8号",
+    "type": "综合酒楼",
+    "tel": "15234222220",
+    "rating": 4.6,
+    "cost": 50.0,
+    "open": "周一至周日 10:30-14:00,16:00-02:00",
+    "lng": 113.313747,
+    "lat": 40.082763,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1b6aa72d70567fd20000003011052148?type=pic",
+     "https://store.is.autonavi.com/showpic/d855caffabfffecc984fd546ac8e0791",
+     "https://store.is.autonavi.com/showpic/310ca033e1ba0be00000003011042360?type=pic"
+    ]
+   }
   },
   {
    "name": "莜面",
@@ -207,7 +428,24 @@
    "tips": [
     "蘸羊肉汤最香",
     "一次别吃太多，比较顶饱"
-   ]
+   ],
+   "amap": {
+    "name": "西北莜面村(开源店)",
+    "id": "B0FFHBZRNL",
+    "addr": "平城区 东信国际1309-1312号",
+    "type": "综合酒楼",
+    "tel": "0352-8886555",
+    "rating": 4.5,
+    "cost": 20.0,
+    "open": "周一至周日 09:30-14:30,17:00-21:30",
+    "lng": 113.301856,
+    "lat": 40.050165,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHBZRNL/comment/content_media_external_file_100002464_1768641390127_88344404.jpg",
+     "https://aos-comment.amap.com/B0FFHBZRNL/comment/1094EA7A_B927_47D9_B3D1_C2065E7F6CC4_L0_001_1500_200_1767582787864_59433895.jpg",
+     "https://aos-comment.amap.com/B0FFHBZRNL/comment/4fe6b7026f10c4b42f092a72cde2622f_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "铜火锅",
@@ -220,7 +458,24 @@
    "tips": [
     "适合多人一起吃",
     "可以配一碟韭菜花或者辣椒蘸着吃"
-   ]
+   ],
+   "amap": {
+    "name": "清真新马泰铜锅涮(御东店)",
+    "id": "B0I2D5S6ET",
+    "addr": "平城区 永和路锦瑞文源小区6号楼5号商铺",
+    "type": "火锅店",
+    "tel": "0352-5020717",
+    "rating": 4.7,
+    "cost": 99.0,
+    "open": "周一至周日 11:30-14:00,18:00-21:00",
+    "lng": 113.340392,
+    "lat": 40.057217,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/21c6a31d548caec10000002478784206?type=pic",
+     "https://store.is.autonavi.com/showpic/a45736f2d0f9a7080000002500090168?type=pic",
+     "https://store.is.autonavi.com/showpic/34bf352013853aa521257c4596693a5e"
+    ]
+   }
   }
  ],
  "food_areas": [

@@ -21,7 +21,24 @@
     "免费参观，需要提前实名预约",
     "祭堂周一通常闭馆维护，出发前看官方公告",
     "景区内有观光车，可以在几个景点之间换乘，省不少脚力"
-   ]
+   ],
+   "amap": {
+    "name": "中山陵景区",
+    "id": "B0FFHVEECG",
+    "addr": "玄武区 石象路7号",
+    "type": "风景名胜",
+    "tel": "025-85769047",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "08:30-17:00(周一闭馆)；法定节假日及孙中山先生诞辰、逝世纪念日正常开放,墓室仅周二至周五开放(数据来源:江苏省文旅厅公共服务平台苏心游)",
+    "lng": 118.854097,
+    "lat": 32.054508,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/46bf800a21c42453ff756fc2b77c710f",
+     "https://store.is.autonavi.com/showpic/8ba66129d88f0dd017a3c5e6f2f4e44b",
+     "https://store.is.autonavi.com/showpic/0f1a841f2ea9298054e7e23643d4ea73"
+    ]
+   }
   },
   {
    "name": "明孝陵",
@@ -37,7 +54,24 @@
     "需要购票，石象路一段在景区外也能看到",
     "秋季周末人非常多，尽量早上去",
     "和中山陵之间可以坐景区观光车"
-   ]
+   ],
+   "amap": {
+    "name": "明孝陵景区",
+    "id": "B0FFFFKG55",
+    "addr": "玄武区 石象路7号",
+    "type": "世界遗产",
+    "tel": "025-84431174",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月,12月 周一至周日 07:00-17:30；2月至11月 周一至周日 06:30-18:30；明孝陵博物馆:周二–周日09:00–17:00（16:30停止入馆），周一闭馆",
+    "lng": 118.840463,
+    "lat": 32.051926,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a9d8eb4d58561ffda8bb4ff08c8a4d2c",
+     "https://store.is.autonavi.com/showpic/3ea075662d58c7aa5ae221511543ce34",
+     "https://store.is.autonavi.com/showpic/5e0180074458603796c2c0b37efb83d6"
+    ]
+   }
   },
   {
    "name": "南京博物院",
@@ -53,7 +87,24 @@
     "免费参观，需要提前预约，周一闭馆",
     "节假日预约名额紧张，尽早抢",
     "在中山门附近，离钟山风景区不远"
-   ]
+   ],
+   "amap": {
+    "name": "南京博物院",
+    "id": "B001907TGR",
+    "addr": "玄武区 中山东路321号",
+    "type": "博物馆",
+    "tel": "025-84807923",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一 闭馆(法定节假日除外)；周二至周日 09:00-17:00开放(16:00停止入园)",
+    "lng": 118.825064,
+    "lat": 32.040802,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6d9679442d9f514b78d55213b43d9417",
+     "https://store.is.autonavi.com/showpic/7b34bad405cc8c519b800c910b2369fa",
+     "https://store.is.autonavi.com/showpic/5ea532a7b89f4327791e2e599d253e0f"
+    ]
+   }
   },
   {
    "name": "总统府",
@@ -69,7 +120,24 @@
     "需要购票，节假日建议提前预约",
     "建议请讲解或租导览器，不然很难看懂院子里的故事",
     "地铁 2、3 号线大行宫站附近"
-   ]
+   ],
+   "amap": {
+    "name": "总统府",
+    "id": "B00190BMRC",
+    "addr": "玄武区 长江路292号",
+    "type": "国家级景点",
+    "tel": "025-84578716",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 08:30-17:00 最晚进入16:00；16:00停止入场",
+    "lng": 118.797398,
+    "lat": 32.044228,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/21acde57-d540-4737-974a-11b6c69d23de.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/9de05734-5535-4a28-b267-6034209ee871.jpg",
+     "https://store.is.autonavi.com/showpic/012a55c80fb8e55d85789ac1198bf526"
+    ]
+   }
   },
   {
    "name": "侵华日军南京大屠杀遇难同胞纪念馆",
@@ -85,7 +153,24 @@
     "免费参观，需要提前预约，周一闭馆",
     "馆内请保持安静，不要嬉笑打闹、摆拍",
     "地铁 2 号线云锦路站下车步行即到"
-   ]
+   ],
+   "amap": {
+    "name": "侵华日军南京大屠杀遇难同胞纪念馆(暂停开放)",
+    "id": "B001905N9D",
+    "addr": "建邺区 水西门大街418号",
+    "type": "纪念馆",
+    "tel": "025-86612230",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "",
+    "lng": 118.742372,
+    "lat": 32.035217,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5bece6e3e3e4e0203fe0f2962394a46d",
+     "https://store.is.autonavi.com/showpic/d2f67f0758f4efb5379786f13e850d67",
+     "https://store.is.autonavi.com/showpic/d8f6f9f39a9fc0c5b52d5377027f88a0"
+    ]
+   }
   },
   {
    "name": "夫子庙和秦淮河",
@@ -101,7 +186,24 @@
     "夫子庙附近的小吃店游客化严重，地道小吃往老门东或居民区去找",
     "秦淮河游船节假日要排队，可以提前买票",
     "地铁 3 号线夫子庙站下车步行即到"
-   ]
+   ],
+   "amap": {
+    "name": "南京夫子庙",
+    "id": "B00190ANHZ",
+    "addr": "秦淮区 贡院街152号",
+    "type": "国家级景点",
+    "tel": "025-52209788",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 118.788899,
+    "lat": 32.02066,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8fd02cf1c04a8a5a91e32a5354d7a023",
+     "https://store.is.autonavi.com/showpic/d7376c3ebfc72313f868c4674f0c10ca",
+     "https://store.is.autonavi.com/showpic/de5059419440e30111295da839c959a2"
+    ]
+   }
   },
   {
    "name": "老门东",
@@ -116,7 +218,24 @@
    "tips": [
     "街区免费，登城墙需要购票",
     "傍晚灯亮后街区很好看，适合拍照"
-   ]
+   ],
+   "amap": {
+    "name": "老门东",
+    "id": "B00190BU4S",
+    "addr": "秦淮区 剪子巷与箍桶巷交汇处剪子巷54号",
+    "type": "风景名胜",
+    "tel": "025-58776699",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.787645,
+    "lat": 32.011604,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/69e7ca3e4d0357955c61d1ec1682a587",
+     "https://store.is.autonavi.com/showpic/593ecf40b029c8c88039bc0440c62156",
+     "https://store.is.autonavi.com/showpic/aa99d0326fcfba214c97f6d3e81cabed"
+    ]
+   }
   },
   {
    "name": "鸡鸣寺和玄武湖",
@@ -132,7 +251,24 @@
     "樱花季周末人非常多，尽量工作日或一早去",
     "鸡鸣寺需要购票，香火很旺",
     "从鸡鸣寺可以沿城墙走到玄武湖"
-   ]
+   ],
+   "amap": {
+    "name": "古鸡鸣寺",
+    "id": "B0FFH62KNA",
+    "addr": "玄武区 鸡鸣寺路1号钟山风景名胜区玄武湖景区内西南侧",
+    "type": "寺庙道观",
+    "tel": "025-57715595",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "07:00-17:00；月初周一、15开放时间为:05:30-17:00,16:45停止入园,2026年春节期间07:00-18:00",
+    "lng": 118.795246,
+    "lat": 32.061061,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=st653d2760-3b45-47e5-ad2c-7a027aea5997&user=search&operate=original",
+     "https://store.is.autonavi.com/showpic/392f72eea97dc58c8dc90151327ddfbe",
+     "https://store.is.autonavi.com/showpic/de3f56d049b7c23411b5adaa1671767a"
+    ]
+   }
   },
   {
    "name": "牛首山",
@@ -147,7 +283,24 @@
    "tips": [
     "需要购票，景区内有观光车",
     "从市区开车约 40 分钟，公共交通不太方便"
-   ]
+   ],
+   "amap": {
+    "name": "南京牛首山文化旅游区",
+    "id": "B001908F04",
+    "addr": "江宁区 宁丹大道18号",
+    "type": "省级景点",
+    "tel": "4001656363",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "8:30-17:30（16:30停止入园）(数据来源:江苏省文旅厅公共服务平台苏心游)",
+    "lng": 118.74415,
+    "lat": 31.903309,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f1496728ce77c278f387d2a29c3c920e",
+     "https://store.is.autonavi.com/showpic/decb8641eaec9e5b27919317109d50ad",
+     "https://store.is.autonavi.com/showpic/6ba1ef385e926e1ed4f4d55fc397078a"
+    ]
+   }
   }
  ],
  "foods": [
@@ -162,7 +315,24 @@
    "tips": [
     "一般按斤卖，买半只或者四分之一只就够尝",
     "可以让店家浇上卤汁，更入味"
-   ]
+   ],
+   "amap": {
+    "name": "章云板鸭(总店)",
+    "id": "B0FFF5VX2P",
+    "addr": "秦淮区 升州路228号(近中山南路三山街)",
+    "type": "餐饮相关",
+    "tel": "13372012338",
+    "rating": 4.7,
+    "cost": 33.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 118.778048,
+    "lat": 32.025535,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/eeb283a8dc020b4e30d1ff62e911011e",
+     "https://store.is.autonavi.com/showpic/2bf3e3e0740a503988b89186bbfd9bf9",
+     "https://store.is.autonavi.com/showpic/d0d83d2b70729d911d72641daecca998"
+    ]
+   }
   },
   {
    "name": "鸭血粉丝汤",
@@ -175,7 +345,24 @@
    "tips": [
     "不吃香菜记得提前说",
     "配一笼小笼包或者锅贴是标准吃法"
-   ]
+   ],
+   "amap": {
+    "name": "小潘记鸭血粉丝汤",
+    "id": "B0FFF90J6O",
+    "addr": "秦淮区 中山东路198号龙台国际大厦星巴克旁",
+    "type": "中餐厅",
+    "tel": "18112936358",
+    "rating": 4.7,
+    "cost": 34.0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 118.793211,
+    "lat": 32.040697,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1d69c9bfcf1661e729c8155d35a4050b",
+     "https://aos-comment.amap.com/B0FFF90J6O/comment/content_media_external_file_79828_ss__1769066041290_93285434.jpg",
+     "https://store.is.autonavi.com/showpic/1c32e3afef345018b7d9c6f7d97da6ec"
+    ]
+   }
   },
   {
    "name": "牛肉锅贴",
@@ -188,7 +375,24 @@
    "tips": [
     "刚出锅很烫，里面有汤汁",
     "饭点排队人多，错峰更好"
-   ]
+   ],
+   "amap": {
+    "name": "李记清真馆(打钉巷店)(南京)",
+    "id": "B001906WDQ",
+    "addr": "秦淮区 朝天宫街道评事街打钉巷1号",
+    "type": "清真菜馆",
+    "tel": "025-52257736",
+    "rating": 4.9,
+    "cost": 26.0,
+    "open": "周一至周日 05:30-19:30 2026-10-31至2026-10-31 05:30-17:30",
+    "lng": 118.779783,
+    "lat": 32.029251,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6e5815251414fc301c3d0fe2c01aa735",
+     "https://store.is.autonavi.com/showpic/5658677d4fee240c0000003184126697?type=pic",
+     "https://store.is.autonavi.com/showpic/c975616b24da8eb00000003598802080?type=pic"
+    ]
+   }
   },
   {
    "name": "皮肚面",
@@ -200,7 +404,24 @@
    ],
    "tips": [
     "分量大，胃口小的可以和同伴分着吃"
-   ]
+   ],
+   "amap": {
+    "name": "易记皮肚面(明瓦廊店)",
+    "id": "B001907F36",
+    "addr": "秦淮区 明瓦廊101-103号(近大洋百货)",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.4,
+    "cost": 25.0,
+    "open": "周一至周日 07:00-20:30",
+    "lng": 118.782978,
+    "lat": 32.036512,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2a75169ae8e7ee3a07662f528795de9c",
+     "https://aos-comment.amap.com/B001907F36/comment/42c5b3def2bffb9635a308ef2b5281bb_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/558625b121d5c3060000004100094702?type=pic"
+    ]
+   }
   },
   {
    "name": "小笼汤包",
@@ -212,7 +433,23 @@
    ],
    "tips": [
     "先咬小口吸汤，避免烫嘴"
-   ]
+   ],
+   "amap": {
+    "name": "南京汤包",
+    "id": "B0LUA7P6ES",
+    "addr": "鼓楼区 湖北路87-89号湖北路87-89小区",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "",
+    "lng": 118.776084,
+    "lat": 32.068868,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e5848e1213e7aadb5c3530770eb52f2",
+     "https://aos-comment.amap.com/B0LUA7P6ES/comment/content_media_external_file_3746_1772463357627_11471364.jpg"
+    ]
+   }
   },
   {
    "name": "糖芋苗",
@@ -224,7 +461,24 @@
    ],
    "tips": [
     "偏甜，两个人分一碗就够"
-   ]
+   ],
+   "amap": {
+    "name": "郭记粥铺(玉塘东街店)",
+    "id": "B0LDPY2CVQ",
+    "addr": "建邺区 玉塘东街14号-11号",
+    "type": "中餐厅",
+    "tel": "13605196069",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 06:00-13:00",
+    "lng": 118.754022,
+    "lat": 32.027666,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/09c5d2cb9ddb38a2fb0eb0b8524511d6",
+     "https://store.is.autonavi.com/showpic/b1f4bf58734fca499edf502dcff9db1a",
+     "https://store.is.autonavi.com/showpic/c1b1aee1684c74e1f71b0f6e151198ae"
+    ]
+   }
   },
   {
    "name": "鸭油酥烧饼",
@@ -236,7 +490,24 @@
    ],
    "tips": [
     "刚出炉的最酥，凉了口感差很多"
-   ]
+   ],
+   "amap": {
+    "name": "韩复兴(湖北路店)",
+    "id": "B0FFF5VS75",
+    "addr": "鼓楼区 湖北路90号(青春广场地铁站1号口步行410米)",
+    "type": "餐饮相关",
+    "tel": "13814050884",
+    "rating": 4.6,
+    "cost": 39.0,
+    "open": "周一至周日 07:30-19:00",
+    "lng": 118.776994,
+    "lat": 32.067991,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6e70b6b3599b19e58c3fe3ba65951575",
+     "https://aos-comment.amap.com/B0FFF5VS75/comment/74d4096ab41408f1e8cb413f84390ea0_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/b11e232e67d20ce861f7433c0fcc15b3"
+    ]
+   }
   }
  ],
  "food_areas": [

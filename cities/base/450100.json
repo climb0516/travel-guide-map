@@ -21,7 +21,24 @@
     "景区内有观光车，带老人小孩建议坐车上山、步行下山",
     "夏天山上湿热，带够水、做好防蚊",
     "门票和观光车可在官方渠道购买，节假日人多建议提前"
-   ]
+   ],
+   "amap": {
+    "name": "青秀山风景区",
+    "id": "B030305711",
+    "addr": "青秀区 凤岭南路6-6号",
+    "type": "国家级景点",
+    "tel": "0771-5828923",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:00-23:00",
+    "lng": 108.395254,
+    "lat": 22.78866,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/45d4b839591d1ae07ae727569e05d453",
+     "https://store.is.autonavi.com/showpic/8861661d703223e5f51251260212196f",
+     "https://store.is.autonavi.com/showpic/87ef94ed59635f9e3006f40ff9f8d978"
+    ]
+   }
   },
   {
    "name": "广西民族博物馆",
@@ -36,7 +53,24 @@
    "tips": [
     "免费参观，需要提前在官方渠道预约，周一一般闭馆，以官方公告为准",
     "露天建筑园不小，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "广西民族博物馆",
+    "id": "B030305T9Q",
+    "addr": "青秀区 青环路11号(近荔园山庄)",
+    "type": "博物馆",
+    "tel": "0771-2024599",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一全天关闭,周二至周日 09:00-17:00(16:15停止入场)",
+    "lng": 108.40184,
+    "lat": 22.774463,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6e11706e1a0bb0bb0d60d63811852a61",
+     "https://store.is.autonavi.com/showpic/bd90f8cfdb24e5dd0000002704344486?type=pic",
+     "https://store.is.autonavi.com/showpic/149f5e90dc62add60000002928856111?type=pic"
+    ]
+   }
   },
   {
    "name": "广西壮族自治区博物馆",
@@ -51,7 +85,24 @@
    "tips": [
     "免费参观，需提前预约，开放安排以官方公告为准",
     "周末和假期有讲解场次，可以留意官方信息"
-   ]
+   ],
+   "amap": {
+    "name": "广西壮族自治区博物馆",
+    "id": "B0303054T8",
+    "addr": "青秀区 民族大道34号",
+    "type": "博物馆",
+    "tel": "0771-2707027",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一 全天关闭(法定节假日除外),周二至周日 09:00-17:00 停止入馆16:30,具体开放时间以官方通知为准",
+    "lng": 108.335166,
+    "lat": 22.812451,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bb98140b68ac72590000009411700552?type=pic",
+     "https://store.is.autonavi.com/showpic/3c5aa2f9b74a67d00000006101530542?type=pic",
+     "https://store.is.autonavi.com/showpic/1127e0f418102616fd02c1a408cad819"
+    ]
+   }
   },
   {
    "name": "三街两巷",
@@ -67,7 +118,24 @@
     "白天天气热，傍晚以后来更舒服",
     "街区里的小吃偏游客化，地道的粉店可以往周边老街找",
     "地铁 1、2 号线朝阳广场站步行可到"
-   ]
+   ],
+   "amap": {
+    "name": "三街两巷-骑楼建筑群",
+    "id": "B0LR3CE1UM",
+    "addr": "兴宁区 民族大道辅路与当阳街交叉口东北140米",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 108.319937,
+    "lat": 22.814062,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b0cc76b8e1bdecca0000009429376300?type=pic",
+     "https://store.is.autonavi.com/showpic/23b60e9166d326f20000009429352973?type=pic",
+     "https://store.is.autonavi.com/showpic/c21a1ebf5b015dbc0000009429372420?type=pic"
+    ]
+   }
   },
   {
    "name": "南湖公园",
@@ -82,7 +150,24 @@
    "tips": [
     "免费开放，傍晚来温度最合适",
     "湖边蚊子多，记得带驱蚊水"
-   ]
+   ],
+   "amap": {
+    "name": "南湖公园",
+    "id": "B03030176Y",
+    "addr": "青秀区 双拥路1号",
+    "type": "公园",
+    "tel": "0771-5324932",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；具体营业状态以当天开放情况为准",
+    "lng": 108.351374,
+    "lat": 22.804765,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/267fdd63d2f57c6ad96c9b05384dd9f9",
+     "https://store.is.autonavi.com/showpic/b2b80793b9895380d85fe9b8c272caee",
+     "https://store.is.autonavi.com/showpic/a9dc07e55dc8b882ff5653bf8667866c"
+    ]
+   }
   },
   {
    "name": "广西药用植物园",
@@ -98,7 +183,24 @@
     "开放和购票安排以官方公告为准",
     "园区面积大，穿舒服的鞋",
     "雨后路滑，注意防蚊"
-   ]
+   ],
+   "amap": {
+    "name": "广西壮族自治区药用植物园",
+    "id": "B030305AGX",
+    "addr": "兴宁区 长堽路189号",
+    "type": "植物园",
+    "tel": "0771-5603072",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00 最晚进入18:00",
+    "lng": 108.376894,
+    "lat": 22.853722,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/536eb841def2948dcad416a2e7614051",
+     "https://aos-comment.amap.com/B030305AGX/comment/content_media_external_images_media_30944_ss__1743821184978_59991993.jpg",
+     "https://aos-comment.amap.com/B030305AGX/comment/2c71d150b5b11000cadc46de9ad6879b_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "南宁园博园",
@@ -114,7 +216,24 @@
     "离市区较远，建议打车或自驾前往",
     "园内有电瓶车，体力一般的可以坐车",
     "开放和收费情况以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "南宁园博园",
+    "id": "B0FFIHK23Q",
+    "addr": "邕宁区 蒲兴大道20号",
+    "type": "风景名胜",
+    "tel": "0771-6770022",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "5月1日-10月31日:9:00-18:00；11月30日-4月30日9:00-17:00",
+    "lng": 108.4779,
+    "lat": 22.723272,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/01a3b5fc1ebab0b64849c9409f830eef",
+     "https://store.is.autonavi.com/showpic/f1cc146b7c82ccd3bcf84591b6d6d5b7",
+     "https://store.is.autonavi.com/showpic/419761165f2965d378446783ba70f39c"
+    ]
+   }
   },
   {
    "name": "扬美古镇",
@@ -129,7 +248,24 @@
    "tips": [
     "离市区较远，建议自驾或包车，往返预留半天以上",
     "古镇里的小店分散，饭点前到更从容"
-   ]
+   ],
+   "amap": {
+    "name": "扬美古镇",
+    "id": "B030305OGX",
+    "addr": "江南区 扬美客运站南30米",
+    "type": "风景名胜",
+    "tel": "0771-5555667",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 108.064512,
+    "lat": 22.839199,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/72b28ba97a43c5f24e6d03ab66556b95",
+     "https://store.is.autonavi.com/showpic/99f3f8c7c8bf89adc47f461bc79f91f0",
+     "https://store.is.autonavi.com/showpic/c695c8f27d0b62499f44932d634806b1"
+    ]
+   }
   }
  ],
  "foods": [
@@ -144,7 +280,24 @@
    "tips": [
     "酸笋味道比较冲，第一次吃可以要少放",
     "辣度可以跟老板说，微辣已经够劲"
-   ]
+   ],
+   "amap": {
+    "name": "舒记粉店(七星总店)",
+    "id": "B03030T1Q5",
+    "addr": "青秀区 七星路44号(第一人民医院斜对面)",
+    "type": "中餐厅",
+    "tel": "18070942595",
+    "rating": 4.6,
+    "cost": 18.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 108.32464,
+    "lat": 22.809731,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/144f23d6a82a67a1efe3c7ff0b2c653a",
+     "https://store.is.autonavi.com/showpic/da655ac66916be4f0000002475366740?type=pic",
+     "https://aos-comment.amap.com/B03030T1Q5/comment/176935747579_1769357502780_98721378.jpg"
+    ]
+   }
   },
   {
    "name": "柠檬鸭",
@@ -157,7 +310,24 @@
    "tips": [
     "鸭肉带骨，一份分量不小，两三人点半只就够",
     "偏酸辣，配白饭最好"
-   ]
+   ],
+   "amap": {
+    "name": "甘家界柠檬鸭(春晖店)",
+    "id": "B0FFHPR5NJ",
+    "addr": "青秀区 民族大道135-1号",
+    "type": "中餐厅",
+    "tel": "0771-5807799",
+    "rating": 4.7,
+    "cost": 74.0,
+    "open": "周一至周日 11:00-22:00",
+    "lng": 108.390271,
+    "lat": 22.814195,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/06f3f793d051cd403899230b35db84fb",
+     "https://store.is.autonavi.com/showpic/7949b291ca271188c193f31ecfbb9171",
+     "https://store.is.autonavi.com/showpic/08f332a6ad2782bc55e3971dae2e8f3e"
+    ]
+   }
   },
   {
    "name": "生榨米粉",
@@ -170,7 +340,24 @@
    "tips": [
     "早上去老店最新鲜，下午有些店会卖完",
     "喜欢原味的可以先尝汤再加调料"
-   ]
+   ],
+   "amap": {
+    "name": "覃记生榨米粉(南铁一巷)",
+    "id": "B0FFG24LIN",
+    "addr": "西乡塘区 南铁六街4号(秀灵路地铁站B口步行410米)",
+    "type": "中餐厅",
+    "tel": "13457822224",
+    "rating": 4.6,
+    "cost": 10.0,
+    "open": "周一至周日 06:30-16:30",
+    "lng": 108.304689,
+    "lat": 22.834098,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG24LIN/comment/content_media_external_file_1000013404_ss__1761920402926_29611508.jpg",
+     "https://store.is.autonavi.com/showpic/2432a078d2300f9e0000002385812450?type=pic",
+     "https://aos-comment.amap.com/B0FFG24LIN/comment/content_media_external_file_15955_ss__1746367502062_32568366.jpg"
+    ]
+   }
   },
   {
    "name": "卷筒粉",
@@ -182,7 +369,24 @@
    ],
    "tips": [
     "蘸料一般有酸辣和酱香两种，可以都试试"
-   ]
+   ],
+   "amap": {
+    "name": "古记老牌卷筒粉(建政路南四里店)",
+    "id": "B0MUP9FC9D",
+    "addr": "青秀区 建政南路与建政路南四里交叉口西北40米",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.3,
+    "cost": 10.0,
+    "open": "周一至周日 19:30-03:00",
+    "lng": 108.341614,
+    "lat": 22.822986,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0c11cfca866daf980000008407598361?type=pic",
+     "https://store.is.autonavi.com/showpic/dab8390f80e797160000008407592325?type=pic",
+     "https://store.is.autonavi.com/showpic/f4b5fae40c0d80e30000009182676447?type=pic"
+    ]
+   }
   },
   {
    "name": "酸嘢",
@@ -195,7 +399,24 @@
    "tips": [
     "辣度可以让老板少放辣椒粉",
     "空腹别吃太多，比较刺激胃"
-   ]
+   ],
+   "amap": {
+    "name": "有嘢食私房菜",
+    "id": "B0FFGDFUJM",
+    "addr": "兴宁区 西关路2号西关新天地7层",
+    "type": "中餐厅",
+    "tel": "13878195954",
+    "rating": 4.6,
+    "cost": 89.0,
+    "open": "周一至周五 11:30-21:00；周六至周日 11:30-15:30",
+    "lng": 108.31927,
+    "lat": 22.81766,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGDFUJM/comment/9C1BEDEC_7673_4DF5_942B_37934B1404D2_L0_001_2000_150_1766461994022_74282598.jpg",
+     "https://store.is.autonavi.com/showpic/6e38bc021bba36620000002414796554?type=pic",
+     "https://aos-comment.amap.com/B0FFGDFUJM/comment/912cc683d51a14a30f0022e4082bafb9_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "横州鱼生",
@@ -208,7 +429,22 @@
    "tips": [
     "淡水鱼生食有寄生虫风险，肠胃敏感和孕妇老人小孩不建议吃",
     "想体验氛围又不放心的，可以只点熟的鱼片粥和配菜"
-   ]
+   ],
+   "amap": {
+    "name": "横县鱼生",
+    "id": "B0J0AS4K0X",
+    "addr": "良庆区 金龙路8号云星钱隆首府A地块",
+    "type": "中餐厅",
+    "tel": "13788312033",
+    "rating": 3.0,
+    "cost": 80.0,
+    "open": "周一至周日 16:00-01:30",
+    "lng": 108.379677,
+    "lat": 22.770128,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3727cae846ff9decf4b4ddd51472732c"
+    ]
+   }
   }
  ],
  "food_areas": [

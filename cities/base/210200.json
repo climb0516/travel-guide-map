@@ -21,7 +21,24 @@
     "广场很大，可以骑车或坐观光车",
     "傍晚来能连看日落和夜景",
     "海风大，夏天也备件外套"
-   ]
+   ],
+   "amap": {
+    "name": "星海广场",
+    "id": "B019B0AN7O",
+    "addr": "沙河口区 中山路572号",
+    "type": "城市广场",
+    "tel": "+861056320612,51573337",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.587922,
+    "lat": 38.882006,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9f2114e9da02d622118e1e0ca3a21908",
+     "https://store.is.autonavi.com/showpic/3152a989c0037366b2e1ed26736c4d14",
+     "https://store.is.autonavi.com/showpic/a84954c549fa313a7bd5b764e48fdb80"
+    ]
+   }
   },
   {
    "name": "老虎滩海洋公园",
@@ -37,7 +54,24 @@
     "门票和表演场次以官方公告为准",
     "园区大、坡道多，按表演时间规划路线",
     "节假日人多，开园就进"
-   ]
+   ],
+   "amap": {
+    "name": "大连老虎滩海洋公园",
+    "id": "B019B0226E",
+    "addr": "中山区 滨海中路9号",
+    "type": "国家级景点",
+    "tel": "0411-82689356",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "01-01至08-30 周一至周日 08:00-17:00 最晚进入15:30；08-31至09-30 周一至周日 08:30-16:30 最晚进入15:30；10-01至10-01 周一至周日 08:00-17:30 最晚进入15:30；10-02至10-05 周一至周日 07:30-17:30 最晚进入15:30；10-06至10-06 周一至周日 08:00-17:30 最晚进入15:30；10-07至10-07 周一至周日 08:30-17:00；10-08至12-31 周一至周日 08:30-16:30 最晚进入15:30",
+    "lng": 121.674648,
+    "lat": 38.878386,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e9ccbafb0e73a2470000009411698258?type=pic",
+     "https://store.is.autonavi.com/showpic/e23ab20b8668d02e0a35b862da0c1521",
+     "https://store.is.autonavi.com/showpic/b3418f614716037c0000003998586876?type=pic"
+    ]
+   }
   },
   {
    "name": "棒棰岛",
@@ -52,7 +86,24 @@
    "tips": [
     "门票和开放情况以官方公告为准",
     "可以和滨海路自驾或骑行连在一起"
-   ]
+   ],
+   "amap": {
+    "name": "棒棰岛宾馆景区",
+    "id": "B0L0DAMLLW",
+    "addr": "中山区 迎宾路1号",
+    "type": "国家级景点",
+    "tel": "0411-82879991",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00",
+    "lng": 121.701143,
+    "lat": 38.890151,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1337c8e2831730cd0000002998368915?type=pic",
+     "https://store.is.autonavi.com/showpic/2876cf67d1a96e1d0000002998374652?type=pic",
+     "https://store.is.autonavi.com/showpic/7baa46efcb65d35d0000003170068663?type=pic"
+    ]
+   }
   },
   {
    "name": "滨海路",
@@ -67,7 +118,24 @@
    "tips": [
     "木栈道上下坡多，穿舒服的鞋",
     "弯道多，自驾注意车速，路边停车要找停车场"
-   ]
+   ],
+   "amap": {
+    "name": "滨海路西段木栈道",
+    "id": "B0FFGWO58K",
+    "addr": "沙河口区 白山路街道城堡麓园南侧200米",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.596943,
+    "lat": 38.875925,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGWO58K/comment/content_media_external_file_1000058165_ss__1771472641042_93400779.jpg",
+     "https://aos-comment.amap.com/B0FFGWO58K/comment/18582359ebc635ed5e3bd555edaf9fa4_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFGWO58K/comment/b880ec0dd63bc5282f410c26b8fdbd01_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "东港",
@@ -82,7 +150,24 @@
    "tips": [
     "音乐喷泉的开放时间和场次以现场为准，冬季可能停开",
     "可以和中山广场、俄罗斯风情街安排在同一晚"
-   ]
+   ],
+   "amap": {
+    "name": "东港音乐喷泉广场",
+    "id": "B0FFF375DU",
+    "addr": "中山区 五五路9号(近大连国际会议中心)",
+    "type": "城市广场",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "00:00-24:00具体营业状态以当天开放情况为准",
+    "lng": 121.675287,
+    "lat": 38.930747,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/3442f551-1b7d-43bc-a252-cdef57de4a54.jpg",
+     "https://store.is.autonavi.com/showpic/0fcded2ea439cce736f26eaf129d35ec",
+     "https://store.is.autonavi.com/showpic/5ba3325f92c2f53c99844c6857a44490"
+    ]
+   }
   },
   {
    "name": "中山广场和俄罗斯风情街",
@@ -97,7 +182,24 @@
    "tips": [
     "晚上建筑亮灯后很好看",
     "俄罗斯风情街商业化较重，看建筑为主"
-   ]
+   ],
+   "amap": {
+    "name": "中山广场",
+    "id": "B019B0147C",
+    "addr": "中山区 中山路552号(中山广场地铁站D口步行60米)",
+    "type": "城市广场",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.643827,
+    "lat": 38.921549,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9158686eae00c8530000003127890828?type=pic",
+     "https://store.is.autonavi.com/showpic/134762940c54a5710000006428568571?type=pic",
+     "https://store.is.autonavi.com/showpic/90bef1dd2c0e717f0000004022636141?type=pic"
+    ]
+   }
   },
   {
    "name": "旅顺日俄监狱旧址",
@@ -113,7 +215,24 @@
     "参观可能需要预约，以官方公告为准",
     "从市区到旅顺开车约 1 小时",
     "旅顺有些区域涉及军事管理，注意不要拍照的提示"
-   ]
+   ],
+   "amap": {
+    "name": "旅顺日俄监狱旧址博物馆",
+    "id": "B019B0AOIU",
+    "addr": "旅顺口区 元宝坊向阳街139号",
+    "type": "博物馆",
+    "tel": "0411-86610675",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日 09:00-16:30",
+    "lng": 121.265682,
+    "lat": 38.825034,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3872604c59b3e8772f22ca9818b56c74",
+     "https://store.is.autonavi.com/showpic/afc696da9cff60fbb572984330db0c88",
+     "https://store.is.autonavi.com/showpic/beb16c6da21d682b34236accf5d1f477"
+    ]
+   }
   },
   {
    "name": "白玉山和旅顺军港",
@@ -128,7 +247,24 @@
    "tips": [
     "军港区域注意禁止拍照的标识",
     "山顶风大，带件外套"
-   ]
+   ],
+   "amap": {
+    "name": "白玉山风景名胜区",
+    "id": "B019B0Y0DF",
+    "addr": "旅顺口区 九三路",
+    "type": "国家级景点",
+    "tel": "0411-86621445",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "9月1日-10月31日 07:30-17:30",
+    "lng": 121.25575,
+    "lat": 38.812687,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/02f75c937604143683b51bc5c092aeb6",
+     "https://store.is.autonavi.com/showpic/4a8b5b97cd9008d04d0414467a64197b",
+     "https://store.is.autonavi.com/showpic/705a6018989a08d4a5228e921a0d9226"
+    ]
+   }
   },
   {
    "name": "金石滩",
@@ -143,7 +279,24 @@
    "tips": [
     "离市中心较远，单独安排半天以上",
     "主题乐园门票以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "大连金石滩国家旅游度假区",
+    "id": "B0FFFGVLRG",
+    "addr": "金州区 金石路65号",
+    "type": "国家级景点",
+    "tel": "0411-87915807",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.995346,
+    "lat": 39.096033,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8ee870b6cf12ffb21d0eff66d4efa2b5",
+     "https://store.is.autonavi.com/showpic/42770cb26a9da0d80ced2a35bfa30b36",
+     "https://store.is.autonavi.com/showpic/c7822678ec56b01aa0374368896823f8"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "买海鲜先问价和称重方式",
     "海胆、海螺有季节，问问当季的"
-   ]
+   ],
+   "amap": {
+    "name": "正黄旗海鲜烧烤大排档(延安路总店)",
+    "id": "B0FFIR9ILK",
+    "addr": "中山区 延安路17号中心小学旁",
+    "type": "中餐厅",
+    "tel": "0411-81779999",
+    "rating": 4.8,
+    "cost": 165.0,
+    "open": "周一至周日 11:00-24:00",
+    "lng": 121.643875,
+    "lat": 38.918305,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/45cbe994431d28f2f5adb59831d458b9",
+     "https://store.is.autonavi.com/showpic/3adf08ec107711cfd5b2805236fe3659",
+     "https://store.is.autonavi.com/showpic/ae20191f2a9418930000003063710316?type=pic"
+    ]
+   }
   },
   {
    "name": "焖子",
@@ -170,7 +340,22 @@
    ],
    "tips": [
     "趁热吃，凉了口感差很多"
-   ]
+   ],
+   "amap": {
+    "name": "大连焖子·鸡汤豆皮(俄罗斯风情街店)",
+    "id": "B0MUD7JSGG",
+    "addr": "西岗区 俄罗斯风情街28号商铺",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.3,
+    "cost": 34.0,
+    "open": "周一至周日 10:00-24:00",
+    "lng": 121.633857,
+    "lat": 38.928203,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e02905adddbf393b494ff4098e99715"
+    ]
+   }
   },
   {
    "name": "海菜包子",
@@ -182,7 +367,24 @@
    ],
    "tips": [
     "早餐店里最常见，早上去"
-   ]
+   ],
+   "amap": {
+    "name": "一口香包子",
+    "id": "B0FFKGQZXC",
+    "addr": "中山区 青三街8号(青泥洼桥地铁站H2口旁)",
+    "type": "中餐厅",
+    "tel": "13159997733",
+    "rating": 4.3,
+    "cost": 11.0,
+    "open": "周一至周日 09:00-20:00",
+    "lng": 121.634436,
+    "lat": 38.917019,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKGQZXC/comment/34B4C408_074C_45DC_A577_5D5FC60DACA1_L0_001_1179_65_1765249476309_78100897.jpg",
+     "https://aos-comment.amap.com/B0FFKGQZXC/comment/content_media_external_file_1000005835_ss__1763565546333_29454948.jpg",
+     "https://aos-comment.amap.com/B0FFKGQZXC/comment/20260323-4624475cd8fa85b53c69ac50-6iHK3RXTk4cAgCZfjcIgOb.jpg"
+    ]
+   }
   },
   {
    "name": "咸鱼饼子",
@@ -194,7 +396,24 @@
    ],
    "tips": [
     "咸鱼偏咸，配饼子一起吃刚好"
-   ]
+   ],
+   "amap": {
+    "name": "有兰饼子店",
+    "id": "B019B0AFRV",
+    "addr": "旅顺口区 市场街88号(五十四中学对面)",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 32.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.272285,
+    "lat": 38.816975,
+    "photos": [
+     "https://aos-comment.amap.com/B019B0AFRV/comment/8217f1b7d976580a565305f4af1de29e_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B019B0AFRV/comment/456917E8_575D_45C2_888D_02784B5E987A_L0_001_1290_92_1772100971093_12170422.jpg",
+     "https://aos-comment.amap.com/B019B0AFRV/comment/1E455B9F_D36C_46FB_8E55_1B3FBE24705F_L0_001_1290_165_1772100971094_69493059.jpg"
+    ]
+   }
   },
   {
    "name": "鲅鱼饺子",
@@ -206,7 +425,24 @@
    ],
    "tips": [
     "个头大，点之前看看分量"
-   ]
+   ],
+   "amap": {
+    "name": "品海楼(老虎滩·渔人码头店)",
+    "id": "B019B143KW",
+    "addr": "中山区 滨海东路72号",
+    "type": "海鲜酒楼",
+    "tel": "0411-82738088",
+    "rating": 4.8,
+    "cost": 132.0,
+    "open": "周一至周日 11:00-21:00",
+    "lng": 121.685545,
+    "lat": 38.876945,
+    "photos": [
+     "https://aos-comment.amap.com/B019B143KW/comment/20260302-b88c32ae863473aa18ac8245-ATzYyo4MFfT8IJZO4xSz9Z.jpg",
+     "https://aos-comment.amap.com/B019B143KW/comment/content_media_external_file_100015072_1771511681260_97931385.jpg",
+     "https://aos-comment.amap.com/B019B143KW/comment/176948748933_1769487528542_07120587.jpg"
+    ]
+   }
   },
   {
    "name": "烤鱿鱼",
@@ -218,7 +454,24 @@
    ],
    "tips": [
     "挑新鲜的现烤，注意看价格标示"
-   ]
+   ],
+   "amap": {
+    "name": "鸣记脆皮烤鱼·海鲜烤鱼(三八广场店)",
+    "id": "B019B0YIIE",
+    "addr": "中山区 花样年华三期(杏林街66号)1楼",
+    "type": "特色/地方风味餐厅",
+    "tel": "0411-39821234",
+    "rating": 4.6,
+    "cost": 96.0,
+    "open": "周一至周日 10:30-21:30",
+    "lng": 121.655463,
+    "lat": 38.918364,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/394f912e8adac7a62242d95e687a2ddf",
+     "https://store.is.autonavi.com/showpic/79805d9ef012f7889bc4e78def4562f4",
+     "https://store.is.autonavi.com/showpic/6126b1e0da21032f0000003072262504?type=pic"
+    ]
+   }
   },
   {
    "name": "大连老菜",
@@ -230,7 +483,24 @@
    ],
    "tips": [
     "东北分量大，人少少点几个菜"
-   ]
+   ],
+   "amap": {
+    "name": "大连老菜馆(成仁街店)",
+    "id": "B019B037AD",
+    "addr": "沙河口区 成仁街76号",
+    "type": "中餐厅",
+    "tel": "0411-62989100",
+    "rating": 4.5,
+    "cost": 81.0,
+    "open": "周一至周日 10:30-22:00",
+    "lng": 121.593535,
+    "lat": 38.90212,
+    "photos": [
+     "https://aos-comment.amap.com/B019B037AD/comment/20C6EDDD_E46C_436B_B22A_8FA949D029BC_L0_001_1500_200_1745722683240_10445912.jpg",
+     "https://aos-comment.amap.com/B019B037AD/comment/content_media_external_file_100000931_1770708324861_74649371.jpg",
+     "https://aos-comment.amap.com/B019B037AD/comment/D2926502_A965_49E1_9921_5B6C401F6A55_L0_001_1290_168_1763078216520_55245288.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

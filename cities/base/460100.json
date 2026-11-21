@@ -21,7 +21,24 @@
     "中山路白天比较晒，傍晚去更舒服，灯光也好看",
     "街上的特产店价格偏高，椰子糖、咖啡这类东西去超市买更划算",
     "主街逛完多往两边的小巷走，老店和老爸茶店都藏在里面"
-   ]
+   ],
+   "amap": {
+    "name": "海口骑楼老街历史文化街区",
+    "id": "B03820P68P",
+    "addr": "龙华区 长堤路5-1号",
+    "type": "旅游景点",
+    "tel": "0898-36313288",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日:00:00-24:00",
+    "lng": 110.344604,
+    "lat": 20.039708,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b9212de14160f02edc6889146d749cdd",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/f9d47a6a-7b12-461c-932b-067430b7d7a0.jpg",
+     "https://aos-comment.amap.com/B0FFGOSSVY/comment/FC54582A_C807_4D80_B313_0D14D83E889E_L0_001_1920_108_1745331968671_96624971.jpg"
+    ]
+   }
   },
   {
    "name": "海口火山口公园",
@@ -37,7 +54,24 @@
     "从市区开车或打车约 40 分钟，公共交通不太方便",
     "园区台阶多，太阳大，带好防晒和水",
     "适合上午去，下午回城还能安排别的"
-   ]
+   ],
+   "amap": {
+    "name": "雷琼世界地质公园(海口园区)",
+    "id": "B038200EB6",
+    "addr": "秀英区 石山镇风景路89号",
+    "type": "国家级景点",
+    "tel": "0898-65469668",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00 最晚进入17:30",
+    "lng": 110.221197,
+    "lat": 19.927625,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cb2104f1d45c83fa35ad84ad2cab1a3e",
+     "https://store.is.autonavi.com/showpic/bfc045bae91755e4717f1c31688df046",
+     "https://store.is.autonavi.com/showpic/e4ef5d2948073349987900f02aa087fc"
+    ]
+   }
   },
   {
    "name": "东寨港红树林",
@@ -53,7 +87,24 @@
     "看红树林最好提前查好潮汐，涨潮时坐船更有意思",
     "滩涂边蚊虫多，带好驱蚊水",
     "从市区开车约 1 小时，适合包车或自驾"
-   ]
+   ],
+   "amap": {
+    "name": "东寨港红树林旅游区",
+    "id": "B038202J7J",
+    "addr": "美兰区 演丰镇红林路",
+    "type": "风景名胜",
+    "tel": "0898-65742966",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "08:30-18:00 最晚进入17:30",
+    "lng": 110.582606,
+    "lat": 19.950519,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6d722ebaf587f563be268a1a05bfe36c",
+     "https://store.is.autonavi.com/showpic/6e8e127a0e3fa99f949112126372a49b",
+     "https://store.is.autonavi.com/showpic/707f44ac850c008eaeeaec25a0ffcb2d"
+    ]
+   }
   },
   {
    "name": "五公祠",
@@ -68,7 +119,24 @@
    "tips": [
     "夏天中午很热，建议上午或傍晚去",
     "和海南省博物馆可以安排在同一个半天"
-   ]
+   ],
+   "amap": {
+    "name": "海口五公祠",
+    "id": "B038200FEA",
+    "addr": "琼山区 海府路169号五公祠内",
+    "type": "国家级景点",
+    "tel": "0898-65855353",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00 最晚进入17:30",
+    "lng": 110.359595,
+    "lat": 20.007686,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f374c4c055cdacbff085feecddc84736",
+     "https://store.is.autonavi.com/showpic/67b2786cb2b72c3069a141ca015d1570",
+     "https://store.is.autonavi.com/showpic/2504d0c422e9b1752b8c70c657bc8734"
+    ]
+   }
   },
   {
    "name": "海南省博物馆",
@@ -83,7 +151,24 @@
    "tips": [
     "免费参观，需要提前预约，一般周一闭馆",
     "博物馆离五公祠不远，可以一起安排"
-   ]
+   ],
+   "amap": {
+    "name": "海南省博物馆",
+    "id": "B038202RCN",
+    "addr": "琼山区 国兴大道76号",
+    "type": "博物馆",
+    "tel": "0898-65238891",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00 最晚进入16:30",
+    "lng": 110.379077,
+    "lat": 20.015272,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7edaac28f284e0250000009024612774?type=pic",
+     "https://store.is.autonavi.com/showpic/58d1b378e53c61240000009413598823?type=pic",
+     "https://store.is.autonavi.com/showpic/80c2e6629386eb450000008930866907?type=pic"
+    ]
+   }
   },
   {
    "name": "西海岸和云洞图书馆",
@@ -99,7 +184,24 @@
     "云洞图书馆人多时可能需要排队或限流",
     "西海岸日落很好看，傍晚去最合适",
     "海滩防晒要做足，正午太阳非常晒"
-   ]
+   ],
+   "amap": {
+    "name": "海口云洞图书馆",
+    "id": "B0HADHDFW5",
+    "addr": "龙华区 渡海路",
+    "type": "图书馆",
+    "tel": "19907616926",
+    "rating": 0,
+    "cost": 0,
+    "open": "周二至周日 10:00-22:00；节假日营业时间以官方通知为准",
+    "lng": 110.316404,
+    "lat": 20.046661,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/67701dde546aa479c539e2dcfb4f9c74",
+     "https://store.is.autonavi.com/showpic/2542d6f32c42b67941467ca471bb6afb",
+     "https://store.is.autonavi.com/showpic/83cda4ca2edf864cb78af4ac402f09ac"
+    ]
+   }
   },
   {
    "name": "万绿园和世纪大桥",
@@ -114,7 +216,24 @@
    "tips": [
     "白天草坪没什么遮挡，傍晚以后去更舒服",
     "可以骑共享单车沿着海边走一段"
-   ]
+   ],
+   "amap": {
+    "name": "万绿园",
+    "id": "B038202BCV",
+    "addr": "龙华区 滨海大道38号",
+    "type": "省级景点",
+    "tel": "13518089084",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；具体营业状态以当天开放情况为准",
+    "lng": 110.313766,
+    "lat": 20.033727,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/febdf90ae43f552844648d4f963d331e",
+     "https://store.is.autonavi.com/showpic/32e4037a4797f8526a965ef969fcb040",
+     "https://store.is.autonavi.com/showpic/0391e272498294be4494273e1412c69d"
+    ]
+   }
   },
   {
    "name": "海口国际免税城",
@@ -130,7 +249,24 @@
     "购买需要离岛凭证，具体规则以店内说明为准",
     "热门商品可能缺货，想买的东西可以先在官方小程序查",
     "节假日人非常多，尽量工作日去"
-   ]
+   ],
+   "amap": {
+    "name": "cdf海口国际免税城",
+    "id": "B0FFL4YZXH",
+    "addr": "秀英区 海色路5号",
+    "type": "购物中心",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 110.163029,
+    "lat": 20.048496,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFL4YZXH/comment/20260316-3812004e1045088d6ced727d-8w1iwU0mMB989A1xmjM4Ph.jpg",
+     "https://store.is.autonavi.com/showpic/1354fbbe8baf43930000009499690642?type=pic",
+     "https://store.is.autonavi.com/showpic/afd30c4e10ed878a0000003158264684?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -145,7 +281,24 @@
    "tips": [
     "本地人习惯吃到一半加汤，可以试试",
     "辣椒酱是黄灯笼辣椒做的，很辣，先少放一点"
-   ]
+   ],
+   "amap": {
+    "name": "海南大院非遗文化餐厅-海甸店",
+    "id": "B0FFIKXJAC",
+    "addr": "美兰区 和平大道55号",
+    "type": "中餐厅",
+    "tel": "0898-66717799",
+    "rating": 4.7,
+    "cost": 85.0,
+    "open": "周一至周日 07:00-21:30",
+    "lng": 110.346221,
+    "lat": 20.064979,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIKXJAC/comment/6af87e8237626746cf53746633ec2a32_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIKXJAC/comment/content_media_external_file_100002217_1773056249268_45322658.jpg",
+     "https://store.is.autonavi.com/showpic/68a99723460ea01e0000001933254223?type=pic"
+    ]
+   }
   },
   {
    "name": "老爸茶",
@@ -158,7 +311,24 @@
    "tips": [
     "点心按份算钱，小份多点几样更划算",
     "下午三四点最热闹"
-   ]
+   ],
+   "amap": {
+    "name": "苍西茶色老爸茶",
+    "id": "B0GRGZPZML",
+    "addr": "龙华区 诚西镇苍西村29",
+    "type": "餐饮相关",
+    "tel": "13086022388",
+    "rating": 4.3,
+    "cost": 26.0,
+    "open": "周一至周日 08:30-22:30",
+    "lng": 110.297569,
+    "lat": 19.97232,
+    "photos": [
+     "https://aos-comment.amap.com/B0GRGZPZML/comment/176839792209_1768397923364_54310665.jpg",
+     "https://store.is.autonavi.com/showpic/193fa757d888409a8c8ce24b2171834b",
+     "https://store.is.autonavi.com/showpic/d77e8af9afc81daaa838b05a9968d3f2"
+    ]
+   }
   },
   {
    "name": "清补凉",
@@ -170,7 +340,24 @@
    ],
    "tips": [
     "椰奶底比较甜，喜欢清爽的可以选糖水底"
-   ]
+   ],
+   "amap": {
+    "name": "老彭记清补凉(新华南店)",
+    "id": "B0I2S7P06M",
+    "addr": "龙华区 长堤路5-1号海口骑楼老街历史文化街区",
+    "type": "餐饮相关",
+    "tel": "15203669220",
+    "rating": 4.7,
+    "cost": 12.0,
+    "open": "周一至周日 14:30-01:30 2026-02-15至2026-02-18 周一至周日 全天关闭",
+    "lng": 110.34438,
+    "lat": 20.036936,
+    "photos": [
+     "https://aos-comment.amap.com/B0I2S7P06M/comment/3aeac769849c45807e929ff19320c40d_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/1bbdef037d2f6caa0000000979228728?type=pic",
+     "https://store.is.autonavi.com/showpic/74fec94c4b9295630000009203536074?type=pic"
+    ]
+   }
   },
   {
    "name": "文昌鸡",
@@ -183,7 +370,24 @@
    "tips": [
     "配鸡饭一起吃最地道",
     "蘸料里的青桔是关键，可以多挤一点"
-   ]
+   ],
+   "amap": {
+    "name": "海南大院非遗文化餐厅-海甸店",
+    "id": "B0FFIKXJAC",
+    "addr": "美兰区 和平大道55号",
+    "type": "中餐厅",
+    "tel": "0898-66717799",
+    "rating": 4.7,
+    "cost": 85.0,
+    "open": "周一至周日 07:00-21:30",
+    "lng": 110.346221,
+    "lat": 20.064979,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIKXJAC/comment/6af87e8237626746cf53746633ec2a32_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIKXJAC/comment/content_media_external_file_100002217_1773056249268_45322658.jpg",
+     "https://store.is.autonavi.com/showpic/68a99723460ea01e0000001933254223?type=pic"
+    ]
+   }
   },
   {
    "name": "椰子鸡",
@@ -195,7 +399,24 @@
    ],
    "tips": [
     "先喝汤再吃鸡，汤会越煮越浓"
-   ]
+   ],
+   "amap": {
+    "name": "椰城喜鹿老爸茶(骑楼店)",
+    "id": "B0LAX71HN7",
+    "addr": "美兰区 水巷口34号集散广场2楼",
+    "type": "冷饮店",
+    "tel": "18976333109",
+    "rating": 4.6,
+    "cost": 52.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 110.345737,
+    "lat": 20.044789,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/497d8e9d583624170000000740576517?type=pic",
+     "https://store.is.autonavi.com/showpic/1107e3c42d367e980000003008052579?type=pic",
+     "https://store.is.autonavi.com/showpic/e5d241b4c0a0296b0000000981632835?type=pic"
+    ]
+   }
   },
   {
    "name": "糟粕醋火锅",
@@ -208,7 +429,24 @@
    "tips": [
     "酸味比较明显，第一次吃可以先尝原汤",
     "适合点海鲜和牛肉一起涮"
-   ]
+   ],
+   "amap": {
+    "name": "海南大院非遗文化餐厅-海甸店",
+    "id": "B0FFIKXJAC",
+    "addr": "美兰区 和平大道55号",
+    "type": "中餐厅",
+    "tel": "0898-66717799",
+    "rating": 4.7,
+    "cost": 85.0,
+    "open": "周一至周日 07:00-21:30",
+    "lng": 110.346221,
+    "lat": 20.064979,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIKXJAC/comment/6af87e8237626746cf53746633ec2a32_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIKXJAC/comment/content_media_external_file_100002217_1773056249268_45322658.jpg",
+     "https://store.is.autonavi.com/showpic/68a99723460ea01e0000001933254223?type=pic"
+    ]
+   }
   },
   {
    "name": "辣汤饭",
@@ -220,7 +458,24 @@
    ],
    "tips": [
     "胡椒味很冲，不习惯的可以让老板少放"
-   ]
+   ],
+   "amap": {
+    "name": "吴记辣汤饭",
+    "id": "B0FFGT8Y1Z",
+    "addr": "美兰区 海甸街道海口市水巷口13号",
+    "type": "中餐厅",
+    "tel": "15120795299",
+    "rating": 4.4,
+    "cost": 22.0,
+    "open": "周一至周日 06:00-21:00",
+    "lng": 110.346209,
+    "lat": 20.043493,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGT8Y1Z/comment/content_media_external_file_1000032376_ss__1766579898707_03285307.jpg",
+     "https://aos-comment.amap.com/B0FFGT8Y1Z/comment/content_media_external_file_5156_1768631267469_38279959.jpg",
+     "https://store.is.autonavi.com/showpic/70baa29de3587eb40000002336584948?type=pic"
+    ]
+   }
   },
   {
    "name": "抱罗粉",
@@ -232,7 +487,24 @@
    ],
    "tips": [
     "想对比口味，可以和海南粉一起点"
-   ]
+   ],
+   "amap": {
+    "name": "粉条兴食店(展兴颐龙名居店)",
+    "id": "B0G1GXRWYY",
+    "addr": "美兰区 文明东路展兴颐龙名居一楼铺面",
+    "type": "中餐厅",
+    "tel": "0898-65222397",
+    "rating": 4.6,
+    "cost": 18.0,
+    "open": "周一至周五 18:00-14:30；周六至周日 18:30-14:30 10-01至10-07 周一至周日 04:30-14:30",
+    "lng": 110.362683,
+    "lat": 20.037981,
+    "photos": [
+     "https://aos-comment.amap.com/B0G1GXRWYY/comment/02c51bd66253279ce22381c42d147a28_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/2259332e2e17c190c840311a7a8112e9",
+     "https://aos-comment.amap.com/B0G1GXRWYY/comment/E3A9FC29_B9CF_4D27_B0F6_E381148503AB_L0_001_1170_86_1768742723430_37964216.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

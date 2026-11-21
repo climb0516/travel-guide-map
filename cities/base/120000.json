@@ -21,7 +21,24 @@
     "可以在民园广场附近租自行车或坐观光马车",
     "大多数洋楼是住宅或单位，不要随意进入",
     "秋天梧桐叶黄的时候最出片"
-   ]
+   ],
+   "amap": {
+    "name": "天津五大道文化旅游区",
+    "id": "B00160E5VJ",
+    "addr": "和平区 重庆道83号",
+    "type": "国家级景点",
+    "tel": "022-23307222",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.203601,
+    "lat": 39.110567,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3138223e49d8298d3b62d0b2105acc6b",
+     "https://store.is.autonavi.com/showpic/643912a53602803ce2468298e321d97f",
+     "https://store.is.autonavi.com/showpic/9dd1e5ce81d0bc440000009454976316?type=pic"
+    ]
+   }
   },
   {
    "name": "意式风情区",
@@ -37,7 +54,24 @@
     "梁启超纪念馆在街区边上，可以顺路看",
     "街区里的餐厅偏贵，吃饭可以另找",
     "从天津站步行过海河即可到达"
-   ]
+   ],
+   "amap": {
+    "name": "天津意大利风情旅游区",
+    "id": "B00160F6ZS",
+    "addr": "河北区 胜利路与自由道交汇处",
+    "type": "国家级景点",
+    "tel": "022-26116895",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "00:00-24:00景区内的小景点开放时间不周一",
+    "lng": 117.197435,
+    "lat": 39.134543,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/52d1de4e7ea0cc8f42dce4c12dd3a3cc",
+     "https://store.is.autonavi.com/showpic/0f230fd66228d5981696388fd513b8a5",
+     "https://store.is.autonavi.com/showpic/33f97a7f8857a5b867ffe9510c870b0a"
+    ]
+   }
   },
   {
    "name": "古文化街",
@@ -53,7 +87,24 @@
     "街区免费开放，天后宫单独参观",
     "特产店价格差别大，买之前多比较几家",
     "节假日人多，早上或傍晚去更舒服"
-   ]
+   ],
+   "amap": {
+    "name": "天津古文化街",
+    "id": "B00160DB75",
+    "addr": "南开区 古文化街内",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-20:00",
+    "lng": 117.192281,
+    "lat": 39.143853,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/96241eb72b50ecf42ca1fd8cb0e91dfb",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/ff7b454f-3bbe-4b79-b4f0-e423ee85ccbc.jpg",
+     "https://store.is.autonavi.com/showpic/386ce88fc8487c94005fcd71a258edd6"
+    ]
+   }
   },
   {
    "name": "天津之眼",
@@ -69,7 +120,24 @@
     "需要购票，节假日建议提前在线上买票",
     "傍晚时段排队最长，留足时间",
     "离古文化街很近，可以连着安排"
-   ]
+   ],
+   "amap": {
+    "name": "双层敞篷观光巴士天津之眼始发站",
+    "id": "B0IADCX3AN",
+    "addr": "河北区 李公祠大街与五马路交口",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 117.187595,
+    "lat": 39.154565,
+    "photos": [
+     "https://aos-comment.amap.com/B0IADCX3AN/comment/content_media_external_file_13236_1765502285390_34129365.jpg",
+     "https://aos-comment.amap.com/B0IADCX3AN/comment/1b3c4e12f50e6ca75713edc51e501d07_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/fa4e6240402356a50000003420722909?type=pic"
+    ]
+   }
   },
   {
    "name": "海河和津湾广场",
@@ -85,7 +153,24 @@
     "海河游船有多个码头，班次以码头公告为准",
     "晚上灯光秀时段人最多",
     "解放北路适合白天看建筑细节"
-   ]
+   ],
+   "amap": {
+    "name": "津湾广场夜市",
+    "id": "B0M6N5EJ2Z",
+    "addr": "和平区 解放北路与长春道交叉口东北60米(津湾广场地铁站A口旁)",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.4,
+    "cost": 52.0,
+    "open": "",
+    "lng": 117.207629,
+    "lat": 39.131932,
+    "photos": [
+     "https://aos-comment.amap.com/default_poi/comment/content_media_external_file_25988_ss__1771483995252_93026506.jpg",
+     "https://store.is.autonavi.com/showpic/c8b26b07c1d3e76f0000002894494831?type=pic",
+     "https://aos-comment.amap.com/default_poi/comment/content_media_external_file_25978_ss__1771483995261_01601141.jpg"
+    ]
+   }
   },
   {
    "name": "天津博物馆",
@@ -100,7 +185,24 @@
    "tips": [
     "免费参观，需要提前预约，周一闭馆",
     "旁边的天津自然博物馆适合带孩子"
-   ]
+   ],
+   "amap": {
+    "name": "天津博物馆",
+    "id": "B0016160NE",
+    "addr": "河西区 平江道62号",
+    "type": "博物馆",
+    "tel": "022-83883000",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日09:00-16:30 最晚进入16:00, 周一闭馆（法定节假日除外）",
+    "lng": 117.211801,
+    "lat": 39.08505,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/abc650f219f65099c11c966ef4c7290b",
+     "https://store.is.autonavi.com/showpic/e85218fb009e0c9d214fe449d367a9a9",
+     "https://store.is.autonavi.com/showpic/6706a330a9308aee9178b6f23ba64ddf"
+    ]
+   }
   },
   {
    "name": "瓷房子",
@@ -115,7 +217,24 @@
    "tips": [
     "外观就很值得拍，进去与否看个人兴趣",
     "可以和五大道、滨江道排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "瓷房子",
+    "id": "B001611ODN",
+    "addr": "和平区 和平路368号",
+    "type": "博物馆",
+    "tel": "022-27123366",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至3月,12月 09:00-18:00 最晚进入17:40；4月至11月 09:00-19:00 最晚进入18:30",
+    "lng": 117.202302,
+    "lat": 39.124795,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/3f36409c-8095-41a3-ae32-2f661142a871.jpg",
+     "https://store.is.autonavi.com/showpic/8a0d8b2eeea02e083e883f2fed0c3d32",
+     "https://store.is.autonavi.com/showpic/6f3ddcfa294d5a116f0b468b80731f25"
+    ]
+   }
   },
   {
    "name": "西开教堂",
@@ -130,7 +249,24 @@
    "tips": [
     "宗教活动期间请勿打扰",
     "教堂前的广场适合拍全景"
-   ]
+   ],
+   "amap": {
+    "name": "天主教天津教区西开总堂",
+    "id": "B00160DFJK",
+    "addr": "和平区 西宁道13号(近国际商场)",
+    "type": "教堂",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周六 10:00-12:00,14:00-16:00；周日 全天关闭；周日、宗教节庆日及宗教活动期间不对外开放参观 法定节假日具体营业状态以当天开放情况为准",
+    "lng": 117.194015,
+    "lat": 39.118087,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/23ef28beaea0871a95ba2673ab49e430",
+     "https://store.is.autonavi.com/showpic/e21c80a5de414507b6ae9c66b33d22db",
+     "https://store.is.autonavi.com/showpic/d3552262925f2450a1ced89ae661e6df"
+    ]
+   }
   },
   {
    "name": "国家海洋博物馆",
@@ -146,7 +282,24 @@
     "需要提前预约，周一闭馆，以官方公告为准",
     "离市区较远，建议自驾或打车",
     "展馆很大，带孩子的话留足时间"
-   ]
+   ],
+   "amap": {
+    "name": "国家海洋博物馆",
+    "id": "B0FFG7TPYR",
+    "addr": "滨海新区 海轩道377号",
+    "type": "博物馆",
+    "tel": "022-67185139",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00，节假日营业时间以官方通知为准",
+    "lng": 117.795688,
+    "lat": 39.106026,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2efbb9c7adbc45b431ebba584bc17063",
+     "https://store.is.autonavi.com/showpic/6d04b512776d8e414d91051b6ca2599f",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/0899837c-c658-453f-8ffc-ce2ec8b87c9a.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -161,7 +314,24 @@
    "tips": [
     "早上去，很多摊位中午前就收了",
     "馃篦儿口感脆，馃子更扎实，可以都试试"
-   ]
+   ],
+   "amap": {
+    "name": "南楼煎饼(南楼总店)",
+    "id": "B0FFF54QL4",
+    "addr": "河西区 隆昌路与围堤道交口新跃里4门109",
+    "type": "餐饮相关",
+    "tel": "13622049839",
+    "rating": 4.9,
+    "cost": 18.0,
+    "open": "周一至周日 20:00-06:00",
+    "lng": 117.22061,
+    "lat": 39.093322,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f2d449e55263add858a4ece858b6dd9a",
+     "https://store.is.autonavi.com/showpic/61a3d74dfd1bb2560000002406216865?type=pic",
+     "https://store.is.autonavi.com/showpic/b0c870e4c62fd7ef0000003378256731?type=pic"
+    ]
+   }
   },
   {
    "name": "嘎巴菜",
@@ -174,7 +344,24 @@
    "tips": [
     "卤汁偏咸，配烧饼正好",
     "辣油按自己口味加"
-   ]
+   ],
+   "amap": {
+    "name": "饭小满自助餐(河东万达店)",
+    "id": "B0M6SC4B50",
+    "addr": "河东区 津滨大道57号",
+    "type": "餐饮相关",
+    "tel": "15522979736",
+    "rating": 4.6,
+    "cost": 32.0,
+    "open": "周一至周四 11:00-14:00,16:45-22:00；周五至周日 11:00-14:00,16:30-22:30",
+    "lng": 117.256203,
+    "lat": 39.123419,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2f6be272966f7ecc0000009290982190?type=pic",
+     "https://store.is.autonavi.com/showpic/bb955348bf11c3560000002466208339?type=pic",
+     "https://aos-comment.amap.com/B0M6SC4B50/comment/24F23679_D9B9_465A_949D_2593337FC3C3_L0_001_1007_183_1769254869761_73693473.jpg"
+    ]
+   }
   },
   {
    "name": "狗不理包子",
@@ -187,7 +374,24 @@
    "tips": [
     "价格偏贵，点一屉尝尝就好",
     "本地人也推荐去社区里的老包子铺"
-   ]
+   ],
+   "amap": {
+    "name": "狗不理(天津总店)",
+    "id": "B001605UH7",
+    "addr": "和平区 山东路77号",
+    "type": "老字号",
+    "tel": "022-27300810",
+    "rating": 4.2,
+    "cost": 76.0,
+    "open": "周一至周日 10:30-14:30,17:00-21:00",
+    "lng": 117.198932,
+    "lat": 39.124989,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/41ecde08b5fb4e990000001293774518?type=pic",
+     "https://store.is.autonavi.com/showpic/b0f81d4f51b8a4cd0000002262792819?type=pic",
+     "https://store.is.autonavi.com/showpic/840852d62c08a047b4677b7754cf14cb"
+    ]
+   }
   },
   {
    "name": "十八街麻花",
@@ -200,7 +404,24 @@
    "tips": [
     "小包装更方便带走，也不容易碎",
     "买前看清生产日期和保质期"
-   ]
+   ],
+   "amap": {
+    "name": "桂发祥十八街麻花(滨江道店)",
+    "id": "B0J0F9RI2D",
+    "addr": "和平区 新华路159号桂发祥十八街麻花(滨江道店)",
+    "type": "购物相关场所",
+    "tel": "15822902290",
+    "rating": 4.2,
+    "cost": 15.0,
+    "open": "周一至周日 08:30-23:30",
+    "lng": 117.200165,
+    "lat": 39.125696,
+    "photos": [
+     "https://aos-comment.amap.com/B0I3HS8GJA/comment/dccef3268f3ef83b732f55ea49f022d3_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/bf32ccbc57157314719d5c8558d56cf6",
+     "https://store.is.autonavi.com/showpic/6212c5525a1f6de50000002391120236?type=pic"
+    ]
+   }
   },
   {
    "name": "耳朵眼炸糕",
@@ -213,7 +434,24 @@
    "tips": [
     "刚出锅的馅很烫，小心入口",
     "古文化街和南市食品街都能买到"
-   ]
+   ],
+   "amap": {
+    "name": "耳朵眼炸糕(康乐店)",
+    "id": "B0FFF614J2",
+    "addr": "和平区 小白楼街道滨江道155号余门-1号",
+    "type": "糕饼店",
+    "tel": "13164051111",
+    "rating": 4.5,
+    "cost": 8.0,
+    "open": "周一至周五 09:30-19:30；周六至周日 09:30-20:30 10-01至10-07 周一至周日 09:00-22:00",
+    "lng": 117.199509,
+    "lat": 39.125995,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFF614J2/comment/content_media_external_images_media_146293_ss__1730174595473_87848736.jpg",
+     "https://store.is.autonavi.com/showpic/ab64576949a23c8b0e71dea5c02d50b1",
+     "https://aos-comment.amap.com/B0FFF614J2/comment/cf1767b1747415d0c620c18601b29c91_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "老爆三",
@@ -226,7 +464,24 @@
    "tips": [
     "社区里的老馆子做得更地道",
     "和罾蹦鲤鱼、锅塌里脊一起点，一次尝几道天津菜"
-   ]
+   ],
+   "amap": {
+    "name": "老天津·天津菜(总店)",
+    "id": "B0J2OAE8YO",
+    "addr": "河西区 东海街道浯水道与浯南路交叉口祺林园公建1层101",
+    "type": "中餐厅",
+    "tel": "022-28272999",
+    "rating": 4.7,
+    "cost": 91.0,
+    "open": "周一至周日 11:00-14:00,16:30-21:00",
+    "lng": 117.260066,
+    "lat": 39.050234,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8584bda324442e6a0000001254112349?type=pic",
+     "https://aos-comment.amap.com/B0J2OAE8YO/comment/content_media_external_file_1000149537_ss__1771421858230_56070045.jpg",
+     "https://aos-comment.amap.com/B0J2OAE8YO/comment/AADEDD83_A10A_4970_B1F5_E314D949734D_L0_001_1536_204_1756798038191_08505667.jpg"
+    ]
+   }
   },
   {
    "name": "熟梨糕",
@@ -239,7 +494,24 @@
    "tips": [
     "趁热吃口感最好",
     "可以一份里点几种不同的果酱"
-   ]
+   ],
+   "amap": {
+    "name": "庚辛乐赵记熟梨糕(南丰里小区店)",
+    "id": "B0FFHQZG7V",
+    "addr": "南开区 西湖道南丰里12号楼底商老味糕干旁",
+    "type": "快餐厅",
+    "tel": "18920264851",
+    "rating": 4.5,
+    "cost": 17.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 117.161449,
+    "lat": 39.119103,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHQZG7V/comment/bf35eb42fd8f945b9ececa3723d15690_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/d6c5b53899cc751c0000005678006698?type=pic",
+     "https://store.is.autonavi.com/showpic/23eb6116163abac90000000656196224?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

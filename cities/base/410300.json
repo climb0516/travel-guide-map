@@ -21,7 +21,24 @@
     "门票需要提前在官方渠道购买，夜游门票另行安排",
     "景区很长，从北门进、走完西山东山大约要三四个小时",
     "下午光线照在西山上，拍卢舍那大佛效果更好"
-   ]
+   ],
+   "amap": {
+    "name": "龙门石窟",
+    "id": "B017B00X4D",
+    "addr": "洛龙区 龙门中街13号",
+    "type": "世界遗产",
+    "tel": "0379-65980972",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "10月21日-31日:08:00-21:00；19:30停止售票,11月1日起:8:00-16:30；停止检票:17:00；清场时间:18:00",
+    "lng": 112.477482,
+    "lat": 34.558727,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/90fc4281626b617c1fc0d347e782bfd0",
+     "https://aos-comment.amap.com/B017B00X4D/comment/content_media_external_file_1000025984_ss__1766842954599_93051509.jpg",
+     "https://store.is.autonavi.com/showpic/6a0c360aaf9bc273a827380fdd27874e"
+    ]
+   }
   },
   {
    "name": "白马寺",
@@ -36,7 +53,24 @@
    "tips": [
     "位于洛阳东郊，和市区有一段距离，可以打车或坐公交",
     "国际佛殿区面积不小，时间紧的话挑一两座看"
-   ]
+   ],
+   "amap": {
+    "name": "白马寺",
+    "id": "B017B00LMC",
+    "addr": "瀍河回族区 白马寺镇洛白路6号",
+    "type": "寺庙道观",
+    "tel": "0379-63789090",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "04-01至10-07 周一至周日 07:40-18:30 最晚进入18:00；10-08至03-31 周一至周日 08:00-17:30 最晚进入17:00",
+    "lng": 112.605311,
+    "lat": 34.721828,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/06cf4e5b9f5086fa9f6cd70dffc7651c",
+     "https://store.is.autonavi.com/showpic/d6412cae9ba3bd5d50eb761f50eecda0",
+     "https://store.is.autonavi.com/showpic/87c6bf7fdee7fc88ae9e24f163eb5864"
+    ]
+   }
   },
   {
    "name": "隋唐洛阳城",
@@ -52,7 +86,24 @@
     "各个景点分开售票，也有联票，按兴趣选择",
     "晚上亮灯后最好看，建议下午晚些时候去",
     "汉服租借和妆造很多，想拍照可以提前预约"
-   ]
+   ],
+   "amap": {
+    "name": "隋唐洛阳城国家遗址公园",
+    "id": "B017B0OWGA",
+    "addr": "老城区 定鼎路与中州路交汇处(应天门地铁站C2口步行220米)",
+    "type": "公园",
+    "tel": "0379-60658081",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 112.460318,
+    "lat": 34.679369,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8544705d1d7005f961ae71d29d701cbf",
+     "https://store.is.autonavi.com/showpic/391e873734f8ded77cde63acf185f054",
+     "https://store.is.autonavi.com/showpic/634cef822105d31408d63b8f1079225f"
+    ]
+   }
   },
   {
    "name": "洛阳博物馆",
@@ -68,7 +119,24 @@
     "免费参观，需要提前预约",
     "周一闭馆",
     "在洛南新区，和隋唐城、龙门石窟都在城市南边"
-   ]
+   ],
+   "amap": {
+    "name": "洛阳博物馆(暂停开放)",
+    "id": "B017B0PPZT",
+    "addr": "洛龙区 文博路1号(与聂泰路交叉口向西100米路北)",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周二至周日 09:00-19:00开放(18:30停止入园), 周一 不开放(节假日开放时间以官方通知为准)",
+    "lng": 112.451541,
+    "lat": 34.643323,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/25295da6d28adf1f9e16f70384ddd95f",
+     "https://store.is.autonavi.com/showpic/53852081140be6b49dfec7ca4605b669",
+     "https://store.is.autonavi.com/showpic/a776ea37102d9416f5ee141278aadfad"
+    ]
+   }
   },
   {
    "name": "洛邑古城和老城十字街",
@@ -84,7 +152,24 @@
     "古城免费进入，部分院落和展馆另外收费",
     "十字街晚上人多车多，注意安全",
     "丽景门城楼可以登上去看老城夜景"
-   ]
+   ],
+   "amap": {
+    "name": "洛邑古城",
+    "id": "B0FFHUC3GQ",
+    "addr": "老城区 柳林街44号",
+    "type": "风景名胜",
+    "tel": "0379-60696969",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至9月 周一至周日 09:00-22:30 最晚进入22:30 10-01至10-07 周一至周日 09:00-24:00；10-08至12-31 周一至周日 09:00-22:30 最晚进入22:30",
+    "lng": 112.485027,
+    "lat": 34.680541,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ad61ea36704a704aa44573a73680ec4e",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/3bd0f0e4-7e3b-44ec-b5af-db4fa74990ce.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/90a36a28-5dd3-496e-ba26-610d6f9bb3e4.jpg"
+    ]
+   }
   },
   {
    "name": "王城公园",
@@ -100,7 +185,24 @@
     "牡丹花会期间门票和开放时间会调整",
     "花期一般在四月中上旬前后，提前看花讯再定行程",
     "早上人少，光线也柔和"
-   ]
+   ],
+   "amap": {
+    "name": "王城公园",
+    "id": "B017B00FD8",
+    "addr": "涧西区 中州中路312号",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "06:00-21:30 最晚进入21:00",
+    "lng": 112.421575,
+    "lat": 34.666822,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/84d952a9775b4b5f0214606ec419f1a7",
+     "https://store.is.autonavi.com/showpic/028f7db3a4ee1c82c589cba22e19a8c0",
+     "https://store.is.autonavi.com/showpic/7828b0c48b5aec4fe5276c9a08274ca1"
+    ]
+   }
   },
   {
    "name": "关林",
@@ -115,7 +217,24 @@
    "tips": [
     "在洛阳南郊，和龙门石窟可以顺路",
     "香火较旺，节假日人多"
-   ]
+   ],
+   "amap": {
+    "name": "关林景区",
+    "id": "B017B01ONY",
+    "addr": "洛龙区 关林镇关林南街2号",
+    "type": "国家级景点",
+    "tel": "0379-69865181",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00 最晚进入17:30；每逢农历初一、十五，开园时间为上午8:00，闭园时间为下午17:30",
+    "lng": 112.483366,
+    "lat": 34.607419,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/60a4850c009e371eb1a440ce7162a336",
+     "https://store.is.autonavi.com/showpic/f5b16daa94d6d15611ab530020ac5c9e",
+     "https://aos-comment.amap.com/B017B01ONY/headerImg/content_media_external_images_media_471808_1657249097936_8d5cf261.jpg"
+    ]
+   }
   },
   {
    "name": "老君山",
@@ -131,7 +250,24 @@
     "从洛阳市区开车或坐大巴过去要两三个小时，建议住栾川",
     "节假日索道排队很长，尽量错峰",
     "山顶比山下冷很多，冬天穿厚，夏天也带件外套"
-   ]
+   ],
+   "amap": {
+    "name": "老君山风景名胜区",
+    "id": "B017B01NH7",
+    "addr": "栾川县 七里坪村21组",
+    "type": "国家级景点",
+    "tel": "0379-66838888",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "00:00-24:00；徒步白天场:07:30-15:30,索道上山时间:现执行07:30-16:00(由于游览时间不足,老君山景区索道16:00索道上行停运,建议游客选择第天再乘坐索道上山游览。),下行索道的截止运营以当天运营为准,请游客朋友们注意游览时间,如因极端天气影响索道运行,游客存在滞留情况,可电话联系救援中心: 0379-66775268",
+    "lng": 111.657836,
+    "lat": 33.739153,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/57970a97407475e0c18f094f4255dfcc",
+     "https://store.is.autonavi.com/showpic/0ef5ab521279974d3e762879bc0d4acb",
+     "https://store.is.autonavi.com/showpic/8ae85af41dfc331054b00ed029ab116e"
+    ]
+   }
   },
   {
    "name": "二里头夏都遗址博物馆",
@@ -147,7 +283,24 @@
     "免费参观，需要提前预约",
     "离市区较远，自驾或打车更方便",
     "周一一般闭馆，出发前确认"
-   ]
+   ],
+   "amap": {
+    "name": "二里头夏都遗址博物馆",
+    "id": "B017B01RA3",
+    "addr": "偃师区 翟镇镇二里头村古城快速路北50米",
+    "type": "博物馆",
+    "tel": "0379-65091899",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 09:00-17:00 最晚进入16:30；每周一闭馆（国家法定节假日、牡丹文化节除外）",
+    "lng": 112.694607,
+    "lat": 34.681688,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7f43e73c34ad371662a7c2846817241b",
+     "https://store.is.autonavi.com/showpic/4db6654d2f4a2e240000002238658017?type=pic",
+     "https://store.is.autonavi.com/showpic/db4e5573342677760000003061586503?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -162,7 +315,24 @@
    "tips": [
     "人少的话点小份套餐，全套菜太多吃不完",
     "牡丹燕菜是必点的头道菜"
-   ]
+   ],
+   "amap": {
+    "name": "真不同饭店",
+    "id": "B0FFGSG4JX",
+    "addr": "老城区 中州东路359号(洛邑古城地铁站B1口步行440米)",
+    "type": "综合酒楼",
+    "tel": "0379-63952609",
+    "rating": 4.2,
+    "cost": 70.0,
+    "open": "周一至周日 11:00-14:00,15:30-21:00",
+    "lng": 112.477248,
+    "lat": 34.68336,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGSG4JX/comment/7d65622f165dce7516dd91543a4d52ad_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/b8763869674a04e70000005990780616?type=pic",
+     "https://aos-comment.amap.com/B0FFGSG4JX/comment/b424557b9ec004b63466ac503f7248f9_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "牛肉汤",
@@ -175,7 +345,22 @@
    "tips": [
     "汤可以免费续，喝完找老板再加",
     "早上七八点人最多"
-   ]
+   ],
+   "amap": {
+    "name": "东关马家老洛阳牛肉汤(直营店)",
+    "id": "B0FFL7B48Y",
+    "addr": "洛龙区 滨河南路与花园街交叉口东北160米",
+    "type": "快餐厅",
+    "tel": "13849945125",
+    "rating": 3.6,
+    "cost": 16.0,
+    "open": "周一至周日 05:00-15:00",
+    "lng": 112.462117,
+    "lat": 34.654833,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4829c611accb5cfa9eebba8f064b34b8"
+    ]
+   }
   },
   {
    "name": "不翻汤",
@@ -187,7 +372,24 @@
    ],
    "tips": [
     "口味偏酸辣，可以让老板少放辣"
-   ]
+   ],
+   "amap": {
+    "name": "正宗刘记不翻汤(和园店)",
+    "id": "B0FFIQDGRQ",
+    "addr": "老城区 义勇东街48号",
+    "type": "中餐厅",
+    "tel": "13598455507",
+    "rating": 4.4,
+    "cost": 26.0,
+    "open": "周一至周日 16:30-23:00",
+    "lng": 112.475118,
+    "lat": 34.68509,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIQDGRQ/comment/E0E8C043_2D08_46F5_82D0_0E86A24CE0A3_L0_001_1335_157_1767114217062_34650321.jpg",
+     "https://aos-comment.amap.com/B0FFIQDGRQ/comment/content_media_external_images_media_1000079460_ss__1740794532158_23679195.jpg",
+     "https://aos-comment.amap.com/B0FFIQDGRQ/comment/content_media_external_images_media_1000079461_ss__1740794532158_31235993.jpg"
+    ]
+   }
   },
   {
    "name": "浆面条",
@@ -199,7 +401,24 @@
    ],
    "tips": [
     "味道比较特别，可以先点小碗尝尝"
-   ]
+   ],
+   "amap": {
+    "name": "老洛阳烩面馆(总店)",
+    "id": "B0FFLFEIUJ",
+    "addr": "老城区 柳林南路76号",
+    "type": "中餐厅",
+    "tel": "13837941723",
+    "rating": 4.6,
+    "cost": 18.0,
+    "open": "周一至周日 10:30-15:30,17:30-23:30",
+    "lng": 112.487269,
+    "lat": 34.675058,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1773455399732_33764749_1773455404032_64409561.jpg",
+     "https://store.is.autonavi.com/showpic/1da9d13dd61d7753326fc2a093133e12",
+     "https://store.is.autonavi.com/showpic/5aabc6021d40bffd0000003057870369?type=pic"
+    ]
+   }
   },
   {
    "name": "烫面角",
@@ -211,7 +430,24 @@
    ],
    "tips": [
     "小心汤汁烫嘴，先咬一个小口"
-   ]
+   ],
+   "amap": {
+    "name": "老王烫面角(北京路旗舰店)",
+    "id": "B017B02SA3",
+    "addr": "新安县 城关镇北京路68号",
+    "type": "中餐厅",
+    "tel": "0379-67288379",
+    "rating": 4.5,
+    "cost": 33.0,
+    "open": "周一至周日 09:00-21:30 10-01至10-07 周一至周日 09:00-21:30",
+    "lng": 112.130221,
+    "lat": 34.72991,
+    "photos": [
+     "https://aos-comment.amap.com/B017B02SA3/comment/content_media_external_images_media_1000138379_ss__1763891030294_89682294.jpg",
+     "https://aos-comment.amap.com/comment/content_service_24ecc6fbd4aaeb1e084f903aebc78add_1767599232195_75447337.jpg",
+     "https://aos-comment.amap.com/B017B02SA3/comment/content_media_external_file_63012_ss__1764741474159_42558857.jpg"
+    ]
+   }
   },
   {
    "name": "豆腐汤",
@@ -223,7 +459,24 @@
    ],
    "tips": [
     "和牛肉汤一样，多数店可以续汤"
-   ]
+   ],
+   "amap": {
+    "name": "老洛阳豆腐汤",
+    "id": "B0FFHM0PYK",
+    "addr": "涧西区 黄河路延安路口全季酒店对面(黄河路9号院隔壁)",
+    "type": "中餐厅",
+    "tel": "13592416675",
+    "rating": 4.3,
+    "cost": 11.0,
+    "open": "周一至周日 05:30-15:00,17:10-21:20",
+    "lng": 112.413645,
+    "lat": 34.660106,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHM0PYK/comment/9fb8247079280c76984ea4c5a064b1d6_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/32914be225f5687d0000004515656839?type=pic",
+     "https://aos-comment.amap.com/B0FFHM0PYK/comment/b81d66657adc5d4ac303527de0698dd4_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

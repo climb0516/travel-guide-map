@@ -20,7 +20,24 @@
    "tips": [
     "免费参观，是否需要预约以官方公告为准",
     "和人境庐、东山书院步行可达，可以一起安排"
-   ]
+   ],
+   "amap": {
+    "name": "中国客家博物馆",
+    "id": "B02F103KF6",
+    "addr": "梅江区 东山大道2号客家公园内",
+    "type": "博物馆",
+    "tel": "0753-2258830",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周五 09:00-17:00 最晚进入16:30；周六至周日 09:00-17:30 最晚进入17:00；法定节假日、寒暑假开放时间:9:00-17:30，17:00停止入馆 逢周一闭馆（法定节假日除外） 具体营业状态以当天开放情况为准",
+    "lng": 116.131916,
+    "lat": 24.310328,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/54d05dc6df33f9260000003072274358?type=pic",
+     "https://store.is.autonavi.com/showpic/5c2013c32bf343542c598f87f47ffc94",
+     "https://store.is.autonavi.com/showpic/a8e269fb8e9d25430000001470010115?type=pic"
+    ]
+   }
   },
   {
    "name": "人境庐",
@@ -35,7 +52,24 @@
    "tips": [
     "故居面积不大，适合和客家博物馆连着参观",
     "开放安排以官方公告为准，参观时爱护老建筑"
-   ]
+   ],
+   "amap": {
+    "name": "人境庐",
+    "id": "B02F100BA9",
+    "addr": "梅江区 小溪唇江边路A17号",
+    "type": "旅游景点",
+    "tel": "0753-2233637",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:30",
+    "lng": 116.130139,
+    "lat": 24.310758,
+    "photos": [
+     "https://aos-comment.amap.com/B02F100BA9/comment/content_media_external_file_100007184_1765808027962_86671752.jpg",
+     "https://aos-comment.amap.com/B02F100BA9/comment/20260314-67143f892e9f39989cf7aaf7-7aHda0LKGCW5psAc3XEsGY.jpg",
+     "https://aos-comment.amap.com/B02F100BA9/comment/content_media_external_file_100007184_1765808027959_79677738.jpg"
+    ]
+   }
   },
   {
    "name": "叶剑英纪念园",
@@ -50,7 +84,24 @@
    "tips": [
     "一般免费参观，需凭身份证，具体以官方公告为准",
     "雁洋镇的几个景点距离不远，自驾串联最方便"
-   ]
+   ],
+   "amap": {
+    "name": "叶剑英纪念园",
+    "id": "B02F103EI5",
+    "addr": "梅县区 雁洋镇雁上村",
+    "type": "纪念馆",
+    "tel": "0753-2825206",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 09:00-17:00 最晚进入16:30",
+    "lng": 116.336697,
+    "lat": 24.415157,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6e3c30989fc2cda8af587349827a98c7",
+     "https://store.is.autonavi.com/showpic/4535cc6e799c9b460000009086742474",
+     "https://store.is.autonavi.com/showpic/e5148edbb3ed05cc6ec1c67cd846a407"
+    ]
+   }
   },
   {
    "name": "雁南飞茶田",
@@ -66,7 +117,24 @@
     "园区坡道多，穿舒服的鞋",
     "门票和开放安排以官方公告为准",
     "可以和叶剑英纪念园、桥溪古韵安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "梅州雁南飞茶田景区",
+    "id": "B02F103HUJ",
+    "addr": "梅县区 雁洋镇长教村",
+    "type": "国家级景点",
+    "tel": "0753-2828888",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30 最晚进入16:00",
+    "lng": 116.371405,
+    "lat": 24.380373,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c0d85bb309ac2fee631c47d618d9d901",
+     "https://store.is.autonavi.com/showpic/5eac0024fb3ed782ecc07b711dc2a878",
+     "https://store.is.autonavi.com/showpic/ba3eeacedcf92b9f2ade2d59b843b99a"
+    ]
+   }
   },
   {
    "name": "桥溪古韵",
@@ -81,7 +149,24 @@
    "tips": [
     "村子在山谷里，路比较窄，自驾慢行",
     "可以和雁南飞茶田安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "雁南飞茶田景区-桥溪古韵",
+    "id": "B0FFFRJO2L",
+    "addr": "梅县区 224省道长教村内",
+    "type": "国家级景点",
+    "tel": "0753-2828889",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30 最晚进入16:00",
+    "lng": 116.372194,
+    "lat": 24.37225,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/35c4cf03dbb72bfb0000004829306119?type=pic",
+     "https://store.is.autonavi.com/showpic/219dc7c2a8526a030000000901496090?type=pic",
+     "https://store.is.autonavi.com/showpic/46bb1558090952c230b59b8288a0d4ed"
+    ]
+   }
   },
   {
    "name": "南华又庐",
@@ -96,7 +181,24 @@
    "tips": [
     "村内部分老宅仍有人居住，参观时注意礼貌",
     "从梅州市区开车约 30 分钟"
-   ]
+   ],
+   "amap": {
+    "name": "南华又庐",
+    "id": "B0FFFHB495",
+    "addr": "梅县区 南口镇高涧下附近",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 115.97778,
+    "lat": 24.268657,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFHB495/comment/content_media_external_images_media_80888_ss__1730370418090_24555426.jpg",
+     "https://store.is.autonavi.com/showpic/e195a2a156006cb1d56dec95b2073721",
+     "https://aos-comment.amap.com/B0FFFHB495/comment/E422B8F5_31A2_43E9_A02B_B48C6076566D_L0_001_2000_150_1754797103691_17533772.jpg"
+    ]
+   }
   },
   {
    "name": "花萼楼",
@@ -111,7 +213,24 @@
    "tips": [
     "离梅州市区较远，自驾单程约 2 小时，建议和大埔其他景点一起安排",
     "楼内仍有居民，不要随意进入私人房间"
-   ]
+   ],
+   "amap": {
+    "name": "大坵田花萼楼",
+    "id": "B0FFFVGW2I",
+    "addr": "大埔县 联丰村大坵田",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00 最晚进入18:00",
+    "lng": 116.923205,
+    "lat": 24.259762,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFVGW2I/comment/content_media_external_file_100002963_1772236238250_36024522.jpg",
+     "https://store.is.autonavi.com/showpic/a3df18f581dd88720000003762884942?type=pic",
+     "https://aos-comment.amap.com/B0FFFVGW2I/comment/content_media_external_file_46_1769480998208_63066634.jpg"
+    ]
+   }
   },
   {
    "name": "灵光寺",
@@ -126,7 +245,24 @@
    "tips": [
     "寺庙为宗教场所，着装得体、保持安静",
     "和雁南飞茶田距离很近，可以顺路"
-   ]
+   ],
+   "amap": {
+    "name": "灵光寺旅游区",
+    "id": "B02F103HUM",
+    "addr": "梅县区 雁洋镇阴那村",
+    "type": "国家级景点",
+    "tel": "0753-2831805",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 116.395124,
+    "lat": 24.397385,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bf98592f971ab999cbe29f17d7a3bd8a",
+     "https://store.is.autonavi.com/showpic/b066a03cb99032d60000002268004990?type=pic",
+     "https://aos-comment.amap.com/B02F103HUM/comment/92cbf70e825042ee0a2311286feab853_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    "tips": [
     "手撕盐焗鸡最能吃出鸡肉的纹理",
     "买手信选真空包装，方便带"
-   ]
+   ],
+   "amap": {
+    "name": "金苑酒家(新县城店)",
+    "id": "B0FFJHS3DX",
+    "addr": "梅县区 人民南路永发苑A1-A2栋10号",
+    "type": "中餐厅",
+    "tel": "18400618386",
+    "rating": 4.6,
+    "cost": 64.0,
+    "open": "周一至周日 11:00-14:00,17:30-20:30",
+    "lng": 116.083476,
+    "lat": 24.280494,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJHS3DX/comment/961CDCF8_FA8A_4BA9_B5F7_D1A7B7EA8A66_L0_001_1124_776_1729983224761_46735742.jpg",
+     "https://store.is.autonavi.com/showpic/b1d47d0d6e0433d091f3ae18fb783864",
+     "https://aos-comment.amap.com/B0FFJHS3DX/comment/content_media_external_file_100001348_1754387728074_69949888.jpg"
+    ]
+   }
   },
   {
    "name": "酿豆腐",
@@ -154,7 +307,24 @@
    "tips": [
     "刚出锅的很烫，先吹一吹",
     "可以和其他酿菜一起点，凑成拼盘"
-   ]
+   ],
+   "amap": {
+    "name": "客都·阿具客家菜(金燕大道店)",
+    "id": "B0FFGG0REN",
+    "addr": "梅江区 金燕大道万象江山06栋1楼2楼",
+    "type": "中餐厅",
+    "tel": "0753-2341111",
+    "rating": 4.6,
+    "cost": 50.0,
+    "open": "周一至周日 10:30-14:00,16:30-21:00",
+    "lng": 116.136203,
+    "lat": 24.273696,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGG0REN/comment/IMG_20250301_150943_tem_1740812993574_10447975.jpg",
+     "https://store.is.autonavi.com/showpic/b396e2f5807f32c5052d42e9a294e2ff",
+     "https://store.is.autonavi.com/showpic/87ea0ecaa8ccad4a0000003073240810?type=pic"
+    ]
+   }
   },
   {
    "name": "腌面",
@@ -167,7 +337,24 @@
    "tips": [
     "一份腌面配一碗三及第汤是标准吃法",
     "早上去最地道，很多店中午前就收摊"
-   ]
+   ],
+   "amap": {
+    "name": "梅州好吃腌面(达兴全猪汤)-江南总店",
+    "id": "B0FFFAAYUX",
+    "addr": "梅江区 新中路中段梅州好吃腌面",
+    "type": "中餐厅",
+    "tel": "19107534880",
+    "rating": 4.5,
+    "cost": 24.0,
+    "open": "周一至周日 07:00-02:00 2026-05-01至2026-05-05 周一至周日 07:00-02:00",
+    "lng": 116.127433,
+    "lat": 24.287544,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e9e728856e7d31e19d366662abfac10",
+     "https://aos-comment.amap.com/B0FFGAV0Y7/comment/13feedback_sendimag_1727851932312_62342726.jpg",
+     "https://store.is.autonavi.com/showpic/21554629df3ba76eaa99aecd54c095c3"
+    ]
+   }
   },
   {
    "name": "梅菜扣肉",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "偏油，可以多配些青菜"
-   ]
+   ],
+   "amap": {
+    "name": "梅州网红餐厅志睦楼",
+    "id": "B02F103EJQ",
+    "addr": "梅县区 雁洋镇大坪村茶田路(雁南飞茶田景区大门往外约20米)",
+    "type": "休闲场所",
+    "tel": "13450714573",
+    "rating": 4.3,
+    "cost": 48.0,
+    "open": "周一至周日 11:00-20:30",
+    "lng": 116.363155,
+    "lat": 24.391106,
+    "photos": [
+     "https://aos-comment.amap.com/B02F103EJQ/comment/666dcdb7c986eb68492cb7ecc5388bd9_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02F103EJQ/comment/278efb196952ac39d64b10e0aadcaa8d_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02F103EJQ/comment/d2c5ed31f3ef4c7422458df22d5755aa_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "算盘子",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "吃起来有点黏牙，口感类似糯米团"
-   ]
+   ],
+   "amap": {
+    "name": "印象好友客家特色菜(新城店)",
+    "id": "B0FFK67BUF",
+    "addr": "梅县区 豪生国际公馆东门北130米",
+    "type": "餐饮相关",
+    "tel": "0753-2599880",
+    "rating": 4.6,
+    "cost": 60.0,
+    "open": "周一至周日 11:00-14:00,17:00-21:00",
+    "lng": 116.082372,
+    "lat": 24.279033,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFK67BUF/comment/76947de2ea3d2edc3ea12ef18c1ca28c_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFK67BUF/comment/content_media_external_images_media_1000016891_ss__1751539640691_74811471.jpg",
+     "https://aos-comment.amap.com/B0FFK67BUF/comment/09dda9cdf3b4ed8fccb71256f799eb87_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "娘酒鸡",
@@ -204,7 +425,24 @@
    "tips": [
     "娘酒鸡里的酒精不会完全挥发，开车的人注意",
     "娘酒后劲大，喝时适量"
-   ]
+   ],
+   "amap": {
+    "name": "壹家餐厅(泰宝花园店)",
+    "id": "B0FFGZ1TP1",
+    "addr": "梅县区 大宝街87号(宜居家园东北门西110米)",
+    "type": "中餐厅",
+    "tel": "13421008225",
+    "rating": 4.5,
+    "cost": 54.0,
+    "open": "周一至周日 09:30-21:30",
+    "lng": 116.085647,
+    "lat": 24.27849,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a2bfd6f4a12473442d4065e7c349b4f7",
+     "https://store.is.autonavi.com/showpic/5e77b71cd2bd2509cb624cbfcb3f11b0",
+     "https://store.is.autonavi.com/showpic/0c5516c9d8cfe2969b3dbe2896ee8a30"
+    ]
+   }
   },
   {
    "name": "客家粄",
@@ -216,7 +454,24 @@
    ],
    "tips": [
     "艾粄季节性较强，春天最多"
-   ]
+   ],
+   "amap": {
+    "name": "客都·阿具客家菜(金燕大道店)",
+    "id": "B0FFGG0REN",
+    "addr": "梅江区 金燕大道万象江山06栋1楼2楼",
+    "type": "中餐厅",
+    "tel": "0753-2341111",
+    "rating": 4.6,
+    "cost": 50.0,
+    "open": "周一至周日 10:30-14:00,16:30-21:00",
+    "lng": 116.136203,
+    "lat": 24.273696,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGG0REN/comment/IMG_20250301_150943_tem_1740812993574_10447975.jpg",
+     "https://store.is.autonavi.com/showpic/b396e2f5807f32c5052d42e9a294e2ff",
+     "https://store.is.autonavi.com/showpic/87ea0ecaa8ccad4a0000003073240810?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

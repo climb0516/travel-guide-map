@@ -21,7 +21,24 @@
     "园内名泉多，导览图上把七十二名泉标得很清楚，可以按图找",
     "上午人相对少，团队游客多在中午前后到",
     "门票和开放时间以景区官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "趵突泉景区",
+    "id": "B021305SHC",
+    "addr": "历下区 趵突泉南路1号",
+    "type": "国家级景点",
+    "tel": "0531-96676",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 07:00-19:00,20:00-22:30；日游时间07:00-19:00、夜游时间20:00-22:30(21:30停止入园)。日游结束后将清场，夜游需购票入园",
+    "lng": 117.015873,
+    "lat": 36.661073,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3b6dc7e29dc83c56759cef6426bce8ee",
+     "https://store.is.autonavi.com/showpic/17526d28ef3f65f7ec49022b6b7df949",
+     "https://store.is.autonavi.com/showpic/8ad36ab0a80dfc0f25d1bd81c1251f24"
+    ]
+   }
   },
   {
    "name": "大明湖",
@@ -37,7 +54,24 @@
     "超然楼晚上亮灯最好看，可以安排在傍晚去",
     "夏天荷花季在 7 月前后，湖边树荫多，但也要防晒",
     "绕湖一圈路不短，穿双好走的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "大明湖景区",
+    "id": "B021307RUA",
+    "addr": "历下区 大明湖路271号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.016718,
+    "lat": 36.672584,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/43fbadde-23c7-4dcf-aa2c-a5ea03eb55e2.jpg",
+     "https://store.is.autonavi.com/showpic/cc75686c0814b5461c2cf14051abd51b",
+     "https://store.is.autonavi.com/showpic/fd829f4677fc2de34f8bde154cefbec5"
+    ]
+   }
   },
   {
    "name": "黑虎泉和护城河",
@@ -53,7 +87,24 @@
     "可以带个水杯尝尝泉水，但生饮与否自己斟酌",
     "护城河游船的班次和票务以现场为准",
     "沿护城河散步一圈大约需要 2 小时"
-   ]
+   ],
+   "amap": {
+    "name": "济南市环城公园-黑虎泉",
+    "id": "B021302AA7",
+    "addr": "历下区 解放阁脚下护城河南岸",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.033525,
+    "lat": 36.662414,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c76d7e5ac235a0ec65f70e0d106dfdb8",
+     "https://store.is.autonavi.com/showpic/23dd55e00a716c08a9a52eda1b7067a5",
+     "https://store.is.autonavi.com/showpic/73cc4f379f6799e45dc2555836ad0187"
+    ]
+   }
   },
   {
    "name": "芙蓉街和曲水亭街",
@@ -69,7 +120,24 @@
     "芙蓉街的小吃以游客店为主，尝个新鲜即可",
     "曲水亭街清晨最安静，适合拍照",
     "王府池子是居民区里的泉池，参观时注意别打扰住户"
-   ]
+   ],
+   "amap": {
+    "name": "别有洞天(芙蓉街店)",
+    "id": "B0G0XR1FPZ",
+    "addr": "历下区 芙蓉街a1西侧房",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 3.5,
+    "cost": 0,
+    "open": "周一至周日 10:15-23:00",
+    "lng": 117.023142,
+    "lat": 36.665528,
+    "photos": [
+     "https://aos-comment.amap.com/B0G0XR1FPZ/comment/88d82640a59c48752bb3543f7959972b_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0G0XR1FPZ/comment/3dffd10631ab7a0c7a6e3a61bb7bd70c_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0G0XR1FPZ/comment/4461e2a4d0ded323b0b2bc288f2ed4a5_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "五龙潭",
@@ -84,7 +152,24 @@
    "tips": [
     "可以和趵突泉安排在同一个上午",
     "以官方开放安排为准，节假日人会多一些"
-   ]
+   ],
+   "amap": {
+    "name": "五龙潭公园",
+    "id": "B021301972",
+    "addr": "天桥区 筐市街18号",
+    "type": "公园",
+    "tel": "0531-86087186",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 07:00-22:00 最晚进入22:00",
+    "lng": 117.014637,
+    "lat": 36.665992,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fbdf12774ff98b9d18563ee086dab81a",
+     "https://store.is.autonavi.com/showpic/0f18d6c6679bd21bc41a170d50b65bdc",
+     "https://store.is.autonavi.com/showpic/CC17D2C4AD984DB3902FF862BE16B640"
+    ]
+   }
   },
   {
    "name": "千佛山",
@@ -100,7 +185,24 @@
     "爬到山顶步行大约 1 小时，台阶较多",
     "重阳节前后有山会，人很多",
     "万佛洞单独收费，按兴趣选择"
-   ]
+   ],
+   "amap": {
+    "name": "千佛山风景名胜区",
+    "id": "B021306TJ7",
+    "addr": "历下区 经十一路18号",
+    "type": "国家级景点",
+    "tel": "0531-82662340",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "05:00-22:30；【重点说明】,(1)客服电话咨询时间08:30-17:00,(2)06:30之前/18:00之后可免费入园,(3)灵官殿、财神殿、周三清观观音园、鲁班祠、舜祠、福寿宫、周三圣殿关闭时间:16:30,(4)兴国禅寺关闭时间:17:00,(5)滑道/索道(上行、下行)使用时间: 09:00-16:30,(6)周四窟万像售票时间,周至周五:08:30-17:30,周六至周日:08:30-18:30,(节假日适当延长售票时间,最晚游览结束时间顺延小时)",
+    "lng": 117.036098,
+    "lat": 36.639288,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f3e117745d342789ac6757a87b569001",
+     "https://store.is.autonavi.com/showpic/a827e1f29764e6bc64edcee863043271",
+     "https://store.is.autonavi.com/showpic/b97236a7a4b842356caed9315d492d59"
+    ]
+   }
   },
   {
    "name": "山东博物馆",
@@ -116,7 +218,24 @@
     "免费参观，需要提前预约，具体以官方公告为准",
     "周一通常闭馆，节假日安排以官方为准",
     "从老城打车或坐公交前往，车程约半小时"
-   ]
+   ],
+   "amap": {
+    "name": "山东博物馆",
+    "id": "B021307ZAY",
+    "addr": "历下区 经十路11899号",
+    "type": "博物馆",
+    "tel": "0531-85058202",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周二至周日:09:00-16:00,每周一闭馆,国家法定节假日除外",
+    "lng": 117.095731,
+    "lat": 36.658157,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ccf6a500b59eb49faf7ae72ebc0237d3",
+     "https://store.is.autonavi.com/showpic/b3a71d223bf685388c6eb5b038ce3a3e",
+     "https://store.is.autonavi.com/showpic/76a8315bb76137690fb682d4b762113b"
+    ]
+   }
   },
   {
    "name": "宽厚里",
@@ -131,7 +250,24 @@
    "tips": [
     "周末晚上人多，热门店需要排队",
     "从趵突泉步行过去约十几分钟"
-   ]
+   ],
+   "amap": {
+    "name": "宽厚里",
+    "id": "B0G1AO1CPQ",
+    "addr": "历下区 黑虎泉西路56号",
+    "type": "特色商业街",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.030905,
+    "lat": 36.663559,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/23f04f739153c4cb2a5afc414ac1bda6",
+     "https://store.is.autonavi.com/showpic/f57a3b5b600f3939ea68e35f0b275259",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/59a65a6e-bc57-469a-881b-a42b42a5a026.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -146,7 +282,24 @@
    "tips": [
     "肉汁拌饭是精髓，记得让店家多浇一点",
     "怕腻的可以选瘦一点的，再配个青椒或豆腐"
-   ]
+   ],
+   "amap": {
+    "name": "刘小忙把子肉总店",
+    "id": "B0JBNAYRQO",
+    "addr": "天桥区 北园大街536-2号",
+    "type": "餐饮相关",
+    "tel": "13455175858",
+    "rating": 4.8,
+    "cost": 27.0,
+    "open": "周一至周日 10:00-24:00",
+    "lng": 117.009787,
+    "lat": 36.683881,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8b89369d3c9cb7bd9be0cc5187b370f1",
+     "https://store.is.autonavi.com/showpic/201274b5251d256b0000002885986372?type=pic",
+     "https://store.is.autonavi.com/showpic/77ac952be827197b0000000699990030?type=pic"
+    ]
+   }
   },
   {
    "name": "油旋",
@@ -159,7 +312,24 @@
    "tips": [
     "一定要趁热吃，放凉就不脆了",
     "老店门口常排队，早上去更从容"
-   ]
+   ],
+   "amap": {
+    "name": "油旋张(大观园店)",
+    "id": "B0FFGJAJ3T",
+    "addr": "市中区 大观园东北门37号",
+    "type": "中餐厅",
+    "tel": "13287767333",
+    "rating": 4.4,
+    "cost": 11.0,
+    "open": "周一至周日 07:00-20:00",
+    "lng": 116.996989,
+    "lat": 36.661354,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGJAJ3T/comment/15ba8ea83e0d17a1a065d60d18e04c42_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFGJAJ3T/comment/content_media_external_file_1000009099_ss__1747444241489_52523951.jpg",
+     "https://store.is.autonavi.com/showpic/6c35d0538626b6d10000002495690156?type=pic"
+    ]
+   }
   },
   {
    "name": "甜沫",
@@ -171,7 +341,24 @@
    ],
    "tips": [
     "胡椒味偏重，不习惯可以先点小碗"
-   ]
+   ],
+   "amap": {
+    "name": "孙家糖油条",
+    "id": "B0FFLNG3OS",
+    "addr": "历下区 按察司街72号(济南市汇波小学(西校区)北侧)",
+    "type": "餐饮相关",
+    "tel": "15866618488",
+    "rating": 4.4,
+    "cost": 13.0,
+    "open": "周一至周日 05:00-09:30",
+    "lng": 117.033231,
+    "lat": 36.669375,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6ca66e7e090cfe39bc041ec40af715f9",
+     "https://aos-comment.amap.com/B0FFLNG3OS/comment/18623911efc9a0a26870d60ffecf87f2_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFLNG3OS/comment/content_media_external_images_media_100003288_1729875465938_93276264.jpg"
+    ]
+   }
   },
   {
    "name": "草包包子",
@@ -184,7 +371,24 @@
    "tips": [
     "汤汁很烫，先咬个小口再吸汤",
     "饭点人多，错峰去少排队"
-   ]
+   ],
+   "amap": {
+    "name": "草包包子铺(普利街总店)",
+    "id": "B021304ZEA",
+    "addr": "市中区 普利街15号",
+    "type": "中餐厅",
+    "tel": "0531-86921454",
+    "rating": 4.6,
+    "cost": 19.0,
+    "open": "周一至周日 07:00-20:30",
+    "lng": 117.011393,
+    "lat": 36.664265,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2f98b6c553b6816985ebc4e57fcf2988",
+     "https://store.is.autonavi.com/showpic/5d1bf49bc2dd624570f25c31f53e8303",
+     "https://store.is.autonavi.com/showpic/6e2dc5bd86e568652be00ef48ae64d7b"
+    ]
+   }
   },
   {
    "name": "九转大肠",
@@ -197,7 +401,24 @@
    "tips": [
     "不吃内脏的人可以换别的鲁菜，比如糖醋鲤鱼",
     "老字号鲁菜馆适合多人点几道一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "魁盛居百年鲁菜馆(县西巷一店)",
+    "id": "B0G1BN9N8F",
+    "addr": "历下区 县西巷泉乐坊D区108号商铺",
+    "type": "山东菜(鲁菜)",
+    "tel": "0531-82620899",
+    "rating": 4.6,
+    "cost": 100.0,
+    "open": "周一至周日 11:00-16:00,17:00-02:00",
+    "lng": 117.027729,
+    "lat": 36.66971,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1770714715513_80219446_1770714811116_46377744.jpg",
+     "https://aos-comment.amap.com/B0G1BN9N8F/comment/content_media_external_file_100003450_1772681004038_30493937.jpg",
+     "https://store.is.autonavi.com/showpic/034250ba4ae1d5130000003113290976?type=pic"
+    ]
+   }
   },
   {
    "name": "糖醋鲤鱼",
@@ -210,7 +431,24 @@
    "tips": [
     "趁热吃，外皮放久了会软",
     "人少可以问店家有没有小份"
-   ]
+   ],
+   "amap": {
+    "name": "箪食巷私房菜(奥体店)",
+    "id": "B0J09SWDAO",
+    "addr": "历下区 经十路奥体中心柳康路和中心南路交叉口",
+    "type": "中餐厅",
+    "tel": "18853161387",
+    "rating": 4.7,
+    "cost": 127.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 117.119716,
+    "lat": 36.656078,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/02dda3d9347ed6010000003007272129?type=pic",
+     "https://store.is.autonavi.com/showpic/1ad5fb930ec418450000008835126060?type=pic",
+     "https://store.is.autonavi.com/showpic/3c5f7fe8eb785ca70000002593226308?type=pic"
+    ]
+   }
   },
   {
    "name": "济南烧烤",
@@ -222,7 +460,24 @@
    ],
    "tips": [
     "扎啤按杯或按斤卖，按自己酒量点"
-   ]
+   ],
+   "amap": {
+    "name": "300+海鲜串店(奥体中心店)",
+    "id": "B0JK6AZP9T",
+    "addr": "历下区 经十路济南奥林匹克体育中心商业区3002-1",
+    "type": "中餐厅",
+    "tel": "0531-88096767",
+    "rating": 4.6,
+    "cost": 101.0,
+    "open": "周一至周日 17:00-02:00",
+    "lng": 117.119755,
+    "lat": 36.657189,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c17b1eef9a5d28740000003133667000?type=pic",
+     "https://store.is.autonavi.com/showpic/e96dbb2c0f2024d4683977820b150d67",
+     "https://aos-comment.amap.com/B0JK6AZP9T/comment/1F7BEFF7_000B_420E_9CE4_D0ACED62C8A8_L0_001_1536_204_1756607194893_39001572.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

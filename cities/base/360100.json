@@ -21,7 +21,24 @@
     "需要购票，部分时段有演出，以景区公告为准",
     "傍晚登楼看日落最好，结束后可以去对岸看秋水广场喷泉",
     "楼内有电梯，老人可以先坐电梯上去再走下来"
-   ]
+   ],
+   "amap": {
+    "name": "滕王阁",
+    "id": "B031701YGL",
+    "addr": "东湖区 滕王阁街道仿古街58号",
+    "type": "国家级景点",
+    "tel": "0791-86702036",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至9月 周一至周日 08:00-22:00 最晚进入21:00；景区分场次入园，请按选择的入园时间段内检票入园。 重大活动日期开放时间请参考官方通知 10-01至10-01 周一至周日 08:00-15:00；10-02至12-31 周一至周日 08:00-22:00 最晚进入21:00；景区分场次入园，请按选择的入园时间段内检票入园。 重大活动日期开放时间请参考官方通知",
+    "lng": 115.881197,
+    "lat": 28.681332,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/38e62fd572d642c9eedf5dd117109f36",
+     "https://store.is.autonavi.com/showpic/7cc767931175150ed50a50c908dcd201",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/334d40e9-0b25-4cd5-ba01-cc5665313821.jpg"
+    ]
+   }
   },
   {
    "name": "八一起义纪念馆",
@@ -37,7 +54,24 @@
     "免费参观，可能需要预约，带身份证，以官方公告为准",
     "周一通常闭馆，出发前确认",
     "附近的八一广场傍晚可以去看看"
-   ]
+   ],
+   "amap": {
+    "name": "南昌八一起义纪念馆",
+    "id": "B031704VYJ",
+    "addr": "西湖区 中山路380号",
+    "type": "纪念馆",
+    "tel": "0791-86613806",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "",
+    "lng": 115.889435,
+    "lat": 28.67467,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/43fafd9ef178c7aa891a0712879289a2",
+     "https://store.is.autonavi.com/showpic/22f3d551f97c076638b3c9a2233c0c26",
+     "https://store.is.autonavi.com/showpic/38c4a272e9f0c232a1756d09c0b6619c"
+    ]
+   }
   },
   {
    "name": "江西省博物馆",
@@ -52,7 +86,24 @@
    "tips": [
     "免费参观，需要提前预约，周一通常闭馆",
     "馆很大，建议留出半天以上"
-   ]
+   ],
+   "amap": {
+    "name": "江西省博物馆",
+    "id": "B0FFGY018L",
+    "addr": "红谷滩区 赣江北大道698号",
+    "type": "博物馆",
+    "tel": "0791-88233369",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "9月 周一 全天关闭；9月 周二至周日 09:00-17:00 最晚进入16:00 01-01至08-10 周一 全天关闭；01-01至08-10 周二至周日 09:00-17:00 最晚进入16:00；08-11至08-31 周一 全天关闭；08-11至08-31 周二至周日 09:00-18:00 最晚进入17:00；10-01至10-01 周一至周日 08:30-18:00 最晚进入17:00；10-02至10-03 周一至周日 08:30-20:00 最晚进入19:00；10-04至10-07 周一至周日 08:30-18:00 最晚进入17:00；10-08至12-31 周一 全天关闭；10-08至12-31 周二至周日 09:00-17:00 最晚进入16:00",
+    "lng": 115.881823,
+    "lat": 28.7059,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGY018L/headerImg/67f8c6ae1351e9be83f3b9c55a2044ac_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/62fc9a8107754122d56df1fd00a39da9",
+     "https://store.is.autonavi.com/showpic/2540a826ecba8b990000008516508908?type=pic"
+    ]
+   }
   },
   {
    "name": "海昏侯国遗址博物馆",
@@ -68,7 +119,24 @@
     "需要提前预约，开放安排以官方公告为准",
     "距离市区约 1 小时车程，自驾或打车前往更方便",
     "建议请讲解或租导览器，看懂文物背后的故事"
-   ]
+   ],
+   "amap": {
+    "name": "南昌汉代海昏侯国遗址博物馆",
+    "id": "B0FFMAHLBA",
+    "addr": "新建区 大塘坪乡X043县道以北",
+    "type": "博物馆",
+    "tel": "0791-83086000",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "09:00-17:00,2026-02-16关闭,2026-02-17至2026-02-23,09:00-18:00",
+    "lng": 115.939837,
+    "lat": 29.030113,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1fa6b8ad631e3a7a0000003612526441",
+     "https://store.is.autonavi.com/showpic/8e3abe8cbe5ce65d0000007635266423?type=pic",
+     "https://store.is.autonavi.com/showpic/6541ac31a0d84e510000008088548929"
+    ]
+   }
   },
   {
    "name": "万寿宫历史文化街区",
@@ -83,7 +151,24 @@
    "tips": [
     "晚上比白天更有氛围",
     "街区里小吃偏游客向，想吃地道的可以问问本地人推荐的老店"
-   ]
+   ],
+   "amap": {
+    "name": "万寿宫历史文化街区-美术馆",
+    "id": "B0JD76X6X9",
+    "addr": "西湖区 万寿宫历史文化街区(万寿宫地铁站1号口步行170米)",
+    "type": "旅游景点",
+    "tel": "0791-82760141",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 115.886553,
+    "lat": 28.674508,
+    "photos": [
+     "https://aos-comment.amap.com/B0JD76X6X9/comment/2025-04-18-12-31-21%2B08B5A50F-29E9-40D0-A582-70381611C32_1744950684388_94838276.jpg",
+     "https://aos-comment.amap.com/B0JD76X6X9/comment/content_media_external_images_media_435807_ss__1760535862364_32056335.jpg",
+     "https://aos-comment.amap.com/B0JD76X6X9/comment/8feedback_sendimag_1744950752646_93678774.jpg"
+    ]
+   }
   },
   {
    "name": "绳金塔",
@@ -98,7 +183,24 @@
    "tips": [
     "适合和周边吃饭一起安排",
     "塔能否登临以景区安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "绳金塔",
+    "id": "B031703XFA",
+    "addr": "西湖区 绳金塔街1号(绳金塔地铁站3号口步行230米)",
+    "type": "省级景点",
+    "tel": "0791-86406013",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-21:30",
+    "lng": 115.89989,
+    "lat": 28.660962,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c7006c2b837c0753f7e694d8d5f8c9c9",
+     "https://store.is.autonavi.com/showpic/07cc91f1fefb56bac79a30822c813016",
+     "https://store.is.autonavi.com/showpic/4155d53b5ac849d7e8037fd9bdeec8a5"
+    ]
+   }
   },
   {
    "name": "八大山人纪念馆",
@@ -113,7 +215,24 @@
    "tips": [
     "一般免费开放，具体以官方公告为准",
     "距离老城有一段距离，打车前往方便"
-   ]
+   ],
+   "amap": {
+    "name": "八大山人纪念馆",
+    "id": "B031704VXJ",
+    "addr": "青云谱区 青云路259号",
+    "type": "纪念馆",
+    "tel": "0791-85273565",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "",
+    "lng": 115.916642,
+    "lat": 28.604789,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a4f07fd202c97026bcc2433983053e99",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/0930ec56-ec9e-47f4-8a83-370ebd8061fa.jpeg",
+     "https://store.is.autonavi.com/showpic/015d80cbdb8f08b45fc0226ea1bc2e31"
+    ]
+   }
   },
   {
    "name": "秋水广场",
@@ -128,7 +247,24 @@
    "tips": [
     "喷泉表演时间受季节和天气影响，以官方公告为准",
     "表演时人很多，提前占位置"
-   ]
+   ],
+   "amap": {
+    "name": "南昌秋水广场音乐喷泉",
+    "id": "B0FFFGV6PM",
+    "addr": "红谷滩区 秋水广场(秋水广场地铁站5号口步行360米)",
+    "type": "风景名胜",
+    "tel": "0791-83883496",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "冬令时:第一场:19:00-19:15，第二场:20:00-20:15",
+    "lng": 115.86273,
+    "lat": 28.682634,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/604ff4525e3bc016265079e3edd17a90",
+     "https://store.is.autonavi.com/showpic/62933460d5302df93d5633c0731a4917",
+     "https://store.is.autonavi.com/showpic/00e3e805ecf9b0480000008244276538?type=pic"
+    ]
+   }
   },
   {
    "name": "梅岭",
@@ -143,7 +279,24 @@
    "tips": [
     "自驾更方便，山路弯多",
     "景点比较分散，提前规划路线"
-   ]
+   ],
+   "amap": {
+    "name": "梅岭生态旅游度假区",
+    "id": "B031704Z7O",
+    "addr": "新建区 052县道",
+    "type": "国家级景点",
+    "tel": "0791-83760117",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 115.720587,
+    "lat": 28.810114,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f615d3d68b9daf5ed7647eddcfc0001b",
+     "https://store.is.autonavi.com/showpic/54c4ead55f10f06bd5e88714549d5de7",
+     "https://store.is.autonavi.com/showpic/ce20925d742cae9b359726a9dda971d4"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "辣度可以跟老板说，怕辣点微辣",
     "搭配一罐瓦罐汤最地道"
-   ]
+   ],
+   "amap": {
+    "name": "小罗子汤店(大士院总店)",
+    "id": "B0FFFMI84L",
+    "addr": "东湖区 大士院住宅四区23栋4单元一楼",
+    "type": "中餐厅",
+    "tel": "13517096160",
+    "rating": 4.7,
+    "cost": 13.0,
+    "open": "周一至周日 05:00-15:30",
+    "lng": 115.885181,
+    "lat": 28.684019,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/813efb80d4d1b20626f5160f174992a8",
+     "https://store.is.autonavi.com/showpic/fdfe9df76d2eebc70000002362534350?type=pic",
+     "https://store.is.autonavi.com/showpic/876402553a66a9b20000002919938613?type=pic"
+    ]
+   }
   },
   {
    "name": "瓦罐汤",
@@ -171,7 +341,24 @@
    "tips": [
     "肉饼蛋汤是最经典的口味",
     "刚端上来很烫，小心别烫嘴"
-   ]
+   ],
+   "amap": {
+    "name": "小罗子汤店(大士院总店)",
+    "id": "B0FFFMI84L",
+    "addr": "东湖区 大士院住宅四区23栋4单元一楼",
+    "type": "中餐厅",
+    "tel": "13517096160",
+    "rating": 4.7,
+    "cost": 13.0,
+    "open": "周一至周日 05:00-15:30",
+    "lng": 115.885181,
+    "lat": 28.684019,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/813efb80d4d1b20626f5160f174992a8",
+     "https://store.is.autonavi.com/showpic/fdfe9df76d2eebc70000002362534350?type=pic",
+     "https://store.is.autonavi.com/showpic/876402553a66a9b20000002919938613?type=pic"
+    ]
+   }
   },
   {
    "name": "藜蒿炒腊肉",
@@ -183,7 +370,24 @@
    ],
    "tips": [
     "春天的藜蒿最嫩最香"
-   ]
+   ],
+   "amap": {
+    "name": "堂瓦里·34年传统赣菜(第一街区店)",
+    "id": "B0FFIG3QRQ",
+    "addr": "红谷滩区 红谷滩区红谷中大道1568号红谷凯旋6号楼114室",
+    "type": "中餐厅",
+    "tel": "17707084333",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周五 11:00-14:30,17:00-21:30；周六至周日 11:00-15:00,17:00-21:30",
+    "lng": 115.862856,
+    "lat": 28.692423,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIG3QRQ/comment/content_media_external_images_media_65200_ss__1766100693192_32326513.jpg",
+     "https://aos-comment.amap.com/B0FFIG3QRQ/comment/content_media_external_file_1740_1766913927986_27255688.jpg",
+     "https://aos-comment.amap.com/B0FFIG3QRQ/comment/content_media_external_file_100001252_1762236244702_44980739.jpg"
+    ]
+   }
   },
   {
    "name": "白糖糕",
@@ -195,7 +399,24 @@
    ],
    "tips": [
     "现炸的最好吃，趁热吃"
-   ]
+   ],
+   "amap": {
+    "name": "堂瓦里·传统赣菜(建德观店)",
+    "id": "B0FFKGU038",
+    "addr": "东湖区 小金台平安小区西门旁",
+    "type": "餐饮相关",
+    "tel": "19179115777",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周日 11:00-15:00,17:00-21:30 2026-09-25至2026-09-26 11:00-16:00,17:00-22:00；2026-09-27至2026-09-30 11:00-16:00,17:00-21:30；2026-10-01至2026-10-06 11:00-16:00,17:00-22:00",
+    "lng": 115.888249,
+    "lat": 28.681722,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e80ef0d199dda9453bdb2ceb812ebaf",
+     "https://store.is.autonavi.com/showpic/c0d45409fc75180ef58c08ccea00c8cc",
+     "https://store.is.autonavi.com/showpic/b2099b45ec645e1e5584e0e50a1f7b11"
+    ]
+   }
   },
   {
    "name": "煌上煌酱鸭",
@@ -207,7 +428,24 @@
    ],
    "tips": [
     "真空包装的适合带回家"
-   ]
+   ],
+   "amap": {
+    "name": "煌上煌(华润万家万达店)",
+    "id": "B0FFIL2KCR",
+    "addr": "红谷滩区 红谷万达负一楼华润万家服务台旁边",
+    "type": "餐饮相关",
+    "tel": "19170064205",
+    "rating": 4.0,
+    "cost": 28.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 115.848543,
+    "lat": 28.692116,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=stf0934e5c-489f-4bc8-ab7a-c0d7ff45831b&user=search&operate=original",
+     "https://store.is.autonavi.com/showpic/a57095b1ed388084104196c99be111c7",
+     "https://store.is.autonavi.com/showpic/ff41775ccc06c50afda117274bfe246f"
+    ]
+   }
   },
   {
    "name": "三杯鸡",
@@ -219,7 +457,24 @@
    ],
    "tips": [
     "配米饭最好，汤汁很香"
-   ]
+   ],
+   "amap": {
+    "name": "堂瓦里·传统赣菜(建德观店)",
+    "id": "B0FFKGU038",
+    "addr": "东湖区 小金台平安小区西门旁",
+    "type": "餐饮相关",
+    "tel": "19179115777",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周日 11:00-15:00,17:00-21:30 2026-09-25至2026-09-26 11:00-16:00,17:00-22:00；2026-09-27至2026-09-30 11:00-16:00,17:00-21:30；2026-10-01至2026-10-06 11:00-16:00,17:00-22:00",
+    "lng": 115.888249,
+    "lat": 28.681722,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e80ef0d199dda9453bdb2ceb812ebaf",
+     "https://store.is.autonavi.com/showpic/c0d45409fc75180ef58c08ccea00c8cc",
+     "https://store.is.autonavi.com/showpic/b2099b45ec645e1e5584e0e50a1f7b11"
+    ]
+   }
   },
   {
    "name": "米粉蒸肉",
@@ -231,7 +486,24 @@
    ],
    "tips": [
     "和藜蒿炒腊肉一起点，荤素搭配"
-   ]
+   ],
+   "amap": {
+    "name": "盛厨赣味",
+    "id": "B0FFJ58D7B",
+    "addr": "西湖区 前进路147号1栋10-11号店面",
+    "type": "中餐厅",
+    "tel": "0791-86279591",
+    "rating": 4.7,
+    "cost": 54.0,
+    "open": "周一至周日 10:00-22:30",
+    "lng": 115.899052,
+    "lat": 28.659554,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJ58D7B/comment/content_media_external_file_184998_ss__1762852419302_69395858.jpg",
+     "https://aos-comment.amap.com/B0FFJ58D7B/comment/f47629a92dc1471d65b5ccf508281453_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFJ58D7B/comment/B1492CC2_B54E_4FC7_8AAD_C87844179E10_L0_001_1080_144_1766224869717_04890362.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

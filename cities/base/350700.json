@@ -21,7 +21,24 @@
     "竹筏票需要提前在官方渠道预约，旺季名额很紧张",
     "筏上没有遮阳，夏天带帽子和防晒，下雨天筏工会提供雨具或暂停",
     "手机和相机注意防水防落水"
-   ]
+   ],
+   "amap": {
+    "name": "九曲溪竹筏漂流",
+    "id": "B0FFFP5FI3",
+    "addr": "武夷山市 武夷山风景名胜区-九曲溪",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 07:00-17:00 最晚进入16:00；3月至10月 周一至周日 06:30-18:00 最晚进入16:30",
+    "lng": 117.928028,
+    "lat": 27.637109,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0c54b565679d0cb594a073fc198d3e7f",
+     "https://store.is.autonavi.com/showpic/2e92d53fe609d0099efc503d27126872",
+     "https://store.is.autonavi.com/showpic/f447575d61b03a35a1c9988a05b13fed"
+    ]
+   }
   },
   {
    "name": "天游峰",
@@ -37,7 +54,24 @@
     "台阶又陡又窄，恐高和体力不足的人慎重",
     "尽量早上去，避开旅游团高峰，也更凉快",
     "竹筏和天游峰常安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "武夷山风景名胜区-天游峰",
+    "id": "B0FFGRMWFW",
+    "addr": "武夷山市 九曲溪六曲溪北武夷山国家重点风景区内",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 07:00-17:00 最晚进入16:00；3月至10月 周一至周日 06:30-18:00 最晚进入16:30",
+    "lng": 117.95226,
+    "lat": 27.649824,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGRMWFW/comment/20260310-45164c40437852e77007cd4c-5qIbqlx6Gx96iDVkrHOYgW.jpg",
+     "https://aos-comment.amap.com/B0FFGRMWFW/comment/content_media_external_file_2894_ss__1764459739517_09658182.jpg",
+     "https://store.is.autonavi.com/showpic/324c88beb6f67ce20000009198200741?type=pic"
+    ]
+   }
   },
   {
    "name": "大红袍景区",
@@ -53,7 +87,24 @@
     "母树只能远观，不能采摘或攀爬",
     "这条步道适合慢慢走，带水和零食",
     "和水帘洞连着走，留出半天时间"
-   ]
+   ],
+   "amap": {
+    "name": "大红袍景区",
+    "id": "B025705LAO",
+    "addr": "武夷山市 武夷街道武夷街道大王峰路21号武夷山风景名胜区",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 07:00-17:00 最晚进入16:00；3月至10月 周一至周日 06:30-18:00 最晚进入16:30",
+    "lng": 117.962082,
+    "lat": 27.667323,
+    "photos": [
+     "https://aos-comment.amap.com/B025705LAO/comment/D5A501EB_0334_4AD0_934D_10672A1C19C5_L0_001_2000_150_1768726330412_82090121.jpg",
+     "https://aos-comment.amap.com/B025705LAO/comment/0e824c128050ab9df0946207dbbe135b_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/0caa71b433edcacf95198ca2/comment/content_service__1773534323638_15029415_1773534402245_41597939.jpg"
+    ]
+   }
   },
   {
    "name": "水帘洞",
@@ -68,7 +119,24 @@
    "tips": [
     "雨季水帘最好看，干季水量小",
     "步道上有茶亭，可以坐下喝杯茶"
-   ]
+   ],
+   "amap": {
+    "name": "武夷山风景名胜区-水帘洞景区",
+    "id": "B025705LC1",
+    "addr": "武夷山市 大王峰路21号武夷山风景名胜区(东北角)",
+    "type": "风景名胜",
+    "tel": "0599-5252884",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "1月至2月,9月至12月 周一至周日 07:00-17:00；3月至8月 周一至周日 06:30-18:00；具体营业状态以当天开放情况为准",
+    "lng": 117.981531,
+    "lat": 27.679454,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7cb849579f85caff8c4b4e48efb50fc0",
+     "https://store.is.autonavi.com/showpic/262b7d99b934a6a70000002369640501?type=pic",
+     "https://store.is.autonavi.com/showpic/2af88f3071c0a0970000009191412350?type=pic"
+    ]
+   }
   },
   {
    "name": "虎啸岩",
@@ -83,7 +151,24 @@
    "tips": [
     "部分路段陡峭，注意安全",
     "和一线天一起安排比较顺路"
-   ]
+   ],
+   "amap": {
+    "name": "武夷山风景名胜区-虎啸岩",
+    "id": "B025705LTG",
+    "addr": "武夷山市 武夷街道大王峰路21号武夷山风景名胜区(西南角)",
+    "type": "风景名胜",
+    "tel": "0599-5252884",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 06:30-18:00 最晚进入17:00；具体营业状态以当天开放情况为准",
+    "lng": 117.949489,
+    "lat": 27.637713,
+    "photos": [
+     "https://aos-comment.amap.com/B025705LTG/comment/content_media_external_file_1000877938_ss__1766701789206_77791912.jpg",
+     "https://aos-comment.amap.com/B025705LTG/comment/content_media_external_images_media_1000048319_ss__1761790964004_79227349.jpg",
+     "https://aos-comment.amap.com/B025705LTG/comment/content_media_external_images_media_1000048305_ss__1761790964004_87704182.jpg"
+    ]
+   }
   },
   {
    "name": "一线天",
@@ -98,7 +183,24 @@
    "tips": [
     "通道窄且较暗，背包不要太大",
     "洞内湿滑，穿防滑鞋"
-   ]
+   ],
+   "amap": {
+    "name": "武夷山风景名胜区-一线天景区",
+    "id": "B0FFFOPZ9T",
+    "addr": "武夷山市 武夷山风景区内",
+    "type": "风景名胜",
+    "tel": "0599-5252884",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 07:00-17:00 最晚进入16:00；3月至10月 周一至周日 06:30-18:00 最晚进入16:30",
+    "lng": 117.942514,
+    "lat": 27.625123,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFOPZ9T/comment/content_media_external_images_media_1000045391_ss__1769344124663_73669022.jpg",
+     "https://aos-comment.amap.com/B0FFFOPZ9T/comment/42C48B56_962F_47B4_9448_98DD38F273A0_L0_001_2000_150_1767538375045_74362694.jpg",
+     "https://aos-comment.amap.com/B0FFFOPZ9T/comment/DEC16E0C_2EEB_45F6_B35B_E29F77B5A680_L0_001_2000_150_1767538375044_48674304.jpg"
+    ]
+   }
   },
   {
    "name": "武夷宫",
@@ -113,7 +215,24 @@
    "tips": [
     "竹筏下来后顺路逛，不用专程",
     "宋街茶店多，试茶不必买，想买要多比较"
-   ]
+   ],
+   "amap": {
+    "name": "武夷宫",
+    "id": "B0FFFTFB5Q",
+    "addr": "武夷山市 宋街国家旅游度假区内(幔亭山房往南200米)",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 07:00-17:00 最晚进入16:00；3月至10月 周一至周日 06:30-18:00 最晚进入16:30",
+    "lng": 117.97207,
+    "lat": 27.642113,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5c6f3a2837999c0c0000004168630910?type=pic",
+     "https://aos-comment.amap.com/B0FFFTFB5Q/comment/5F5CA0DE_B1E4_416A_A814_616630B3AB14_L0_001_1500_200_1755186996010_20119217.jpg",
+     "https://aos-comment.amap.com/B0FFFTFB5Q/comment/content_media_external_file_20014_ss__1767341615749_60782469.jpg"
+    ]
+   }
   },
   {
    "name": "下梅村",
@@ -128,7 +247,24 @@
    "tips": [
     "离度假区不远，打车或自驾前往",
     "开放和票务安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "武夷山下梅古民居",
+    "id": "B0FFFA55BS",
+    "addr": "武夷山市 下梅村1-2号",
+    "type": "风景名胜",
+    "tel": "0599-5206999",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30 最晚进入17:30",
+    "lng": 118.047934,
+    "lat": 27.668885,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/efc99ae89736d587a745ff5a87d7da0e",
+     "https://store.is.autonavi.com/showpic/33f816d00392f8a0857808c54168c11f",
+     "https://store.is.autonavi.com/showpic/23d7108e83e6fe9ab120b7e78b8bfc14"
+    ]
+   }
   },
   {
    "name": "印象大红袍",
@@ -143,7 +279,24 @@
    "tips": [
     "演出场次和票务以官方公告为准",
     "户外演出，夏天带驱蚊水，冬天多穿衣服"
-   ]
+   ],
+   "amap": {
+    "name": "印象大红袍剧场检票口",
+    "id": "B0MA21RRH3",
+    "addr": "武夷山市 大王峰路98号",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 0,
+    "cost": 0,
+    "open": "",
+    "lng": 117.977713,
+    "lat": 27.638405,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/48d460f84eccd516d1709c58389974e6",
+     "https://store.is.autonavi.com/showpic/07256e163d19a1fc0000002640274403?type=pic",
+     "https://store.is.autonavi.com/showpic/71ff16ad8311fa5d0000002640208884?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "试喝不必买，买茶前多比较几家",
     "空腹喝岩茶容易「茶醉」，搭配点心"
-   ]
+   ],
+   "amap": {
+    "name": "悉山有物茶铺",
+    "id": "B0J0SCK6WF",
+    "addr": "武夷山市 玉女峰路8-18号",
+    "type": "茶艺馆",
+    "tel": "13001367655",
+    "rating": 4.6,
+    "cost": 24.0,
+    "open": "周一至周日 08:30-22:00",
+    "lng": 117.978969,
+    "lat": 27.647935,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f9ac508552041f030000002471604212?type=pic",
+     "https://store.is.autonavi.com/showpic/3ee09f8439b455b1d0ee569b7c1c1d56",
+     "https://store.is.autonavi.com/showpic/66020095a00ccf404d323f037b57e433"
+    ]
+   }
   },
   {
    "name": "岚谷熏鹅",
@@ -170,7 +340,24 @@
    ],
    "tips": [
     "适合下酒，也很下饭"
-   ]
+   ],
+   "amap": {
+    "name": "正宗岚谷熏鹅第一家",
+    "id": "B0FFIHJQ9H",
+    "addr": "建阳区 童游街道嘉禾北路赤岸嘉禾农贸市场外3号店",
+    "type": "中餐厅",
+    "tel": "13509549178",
+    "rating": 4.2,
+    "cost": 26.0,
+    "open": "",
+    "lng": 118.102554,
+    "lat": 27.360628,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/384438125b408e860000000731646312",
+     "https://store.is.autonavi.com/showpic/13b2764abfe8ade60000000731640364",
+     "https://store.is.autonavi.com/showpic/f215a59249385248fee8874be22f9673"
+    ]
+   }
   },
   {
    "name": "文公菜",
@@ -182,7 +369,24 @@
    ],
    "tips": [
     "分量大，适合三四个人以上点"
-   ]
+   ],
+   "amap": {
+    "name": "家味小厨",
+    "id": "B0L0LA8GK8",
+    "addr": "武夷山市 曼陀岩路2-2号",
+    "type": "中餐厅",
+    "tel": "13509514702",
+    "rating": 3.9,
+    "cost": 45.0,
+    "open": "周一至周日 10:00-13:30,16:30-24:00",
+    "lng": 117.985219,
+    "lat": 27.655134,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/469a0c7715f7613a0000008562682380?type=pic",
+     "https://store.is.autonavi.com/showpic/81073a6dd9a6d79fee03b7bde0cd3fd7",
+     "https://store.is.autonavi.com/showpic/b33156a616f4c1bbe88e8540739bcf29"
+    ]
+   }
   },
   {
    "name": "光饼",
@@ -194,7 +398,24 @@
    ],
    "tips": [
     "现烤的最香，可以带一些当爬山干粮"
-   ]
+   ],
+   "amap": {
+    "name": "武夷旧街小光饼",
+    "id": "B0JGXU9NO9",
+    "addr": "武夷山市 三姑街35号",
+    "type": "餐饮相关",
+    "tel": "13859332811",
+    "rating": 4.5,
+    "cost": 13.0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 117.979293,
+    "lat": 27.646461,
+    "photos": [
+     "https://aos-comment.amap.com/B0JGXU9NO9/comment/b5f71ec3a82c10301b4e0bed59dd63cb_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/d4d20a44e5633de8612fddcdbd5984a5",
+     "https://aos-comment.amap.com/B0JGXU9NO9/comment/546BDB07_C139_478E_B3B0_56E9FA4093DA_L0_001_2000_150_1767531894861_98764816.jpg"
+    ]
+   }
   },
   {
    "name": "建瓯板鸭",
@@ -206,7 +427,23 @@
    ],
    "tips": [
     "蒸熟后切片吃，配米饭"
-   ]
+   ],
+   "amap": {
+    "name": "建瓯板鸭店(大同街店)",
+    "id": "B0FFGPKZNT",
+    "addr": "武夷山市 文公路10号中心市场对面",
+    "type": "餐饮相关",
+    "tel": "13365998363",
+    "rating": 3.4,
+    "cost": 18.0,
+    "open": "周一至周日 06:00-20:00",
+    "lng": 118.034321,
+    "lat": 27.753257,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/24e1c0682d7dab4daf165990144b55c2",
+     "https://store.is.autonavi.com/showpic/b35f08898c29ec55ec51ab4082513c17"
+    ]
+   }
   },
   {
    "name": "武夷山笋干",
@@ -218,7 +455,24 @@
    ],
    "tips": [
     "春天来可以吃到新鲜的春笋"
-   ]
+   ],
+   "amap": {
+    "name": "熹宴·武夷农家菜(印象大红袍店)",
+    "id": "B0FFKBYHLB",
+    "addr": "武夷山市 玉华街18号-1",
+    "type": "中餐厅",
+    "tel": "15280766835",
+    "rating": 4.6,
+    "cost": 69.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 117.979108,
+    "lat": 27.64694,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKBYHLB/comment/e149621d6d03d63ed40f2a05d1070847_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFKBYHLB/comment/file_media_Photo_26232_IMG_1767160843_24190_IMG_20251231_135903_jpg_ss__1768033947647_95256304.jpg",
+     "https://aos-comment.amap.com/B0FFKBYHLB/comment/32a576ddbcfe6b669504c85612e2cc00_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

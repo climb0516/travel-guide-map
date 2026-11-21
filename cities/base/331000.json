@@ -21,7 +21,24 @@
     "门票和开放安排以寺院公告为准",
     "早春隋梅开花时人多，尽量早去",
     "寺内有素斋，可以吃一顿"
-   ]
+   ],
+   "amap": {
+    "name": "国清寺",
+    "id": "B024005IHI",
+    "addr": "天台县 国清景区",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 07:00-16:00",
+    "lng": 121.047504,
+    "lat": 29.170432,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a50ee58a18ae16672a68f8d2008c5c23",
+     "https://store.is.autonavi.com/showpic/3a777b92a5c15eff425cebddfb66d26b",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/543bb064-ce59-4693-b393-00fa63c079b3.jpg"
+    ]
+   }
   },
   {
    "name": "琼台仙谷",
@@ -36,7 +53,24 @@
    "tips": [
     "栈道有上下坡，穿防滑运动鞋",
     "雨后溪水更大更好看，但注意路滑"
-   ]
+   ],
+   "amap": {
+    "name": "琼台仙谷",
+    "id": "B024005HBW",
+    "addr": "天台县 赤城街道天桐路",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-16:00 最晚进入16:00",
+    "lng": 121.008353,
+    "lat": 29.204247,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2d0a82d51cfdc911066dbf74e1cbc85a",
+     "https://store.is.autonavi.com/showpic/6c161541c83f7912455ef5ff736875dd",
+     "https://aos-comment.amap.com/B024005HBW/comment/D359E132_390E_4B60_8258_56482EF0891F_L0_001_2000_150_1759807240326_00162536.jpg"
+    ]
+   }
   },
   {
    "name": "华顶",
@@ -52,7 +86,24 @@
     "山顶温度低，四季都要带外套",
     "看日出要在山上住一晚，或者很早出发",
     "山路盘旋，晕车的人提前准备"
-   ]
+   ],
+   "amap": {
+    "name": "华顶国家森林公园",
+    "id": "B024004R4N",
+    "addr": "天台县 石梁镇华顶景区",
+    "type": "国家级景点",
+    "tel": "0576-83091112",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "1/1-12/31 08:00–16:00开放 最晚进入16:00；劳动节 07:00–17:00开放",
+    "lng": 121.09402,
+    "lat": 29.257637,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7aa784c02cd041d735d84af7bff8d7fa",
+     "https://store.is.autonavi.com/showpic/d8b58a139d2de15220f781bddbdb0b72",
+     "https://store.is.autonavi.com/showpic/86d0630349d4711438f197d93da0b043"
+    ]
+   }
   },
   {
    "name": "台州府城墙",
@@ -67,7 +118,24 @@
    "tips": [
     "城墙上坡道和台阶多，穿舒服的鞋",
     "傍晚登城看日落、夜景最好"
-   ]
+   ],
+   "amap": {
+    "name": "台州府城墙",
+    "id": "B0FFGSWXTA",
+    "addr": "临海市 古城街道北山桃源路18号",
+    "type": "国家级景点",
+    "tel": "0576-85306305",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 07:00-17:30 最晚进入16:30",
+    "lng": 121.117159,
+    "lat": 28.853803,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/abd49257cc6e72189f9f42049dd39b4a",
+     "https://store.is.autonavi.com/showpic/0b9bff2bc4f8ab0394a8906ffb3fed9f",
+     "https://store.is.autonavi.com/showpic/a2e0f9386105abcda0fb689cc1e9b451"
+    ]
+   }
   },
   {
    "name": "紫阳古街",
@@ -82,7 +150,24 @@
    "tips": [
     "白天和晚上各有味道，晚上灯笼亮起来更好看",
     "可以和城墙、东湖、巾山连在一起逛"
-   ]
+   ],
+   "amap": {
+    "name": "紫阳街",
+    "id": "B0FFFRCD3M",
+    "addr": "临海市",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.117078,
+    "lat": 28.838673,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6a348755f1b319bb0000007169506953?type=pic",
+     "https://aos-comment.amap.com/B0FFFDCK7C/comment/d95bfacb4bf28bca7708f05bba97a55d_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFFDCK7C/comment/content_media_external_images_media_1000019837_ss__1731031120945_71405614.jpg"
+    ]
+   }
   },
   {
    "name": "神仙居",
@@ -98,7 +183,24 @@
     "坐索道上山、沿栈道走一圈再坐索道下最省力",
     "雨雾天视野不好，出发前看天气",
     "节假日索道排队时间长，尽量早去"
-   ]
+   ],
+   "amap": {
+    "name": "神仙居景区",
+    "id": "B0FFGLW1SP",
+    "addr": "仙居县 下街线与321省道交叉口南180米",
+    "type": "风景名胜",
+    "tel": "0576-87038686",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "05-01至10-07 周一至周日 07:00-17:00 最晚进入15:30；10-08至04-30 周一至周日 07:30-17:00 最晚进入15:00；①节假日营业时间将会提早，届时以景区官方发布信息为准； ②待所有游客出园后闭园； ③清山时间:冬令16:00之后开始清山、夏令16:30之后开始清山； ④建议尽早入园游玩。 2026.4.28-2026.4.30春假景区南、北门7:00开放；5.1-5.5劳动节假期景区南、北门6:00开放",
+    "lng": 120.608247,
+    "lat": 28.693292,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8065f88601038d8ab841d473043c871d",
+     "https://store.is.autonavi.com/showpic/898bc3f9591fdc1b87ab06dfaeab8f86",
+     "https://store.is.autonavi.com/showpic/8ac1647c699dc3ad0000009195916049?type=pic"
+    ]
+   }
   },
   {
    "name": "石塘",
@@ -113,7 +215,24 @@
    "tips": [
     "看日出要提前查好日出时间",
     "海鲜按时价，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "温岭十景-阳光圣地千年曙光碑",
+    "id": "B024005IVY",
+    "addr": "温岭市 千年曙光园",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 121.617751,
+    "lat": 28.257899,
+    "photos": [
+     "https://aos-comment.amap.com/B024005IVY/comment/55ecd4c70a360c4f6aca1ebb2229e62e_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B024005IVY/comment/dff63c0f5886041eec99ed4e324d27ab_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B024005IVY/comment/437006a9ab64b3fdf57176b4cdc634ee_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "长屿硐天",
@@ -128,7 +247,24 @@
    "tips": [
     "洞内温度低，带件外套",
     "地面可能湿滑，注意脚下"
-   ]
+   ],
+   "amap": {
+    "name": "温岭长屿硐天国家级风景名胜区",
+    "id": "B0240025J2",
+    "addr": "温岭市 新河镇亚园路",
+    "type": "国家级景点",
+    "tel": "0576-86598151",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:30-17:00",
+    "lng": 121.443548,
+    "lat": 28.422894,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/02c8cf34348763a99fd8c4dded192f6d",
+     "https://store.is.autonavi.com/showpic/7f61110b863bda414ee449622b0e4640",
+     "https://store.is.autonavi.com/showpic/d35be93a4bf329dbf3996d7b86a95886"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    "tips": [
     "煎过的外皮更香脆",
     "一个就能吃饱，别点多了"
-   ]
+   ],
+   "amap": {
+    "name": "郭记食饼筒(康平路店)",
+    "id": "B024005PIY",
+    "addr": "椒江区 康平路165号(寺前小区北3门西170米)",
+    "type": "中餐厅",
+    "tel": "0576-88883193",
+    "rating": 4.5,
+    "cost": 17.0,
+    "open": "周一至周日 06:00-13:30,17:00-20:00 10-01至10-07 周一至周日 06:00-20:00",
+    "lng": 121.425877,
+    "lat": 28.649071,
+    "photos": [
+     "https://aos-comment.amap.com/B024005PIY/comment/3413a9d2d40967477727de4067877b82_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/b19940a2ae963f7fc6a4caf002875446",
+     "https://store.is.autonavi.com/showpic/c2591cfdeb3dfb980000009498190066?type=pic"
+    ]
+   }
   },
   {
    "name": "嵌糕",
@@ -156,7 +309,24 @@
    "tips": [
     "早上去才有，很多店中午就收摊",
     "可以多加几样配料"
-   ]
+   ],
+   "amap": {
+    "name": "佳佳洪池嵌糕店",
+    "id": "B0FFIU1UYW",
+    "addr": "临海市 崇和门广场古城街道洪池路8号",
+    "type": "餐饮相关",
+    "tel": "13958571575",
+    "rating": 4.6,
+    "cost": 16.0,
+    "open": "周一至周日 06:00-13:00",
+    "lng": 121.127215,
+    "lat": 28.847448,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIU1UYW/comment/f4e8060ee3ca216279932339afeb8611_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIU1UYW/comment/3d29533915c5eaf1449421b779a8a631_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIU1UYW/comment/8739C9B7_EFBA_481F_8276_F05EE39AF170_L0_001_2000_150_1765616886890_62603552.jpg"
+    ]
+   }
   },
   {
    "name": "临海麦虾",
@@ -168,7 +338,24 @@
    ],
    "tips": [
     "海鲜麦虾最地道，可以加蛤蜊或虾"
-   ]
+   ],
+   "amap": {
+    "name": "老台州(时间广场一店)",
+    "id": "B0FFGWJC6G",
+    "addr": "椒江区 市府大道535号第一时间生活广场101号商铺",
+    "type": "中餐厅",
+    "tel": "13136577444",
+    "rating": 4.6,
+    "cost": 28.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 121.414942,
+    "lat": 28.653643,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGWJC6G/comment/4DB0AEEB_92CD_4982_B1B8_A77C998B15A3_L0_001_2000_1342_1734358909414_60484912.jpg",
+     "https://aos-comment.amap.com/B0FFGWJC6G/comment/content_media_external_file_100000479_1769204431311_74734296.jpg",
+     "https://aos-comment.amap.com/B0FFGWJC6G/comment/41E35C97_11D9_4DDC_894B_8C4CA06B2278_L0_001_2000_150_1760761958936_50661218.jpg"
+    ]
+   }
   },
   {
    "name": "姜汤面",
@@ -181,7 +368,24 @@
    "tips": [
     "怕辣口的可以让店家少放姜",
     "冬天吃最舒服"
-   ]
+   ],
+   "amap": {
+    "name": "味晨小吃·特色姜汤面",
+    "id": "B0FFF4JWZ9",
+    "addr": "黄岩区 横街路移动营业厅后面",
+    "type": "中餐厅",
+    "tel": "0576-84252979",
+    "rating": 4.7,
+    "cost": 24.0,
+    "open": "周一至周日 07:00-20:00",
+    "lng": 121.268186,
+    "lat": 28.642276,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFF4JWZ9/comment/content_media_external_images_media_1000036015_ss__1731994741448_99686931.jpg",
+     "https://store.is.autonavi.com/showpic/76ca96e4fddb5cca0000006784172527?type=pic",
+     "https://aos-comment.amap.com/B0FFF4JWZ9/comment/content_media_external_images_media_278964_ss__1768660560525_31615253.jpg"
+    ]
+   }
   },
   {
    "name": "泡虾",
@@ -193,7 +397,24 @@
    ],
    "tips": [
     "现炸现吃，凉了口感会变差"
-   ]
+   ],
+   "amap": {
+    "name": "烈士山府城吕氏泡虾",
+    "id": "B0J1G47CAE",
+    "addr": "临海市 紫阳古街与天宁路交叉口西20米",
+    "type": "餐饮相关",
+    "tel": "13456662310",
+    "rating": 4.5,
+    "cost": 10.0,
+    "open": "周一至周日 08:30-22:00",
+    "lng": 121.116822,
+    "lat": 28.840955,
+    "photos": [
+     "https://aos-comment.amap.com/B0J1G47CAE/comment/content_media_external_images_media_1000034540_ss__1736083896758_22423112.jpg",
+     "https://store.is.autonavi.com/showpic/5f5700dc7d7ceb9d0000001520118792?type=pic",
+     "https://aos-comment.amap.com/B0J1G47CAE/comment/content_media_external_file_1000135128_ss__1761958791476_40686653.jpg"
+    ]
+   }
   },
   {
    "name": "台州海鲜",
@@ -206,7 +427,24 @@
    "tips": [
     "海鲜按时价，点之前问清价格",
     "当季海鲜最好吃，可以请店家推荐"
-   ]
+   ],
+   "amap": {
+    "name": "龙宴海鲜城(台州开发区商业街店)",
+    "id": "B0L6N7UWSG",
+    "addr": "椒江区 市府大道商业街南大门龙宴海鲜城",
+    "type": "海鲜酒楼",
+    "tel": "0576-89675777",
+    "rating": 4.7,
+    "cost": 152.0,
+    "open": "周一至周日 11:00-13:00,16:30-20:00",
+    "lng": 121.437371,
+    "lat": 28.651411,
+    "photos": [
+     "https://aos-comment.amap.com/B0L6N7UWSG/comment/BD75F169_E13E_46D1_8628_D3451CF8FE8D_L0_001_1120_149_1757993977601_58971737.jpg",
+     "https://store.is.autonavi.com/showpic/f2281f48b8593d66220cd34ce5a7a358",
+     "https://aos-comment.amap.com/B0L6N7UWSG/comment/A87824E6_A0C1_4D0C_9122_841D100B0174_L0_001_2000_150_1757993977601_82548858.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

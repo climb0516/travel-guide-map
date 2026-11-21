@@ -21,7 +21,24 @@
     "老街范围不小，可以骑共享单车或者慢慢步行",
     "部分骑楼还在修缮或无人使用，注意看路",
     "晚上灯光亮起后更好看，适合傍晚来"
-   ]
+   ],
+   "amap": {
+    "name": "汕头小公园开埠区",
+    "id": "B0M27CKK7W",
+    "addr": "金平区 北海旁直路18号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "",
+    "lng": 116.669555,
+    "lat": 23.358146,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4e29a76a7e41931c0000009237376860?type=pic",
+     "https://store.is.autonavi.com/showpic/cb62d6d0560351220000009237384492?type=pic",
+     "https://store.is.autonavi.com/showpic/86aff22ecf1bdf5e126f1b8a042138e4"
+    ]
+   }
   },
   {
    "name": "西堤公园和海滨长廊",
@@ -36,7 +53,24 @@
    "tips": [
     "海边风大，晚上带件外套",
     "长廊很长，挑一段走就好，不必全程"
-   ]
+   ],
+   "amap": {
+    "name": "西堤公园",
+    "id": "B02F20NMB1",
+    "addr": "金平区 小公园街道安平路259号",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 06:30-22:30",
+    "lng": 116.664608,
+    "lat": 23.347722,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/034a0fbbeae7220ada4e3b7a626b48d1",
+     "https://store.is.autonavi.com/showpic/5f63424598b0b8a30000001283020618?type=pic",
+     "https://store.is.autonavi.com/showpic/ee163d607f8f74a66435d85685442a77"
+    ]
+   }
   },
   {
    "name": "石炮台公园",
@@ -51,7 +85,24 @@
    "tips": [
     "炮台内部光线较暗，注意脚下",
     "公园在海滨路附近，可以接着去海边散步"
-   ]
+   ],
+   "amap": {
+    "name": "石炮台公园",
+    "id": "B02F2004F5",
+    "addr": "金平区 石炮台街道石炮台街道海滨路20号",
+    "type": "公园",
+    "tel": "0754-88543120",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 11:30-18:00",
+    "lng": 116.69892,
+    "lat": 23.352014,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/602b30a5b5739648b3cb0488dcc45752",
+     "https://aos-comment.amap.com/B02F2004F5/comment/176312336564_1763123396520_27673756.jpg",
+     "https://aos-comment.amap.com/comment/content_service__1773300298123_09578135_1773300342049_22334373.jpg"
+    ]
+   }
   },
   {
    "name": "礐石风景区",
@@ -66,7 +117,24 @@
    "tips": [
     "轮渡班次以现场为准，末班时间提前问好",
     "山路有些陡，穿防滑的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "礐石风景名胜区",
+    "id": "B02F201683",
+    "addr": "濠江区 礐石海旁路",
+    "type": "省级景点",
+    "tel": "0754-87490165",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:00",
+    "lng": 116.680789,
+    "lat": 23.33325,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5e6cd5b15e23f6f6ecf1c132de17e24c",
+     "https://store.is.autonavi.com/showpic/ff8638f167c0990599da04fbff97e468",
+     "https://store.is.autonavi.com/showpic/9dc612f6ec26e9e4790d27cd4a08d9f1"
+    ]
+   }
   },
   {
    "name": "陈慈黉故居",
@@ -81,7 +149,24 @@
    "tips": [
     "需要购票，从市区开车过去约半小时到一小时",
     "宅子里通道多，跟着指示走不容易迷路"
-   ]
+   ],
+   "amap": {
+    "name": "陈慈黉故居",
+    "id": "B0FFFAGMAB",
+    "addr": "澄海区 隆都镇前美村竹宅路",
+    "type": "纪念馆",
+    "tel": "0754-85786955",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "",
+    "lng": 116.746079,
+    "lat": 23.56753,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFAGMAB/comment/dd33f34b17adc1c5f1bc6c1f3687008b_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/e20e718a6930c2ff0000003766986444",
+     "https://store.is.autonavi.com/showpic/cf634884ae6142ee830a4c2c7783aa85"
+    ]
+   }
   },
   {
    "name": "樟林古港",
@@ -96,7 +181,24 @@
    "tips": [
     "老街里有部分展馆，开放时间以现场为准",
     "公共交通不太方便，建议开车或打车"
-   ]
+   ],
+   "amap": {
+    "name": "樟林古港",
+    "id": "B02F2006O3",
+    "addr": "澄海区 东里镇",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 116.828118,
+    "lat": 23.560395,
+    "photos": [
+     "https://aos-comment.amap.com/B02F2006O3/comment/1EEC2B61_9C72_4590_B2F8_E2329C9957CE_L0_001_1500_200_1759571900693_17085053.jpg",
+     "https://aos-comment.amap.com/B02F2006O3/comment/file_media_Photo_3322_IMG_1765773592_3157_IMG_20251215_123812_jpg_ss__1765847740549_03273353.jpg",
+     "https://aos-comment.amap.com/B02F2006O3/comment/content_media_external_images_media_100003488_1740049115828_79279885.jpg"
+    ]
+   }
   },
   {
    "name": "南澳岛",
@@ -112,7 +214,24 @@
     "节假日上岛常常堵车，一早出发或者错峰去",
     "岛上海鲜价格先问清再点",
     "台风天要关注天气，大桥可能临时管制"
-   ]
+   ],
+   "amap": {
+    "name": "南澳岛生态旅游区",
+    "id": "B02F201YKC",
+    "addr": "南澳县 后宅镇光明路3号",
+    "type": "国家级景点",
+    "tel": "0754-89802123",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.061109,
+    "lat": 23.434508,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9cc5347c71fb3c7addad234b691acee2",
+     "https://store.is.autonavi.com/showpic/661c8997391c4e44b85805d3bb724b31",
+     "https://store.is.autonavi.com/showpic/7df4374e7e70347815a5946298c880b8"
+    ]
+   }
   },
   {
    "name": "汕头中山公园",
@@ -127,7 +246,24 @@
    "tips": [
     "早上最热闹，适合和早餐安排在一起",
     "公园免费开放，离小公园开埠区不远，可以顺路走过去"
-   ]
+   ],
+   "amap": {
+    "name": "中山公园",
+    "id": "B02F201LDF",
+    "addr": "金平区 月眉路5号",
+    "type": "公园",
+    "tel": "0754-88454205",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 06:00-23:00",
+    "lng": 116.683979,
+    "lat": 23.36201,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/66d5e024-a466-47b1-989c-3504f4f9e8a8.jpg",
+     "https://store.is.autonavi.com/showpic/6c42951e10f7df9c583846eb5bd30221",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/79dbdfe8-eff0-4a72-b295-f0ea3435ef1b.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    "tips": [
     "不同部位涮的时间不同，跟着店员建议来",
     "热门店饭点排队，宵夜时段去人更少"
-   ]
+   ],
+   "amap": {
+    "name": "汕头八合里海记牛肉店(汕头总店)",
+    "id": "B0M697CTLE",
+    "addr": "金平区 黄岗路坪西6座014-016号铺面(近八合里)",
+    "type": "中餐厅",
+    "tel": "0754-88708552",
+    "rating": 4.6,
+    "cost": 97.0,
+    "open": "周一至周日 09:30-23:30",
+    "lng": 116.69109,
+    "lat": 23.361658,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=st724a6e9a-91b8-4e08-813e-dc551cdf86ff&user=search&operate=original",
+     "https://store.is.autonavi.com/showpic/45d432d5c65e81ed0000003072976803?type=pic",
+     "https://store.is.autonavi.com/showpic/f1ef3d727a64be8c0000003072968765?type=pic"
+    ]
+   }
   },
   {
    "name": "手打牛肉丸",
@@ -154,7 +307,24 @@
    ],
    "tips": [
     "买回家要冷藏，长途可以选真空包装加冰袋"
-   ]
+   ],
+   "amap": {
+    "name": "贵宾牛·潮汕牛肉火锅店(珠池总店)",
+    "id": "B0FFKUAM7R",
+    "addr": "龙湖区 珠池路华兴园2幢9号",
+    "type": "火锅店",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 97.0,
+    "open": "周一至周日 09:00-01:30",
+    "lng": 116.740281,
+    "lat": 23.371926,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKUAM7R/comment/content_media_external_images_media_1000020447_ss__1754899817763_90954846.jpg",
+     "https://store.is.autonavi.com/showpic/b05d175098b797174143f6c9727a7838",
+     "https://aos-comment.amap.com/B0FFKUAM7R/comment/19492135145568e1ee6503cad38e417d_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "蚝烙",
@@ -166,7 +336,24 @@
    ],
    "tips": [
     "一定要趁热吃，凉了会变软"
-   ]
+   ],
+   "amap": {
+    "name": "郑记潮汕菜·砂锅粥·海鲜大排档",
+    "id": "B0J0MZZLM1",
+    "addr": "金平区 小公园街道民族路32-36号",
+    "type": "中餐厅",
+    "tel": "13428325864",
+    "rating": 4.5,
+    "cost": 30.0,
+    "open": "周一至周日 11:00-22:00",
+    "lng": 116.675656,
+    "lat": 23.355992,
+    "photos": [
+     "https://aos-comment.amap.com/B0J0MZZLM1/comment/content_media_external_file_1000066880_ss__1757238124242_27884133.jpg",
+     "https://aos-comment.amap.com/B0J0MZZLM1/comment/content_media_external_file_100002888_1772290981351_42716462.jpg",
+     "https://aos-comment.amap.com/B0J0MZZLM1/comment/content_media_external_file_100002888_1772290981345_79178557.jpg"
+    ]
+   }
   },
   {
    "name": "粿汁",
@@ -178,7 +365,24 @@
    ],
    "tips": [
     "卤料可以按喜好自己挑，量力点"
-   ]
+   ],
+   "amap": {
+    "name": "老牌粿汁(大华路店)",
+    "id": "B0H0CYT40C",
+    "addr": "金平区 大华路与共和路交叉口东南20米",
+    "type": "中餐厅",
+    "tel": "18675668089",
+    "rating": 3.3,
+    "cost": 0,
+    "open": "周一至周日 07:30-21:00",
+    "lng": 116.690685,
+    "lat": 23.357572,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f08634b2ab89efb0bfb471a179ff63f5",
+     "https://aos-comment.amap.com/B0H0CYT40C/comment/d2316a5dd847e808c41f9b87dcc29ee0_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0H0CYT40C/comment/a0fa15fbd8403c516c00f33590a55492_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "澄海卤鹅",
@@ -190,7 +394,24 @@
    ],
    "tips": [
     "鹅肝和鹅头价格较高，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "日日香卤鹅饭店(澄海总店)",
+    "id": "B02F20O4HM",
+    "addr": "澄海区 中心城区丹虹园4幢1层11号",
+    "type": "中餐厅",
+    "tel": "15322634119",
+    "rating": 4.7,
+    "cost": 98.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 116.758253,
+    "lat": 23.466341,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/958c2de04a45ab7abcd55ffbdcf3831e",
+     "https://store.is.autonavi.com/query_pic?id=st11543491-5c00-45ab-b92a-894e6f11b147&user=search&operate=original",
+     "https://aos-comment.amap.com/B02F20O4HM/comment/b7a87d6f3acc22cbc40f6deb77041d82_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "生腌",
@@ -203,7 +424,24 @@
    "tips": [
     "肠胃敏感的人慎吃，选择新鲜度有保障的店",
     "配一碗白粥，口味刚好"
-   ]
+   ],
+   "amap": {
+    "name": "瑞娇嫲嫲潮汕生腌(龙眼店)",
+    "id": "B0H24CNP9C",
+    "addr": "金平区 龙眼园北区8栋104号",
+    "type": "中餐厅",
+    "tel": "13433868686",
+    "rating": 4.7,
+    "cost": 66.0,
+    "open": "周一至周日 11:00-02:00",
+    "lng": 116.710904,
+    "lat": 23.365314,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/aa31e281c6f62089b7502e6b77c81fe6",
+     "https://store.is.autonavi.com/showpic/66caa73d2c0c36200000002292506561?type=pic",
+     "https://store.is.autonavi.com/showpic/53cac352b010a61b0000003634338234?type=pic"
+    ]
+   }
   },
   {
    "name": "潮汕肠粉",
@@ -215,7 +453,24 @@
    ],
    "tips": [
     "可以加一份生蚝或者牛肉，更有汕头特色"
-   ]
+   ],
+   "amap": {
+    "name": "鑫顺汕头肠粉(龙华店)",
+    "id": "B0KGRZC1XU",
+    "addr": "金平区 龙华街与龙眼北街交叉口南20米",
+    "type": "中餐厅",
+    "tel": "15876195663",
+    "rating": 3.8,
+    "cost": 14.0,
+    "open": "周一至周日 06:30-13:30,17:00-23:30",
+    "lng": 116.713774,
+    "lat": 23.363992,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1772069561737_73522124_1772069787273_78428256.jpg",
+     "https://aos-comment.amap.com/comment/content_service__1772069561727_82608066_1772069787271_28264874.jpg",
+     "https://aos-comment.amap.com/B0KGRZC1XU/comment/content_media_external_file_1000005973_ss__1763466248093_33522625.jpg"
+    ]
+   }
   },
   {
    "name": "老妈宫粽球",
@@ -227,7 +482,24 @@
    ],
    "tips": [
     "一个粽球分量很大，两个人分着吃刚好"
-   ]
+   ],
+   "amap": {
+    "name": "老妈宫粽球",
+    "id": "B0FFIEVBQE",
+    "addr": "金平区 新关街1-7号(天后宫西门旁)",
+    "type": "体育休闲服务场所",
+    "tel": "16675287895",
+    "rating": 4.2,
+    "cost": 20.0,
+    "open": "周一至周日 08:30-24:00",
+    "lng": 116.675336,
+    "lat": 23.354946,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0774ea7f9902a01a61266189f69042da",
+     "https://aos-comment.amap.com/B0FFIEVBQE/comment/176874773776_1768747756536_73771482.jpg",
+     "https://store.is.autonavi.com/showpic/c9e726c117827907a5fe49657d981299"
+    ]
+   }
   }
  ],
  "food_areas": [

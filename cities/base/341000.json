@@ -21,7 +21,24 @@
     "门票和索道需要提前预约，山上住宿也要提前订，节假日很早约满",
     "山上气温比山下低很多，带厚外套和雨衣",
     "西海大峡谷台阶很多，体力一般的可以只走一环"
-   ]
+   ],
+   "amap": {
+    "name": "黄山风景区",
+    "id": "B022F0ML6Z",
+    "addr": "黄山区 汤口镇汤泉路1号",
+    "type": "世界遗产",
+    "tel": "0559-2590999",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "3月5日-11月30日:周一至周五:07:00-17:10；周六至周日及小长假06:30-17:40；12月1日-3月4日(含周六至周日及小长假):08:00-16:40",
+    "lng": 118.160164,
+    "lat": 30.139322,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e82f9f2c5995f5e08d6c5b29943b68ac",
+     "https://store.is.autonavi.com/showpic/d05de63ae9b99cd7dc9e1c47160d97c7",
+     "https://store.is.autonavi.com/showpic/a6ed3107375ca49ef93b1ada75b98443"
+    ]
+   }
   },
   {
    "name": "宏村",
@@ -37,7 +54,24 @@
     "门票包含主要老宅，进村后可以慢慢逛",
     "早上 7 点前月沼人最少，适合拍照",
     "节假日人非常多，尽量平日去"
-   ]
+   ],
+   "amap": {
+    "name": "宏村",
+    "id": "B022F00F44",
+    "addr": "黟县 宏村街",
+    "type": "国家级景点",
+    "tel": "0559-5541158",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.989956,
+    "lat": 30.002582,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7857e4b3b591c1a6f434689a3bbeac51",
+     "https://store.is.autonavi.com/showpic/f0252e72140b919576b27751144bc8cd",
+     "https://store.is.autonavi.com/showpic/0bea67c9fba9ab63fdc2f3f9a4e09b5a"
+    ]
+   }
   },
   {
    "name": "西递",
@@ -52,7 +86,24 @@
    "tips": [
     "门票需要单独购买",
     "可以请讲解员讲讲徽州老宅的故事"
-   ]
+   ],
+   "amap": {
+    "name": "西递古村落",
+    "id": "B022F00F38",
+    "addr": "黟县 西递镇西递村",
+    "type": "国家级景点",
+    "tel": "0559-5154030",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.99599,
+    "lat": 29.90334,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fdedb4b59dcd4c078171f00d351f5f77",
+     "https://store.is.autonavi.com/showpic/f05457382d3d1ba7545230db3f54644f",
+     "https://store.is.autonavi.com/showpic/71614027fdc87cf88b78336fb33016ab"
+    ]
+   }
   },
   {
    "name": "屯溪老街",
@@ -67,7 +118,24 @@
    "tips": [
     "免费开放",
     "买文房四宝和茶叶要货比三家"
-   ]
+   ],
+   "amap": {
+    "name": "屯溪老街",
+    "id": "B0FFFTTA22",
+    "addr": "屯溪区 屯溪老街241号",
+    "type": "特色商业街",
+    "tel": "0559-2586016",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-12:00,14:30-17:30",
+    "lng": 118.304186,
+    "lat": 29.707814,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/abafdf274d519c5f0000003332860185?type=pic",
+     "https://store.is.autonavi.com/showpic/f187134d565196110c811b0eb36fa5f7",
+     "https://store.is.autonavi.com/showpic/065a34ec16f557de0000009454366318?type=pic"
+    ]
+   }
   },
   {
    "name": "呈坎",
@@ -82,7 +150,24 @@
    "tips": [
     "门票需要单独购买",
     "离屯溪约 30 分钟车程"
-   ]
+   ],
+   "amap": {
+    "name": "呈坎",
+    "id": "B022F00VO4",
+    "addr": "徽州区 宝纶路78号",
+    "type": "国家级景点",
+    "tel": "0559-3536999",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 07:30-18:00 最晚进入18:00",
+    "lng": 118.280803,
+    "lat": 29.914335,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/83e1ae431da74932dad8fa9944f9b1f2",
+     "https://store.is.autonavi.com/showpic/6dc7f4b9f185ab4f07bd19d478e5c059",
+     "https://store.is.autonavi.com/showpic/97ece29e5b39c4c0d1d15a424fd8dd84"
+    ]
+   }
   },
   {
    "name": "徽州古城",
@@ -97,7 +182,24 @@
    "tips": [
     "古城部分景点需要购票，可以买联票",
     "离屯溪约 30 分钟车程"
-   ]
+   ],
+   "amap": {
+    "name": "徽州古城",
+    "id": "B022F00F50",
+    "addr": "歙县 徽州路93号",
+    "type": "国家级景点",
+    "tel": "0559-6526108",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；徽州府衙夜游票(含沉浸式演出)，每周一不开放（节假日内周一正常开放）。",
+    "lng": 118.436772,
+    "lat": 29.86602,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a76b7ef1d036826b54970501818f69fa",
+     "https://store.is.autonavi.com/showpic/0e4a75d8b0dc931c083da377b2f59f4e",
+     "https://store.is.autonavi.com/showpic/2504f971a0ea9707a027486448e886a2"
+    ]
+   }
   },
   {
    "name": "棠樾牌坊群",
@@ -112,7 +214,24 @@
    "tips": [
     "门票通常包含鲍家花园",
     "可以和徽州古城安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "棠樾牌坊群",
+    "id": "B022F004MK",
+    "addr": "歙县 郑村镇棠樾村东大道",
+    "type": "国家级景点",
+    "tel": "0559-6750225",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 07:00-18:00；具体营业状态以当天开放情况为准",
+    "lng": 118.369059,
+    "lat": 29.866924,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b50e64b21505614a0000003360476653?type=pic",
+     "https://store.is.autonavi.com/showpic/a00f71598c5f912a0000002401822210?type=pic",
+     "https://aos-comment.amap.com/B022F004MK/comment/A2038E70_48C9_444D_8E4D_D39288354C89_L0_001_1917_128_1748780082053_07136203.jpg"
+    ]
+   }
   },
   {
    "name": "新安江山水画廊",
@@ -127,7 +246,24 @@
    "tips": [
     "春天油菜花季最美，提前订船票",
     "游船班次有限，出发前确认时间"
-   ]
+   ],
+   "amap": {
+    "name": "新安江山水画廊风景区",
+    "id": "B022F00OA6",
+    "addr": "歙县 深渡镇黄山大道",
+    "type": "国家级景点",
+    "tel": "0559-6812333",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-17:00 最晚进入15:30游船发班时间:09:00、10:30、13:00、14:30,船程约2.5-3小时另增霞映航班15:30(2小时行程,游玩精华景点)",
+    "lng": 118.618285,
+    "lat": 29.862743,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/94429a19244341b25ee647cf14325890",
+     "https://store.is.autonavi.com/showpic/cce089bacab8fe0b937334efaa74aa7b",
+     "https://store.is.autonavi.com/showpic/86eac676d582226fd0098904ace3c123"
+    ]
+   }
   },
   {
    "name": "齐云山",
@@ -142,7 +278,24 @@
    "tips": [
     "有索道可以上山，体力好的可以步行",
     "山上道观有传统道教活动，注意礼仪"
-   ]
+   ],
+   "amap": {
+    "name": "齐云山度假区",
+    "id": "B022F00DWD",
+    "addr": "休宁县 齐云山镇",
+    "type": "国家级景点",
+    "tel": "0559-2661088",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00；如遇恶劣天气，索道运营时间将依据现场情况作相应调整，具体以现场通知为准。 景区相关运营时间: 景区运营时间:8:00-17:00 索道运营时间:8:10-17:00(最后一班) 竹筏运营时间:8:30-16:30 逍遥街运营时间(晚上20:00停止售票，20:15逍遥街入口关闭，停止检票。）",
+    "lng": 118.036434,
+    "lat": 29.809262,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c0f4ac577c146c75c5eebbd9ef7b2ed4",
+     "https://store.is.autonavi.com/showpic/3215c2e557fe16a5fb49c0102ec7dbe2",
+     "https://store.is.autonavi.com/showpic/7314e5e85f8c30c81bea191878a9661e"
+    ]
+   }
   }
  ],
  "foods": [
@@ -156,7 +309,24 @@
    ],
    "tips": [
     "按条或按斤计价，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "黄山臭鳜鱼",
+    "id": "B0FFIDGRUR",
+    "addr": "屯溪区 西镇小区A区2幢11号",
+    "type": "中餐厅",
+    "tel": "13866968665",
+    "rating": 4.3,
+    "cost": 58.0,
+    "open": "周一至周日 08:15-22:15",
+    "lng": 118.299845,
+    "lat": 29.707848,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFIDGRUR/comment/56066C39_E8D8_4252_96DA_910DF323A166_L0_001_2000_150_1759322607360_35715605.jpg",
+     "https://aos-comment.amap.com/B0FFIDGRUR/comment/33ea5870fc2d28cb79c1183579c8b9b0_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFIDGRUR/comment/e34bdf855d363138c47802a5e70025fb_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "毛豆腐",
@@ -168,7 +338,24 @@
    ],
    "tips": [
     "趁热吃最香，蘸辣酱更好吃"
-   ]
+   ],
+   "amap": {
+    "name": "画里碗香徽菜",
+    "id": "B0KRYUUV0X",
+    "addr": "黄山区 汤口镇汤口大桥旁",
+    "type": "安徽菜(徽菜)",
+    "tel": "19556151395",
+    "rating": 4.3,
+    "cost": 57.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 118.190628,
+    "lat": 30.080415,
+    "photos": [
+     "https://aos-comment.amap.com/B0KRYUUV0X/comment/content_media_external_images_media_100005079_1729767683641_35518143.jpg",
+     "https://store.is.autonavi.com/showpic/d5a41d862c4196bd0000003371600677?type=pic",
+     "https://store.is.autonavi.com/showpic/075474b850faec7d0000003359180197?type=pic"
+    ]
+   }
   },
   {
    "name": "徽州烧饼",
@@ -180,7 +367,24 @@
    ],
    "tips": [
     "现烤的最酥，包装的回家可以烤一下再吃"
-   ]
+   ],
+   "amap": {
+    "name": "徽州明清烧饼(大润发店)",
+    "id": "B0JUJSSKP9",
+    "addr": "屯溪区 东里巷40号(上影影城边上)",
+    "type": "快餐厅",
+    "tel": "",
+    "rating": 4.3,
+    "cost": 19.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 118.318375,
+    "lat": 29.708967,
+    "photos": [
+     "https://aos-comment.amap.com/B0JUJSSKP9/headerImg/76d1b809c924c78b5673716559b16720_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/43d45fa39c0e359246f878bac7d48d22",
+     "https://aos-comment.amap.com/B0JUJSSKP9/headerImg/e65c64c0bbb7cb749f78675fbb2d1b7b_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "徽州一品锅",
@@ -192,7 +396,24 @@
    ],
    "tips": [
     "分量大，适合 3 人以上一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "一村一碗",
+    "id": "B0LAJAQL0X",
+    "addr": "屯溪区 西海路19号",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 64.0,
+    "open": "周一至周日 09:30-13:30,16:30-20:30",
+    "lng": 118.287516,
+    "lat": 29.705941,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bff6dd573dde12de0000005103692448?type=pic",
+     "https://store.is.autonavi.com/showpic/d07c17559ebc53ad7231c1dc1acacb7e",
+     "https://store.is.autonavi.com/showpic/1187aedd7699e1020000004285576501?type=pic"
+    ]
+   }
   },
   {
    "name": "刀板香",
@@ -204,7 +425,24 @@
    ],
    "tips": [
     "偏咸，配米饭吃最合适"
-   ]
+   ],
+   "amap": {
+    "name": "徽府源冻货批发部",
+    "id": "B0FFK06XEB",
+    "addr": "黄山区 汤口镇寨西承启小区",
+    "type": "农副产品市场",
+    "tel": "13855999913",
+    "rating": 3.1,
+    "cost": 0,
+    "open": "周一至周日 05:00-20:00",
+    "lng": 118.165475,
+    "lat": 30.055372,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8955f64779597fba0de570f133fca27c",
+     "https://store.is.autonavi.com/showpic/9982435cc8b9e1a4df0ce9403de2c80e",
+     "https://store.is.autonavi.com/showpic/f2754d30b5675ed3292a70153d8aa625"
+    ]
+   }
   },
   {
    "name": "黄山毛峰",
@@ -216,7 +454,22 @@
    ],
    "tips": [
     "茶叶价格差别大，多试几家再买"
-   ]
+   ],
+   "amap": {
+    "name": "黄山毛峰茶业集团",
+    "id": "B0FFK5Q6MS",
+    "addr": "屯溪区 徽商街与仙人洞北路交叉口东北120米",
+    "type": "公司",
+    "tel": "",
+    "rating": 0,
+    "cost": 0,
+    "open": "",
+    "lng": 118.322162,
+    "lat": 29.718409,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ff0323ac1d9e7dc291111118fd9c85f7"
+    ]
+   }
   }
  ],
  "food_areas": [

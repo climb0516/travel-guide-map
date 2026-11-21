@@ -20,7 +20,24 @@
    "tips": [
     "免费开放，寺内请保持安静，衣着得体",
     "傍晚光线打在东西塔上很好看，可以在西街的楼上咖啡馆远眺"
-   ]
+   ],
+   "amap": {
+    "name": "泉州大开元寺",
+    "id": "B0253016EC",
+    "addr": "鲤城区 西街176号",
+    "type": "寺庙道观",
+    "tel": "0595-22382582",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "06:30-17:00 最晚进入17:00",
+    "lng": 118.585519,
+    "lat": 24.914168,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cd969185dd291ef88a48b72f39d357a2",
+     "https://store.is.autonavi.com/showpic/c7a8b0d8e5cc7bd425bbb1210e804178",
+     "https://store.is.autonavi.com/showpic/22a27524d8dfc571be4382fcad8ae3e3"
+    ]
+   }
   },
   {
    "name": "西街",
@@ -35,7 +52,24 @@
    "tips": [
     "节假日西街非常拥挤，早上或晚上去体验更好",
     "楼顶拍东西塔的店一般需要消费，进门前问清楚"
-   ]
+   ],
+   "amap": {
+    "name": "泉州西街",
+    "id": "B0I13O0Z4I",
+    "addr": "鲤城区 开元街道城西路与西街交叉口",
+    "type": "特色商业街",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.579733,
+    "lat": 24.920341,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c6748ca0e82960780000003380964113?type=pic",
+     "https://store.is.autonavi.com/showpic/2950c45c86a042780000005491414200?type=pic",
+     "https://store.is.autonavi.com/showpic/925d38a13f9a667f0000003223062096?type=pic"
+    ]
+   }
   },
   {
    "name": "清净寺和关岳庙",
@@ -50,7 +84,24 @@
    "tips": [
     "清净寺需要购票，关岳庙免费",
     "关岳庙香客多，参观时不要挡住拜拜的人"
-   ]
+   ],
+   "amap": {
+    "name": "清净古寺",
+    "id": "B025302UY3",
+    "addr": "鲤城区 涂门街108-110号",
+    "type": "回教寺",
+    "tel": "0595-22193553",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周四,周六至周日 09:00-17:15；周五 全天关闭",
+    "lng": 118.591483,
+    "lat": 24.902682,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ff33b6510d0cdd6f7d3ee1efb217149e",
+     "https://store.is.autonavi.com/showpic/2d6d6fde1bcefbbd69711a34b6206de5",
+     "https://store.is.autonavi.com/showpic/6afc468b623f2c899965b77d6225f442"
+    ]
+   }
   },
   {
    "name": "泉州天后宫",
@@ -65,7 +116,24 @@
    "tips": [
     "一般免费参观",
     "和德济门遗址、中山路安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "天后宫",
+    "id": "B02530063E",
+    "addr": "鲤城区 临江街道天后路1号",
+    "type": "寺庙道观",
+    "tel": "0595-22203731",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 07:00-17:30；具体营业状态以当天开放情况为准。",
+    "lng": 118.588755,
+    "lat": 24.895235,
+    "photos": [
+     "https://aos-comment.amap.com/B02530063E/comment/20260307-0253ce8ffb5121bcb7c59dfe-8CTv6OVXfdZ7xv4Z16Lib0.jpg",
+     "https://aos-comment.amap.com/B02530063E/comment/A7B3E242_3C94_4251_AC00_CB61887F1C9E_L0_001_2000_150_1772604361279_33372958.jpg",
+     "https://store.is.autonavi.com/showpic/74dc26370e66b9780000004083672974?type=pic"
+    ]
+   }
   },
   {
    "name": "中山路",
@@ -80,7 +148,24 @@
    "tips": [
     "老城里骑共享电动车或自行车很方便",
     "骑楼下店铺多，晚上部分店早早关门"
-   ]
+   ],
+   "amap": {
+    "name": "中山路历史文化街区",
+    "id": "B0FFF06191",
+    "addr": "鲤城区 中山南路98号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.588333,
+    "lat": 24.894981,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a4efcef212decc135017eeb816cb2dbd",
+     "https://aos-comment.amap.com/B0FFF06191/comment/5bf6a898a0652c33d33e8c46db3096c9_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFF06191/comment/4ec97673cd09485c3e78f97840239696_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "泉州海外交通史博物馆",
@@ -95,7 +180,24 @@
    "tips": [
     "免费参观，需要提前预约，一般周一闭馆",
     "古船陈列馆在老馆区，别漏看"
-   ]
+   ],
+   "amap": {
+    "name": "泉州海外交通史博物馆",
+    "id": "B025303336",
+    "addr": "丰泽区 东湖街道东湖街425号",
+    "type": "博物馆",
+    "tel": "0595-22100561",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:30周一 全天关闭,节假日以官方通知为准",
+    "lng": 118.611368,
+    "lat": 24.909925,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1772340918622_90476562_1772340927162_23278792.jpg",
+     "https://store.is.autonavi.com/showpic/e1a6f0f665985ad70000003115166167?type=pic",
+     "https://store.is.autonavi.com/showpic/8fe91717589f139d0000003498756749?type=pic"
+    ]
+   }
   },
   {
    "name": "清源山",
@@ -110,7 +212,24 @@
    "tips": [
     "需要购票，老君岩在山脚下，走路不多",
     "山上部分路段较陡，穿运动鞋"
-   ]
+   ],
+   "amap": {
+    "name": "清源山国家重点风景名胜区",
+    "id": "B0253012I0",
+    "addr": "丰泽区 泉山路",
+    "type": "旅游景点",
+    "tel": "0595-22777675",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 07:00-24:00；24:00后景区封闭管理.谢绝入园",
+    "lng": 118.610818,
+    "lat": 24.942414,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/180d1917961cd2789f074495de27677a",
+     "https://store.is.autonavi.com/showpic/7d98729678568398557fbc9319539a1c",
+     "https://store.is.autonavi.com/showpic/65a35b79dca9150dc102e52c8eb3730b"
+    ]
+   }
   },
   {
    "name": "蟳埔村",
@@ -126,7 +245,24 @@
     "簪花体验店很多，价格和服务差别大，提前问清楚包含什么",
     "村里有居民生活，拍照时注意礼貌，不要随便拍别人家里",
     "节假日人特别多，尽量工作日去"
-   ]
+   ],
+   "amap": {
+    "name": "蟳埔民俗文化村",
+    "id": "B0FFLATDQR",
+    "addr": "丰泽区 丰海路东30米",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.651229,
+    "lat": 24.855056,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/74c58ac2d45eadd80000009482262579?type=pic",
+     "https://store.is.autonavi.com/showpic/78ad27fade4ac75d0000002741732222?type=pic",
+     "https://store.is.autonavi.com/showpic/9ad210cf6b6833450000008943268243?type=pic"
+    ]
+   }
   },
   {
    "name": "洛阳桥",
@@ -141,7 +277,24 @@
    "tips": [
     "桥面是老石板，不平整，注意脚下",
     "傍晚去光线最好，夏天避开正午"
-   ]
+   ],
+   "amap": {
+    "name": "洛阳桥",
+    "id": "B0253008FA",
+    "addr": "惠安县",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.682668,
+    "lat": 24.954189,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/38e9658822a42a14fcee3d4be3cd026a",
+     "https://store.is.autonavi.com/showpic/52f2f6339153620b0663dbeb6c8056e6",
+     "https://store.is.autonavi.com/showpic/8d95080795cac60e5aca92585e4ba90e"
+    ]
+   }
   }
  ],
  "foods": [
@@ -156,7 +309,22 @@
    "tips": [
     "一般按加料计价，点之前看清价目",
     "油条泡在糊里吃是本地人的习惯"
-   ]
+   ],
+   "amap": {
+    "name": "泉州面线糊",
+    "id": "B0LAR5AIRS",
+    "addr": "鲤城区 雷山南路与北侧支路交叉口南180米",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.4,
+    "cost": 18.0,
+    "open": "",
+    "lng": 118.55612,
+    "lat": 24.904366,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8fa65880e0cc410340e3fc4f932a1995"
+    ]
+   }
   },
   {
    "name": "牛肉羹",
@@ -168,7 +336,24 @@
    ],
    "tips": [
     "可以加醋和辣椒调味，按自己口味来"
-   ]
+   ],
+   "amap": {
+    "name": "泉味牛肉馆(新华店)",
+    "id": "B0L261FOJO",
+    "addr": "鲤城区 新华南路76号",
+    "type": "中餐厅",
+    "tel": "13665973188",
+    "rating": 4.1,
+    "cost": 28.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 118.582225,
+    "lat": 24.906239,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0a523333beeef6f00000002474486008?type=pic",
+     "https://aos-comment.amap.com/B0L261FOJO/comment/content_media_external_file_1000036052_ss__1771053358089_03631811.jpg",
+     "https://store.is.autonavi.com/showpic/ac9f0f1ddd8951384ed12aa0dc3f1bbc"
+    ]
+   }
   },
   {
    "name": "姜母鸭",
@@ -181,7 +366,24 @@
    "tips": [
     "偏燥热，夏天吃适量",
     "两三个人点半只就够"
-   ]
+   ],
+   "amap": {
+    "name": "斯丹姜母鸭(泉州总店)",
+    "id": "B0FFFO62PK",
+    "addr": "鲤城区 涂门街100号(清真寺旁边)",
+    "type": "餐饮相关",
+    "tel": "0595-22373358",
+    "rating": 4.7,
+    "cost": 77.0,
+    "open": "周一至周日 10:30-21:00",
+    "lng": 118.590654,
+    "lat": 24.903031,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/aa2b6a51aff0bef50000004135774069?type=pic",
+     "https://store.is.autonavi.com/showpic/40d38b2e324a801e0000002628234509?type=pic",
+     "https://store.is.autonavi.com/showpic/a1374b5d089f64c53da62594acfaeaed"
+    ]
+   }
   },
   {
    "name": "土笋冻",
@@ -194,7 +396,24 @@
    "tips": [
     "蘸酱调好吃，口味可以自己选",
     "一份数量不多，先买一两个试试"
-   ]
+   ],
+   "amap": {
+    "name": "阿意沙嗲面肉粽土笋冻",
+    "id": "B0FFHJXND9",
+    "addr": "晋江市 安海镇海八南路111号",
+    "type": "中餐厅",
+    "tel": "13305052669",
+    "rating": 4.6,
+    "cost": 26.0,
+    "open": "周一至周日 09:00-21:30 2026-02-16至2026-02-16 周一 全天关闭",
+    "lng": 118.465116,
+    "lat": 24.711819,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bab4bddd57e6c2b90000007381866922?type=pic",
+     "https://store.is.autonavi.com/showpic/312994ef0d843d5565b7930387c509d5",
+     "https://aos-comment.amap.com/B0FFHJXND9/comment/content_media_external_images_media_817456_ss__1732230206852_57878006.jpg"
+    ]
+   }
   },
   {
    "name": "烧肉粽",
@@ -206,7 +425,24 @@
    ],
    "tips": [
     "酱料按口味选，可以让老板多放一点"
-   ]
+   ],
+   "amap": {
+    "name": "泉州肉粽牛排店(市标店)",
+    "id": "B02530TNGS",
+    "addr": "晋江市 兴盛路274号",
+    "type": "中餐厅",
+    "tel": "0595-85633185",
+    "rating": 4.3,
+    "cost": 16.0,
+    "open": "周一至周日 10:00-20:30",
+    "lng": 118.575536,
+    "lat": 24.80187,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6c598ba9beee6df5771c35d3df42a0ca",
+     "https://store.is.autonavi.com/showpic/06470df8818963a2b3a1cc5f2d792dc9",
+     "https://store.is.autonavi.com/showpic/485ed0c1fa2541e74c5959d4b767673f"
+    ]
+   }
   },
   {
    "name": "润饼",
@@ -218,7 +454,24 @@
    ],
    "tips": [
     "现包的润饼要尽快吃，不然菜汁会把饼皮泡软"
-   ]
+   ],
+   "amap": {
+    "name": "亚佛润饼皮",
+    "id": "B0FFG3KA8A",
+    "addr": "鲤城区 鲤中街道西街165号",
+    "type": "餐饮相关",
+    "tel": "13505008621",
+    "rating": 4.3,
+    "cost": 10.0,
+    "open": "周一至周日 07:00-20:00",
+    "lng": 118.58733,
+    "lat": 24.912787,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG3KA8A/comment/content_media_external_images_media_1000068454_ss__1768293942421_63811006.jpg",
+     "https://aos-comment.amap.com/B0FFG3KA8A/comment/463a925bbc4beb07594ade7ca165e9c1_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/4c1463fc526a04480000001390966011?type=pic"
+    ]
+   }
   },
   {
    "name": "四果汤",
@@ -230,7 +483,22 @@
    ],
    "tips": [
     "料可以自选，按样数计价"
-   ]
+   ],
+   "amap": {
+    "name": "老西街四果汤",
+    "id": "B0FFFOFV3M",
+    "addr": "鲤城区 中山中路333号泉州古城",
+    "type": "中餐厅",
+    "tel": "0595-22991331",
+    "rating": 3.2,
+    "cost": 17.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 118.587914,
+    "lat": 24.912731,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/13e0c7b6c17301f05e5aeff6396794d7"
+    ]
+   }
   }
  ],
  "food_areas": [

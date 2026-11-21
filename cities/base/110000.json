@@ -21,7 +21,24 @@
     "门票需要提前在官方渠道实名预约，旺季和节假日要早点抢",
     "周一闭馆（法定节假日除外），只能从午门进、神武门出",
     "里面吃饭选择少，自带水和点心，穿好走的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "故宫博物院",
+    "id": "B000A8UIN8",
+    "addr": "东城区 景山前街4号",
+    "type": "博物馆",
+    "tel": "4009501925",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "旺季4月1日至10月31日 周二至周日 08:30-17:00 16:00停止检票，淡季11月1日至3月31日 周二至周日 08:30-16:30 15:30停止检票，周一全天关闭，节假日营业时间以官方通知为准",
+    "lng": 116.397029,
+    "lat": 39.917839,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2f968490d105bb2741e17f90b85c6b79",
+     "https://store.is.autonavi.com/showpic/7fec7e0ede5d0f480000009452492137?type=pic",
+     "https://store.is.autonavi.com/showpic/5b11f8221d1de73e0d1b16967c78b6de"
+    ]
+   }
   },
   {
    "name": "天安门广场",
@@ -37,7 +54,24 @@
     "进入广场需要提前实名预约，带好身份证过安检",
     "看升旗要在日出前一个多小时到，夏天凌晨就开始排队",
     "广场周边限制较多，不要带大件行李"
-   ]
+   ],
+   "amap": {
+    "name": "天安门广场",
+    "id": "B000A83C1S",
+    "addr": "东城区 东长安街",
+    "type": "城市广场",
+    "tel": "010-63095745",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 05:00-20:30",
+    "lng": 116.397755,
+    "lat": 39.903182,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/fab72424-5643-4c14-9486-ae1c8475eab7.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/51705f12-6b79-4c6a-a0a6-462008c22043.jpg",
+     "https://store.is.autonavi.com/showpic/6c22735ae72cfab207adae0fa74b3a75"
+    ]
+   }
   },
   {
    "name": "八达岭长城",
@@ -53,7 +87,24 @@
     "门票需要提前在网上实名预约，节假日人非常多",
     "可以坐市郊铁路 S2 线或公交从城区过去，自驾节假日容易堵",
     "台阶很陡，带够水，坐缆车上去体力会轻松很多"
-   ]
+   ],
+   "amap": {
+    "name": "八达岭长城",
+    "id": "B000A45467",
+    "addr": "延庆区 西残路97号",
+    "type": "国家级景点",
+    "tel": "010-69122222",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "07:30-16:00(停售停检)",
+    "lng": 116.016802,
+    "lat": 40.356188,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/67fedede4e30d83372fe0f94533ad06b",
+     "https://store.is.autonavi.com/showpic/bd117abcb62ef809263c2a5f3f1ac8f9",
+     "https://store.is.autonavi.com/showpic/4013d0065932508e527e111999f9cf8b"
+    ]
+   }
   },
   {
    "name": "颐和园",
@@ -69,7 +120,24 @@
     "门票需要提前预约，园内部分景点另外收费",
     "夏天可以坐船游湖，冬天湖面结冰有冰场",
     "和圆明园离得不远，可以排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "颐和园",
+    "id": "B000A7O1CU",
+    "addr": "海淀区 新建宫门路19号",
+    "type": "世界遗产",
+    "tel": "010-62881144",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 06:30-19:00 最晚进入18:00；4月至10月 周一至周日 06:00-20:00 最晚进入19:00",
+    "lng": 116.275179,
+    "lat": 39.999617,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a4b326f43a84d36b581d7f6e856fe858",
+     "https://store.is.autonavi.com/showpic/62d1eddc858545a18923b0ef9cb5ac68",
+     "https://store.is.autonavi.com/showpic/00b99d99388ca17f613291491d905feb"
+    ]
+   }
   },
   {
    "name": "天坛",
@@ -85,7 +153,24 @@
     "公园门票和联票分开，想进祈年殿等主要建筑买联票",
     "早上晨练的人最多，也是最有生活气的时候",
     "回音壁人多时很难听到回声，别太期待"
-   ]
+   ],
+   "amap": {
+    "name": "天坛公园",
+    "id": "B000A81CB2",
+    "addr": "东城区 天坛东里甲1号",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 06:30-22:00 最晚进入21:00 园中园08:00-17:00(16:30停止入园)；4月至10月 周一至周日 06:00-22:00 最晚进入21:00 园中园08:00-18:00(17:30停止入园)",
+    "lng": 116.410829,
+    "lat": 39.881913,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d7027a05ce598752d0bf69423d80ac94",
+     "https://store.is.autonavi.com/showpic/614e8e93e0040431933a1dcabd1cbaca",
+     "https://store.is.autonavi.com/showpic/3249fd791ffa120ecb3b9590688623f9"
+    ]
+   }
   },
   {
    "name": "景山公园",
@@ -101,7 +186,24 @@
     "门票很便宜，但也需要提前预约",
     "最佳时间是下午和傍晚，逆光时拍故宫效果差一些",
     "山不高，老人小孩都能上"
-   ]
+   ],
+   "amap": {
+    "name": "景山公园",
+    "id": "B000A7I1OL",
+    "addr": "西城区 景山西街44号",
+    "type": "公园",
+    "tel": "010-64038098",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 06:30-20:00 最晚进入19:30；4月至10月 周一至周日 06:00-21:00 最晚进入20:30",
+    "lng": 116.396551,
+    "lat": 39.925875,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/10eb01af2fd301e54e50d42ea636ccef",
+     "https://store.is.autonavi.com/showpic/f26ea189993c113b5535715fa145b746",
+     "https://store.is.autonavi.com/showpic/7f5ec8b99eab51bcde3749b389da6b55"
+    ]
+   }
   },
   {
    "name": "什刹海和南锣鼓巷",
@@ -117,7 +219,24 @@
     "胡同三轮车先谈好价格和路线再上车",
     "后海酒吧街拉客的比较多，不想进就直接拒绝",
     "恭王府需要单独预约购票"
-   ]
+   ],
+   "amap": {
+    "name": "什刹海",
+    "id": "B000A7O5PK",
+    "addr": "西城区 地安门西大街49号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 116.385121,
+    "lat": 39.941893,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dd97c0390e296f47a20b72063ec86990",
+     "https://store.is.autonavi.com/showpic/a996834a98e84fd852162b2551c374f0",
+     "https://store.is.autonavi.com/showpic/620cbf48cd0b6f2f0000009488878087?type=pic"
+    ]
+   }
   },
   {
    "name": "中国国家博物馆",
@@ -133,7 +252,24 @@
     "免费参观，但需要提前实名预约，热门时段很快约满",
     "周一闭馆",
     "和天安门广场挨着，可以排在同一天上午"
-   ]
+   ],
+   "amap": {
+    "name": "中国国家博物馆",
+    "id": "B000A83U0P",
+    "addr": "东城区 东长安街16号天安门广场东侧",
+    "type": "博物馆",
+    "tel": "010-65116400",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一全天关闭(法定节假日除外)；11月1日至次年5月31日周二至周日09:00-17:00(16:00停止入馆)；6月1日至10月31日周二至周日09:00-17:30(16:30停止入馆)",
+    "lng": 116.401304,
+    "lat": 39.905374,
+    "photos": [
+     "https://aos-comment.amap.com/B000A83U0P/headerImg/c18b1708f9b307ca92bf78809f7a0220_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/620280e69fbdcc9681f8bf30f62fb9eb",
+     "https://store.is.autonavi.com/showpic/d44b1c52716bc8bb56489a3504846f34"
+    ]
+   }
   },
   {
    "name": "雍和宫",
@@ -149,7 +285,24 @@
     "节假日和初一十五人非常多，建议工作日去",
     "殿内不能拍照，注意看提示",
     "地铁 2 号线、5 号线雍和宫站下车即到"
-   ]
+   ],
+   "amap": {
+    "name": "雍和宫",
+    "id": "B000A7BGMG",
+    "addr": "东城区 雍和宫大街28号(雍和宫地铁站F东南口步行250米)",
+    "type": "风景名胜",
+    "tel": "010-84191906",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 09:00-16:30 最晚进入16:00；4月至10月 09:00-17:00 最晚进入16:30",
+    "lng": 116.417296,
+    "lat": 39.947239,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9b9abb2a9fff0b6491230aa4435f7ad5",
+     "https://store.is.autonavi.com/showpic/6b397bbbd188c6087361de3fbe525b73",
+     "https://store.is.autonavi.com/showpic/8e4cf6648c9841a7436195794798e884"
+    ]
+   }
   }
  ],
  "foods": [
@@ -164,7 +317,24 @@
    "tips": [
     "热门店要早取号或提前在线排队",
     "两三个人点半只就够，再配几个菜"
-   ]
+   ],
+   "amap": {
+    "name": "四季民福烤鸭店(和平里店)",
+    "id": "B0FFFQ2KBT",
+    "addr": "朝阳区 和平里街21号北京商报1-2层(天丰利商场旁)",
+    "type": "特色/地方风味餐厅",
+    "tel": "010-84286366",
+    "rating": 4.8,
+    "cost": 146.0,
+    "open": "周一至周四 10:30-21:30；周五至周日 10:30-22:30",
+    "lng": 116.417901,
+    "lat": 39.962276,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3fee8190997acb7d9c74869bcb2367b3",
+     "https://store.is.autonavi.com/showpic/f772387aa5178fb10000003324314160?type=pic",
+     "https://store.is.autonavi.com/showpic/1a97d84fe68766a691cba2e2ea39f52c"
+    ]
+   }
   },
   {
    "name": "铜锅涮肉",
@@ -177,7 +347,24 @@
    "tips": [
     "羊肉涮几秒变色就捞，别煮太久",
     "人多的店傍晚 5 点前到比较好"
-   ]
+   ],
+   "amap": {
+    "name": "老北京铜锅涮肉",
+    "id": "B0LA1U7YX5",
+    "addr": "东城区 报房胡同101号(首都剧场北侧)",
+    "type": "火锅店",
+    "tel": "",
+    "rating": 2.9,
+    "cost": 71.0,
+    "open": "周一至周日 10:30-21:15",
+    "lng": 116.411712,
+    "lat": 39.921965,
+    "photos": [
+     "https://aos-comment.amap.com/B0LA1U7YX5/comment/38EA6A5A_11D3_4312_A42F_6E5B218EDA78_L0_001_1500_200_1765104945560_93243226.jpg",
+     "https://aos-comment.amap.com/comment/content_service__1770623791153_24869496_1770624230193_93097775.jpg",
+     "https://aos-comment.amap.com/B0LA1U7YX5/comment/content_media_external_file_100008686_1760489354501_37804863.jpg"
+    ]
+   }
   },
   {
    "name": "炸酱面",
@@ -189,7 +376,24 @@
    ],
    "tips": [
     "夏天可以点过水面，更爽口"
-   ]
+   ],
+   "amap": {
+    "name": "老北京炸酱面",
+    "id": "B0MDSSE8MO",
+    "addr": "东城区 北京城区翠花胡同37-4号(中国美术馆地铁站A西北口步行200米)",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.8,
+    "cost": 22.0,
+    "open": "周一至周日 09:00-20:00",
+    "lng": 116.40747,
+    "lat": 39.924196,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/085a8ddee846e40e0000002518764737",
+     "https://store.is.autonavi.com/showpic/1d4ecc5ba5a7d3dc0000002565312333",
+     "https://store.is.autonavi.com/showpic/90ac06a642b30e010000002518788435"
+    ]
+   }
   },
   {
    "name": "卤煮火烧",
@@ -202,7 +406,24 @@
    "tips": [
     "介意内脏的可以只要火烧和豆腐",
     "可以说「不要肺」，按自己口味来"
-   ]
+   ],
+   "amap": {
+    "name": "方砖厂69号炸酱面(南锣鼓巷店)",
+    "id": "B0FFIMJJ2I",
+    "addr": "东城区 北京城区南锣鼓巷2号",
+    "type": "中餐厅",
+    "tel": "17611325269",
+    "rating": 4.7,
+    "cost": 46.0,
+    "open": "周一至周日 09:30-22:00",
+    "lng": 116.403171,
+    "lat": 39.940581,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bbe1e5ab26665ffd3e3eda0b7757d5f8",
+     "https://store.is.autonavi.com/showpic/6208eac896dd59a1b3f3c7b1b2faa970",
+     "https://store.is.autonavi.com/showpic/1fd07b27289d61ac8ede09d55a85defb"
+    ]
+   }
   },
   {
    "name": "爆肚",
@@ -214,7 +435,24 @@
    ],
    "tips": [
     "点几种不同部位对比着吃更有意思"
-   ]
+   ],
+   "amap": {
+    "name": "清真·鸦儿李记·涮肉(和平里店)",
+    "id": "B0G3T7NZ0I",
+    "addr": "东城区 地坛北里东区1号楼(和平里北街地铁站D西南口步行80米)",
+    "type": "火锅店",
+    "tel": "010-64295466",
+    "rating": 4.7,
+    "cost": 87.0,
+    "open": "周一至周日 09:30-22:00",
+    "lng": 116.418019,
+    "lat": 39.958373,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9d9eca4a6b9aeee01c51ed5c493b4eec",
+     "https://aos-comment.amap.com/B0G3T7NZ0I/comment/content_media_external_file_385932_ss__1747906602863_48131104.jpg",
+     "https://aos-comment.amap.com/B0G3T7NZ0I/comment/F699FB26_3C42_405A_875A_7A19D6D57FCE_L0_001_2000_1500_1740645022427_65493314.jpg"
+    ]
+   }
   },
   {
    "name": "豆汁儿和焦圈",
@@ -227,7 +465,24 @@
    "tips": [
     "先买一小碗尝尝，接受不了也别勉强",
     "老字号小吃店早上品种最全"
-   ]
+   ],
+   "amap": {
+    "name": "护国寺小吃(肉市街店)",
+    "id": "B0I2MACHGR",
+    "addr": "东城区 前门西河沿街1号前门大街(前门地铁站I西南口旁)",
+    "type": "快餐厅",
+    "tel": "13693674989",
+    "rating": 4.3,
+    "cost": 32.0,
+    "open": "周一至周日 05:30-21:30",
+    "lng": 116.39869,
+    "lat": 39.898374,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=stbfda3f00-150e-4bf6-bdea-65c58689a274&user=search&operate=original",
+     "https://aos-comment.amap.com/comment/20260314-415fa992df9e7ee6b6f2bc11-7eA7sfSnXGjA95X0Ef3HCD.jpg",
+     "https://store.is.autonavi.com/showpic/ba40fb16119075700000000740218569?type=pic"
+    ]
+   }
   },
   {
    "name": "北京宫廷小吃",
@@ -239,7 +494,24 @@
    ],
    "tips": [
     "软糯点心不耐放，买了尽快吃完"
-   ]
+   ],
+   "amap": {
+    "name": "八次方烤鸭店",
+    "id": "B0KKL5RBFZ",
+    "addr": "东城区 王府井大街74号王府井教堂东侧附属配楼一层北侧03门",
+    "type": "餐饮相关",
+    "tel": "010-85113823",
+    "rating": 4.6,
+    "cost": 55.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 116.412892,
+    "lat": 39.917579,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7605db463ff6f7810000001944564707?type=pic",
+     "https://store.is.autonavi.com/showpic/71ba39516ffda2c00000002806812141?type=pic",
+     "https://aos-comment.amap.com/B0KKL5RBFZ/comment/176821470061_1768214701993_62790482.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

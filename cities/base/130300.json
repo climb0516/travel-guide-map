@@ -21,7 +21,24 @@
     "城楼和城墙需要购票，古城街巷免费逛",
     "古城里有很多小吃店，可以顺便吃午饭",
     "和老龙头、角山长城可以买联票"
-   ]
+   ],
+   "amap": {
+    "name": "山海关景区·天下第一关",
+    "id": "B014F06MYM",
+    "addr": "山海关区 关城西路2034号",
+    "type": "国家级景点",
+    "tel": "0335-5258000",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:00-22:00",
+    "lng": 119.760042,
+    "lat": 40.01084,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9a4669b8d8eff2da0048eba9e3cd6aa0",
+     "https://store.is.autonavi.com/showpic/d0dc1400e958d16a0411037db0f286ca",
+     "https://store.is.autonavi.com/showpic/bba57794a9447620e63d2d56dc1a157f"
+    ]
+   }
   },
   {
    "name": "老龙头",
@@ -36,7 +53,24 @@
    "tips": [
     "海边风大，注意保暖和帽子",
     "可以和天下第一关安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "山海关景区·老龙头",
+    "id": "B0FFG1TL6H",
+    "addr": "山海关区 龙海大道1号老龙头景区内",
+    "type": "国家级景点",
+    "tel": "0335-5152996",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "11月 周一至周日 06:20-17:00 09-01至09-20 周一至周日 05:00-19:00；09-21至09-30 周一至周日 05:30-19:00；10-01至10-07 周一至周日 05:30-19:00；10-08至10-19 周一至周日 05:30-18:00；10-20至10-31 周一至周日 06:00-17:30",
+    "lng": 119.797255,
+    "lat": 39.968241,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4b6aa16d0e6c866bca8710b79210ed3a",
+     "https://store.is.autonavi.com/showpic/624635d661575b2f3109e4cc5f9fd2a9",
+     "https://store.is.autonavi.com/showpic/e567ed81ee6c071174a877bd633d7e12"
+    ]
+   }
   },
   {
    "name": "角山长城",
@@ -51,7 +85,24 @@
    "tips": [
     "有索道，体力一般的可以坐索道上山",
     "穿防滑运动鞋，石阶较陡"
-   ]
+   ],
+   "amap": {
+    "name": "山海关-角山长城",
+    "id": "B0G0KGT0A8",
+    "addr": "山海关区 角山路角山长城内",
+    "type": "风景名胜",
+    "tel": "0335-5152916",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10月1日-10月7日 06:30-17:30开放（17:00停止入园）；具体开放时间以官方通知为准",
+    "lng": 119.738222,
+    "lat": 40.039337,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2f28622b00dd81b5d452255283fc30f4",
+     "https://store.is.autonavi.com/showpic/63168ec1558dfc2e5de3a2b495cf10e4",
+     "https://store.is.autonavi.com/showpic/1b3890dcb1097d3f98d0e759f206e5e3"
+    ]
+   }
   },
   {
    "name": "孟姜女庙",
@@ -66,7 +117,24 @@
    "tips": [
     "规模较小，一小时足够",
     "可以顺路和天下第一关一起安排"
-   ]
+   ],
+   "amap": {
+    "name": "孟姜女庙",
+    "id": "B014F06MXI",
+    "addr": "山海关区 望夫石村",
+    "type": "寺庙道观",
+    "tel": "0335-5153159",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "7月1日-7月31日 周一至周日 07:00-18:00",
+    "lng": 119.822801,
+    "lat": 40.037017,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/273b3980b4b7257fbec972ffbfba551c",
+     "https://store.is.autonavi.com/showpic/e104c26e9000294d7215da07641c7dfc",
+     "https://store.is.autonavi.com/showpic/53d1c13be87371aaddaf96695a751030"
+    ]
+   }
   },
   {
    "name": "鸽子窝公园",
@@ -81,7 +149,24 @@
    "tips": [
     "看日出要天不亮就出发，提前查好日出时间",
     "夏天日出很早，前一晚住在北戴河更方便"
-   ]
+   ],
+   "amap": {
+    "name": "鸽子窝公园",
+    "id": "B014F0188F",
+    "addr": "北戴河区 鸽赤路25号",
+    "type": "国家级景点",
+    "tel": "0335-4041774",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "06:40-19:00,2026年2月17日 05:50-19:00, 2月18日至2月23日 06:40-19:00",
+    "lng": 119.526688,
+    "lat": 39.836216,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3296cb437391022ceca941606cffb89b",
+     "https://store.is.autonavi.com/showpic/c0794876a8de7ef220c883fc241524dd",
+     "https://store.is.autonavi.com/showpic/f7d91ba8985b6c10ed4fd59a3854bd62"
+    ]
+   }
   },
   {
    "name": "老虎石海上公园",
@@ -96,7 +181,24 @@
    "tips": [
     "夏季下海请在有救生员的浴场，注意涨落潮",
     "旺季人非常多，早晚去更舒服"
-   ]
+   ],
+   "amap": {
+    "name": "老虎石海上公园",
+    "id": "B014F00FC9",
+    "addr": "北戴河区 北戴河中海滩路",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:00-17:40 最晚进入17:40",
+    "lng": 119.488542,
+    "lat": 39.813902,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b0cacd07f38bb5e935991ddd89cedac9",
+     "https://store.is.autonavi.com/showpic/45ee033d0a078500b5cb70c687a9f99a",
+     "https://store.is.autonavi.com/showpic/a13179e585ee17560bf5232a13f8f009"
+    ]
+   }
   },
   {
    "name": "秦皇求仙入海处",
@@ -111,7 +213,24 @@
    "tips": [
     "海边风大，注意防晒和保暖",
     "适合和市区行程顺路安排"
-   ]
+   ],
+   "amap": {
+    "name": "秦皇求仙入海处",
+    "id": "B014F0SJJ0",
+    "addr": "海港区 南山街56号",
+    "type": "国家级景点",
+    "tel": "0335-3410300",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:00 最晚进入16:30",
+    "lng": 119.622324,
+    "lat": 39.913949,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/04aae4e8c51e2da1a15eb5fc909b344f",
+     "https://store.is.autonavi.com/showpic/2bd4350e08bb4637c3bf3aaf699b3aed",
+     "https://store.is.autonavi.com/showpic/bb11ddb60bf36679be19fb563e4cbc38"
+    ]
+   }
   },
   {
    "name": "阿那亚",
@@ -127,7 +246,24 @@
     "孤独图书馆等热门建筑可能需要预约或排队",
     "入园方式以阿那亚官方公告为准",
     "离山海关和北戴河都有一段车程，单独安排半天以上"
-   ]
+   ],
+   "amap": {
+    "name": "阿那亚礼堂",
+    "id": "B0FFH2IWY4",
+    "addr": "昌黎县 大蒲河镇黄金海岸工业园区金海南路7号",
+    "type": "体育休闲服务场所",
+    "tel": "4001155500",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "09:30-19:00 最晚进入18:50",
+    "lng": 119.322481,
+    "lat": 39.654939,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/73d03d03fe47dc6d90440da3713c9f61",
+     "https://store.is.autonavi.com/showpic/dd6b7b7a1b4b4ff20000002798064215?type=pic",
+     "https://store.is.autonavi.com/showpic/fbc523d2b0587f1d0000006883392586?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    "tips": [
     "春季最肥，其他季节相对瘦一点",
     "剥壳时小心刺手，可以用剪刀"
-   ]
+   ],
+   "amap": {
+    "name": "渔湾海鲜家常菜",
+    "id": "B0GUMR7K53",
+    "addr": "北戴河区 联峰北路30-7号",
+    "type": "海鲜酒楼",
+    "tel": "15930591331",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周日 09:30-23:00",
+    "lng": 119.500638,
+    "lat": 39.831967,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d6fbf83424bad9c30000009486014702?type=pic",
+     "https://store.is.autonavi.com/showpic/6d931efd173006480000007313016919?type=pic",
+     "https://store.is.autonavi.com/showpic/248b0611596600500000006949584340?type=pic"
+    ]
+   }
   },
   {
    "name": "海鲜大排档",
@@ -155,7 +308,24 @@
    "tips": [
     "点菜前问清是按斤还是按份计价",
     "避开景区门口的店，去本地人多的市场"
-   ]
+   ],
+   "amap": {
+    "name": "渔湾海鲜家常菜",
+    "id": "B0GUMR7K53",
+    "addr": "北戴河区 联峰北路30-7号",
+    "type": "海鲜酒楼",
+    "tel": "15930591331",
+    "rating": 4.7,
+    "cost": 65.0,
+    "open": "周一至周日 09:30-23:00",
+    "lng": 119.500638,
+    "lat": 39.831967,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d6fbf83424bad9c30000009486014702?type=pic",
+     "https://store.is.autonavi.com/showpic/6d931efd173006480000007313016919?type=pic",
+     "https://store.is.autonavi.com/showpic/248b0611596600500000006949584340?type=pic"
+    ]
+   }
   },
   {
    "name": "浑锅",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "适合人多时点，分量足"
-   ]
+   ],
+   "amap": {
+    "name": "山海关浑锅(秦皇岛总店)",
+    "id": "B014F070ZU",
+    "addr": "海港区 红旗路204号邵岭新村(巧致美容院对面)",
+    "type": "火锅店",
+    "tel": "13613382740",
+    "rating": 4.3,
+    "cost": 65.0,
+    "open": "周一至周日 10:30-21:30",
+    "lng": 119.588279,
+    "lat": 39.94307,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7dfa4434f1e3fe2546ab1171673bbaf0",
+     "https://aos-comment.amap.com/B014F070ZU/comment/content_media_external_file_100001943_1767600283433_23733407.jpg",
+     "https://store.is.autonavi.com/showpic/8b97ea3acd7be0970000003765772603?type=pic"
+    ]
+   }
   },
   {
    "name": "四条包子",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "刚出锅的汤汁烫，小心入口"
-   ]
+   ],
+   "amap": {
+    "name": "四条包子(南大街店)",
+    "id": "B0FFF3T3S8",
+    "addr": "山海关区 南大街9-8号",
+    "type": "中餐厅",
+    "tel": "0335-5051718",
+    "rating": 4.4,
+    "cost": 21.0,
+    "open": "周一至周日 06:30-20:00",
+    "lng": 119.757691,
+    "lat": 40.006399,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFF3T3S8/comment/content_media_external_file_1000022889_ss__1756723431746_16750668.jpg",
+     "https://aos-comment.amap.com/B0FFF3T3S8/comment/b6dc84217f2de1202ab69adb774641dc_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/b758175854f4f01d0000009351674599?type=pic"
+    ]
+   }
   },
   {
    "name": "桲椤叶饼",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "叶子不能吃，剥开吃里面的饼"
-   ]
+   ],
+   "amap": {
+    "name": "石门寨侯记桲椤叶饼肉焖子",
+    "id": "B0MD6CATVI",
+    "addr": "海港区 老村西段(耀富路)5号",
+    "type": "中餐厅",
+    "tel": "17733525550",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "周一至周五 10:00-13:00,16:00-18:30",
+    "lng": 119.595347,
+    "lat": 39.9215,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2890267e0d2c7311ae7dbaa7c57837bd",
+     "https://store.is.autonavi.com/showpic/a7665ee9e3f96006026c4da395ff2d96",
+     "https://store.is.autonavi.com/showpic/768f349e35b6b5f80f02e0da626693db"
+    ]
+   }
   },
   {
    "name": "昌黎葡萄酒",
@@ -203,7 +424,24 @@
    ],
    "tips": [
     "酒庄参观需要提前预约，以酒庄安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "naive理想国(阿那亚店)",
+    "id": "B0H1X16XUT",
+    "addr": "昌黎县 阿那亚社区六期14幢101",
+    "type": "旅馆招待所",
+    "tel": "15690066891",
+    "rating": 4.7,
+    "cost": 48.0,
+    "open": "周一至周日 09:30-01:00",
+    "lng": 119.31682,
+    "lat": 39.646498,
+    "photos": [
+     "https://aos-comment.amap.com/B0H1X16XUT/comment/20260310-696a9f4dcdfb505b07251784-ff19Hr9y7N84YF5RuT4H9.jpg",
+     "https://aos-comment.amap.com/B0H1X16XUT/comment/content_media_external_images_media_1000031515_ss__1766967891066_74821184.jpg",
+     "https://store.is.autonavi.com/showpic/e0e39e36b859c6f10000000672748082?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

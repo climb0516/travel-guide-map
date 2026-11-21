@@ -21,7 +21,24 @@
     "游客船票需要提前在官方渠道购买，从东渡邮轮中心码头上船，节假日常常提前几天售罄",
     "岛上全靠步行，有不少坡路，穿舒服的鞋",
     "日光岩等景点需要单独购票，可以按兴趣挑选"
-   ]
+   ],
+   "amap": {
+    "name": "鼓浪屿风景名胜区",
+    "id": "B025003YN2",
+    "addr": "思明区 晃岩路35-6号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；（1）日间航线:进岛航班运营时间为8:10-17:30，每小时逢10分、30分开船；出岛航班运营时间为7:40-17:40，逢整点、40分开船。 （2）夜间航线:三丘田码头出岛航班运营时间为18:00-24:00。00:00-5:00期间，游客如需出岛请从钢琴码头返程至轮渡码头（整点发船）；5:30-7:00期间，请从三丘田码头返程至轮渡码头（航班不变，具体详见轮渡公司官网）。 （3）后续如增开航线或调整航班，以轮渡公司官网通知为准。",
+    "lng": 118.06702,
+    "lat": 24.444695,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/05b0e6e576cf50058e6e2fad7e7dacdc",
+     "https://store.is.autonavi.com/showpic/d411b5a583400f0ca631ec86a065cde9",
+     "https://store.is.autonavi.com/showpic/f229741322203db59de5072af5aaf67a"
+    ]
+   }
   },
   {
    "name": "厦门大学",
@@ -37,7 +54,24 @@
     "校外游客需要提前预约，名额有限，周末和假期更难约",
     "开放时间和入校规则会调整，以学校官方公告为准",
     "和南普陀寺、环岛路安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "厦门大学(思明校区)",
+    "id": "B025003X94",
+    "addr": "思明区 思明南路422号",
+    "type": "高等院校",
+    "tel": "0592-2180000",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "",
+    "lng": 118.101683,
+    "lat": 24.436084,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4c6ef9f1f434a4e3c612a69b96348318",
+     "https://store.is.autonavi.com/showpic/adb237260b4da552d36cd47d821a470f",
+     "https://store.is.autonavi.com/showpic/134b6b96aa49f5226d37190e8e99bedf"
+    ]
+   }
   },
   {
    "name": "南普陀寺",
@@ -52,7 +86,24 @@
    "tips": [
     "寺院开放和预约要求以官方公告为准，节假日人多",
     "寺内请衣着得体，保持安静"
-   ]
+   ],
+   "amap": {
+    "name": "南普陀寺",
+    "id": "B025003QZU",
+    "addr": "思明区 思明南路515号",
+    "type": "寺庙道观",
+    "tel": "0592-2087282",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "南普陀寺后山区域开放时间段:08:00-16:00； 08:00-18:00 最晚进入18:00",
+    "lng": 118.097143,
+    "lat": 24.442641,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d9523753748f0cf2e26af8e5bffc8f89",
+     "https://store.is.autonavi.com/showpic/128a28e0d1d381c2125a913fa41d3aa6",
+     "https://store.is.autonavi.com/showpic/e503f4151fe16b89430942532103ad17"
+    ]
+   }
   },
   {
    "name": "厦门园林植物园",
@@ -68,7 +119,24 @@
     "需要购票，可以提前在官方渠道买",
     "园区大，坐观光车能省很多体力",
     "雨林世界的喷雾有固定时段，进园前看好时间"
-   ]
+   ],
+   "amap": {
+    "name": "厦门园林植物园",
+    "id": "B025003OPX",
+    "addr": "思明区 虎园路25号",
+    "type": "植物园",
+    "tel": "0592-2985935",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:30-18:00",
+    "lng": 118.109277,
+    "lat": 24.447728,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a63581fcb3adda672d35f22d835504a4",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/353fd799-d49f-4143-a336-159dbc25aa92.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/ed733c33-908c-45df-8ddd-1fc1d9c31b3c.jpg"
+    ]
+   }
   },
   {
    "name": "沙坡尾",
@@ -83,7 +151,24 @@
    "tips": [
     "周末下午人很多，傍晚去更舒服",
     "离厦大、南普陀步行可达"
-   ]
+   ],
+   "amap": {
+    "name": "沙坡尾",
+    "id": "B0HK94XSHB",
+    "addr": "思明区 厦港街道大学路与民族路交叉口东南120米",
+    "type": "旅游景点",
+    "tel": "18759857034",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.088167,
+    "lat": 24.439087,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d5ba955f30174c820000002744494529?type=pic",
+     "https://store.is.autonavi.com/showpic/3b6189af5445d1c20000002746296611?type=pic",
+     "https://store.is.autonavi.com/showpic/e374bd618fd9be4e0000001783310681?type=pic"
+    ]
+   }
   },
   {
    "name": "环岛路和曾厝垵",
@@ -99,7 +184,24 @@
     "可以租自行车或者用共享单车，注意走自行车道",
     "曾厝垵的小吃以游客店为主，尝尝就好",
     "夏天中午骑车很晒，早晚最好"
-   ]
+   ],
+   "amap": {
+    "name": "曾厝垵景区",
+    "id": "B0J0XCJCJ6",
+    "addr": "思明区 国办路与打渔巷交叉口东北100米",
+    "type": "旅游景点",
+    "tel": "0592-2082635",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.12515,
+    "lat": 24.425514,
+    "photos": [
+     "https://aos-comment.amap.com/B0J0XCJCJ6/comment/C8A94E6C_ED4E_4513_87BF_609BBEB76DF4_L0_001_1206_65_1766739229333_25111848.jpg",
+     "https://aos-comment.amap.com/B0J0XCJCJ6/comment/%5B2026-01-05-21-04-01%5DD7F25D21-D34A-449F-AD65-7C7405546B9_1767618243385_43221153.jpg",
+     "https://aos-comment.amap.com/B0J0XCJCJ6/comment/content_media_external_file_1000064450_ss__1763129545864_07485012.jpg"
+    ]
+   }
   },
   {
    "name": "中山路步行街",
@@ -114,7 +216,24 @@
    "tips": [
     "主街游客多，地道小吃往两侧巷子里找",
     "从中山路走到第八市场不远"
-   ]
+   ],
+   "amap": {
+    "name": "中山路步行街",
+    "id": "B025003IUP",
+    "addr": "思明区 中山路56号",
+    "type": "特色商业街",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.079259,
+    "lat": 24.455453,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/654bdaaa16ffeee0a8df58c6edd5864a",
+     "https://store.is.autonavi.com/showpic/5d7358709e58b1726602d1bc5a4e3f0c",
+     "https://store.is.autonavi.com/showpic/b1c6d0dbe2f906080252f333bddb2d7c"
+    ]
+   }
   },
   {
    "name": "第八市场",
@@ -130,7 +249,24 @@
     "上午最热闹，中午以后很多摊位收摊",
     "买海鲜前先问清价格和是否按活重称，代加工费也要提前问",
     "市场里地面湿滑，穿防滑的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "第八市场(八市)",
+    "id": "B0JG9C6ZWG",
+    "addr": "思明区 开禾路44号",
+    "type": "综合市场",
+    "tel": "13395021772",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 10:30-22:30",
+    "lng": 118.075017,
+    "lat": 24.457902,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/79530d6a80e3cbad0000003117768556?type=pic",
+     "https://store.is.autonavi.com/showpic/0f53766990a8181c0000003200044575?type=pic",
+     "https://store.is.autonavi.com/showpic/d5d95895d5030a720000008438444317?type=pic"
+    ]
+   }
   },
   {
    "name": "山海健康步道",
@@ -145,7 +281,24 @@
    "tips": [
     "免费开放，挑一段走即可，不必走完全程",
     "夏天白天很晒，傍晚或清晨去最好"
-   ]
+   ],
+   "amap": {
+    "name": "厦门山海健康步道",
+    "id": "B0FFLPCW7Y",
+    "addr": "湖里区 邮轮码头(邮轮中心地铁站6号口步行470米)",
+    "type": "旅游景点",
+    "tel": "0592-5576176",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 118.078283,
+    "lat": 24.481175,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFLPCW7Y/comment/3AD1C7C8_ECF1_4C07_866C_7BC409880B7A_L0_001_1075_127_1772335033821_40943785.jpg",
+     "https://store.is.autonavi.com/showpic/2b0cd1a7f6d364b70000007154012815?type=pic",
+     "https://aos-comment.amap.com/B0FFLPCW7Y/comment/content_media_external_file_1000009536_ss__1769093559275_74931586.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +313,24 @@
    "tips": [
     "按配料计价，挑料前看一下价格",
     "汤头偏咸偏浓，不能吃辣的可以说少辣"
-   ]
+   ],
+   "amap": {
+    "name": "五兰沙茶面馆(曾厝垵店)",
+    "id": "B0GRRLJE9P",
+    "addr": "思明区 曾厝垵教堂街300号-1(基督教教堂正门口)",
+    "type": "中餐厅",
+    "tel": "0592-2560710",
+    "rating": 4.6,
+    "cost": 39.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 118.125329,
+    "lat": 24.427574,
+    "photos": [
+     "https://aos-comment.amap.com/B0GRRLJE9P/comment/20260310-1b00a6d3c42aaa564a88bd70-9L67R6j5C5p90nGmQNfrDI.jpg",
+     "https://aos-comment.amap.com/B0GRRLJE9P/comment/content_media_external_images_media_1825440_ss__1738743394435_13542646.jpg",
+     "https://store.is.autonavi.com/showpic/34fb7b614fb8a5bd0000003080204740?type=pic"
+    ]
+   }
   },
   {
    "name": "海蛎煎",
@@ -172,7 +342,24 @@
    ],
    "tips": [
     "海蛎要新鲜，人多的店更有保证"
-   ]
+   ],
+   "amap": {
+    "name": "阿忠食坊大排档·20年老店(万象城店)",
+    "id": "B02500QG1G",
+    "addr": "思明区 金榜路111之一(湖滨东路地铁站2号口步行230米)",
+    "type": "中餐厅",
+    "tel": "0592-5852680",
+    "rating": 4.7,
+    "cost": 109.0,
+    "open": "周一至周日 11:00-15:00,16:30-02:00",
+    "lng": 118.10943,
+    "lat": 24.471967,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2cf55641e0fa24000000002364928239?type=pic",
+     "https://store.is.autonavi.com/showpic/cdddde9931db29770000002256172914?type=pic",
+     "https://store.is.autonavi.com/showpic/d844fa642db62e640000003131016313?type=pic"
+    ]
+   }
   },
   {
    "name": "土笋冻",
@@ -184,7 +371,24 @@
    ],
    "tips": [
     "先尝一两个，喜欢再多买"
-   ]
+   ],
+   "amap": {
+    "name": "老厦门土笋冻",
+    "id": "B0FFF4JQCK",
+    "addr": "思明区 大学路52号",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 2.8,
+    "cost": 16.0,
+    "open": "",
+    "lng": 118.088267,
+    "lat": 24.439254,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/569c7c03a310f5f3ce15bcba",
+     "https://store.is.autonavi.com/showpic/54abaeb8a31040aa8c64b893",
+     "https://store.is.autonavi.com/showpic/d5d78f513db6407af8ef6caa84f90a8d"
+    ]
+   }
   },
   {
    "name": "花生汤",
@@ -196,7 +400,24 @@
    ],
    "tips": [
     "冬天热的、夏天冰的都好吃"
-   ]
+   ],
+   "amap": {
+    "name": "黄则和花生汤(中山路总店)",
+    "id": "B025003Z7S",
+    "addr": "思明区 中山路22-24号",
+    "type": "中餐厅",
+    "tel": "0592-2024670",
+    "rating": 4.5,
+    "cost": 26.0,
+    "open": "周一至周日 07:30-22:30",
+    "lng": 118.076185,
+    "lat": 24.453358,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c368806a92fa32fdcef81283e70e7b4c",
+     "https://store.is.autonavi.com/showpic/f05d249afbbeccecfc22def346cdb188",
+     "https://aos-comment.amap.com/B025003Z7S/comment/content_media_external_file_1000026171_ss__1769736192248_99543337.jpg"
+    ]
+   }
   },
   {
    "name": "烧肉粽",
@@ -208,7 +429,24 @@
    ],
    "tips": [
     "一个就挺顶饱，和同伴分着吃也行"
-   ]
+   ],
+   "amap": {
+    "name": "1980烧肉粽(中山路店)",
+    "id": "B025002BWW",
+    "addr": "思明区 中山路353号",
+    "type": "特色/地方风味餐厅",
+    "tel": "15160096184",
+    "rating": 4.6,
+    "cost": 32.0,
+    "open": "周一至周日 09:00-21:30",
+    "lng": 118.084604,
+    "lat": 24.455485,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8821f0b53f2125efbf8e9aa236c396b1",
+     "https://store.is.autonavi.com/showpic/a0ceb4bf84826b230000001491788729?type=pic",
+     "https://store.is.autonavi.com/showpic/35dc02907bc132dd94ecd49a5624fba3"
+    ]
+   }
   },
   {
    "name": "薄饼",
@@ -220,7 +458,24 @@
    ],
    "tips": [
     "现包的要尽快吃，否则饼皮会被菜汁泡软"
-   ]
+   ],
+   "amap": {
+    "name": "吴招治薄饼嫂传统美食园",
+    "id": "B0FFHIKKL1",
+    "addr": "同安区 西溪里173-174号唐鸣祥福花园1号楼",
+    "type": "快餐厅",
+    "tel": "0592-7022296",
+    "rating": 4.4,
+    "cost": 56.0,
+    "open": "周一至周日 09:00-21:00 10-01至10-07 周一至周日 09:00-21:00",
+    "lng": 118.145184,
+    "lat": 24.724103,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHIKKL1/comment/8D2CEF81_F17C_42AD_9D08_2318FB5185CF_L0_001_1500_200_1764438178605_59204346.jpg",
+     "https://aos-comment.amap.com/B0FFHIKKL1/comment/content_media_external_file_1000023026_ss__1760245741477_43973301.jpg",
+     "https://aos-comment.amap.com/B0FFHIKKL1/comment/59e6894e31674f65aff5515237c68a28_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "海鲜",
@@ -233,7 +488,24 @@
    "tips": [
     "点海鲜前问清单价和称重方式，避免结账时被宰",
     "代加工费按斤或按道计，提前问清楚"
-   ]
+   ],
+   "amap": {
+    "name": "40号厦门海鲜大排档",
+    "id": "B0L2KRG8UY",
+    "addr": "思明区 局口街29号",
+    "type": "海鲜酒楼",
+    "tel": "18906022275",
+    "rating": 4.0,
+    "cost": 84.0,
+    "open": "周一至周日 10:00-02:00",
+    "lng": 118.079902,
+    "lat": 24.454572,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8a0c01530fc2aa4360a8ef6836e71a64",
+     "https://store.is.autonavi.com/showpic/f0beadce93b2f44a481ec9bab262154f",
+     "https://store.is.autonavi.com/showpic/e2b530fca7f785600000002250624010?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

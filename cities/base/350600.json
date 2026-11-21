@@ -20,7 +20,24 @@
    "tips": [
     "古城免费开放，晚上也很热闹",
     "小吃店多是老店，营业时间不固定，扑空了就换一家"
-   ]
+   ],
+   "amap": {
+    "name": "漳州古城",
+    "id": "B0FFIJRX3I",
+    "addr": "芗城区 北京路与新华西路交叉路口往南约200米",
+    "type": "风景名胜",
+    "tel": "0596-2062036",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.653739,
+    "lat": 24.505416,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ed02dcff70302cfd655beab4d867088a",
+     "https://aos-comment.amap.com/B0FFIJRX3I/comment/AFA49C6B_2CFB_4791_9F81_39318F3A02FB_L0_001_1500_200_1765464580209_76371421.jpg",
+     "https://store.is.autonavi.com/showpic/cde42a38f8dd3cc996a0c522aeb46fd5"
+    ]
+   }
   },
   {
    "name": "田螺坑土楼群",
@@ -36,7 +53,24 @@
     "需要购票，以景区公告为准",
     "俯拍全景要去山上的观景台，早上或傍晚光线最好",
     "土楼里有居民生活，参观时注意礼貌"
-   ]
+   ],
+   "amap": {
+    "name": "福建土楼(南靖)田螺坑景区",
+    "id": "B02540QDDR",
+    "addr": "南靖县 书洋镇上版村田螺坑土楼群上观景台",
+    "type": "风景名胜",
+    "tel": "0596-7880333",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30；具体营业状态以当天开放情况为准",
+    "lng": 117.060971,
+    "lat": 24.584227,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f9a728884bd5c9d837ac231542bf5bc6",
+     "https://store.is.autonavi.com/showpic/097ee9251d1c808907680118b6362c57",
+     "https://store.is.autonavi.com/showpic/45060d3dc386870f2ce25945a7b76e3e"
+    ]
+   }
   },
   {
    "name": "云水谣古镇",
@@ -51,7 +85,24 @@
    "tips": [
     "和贵楼、怀远楼是重点，别错过",
     "古镇里有民宿，想看清晨薄雾可以住一晚"
-   ]
+   ],
+   "amap": {
+    "name": "福建土楼(南靖)云水谣景区",
+    "id": "B02540P6TN",
+    "addr": "南靖县 官洋村",
+    "type": "风景名胜",
+    "tel": "4008885111",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 117.095227,
+    "lat": 24.66578,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c91e4cb92bc5aa9a6d58429809c3f1c1",
+     "https://store.is.autonavi.com/showpic/5352c2e23ccaac908b545e3ab3fd95d9",
+     "https://store.is.autonavi.com/showpic/27d0b2663eff6ab4c6afe5d221b9eb27"
+    ]
+   }
   },
   {
    "name": "塔下村",
@@ -66,7 +117,24 @@
    "tips": [
     "和云水谣、田螺坑安排在同一天比较顺路",
     "村里有民宿，环境安静"
-   ]
+   ],
+   "amap": {
+    "name": "土楼南靖景区塔下景点",
+    "id": "B02540PVZP",
+    "addr": "南靖县 塔下村",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.049671,
+    "lat": 24.604683,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f76f70c4a210948aa559184c9e43dacc",
+     "https://store.is.autonavi.com/showpic/9f19c6ac1145e137d92f96729a7ac5a6",
+     "https://store.is.autonavi.com/showpic/56d498cf2e05bf670000004565214343?type=pic"
+    ]
+   }
   },
   {
    "name": "二宜楼",
@@ -81,7 +149,24 @@
    "tips": [
     "和南靖土楼距离较远，提前规划路线",
     "楼内有居民生活，注意不要打扰"
-   ]
+   ],
+   "amap": {
+    "name": "二宜楼",
+    "id": "B025402DNI",
+    "addr": "华安县 仙都镇大地村",
+    "type": "风景名胜",
+    "tel": "13860867121",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00",
+    "lng": 117.691677,
+    "lat": 25.020707,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1fd845f9f27671d0de1c64af1ea9f036",
+     "https://store.is.autonavi.com/showpic/c3c78addbc3c35470000008274712878?type=pic",
+     "https://aos-comment.amap.com/B025402DNI/comment/file_media_Photo_10835_IMG_1778728929_015_IMG_20260514_110007-01_jpeg_ss__1778747892435_08983727.jpg"
+    ]
+   }
   },
   {
    "name": "东山风动石",
@@ -96,7 +181,24 @@
    "tips": [
     "需要购票，以景区公告为准",
     "和铜陵古镇、南门湾一起逛最顺路"
-   ]
+   ],
+   "amap": {
+    "name": "风动石景区",
+    "id": "B02540QOMC",
+    "addr": "东山县 公园街234号",
+    "type": "国家级景点",
+    "tel": "0596-5660927",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "06/01:00-10:00/08 07:00-18:30开放 最晚进入18:30；10/09:00-05:00/31 07:30-18:00开放 最晚进入18:00；劳动节 07:00-18:30开放",
+    "lng": 117.537686,
+    "lat": 23.73416,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/71161c0898e64ab3e1f7db9dc7f2654a",
+     "https://store.is.autonavi.com/showpic/56dcc42698982d02961b976a8c226f5b",
+     "https://store.is.autonavi.com/showpic/25ae15770b77cb3279f4cec0b7bdb85a"
+    ]
+   }
   },
   {
    "name": "南门湾",
@@ -111,7 +213,24 @@
    "tips": [
     "傍晚光线最好",
     "周末和节假日人多，停车不便"
-   ]
+   ],
+   "amap": {
+    "name": "南门湾风景区",
+    "id": "B0FFKKSG7W",
+    "addr": "东山县",
+    "type": "风景名胜",
+    "tel": "13559687775",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.52766,
+    "lat": 23.731288,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/af71efc6b5ab3d84ef8cc42c515f714c",
+     "https://store.is.autonavi.com/showpic/d79d2001a4e49ccb8cd859519e9db32f",
+     "https://store.is.autonavi.com/showpic/a0b131e211a4cb684cb617b35cb86e9e"
+    ]
+   }
   },
   {
    "name": "马銮湾",
@@ -127,7 +246,24 @@
     "下海游泳注意安全，听从现场管理",
     "夏天紫外线强，做好防晒",
     "鱼骨沙洲需要看潮汐时间，退潮时才明显"
-   ]
+   ],
+   "amap": {
+    "name": "马銮湾景区",
+    "id": "B02540P6IK",
+    "addr": "东山县 康美镇西南",
+    "type": "风景名胜",
+    "tel": "0596-5639927",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "00:00-24:00但海滨浴场无法游泳",
+    "lng": 117.499254,
+    "lat": 23.723578,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5a8754b93cf9152f8c0ea430cc1b4cbf",
+     "https://store.is.autonavi.com/showpic/f5b56ff61d51fadf5ccf707232a2a674",
+     "https://store.is.autonavi.com/showpic/33e0dfc9116ce07f21f40a0630a4112a"
+    ]
+   }
   },
   {
    "name": "漳州滨海火山国家地质公园",
@@ -142,7 +278,24 @@
    "tips": [
     "海边风大，注意防晒和防风",
     "礁石区湿滑，不要靠近浪大的地方"
-   ]
+   ],
+   "amap": {
+    "name": "火山岛自然生态风景区",
+    "id": "B025402TRF",
+    "addr": "漳浦县 前亭镇",
+    "type": "国家级景点",
+    "tel": "0596-3649100",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "05-01至10-07 周一至周日 08:15-18:00；10-08至04-30 周一至周日 08:15-17:30",
+    "lng": 118.025528,
+    "lat": 24.205983,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3740b8f478a33690a4776303d223f7d0",
+     "https://store.is.autonavi.com/showpic/40175442b6767602afdc92ae0b63d638",
+     "https://store.is.autonavi.com/showpic/30dc1f0325ec12400b4157efd5a916d4"
+    ]
+   }
   }
  ],
  "foods": [
@@ -157,7 +310,24 @@
    "tips": [
     "加点醋和沙茶酱更有味道",
     "早上去吃最地道"
-   ]
+   ],
+   "amap": {
+    "name": "顺德五香卤面(总店)",
+    "id": "B0FFHF87B8",
+    "addr": "龙海区 解放北路1号-41",
+    "type": "中餐厅",
+    "tel": "13559666198",
+    "rating": 4.8,
+    "cost": 8.0,
+    "open": "周一至周日 07:00-19:00",
+    "lng": 117.819761,
+    "lat": 24.44739,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHF87B8/comment/20260226-1e6006772522dae6fee9eab0-AV09L2bhsXR7XNhphXjne3.jpg",
+     "https://store.is.autonavi.com/showpic/98c44a517bb080510000002125066875?type=pic",
+     "https://aos-comment.amap.com/B0FFHF87B8/comment/4CA5CECD_0903_45B0_A214_42EA065B293E_L0_001_1080_192_1763204700068_75961128.jpg"
+    ]
+   }
   },
   {
    "name": "手抓面",
@@ -169,7 +339,24 @@
    ],
    "tips": [
     "酱料可以按口味选择，沙茶味最地道"
-   ]
+   ],
+   "amap": {
+    "name": "天宝洪坑手抓面",
+    "id": "B0GR515LMV",
+    "addr": "芗城区 青年路83号",
+    "type": "餐饮相关",
+    "tel": "13850574199",
+    "rating": 3.9,
+    "cost": 17.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 117.651145,
+    "lat": 24.505556,
+    "photos": [
+     "https://aos-comment.amap.com/B0GR515LMV/comment/930BF71C_5313_44DD_B9D0_043223618DD9_L0_001_1416_174_1756693434891_72868602.jpg",
+     "https://store.is.autonavi.com/showpic/e970ce070c1b4ed60000006192332540?type=pic",
+     "https://aos-comment.amap.com/B0GR515LMV/comment/03da8da8bec0ff5f5c81dffa947561b6_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "四果汤",
@@ -181,7 +368,24 @@
    ],
    "tips": [
     "夏天最适合，冬天也有常温的可选"
-   ]
+   ],
+   "amap": {
+    "name": "小洪四果汤·糖水铺",
+    "id": "B025402MPN",
+    "addr": "芗城区 新华西南区10栋五号(新华西步行街一街12-5)",
+    "type": "冷饮店",
+    "tel": "15359675702",
+    "rating": 4.6,
+    "cost": 12.0,
+    "open": "周一至周日 09:00-24:00",
+    "lng": 117.655259,
+    "lat": 24.50799,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4563be51ec2641f40000002457340441?type=pic",
+     "https://aos-comment.amap.com/B025402MPN/comment/content_media_external_images_media_1000058496_ss__1768310022769_94172506.jpg",
+     "https://aos-comment.amap.com/B025402MPN/comment/30E5D6D5_645F_455A_9B61_F4D24B941948_L0_001_2048_204_1757694905308_60002794.jpg"
+    ]
+   }
   },
   {
    "name": "猫仔粥",
@@ -193,7 +397,24 @@
    ],
    "tips": [
     "晚上吃最合适"
-   ]
+   ],
+   "amap": {
+    "name": "旧戏院猫仔粥(东山岛店)",
+    "id": "B0FFJCVWX0",
+    "addr": "东山县 铜陵镇团结路612号美食",
+    "type": "餐饮相关",
+    "tel": "13063117859",
+    "rating": 4.5,
+    "cost": 26.0,
+    "open": "周一至周日 07:30-23:00",
+    "lng": 117.528184,
+    "lat": 23.736107,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJCVWX0/comment/55F32AFC_E0D3_49A1_BC0D_6C76B7EB4B34_L0_001_2000_1126_1738464033607_70220008.jpg",
+     "https://aos-comment.amap.com/B0FFJCVWX0/comment/02cdcab31be6955372813f04c7047903_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFJCVWX0/comment/388c42f4b5b7dc7fea053b71f70c50fb_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "面煎粿",
@@ -205,7 +426,24 @@
    ],
    "tips": [
     "刚出锅的最好吃"
-   ]
+   ],
+   "amap": {
+    "name": "老康祖传面煎粿(古城店)",
+    "id": "B0FFL3WYFZ",
+    "addr": "芗城区 新华西南三街3-4号",
+    "type": "中餐厅",
+    "tel": "18759600075",
+    "rating": 4.4,
+    "cost": 6.0,
+    "open": "周一至周日 08:30-20:00",
+    "lng": 117.655403,
+    "lat": 24.507419,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFL3WYFZ/headerImg/212df73c504771e4f2265d3991094925_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/comment/20260312-45c428c0420c4f2361e24993-33jrMlNfm6H95PoRqVwk3f.jpg",
+     "https://aos-comment.amap.com/B0FFL3WYFZ/comment/content_media_external_file_1000079205_ss__1767698407420_87223813.jpg"
+    ]
+   }
   },
   {
    "name": "东山海鲜",
@@ -218,7 +456,22 @@
    "tips": [
     "点菜前先问清价格和计价方式",
     "海鲜加工店多，可以先在市场挑选"
-   ]
+   ],
+   "amap": {
+    "name": "东山海鲜(澄观路店)",
+    "id": "B0FFHF7ABK",
+    "addr": "芗城区 澄观路6-25号",
+    "type": "中餐厅",
+    "tel": "18059612686",
+    "rating": 3.1,
+    "cost": 0,
+    "open": "",
+    "lng": 117.659141,
+    "lat": 24.49897,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e081a7d975588ef73449b1aae406577b"
+    ]
+   }
   },
   {
    "name": "土楼客家菜",
@@ -230,7 +483,24 @@
    ],
    "tips": [
     "点菜前问清价格，按人数点合适的分量"
-   ]
+   ],
+   "amap": {
+    "name": "云水谣闽粤土菜馆正宗客家菜",
+    "id": "B0K0FDETSM",
+    "addr": "南靖县 书洋镇607县道福建土楼(南靖)景区内(东侧)",
+    "type": "中餐厅",
+    "tel": "18760398881",
+    "rating": 4.7,
+    "cost": 60.0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 117.103577,
+    "lat": 24.63139,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/def75f018084bb630000003040174865?type=pic",
+     "https://store.is.autonavi.com/showpic/319e2f471a65cc390000002985792766?type=pic",
+     "https://store.is.autonavi.com/showpic/44fea8ece60f191e0000003000748359?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

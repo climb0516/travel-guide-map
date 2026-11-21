@@ -21,7 +21,24 @@
     "晚上人非常多，节假日可能会限流",
     "从千厮门大桥或对岸江北嘴拍夜景最完整",
     "里面的小吃偏贵，看夜景为主"
-   ]
+   ],
+   "amap": {
+    "name": "洪崖洞民俗风貌区",
+    "id": "B0FFG8V7SH",
+    "addr": "渝中区 嘉陵江滨江路88号(小什字地铁站9号口步行430米)",
+    "type": "风景名胜",
+    "tel": "023-63039995",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；景区23点关灯",
+    "lng": 106.579027,
+    "lat": 29.562204,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d69a8d621edd4c1fc967029ac5011785",
+     "https://store.is.autonavi.com/showpic/b8524c74749d6e6147994eba24c363a7",
+     "https://store.is.autonavi.com/showpic/dddae7ed2d49555495a7aa59588e02ae"
+    ]
+   }
   },
   {
    "name": "解放碑和八一好吃街",
@@ -36,7 +53,24 @@
    "tips": [
     "好吃街游客多，地道小吃也可以在周边老社区找",
     "以解放碑为中心步行串景点最方便"
-   ]
+   ],
+   "amap": {
+    "name": "人民解放纪念碑",
+    "id": "B00170L5D4",
+    "addr": "渝中区 邹容路133号",
+    "type": "纪念馆",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "",
+    "lng": 106.577034,
+    "lat": 29.557204,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e5c41cec40e35e5675a47a7a326b3f4",
+     "https://store.is.autonavi.com/showpic/054816f1340960e40000000610556346",
+     "https://aos-comment.amap.com/B00170L5D4/comment/content_media_external_images_media_69145_ss__1770795366533_75710879.jpg"
+    ]
+   }
   },
   {
    "name": "长江索道",
@@ -51,7 +85,24 @@
    "tips": [
     "节假日排队时间很长，尽量早上或工作日去",
     "傍晚坐能看到江面夕阳和两岸亮灯"
-   ]
+   ],
+   "amap": {
+    "name": "重庆长江索道",
+    "id": "B001706L1A",
+    "addr": "南岸区 新华路151号(小什字地铁站5B口旁),上新街4号(索道南站)",
+    "type": "省级景点",
+    "tel": "023-68816888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至2月,12月 周一至周日 08:00-21:00；3月至11月 周一至周日 08:00-22:00 最晚进入21:00",
+    "lng": 106.59241,
+    "lat": 29.553272,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/16df69e9d7e0d24e361b93c9694209cd",
+     "https://store.is.autonavi.com/showpic/3fe140318e5d3c87c6c418d4d929fa22",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/ce1a038d-7a6d-46ed-aeca-c97e1101e57d.jpg"
+    ]
+   }
   },
   {
    "name": "李子坝轻轨穿楼",
@@ -67,7 +118,24 @@
     "观景平台人多，拍照可能要排队",
     "列车班次比较密，等一会儿就能拍到",
     "坐 2 号线的车窗一侧能看到嘉陵江"
-   ]
+   ],
+   "amap": {
+    "name": "李子坝单轨穿楼观景平台",
+    "id": "B0FFLH5QFT",
+    "addr": "渝中区 李子坝正街62号(李子坝地铁站1号口步行110米)",
+    "type": "旅游景点",
+    "tel": "15837910201",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:30-23:00；具体营业状态以当天开放情况为准",
+    "lng": 106.537916,
+    "lat": 29.553629,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/07332bed-1d8e-4b26-a5cc-715fa266137d.jpg",
+     "https://store.is.autonavi.com/showpic/84ddbc2100c062760000009374076079?type=pic",
+     "https://store.is.autonavi.com/showpic/568a5f916d1854740000002671906284"
+    ]
+   }
   },
   {
    "name": "鹅岭二厂",
@@ -82,7 +150,24 @@
    "tips": [
     "楼顶观景位置人多，下午光线好",
     "鹅岭公园和二厂可以连着走"
-   ]
+   ],
+   "amap": {
+    "name": "鹅岭公园",
+    "id": "B001701EF7",
+    "addr": "渝中区 鹅岭正街176号(鹅岭地铁站2A口步行360米)",
+    "type": "公园",
+    "tel": "023-63656270",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 06:00-22:00 最晚进入21:50",
+    "lng": 106.536235,
+    "lat": 29.549688,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e0c2074eb112d71ff3db00d166c5e4e8",
+     "https://store.is.autonavi.com/showpic/23a635a9a38e3c804c1cb7540c623f28",
+     "https://store.is.autonavi.com/showpic/9f431411bbd11f7774b7b77a2d27d722"
+    ]
+   }
   },
   {
    "name": "磁器口古镇",
@@ -98,7 +183,24 @@
     "主街周末非常挤，尽量工作日或早上去",
     "坐地铁 1 号线磁器口站下车即到",
     "麻花可以先试吃再买"
-   ]
+   ],
+   "amap": {
+    "name": "磁器口古镇",
+    "id": "B00170IFE4",
+    "addr": "沙坪坝区 磁南街1号",
+    "type": "国家级景点",
+    "tel": "023-65322661",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 106.449705,
+    "lat": 29.581184,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/0563885f-17e8-4b9a-b97f-ce1e60360f19.jpg",
+     "https://aos-comment.amap.com/B00170IFE4/headerImg/29433e01190f6478f1177e6ca16d17ce_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B00170IFE4/headerImg/770ffdfe9bb66b332cfd2a2f3bb50d48_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "南山一棵树观景台",
@@ -114,7 +216,24 @@
     "傍晚去最好，可以连看日落和夜景",
     "山路弯多，节假日上山会堵车",
     "可以顺便去南山吃泉水鸡"
-   ]
+   ],
+   "amap": {
+    "name": "南山一棵树景区",
+    "id": "B0FFGAMI8G",
+    "addr": "南岸区 南山风景区内",
+    "type": "旅游景点",
+    "tel": "023-62467710",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:00-23:30",
+    "lng": 106.602505,
+    "lat": 29.545316,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGAMI8G/comment/34B6CF01_E49C_4A7C_81AF_732571BBD83B_L0_001_1170_154_1766394585852_36077043.jpg",
+     "https://aos-comment.amap.com/B0FFGAMI8G/headerImg/0A261BE7_F0BA_4215_809F_BAA8DB65436F_L0_001_IMG_0300_1659882165807_bd817f48.JPG",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/7c011f0e-17f3-40e5-85ee-cdc239f7d415.jpg"
+    ]
+   }
   },
   {
    "name": "重庆中国三峡博物馆",
@@ -129,7 +248,24 @@
    "tips": [
     "免费参观，需要提前预约，一般周一闭馆",
     "和人民大礼堂可以安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "重庆中国三峡博物馆",
+    "id": "B001709RVF",
+    "addr": "渝中区 人民路236号",
+    "type": "博物馆",
+    "tel": "023-63679067",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1/1-12/31 周二–周日 09:00–17:00开放 最晚进入16:30；1/1-12/31 周一 全天不开放；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00–18:00开放 最晚进入17:30",
+    "lng": 106.550513,
+    "lat": 29.562014,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f0793548abccf60661920c5dc752e8b6",
+     "https://store.is.autonavi.com/showpic/cba5af9facb886509e75d49b306a7df3",
+     "https://store.is.autonavi.com/showpic/b67e8a164fe512c5cebc71ac71c65a8c"
+    ]
+   }
   },
   {
    "name": "武隆天生三桥",
@@ -145,7 +281,24 @@
     "从主城开车约 3 小时，也可以坐动车到武隆站再转车",
     "景区内要坐观光车和电梯，步行也不少",
     "谷底比较潮湿，穿防滑鞋"
-   ]
+   ],
+   "amap": {
+    "name": "重庆武隆天生三桥风景区",
+    "id": "B00170I6E1",
+    "addr": "武隆区 仙女山街道银杏大道32号",
+    "type": "国家级景点",
+    "tel": "023-77794266",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-16:00",
+    "lng": 107.804818,
+    "lat": 29.433682,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e6fe25b445e04e5d48344d4927386e0a",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/d0c673e0-9e6e-4820-8c4e-4c93dab47274.jpg",
+     "https://store.is.autonavi.com/showpic/14c6d1e57e717acafa0f896dc1e917c7"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +313,24 @@
    "tips": [
     "毛肚、鸭肠讲究「七上八下」，烫十几秒就好",
     "油碟加蒜泥可以降温解辣"
-   ]
+   ],
+   "amap": {
+    "name": "丁眼镜火锅总店",
+    "id": "B0K3RL0B2U",
+    "addr": "渝中区 宏声巷9号楼1-1(巫山纸包鱼旁)",
+    "type": "火锅店",
+    "tel": "13808320670",
+    "rating": 4.6,
+    "cost": 82.0,
+    "open": "周一至周日 10:30-23:00",
+    "lng": 106.570632,
+    "lat": 29.556057,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e433fe08680ffbb10000001495888143?type=pic",
+     "https://store.is.autonavi.com/showpic/be5f851b2de45b7a0000000670600997?type=pic",
+     "https://store.is.autonavi.com/showpic/e057f5d01830f2bf0000002402402438?type=pic"
+    ]
+   }
   },
   {
    "name": "重庆小面",
@@ -173,7 +343,24 @@
    "tips": [
     "可以跟老板说「干溜」或「宽汤」，代表汤的多少",
     "怕辣可以说「少辣」"
-   ]
+   ],
+   "amap": {
+    "name": "酱老麻抄手重庆小面馆(解放碑总店)",
+    "id": "B0FFIKVC4X",
+    "addr": "渝中区 解放碑街道民生路250号",
+    "type": "中餐厅",
+    "tel": "15736001400",
+    "rating": 4.6,
+    "cost": 17.0,
+    "open": "周一至周日 07:00-24:00",
+    "lng": 106.570385,
+    "lat": 29.557575,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/23497b8a3e7e40520000007489572167?type=pic",
+     "https://store.is.autonavi.com/showpic/9b0889edd8fe4f550000003840216467?type=pic",
+     "https://store.is.autonavi.com/showpic/996963e1f3d5b2ee0000003293474536?type=pic"
+    ]
+   }
   },
   {
    "name": "酸辣粉",
@@ -185,7 +372,24 @@
    ],
    "tips": [
     "粉条很烫，小心入口"
-   ]
+   ],
+   "amap": {
+    "name": "十八梯邓凳面(总店)",
+    "id": "B0FFLG2V95",
+    "addr": "渝中区 七星岗街道潘家沟17号铂蓝地大厦一楼门面",
+    "type": "中餐厅",
+    "tel": "17383021965",
+    "rating": 4.6,
+    "cost": 18.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 106.570399,
+    "lat": 29.553986,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/271ae8ef7a8c4e511e213462789fc779",
+     "https://store.is.autonavi.com/showpic/97d6cd23e4ebd3a6645417b160f24a7b",
+     "https://aos-comment.amap.com/B0FFLG2V95/comment/20260303-4ca1d05ef84402260e489316-9uxtXFOTSVH6HqSCpZYoww.jpg"
+    ]
+   }
   },
   {
    "name": "辣子鸡",
@@ -197,7 +401,24 @@
    ],
    "tips": [
     "辣椒是用来增香的，不用吃"
-   ]
+   ],
+   "amap": {
+    "name": "春山居特色辣子鸡",
+    "id": "B00179BTB8",
+    "addr": "沙坪坝区 歌乐山欧家湾16号",
+    "type": "中餐厅",
+    "tel": "023-65508808",
+    "rating": 4.5,
+    "cost": 100.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 106.425146,
+    "lat": 29.576087,
+    "photos": [
+     "https://aos-comment.amap.com/B00179BTB8/comment/content_media_external_file_1000029954_ss__1762154390208_40618234.jpg",
+     "https://aos-comment.amap.com/B00179BTB8/comment/176066811829_1760668119514_88041618.jpg",
+     "https://aos-comment.amap.com/B00179BTB8/comment/20260319-a4b74d7fc5dfe89b50b9730a-9ES5oT6bru67sxgUwEEpB7.jpg"
+    ]
+   }
   },
   {
    "name": "豆花饭",
@@ -209,7 +430,24 @@
    ],
    "tips": [
     "豆花本身没味道，要蘸着吃"
-   ]
+   ],
+   "amap": {
+    "name": "人和水上飘",
+    "id": "B0FFF4Z0W1",
+    "addr": "两江新区 两江新区龙寿巷1-1(北城医院与人和家园之间)",
+    "type": "快餐厅",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 50.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 106.529367,
+    "lat": 29.621508,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8cb923080b8f91c7f84da503cd00dbac",
+     "https://aos-comment.amap.com/B0FFF4Z0W1/comment/CB26B27A_F8EC_48F4_97C5_B040B853D2FF_L0_001_2000_1500_1730478622346_02989034.jpg",
+     "https://aos-comment.amap.com/B0FFF4Z0W1/comment/content_media_external_images_media_13996_ss__1739262950191_47466514.jpg"
+    ]
+   }
   },
   {
    "name": "烤鱼",
@@ -221,7 +459,24 @@
    ],
    "tips": [
     "几个人吃可以选大一点的鱼，再多加配菜"
-   ]
+   ],
+   "amap": {
+    "name": "万州烤鱼(金岛花园店)",
+    "id": "B0FFF4W6C6",
+    "addr": "两江新区 松石北路75号附7号",
+    "type": "特色/地方风味餐厅",
+    "tel": "",
+    "rating": 4.1,
+    "cost": 36.0,
+    "open": "周一至周日 17:00-04:00",
+    "lng": 106.503967,
+    "lat": 29.58642,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFF4W6C6/comment/a256e26b2fb448e25562143b5b9e021a_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/dc0ff164f9e76c9b120c8e3283f7a938",
+     "https://store.is.autonavi.com/showpic/43c73dd8e7b3c315ff2cc007f37dd29e"
+    ]
+   }
   },
   {
    "name": "毛血旺",
@@ -233,7 +488,24 @@
    ],
    "tips": [
     "量比较大，两三个人点一份就够"
-   ]
+   ],
+   "amap": {
+    "name": "隐小二·鲜活点杀·江湖菜·农家菜(回兴创始店)",
+    "id": "B0J19U4XTF",
+    "addr": "两江新区 两江新区两江新区回兴街道宝圣东路76城北·蓝色星空2期",
+    "type": "餐饮相关",
+    "tel": "17725015064",
+    "rating": 4.7,
+    "cost": 62.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 106.610218,
+    "lat": 29.677355,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ef02bda9a484ed840000005017494680?type=pic",
+     "https://store.is.autonavi.com/showpic/6d196fb346b3fb930000003725760685?type=pic",
+     "https://aos-comment.amap.com/B0J19U4XTF/headerImg/b14f5f5eb40d1761a896fd8e3477c652_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

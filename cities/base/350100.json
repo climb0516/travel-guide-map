@@ -21,7 +21,24 @@
     "街区免费开放，部分故居和博物馆单独收费或需要预约",
     "南后街小吃偏游客化，尝尝就好",
     "地铁 1 号线南门兜站或东街口站附近"
-   ]
+   ],
+   "amap": {
+    "name": "三坊七巷",
+    "id": "B024F0VEQ4",
+    "addr": "鼓楼区 南后街139号",
+    "type": "国家级景点",
+    "tel": "0591-83890057",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:30-22:00",
+    "lng": 119.296623,
+    "lat": 26.081958,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9e8b3ddc5b9f3492f6a9632cc4c4530a",
+     "https://store.is.autonavi.com/showpic/3ba8fb0050d4f04fe41e3c4adc48cf1f",
+     "https://store.is.autonavi.com/showpic/c400c593c82b7fb00000009459848700?type=pic"
+    ]
+   }
   },
   {
    "name": "上下杭",
@@ -36,7 +53,24 @@
    "tips": [
     "街区免费，晚上灯光更好看",
     "和三坊七巷之间打车很近，可以安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "上下杭历史文化街区",
+    "id": "B0GRAZ3AY1",
+    "addr": "台江区 下杭路132号",
+    "type": "旅游景点",
+    "tel": "0591-83219581",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.304687,
+    "lat": 26.052103,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4f20fdab58f5a1140bf93ac7dcbe943e",
+     "https://store.is.autonavi.com/showpic/e383ca8ac77b0b0f22efaf5b1383300c",
+     "https://store.is.autonavi.com/showpic/328e5dec4eeed9650000002996400711"
+    ]
+   }
   },
   {
    "name": "烟台山",
@@ -51,7 +85,24 @@
    "tips": [
     "部分老建筑是住宅或单位，注意不要擅自进入",
     "坡路多，穿舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "烟台山公园",
+    "id": "B024F05AB8",
+    "addr": "仓山区 仓前街道梅坞路14号",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.315527,
+    "lat": 26.044964,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5d9bd26e14a032efb31b9ba8eefb9118",
+     "https://store.is.autonavi.com/showpic/1368fb1d0305d3bc0000004895630620?type=pic",
+     "https://store.is.autonavi.com/showpic/9e96b11421480b6d0000007999624683?type=pic"
+    ]
+   }
   },
   {
    "name": "鼓山",
@@ -67,7 +118,24 @@
     "登山古道全是台阶，量力而行，带够水",
     "涌泉寺有斋饭，可以在山上吃一顿",
     "周末本地爬山的人多，早点出发更凉快"
-   ]
+   ],
+   "amap": {
+    "name": "福州市鼓山旅游景区",
+    "id": "B024F05OS5",
+    "addr": "晋安区 福马路1000号(鼓山地铁站D南口步行190米)",
+    "type": "国家级景点",
+    "tel": "0591-83618637",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.37561,
+    "lat": 26.053221,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cac3621ddbacd2210b468cd46393436e",
+     "https://store.is.autonavi.com/showpic/84f7d45ea9060e470000007792874982?type=pic",
+     "https://store.is.autonavi.com/showpic/70b77d6ae3431d4f0000009165588765?type=pic"
+    ]
+   }
   },
   {
    "name": "西湖公园和福建博物院",
@@ -82,7 +150,24 @@
    "tips": [
     "福建博物院免费参观，需要提前预约，一般周一闭馆",
     "公园免费，适合早晚散步"
-   ]
+   ],
+   "amap": {
+    "name": "福建博物院",
+    "id": "B024F01MNU",
+    "addr": "鼓楼区 湖头街96号(近西湖公园)",
+    "type": "博物馆",
+    "tel": "0591-83757627",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周二至周五 09:00-18:00开放 最晚进入17:30；周六至周日 09:00-20:00开放 最晚进入19:30周一 不开放；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00-20:00开放 最晚进入19:30具体开放时间以官方通知为准",
+    "lng": 119.287602,
+    "lat": 26.094102,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2a1ccc53a8893ee165e0968ad445fb5a",
+     "https://store.is.autonavi.com/showpic/f0b734bf247a6fe36f1377e444f993b7",
+     "https://store.is.autonavi.com/showpic/398579fa99de4bcf729303270241365e"
+    ]
+   }
   },
   {
    "name": "福道",
@@ -97,7 +182,24 @@
    "tips": [
     "福道免费开放，入口有好几个，按自己方便的位置进出",
     "夏天中午很晒，尽量早晚去"
-   ]
+   ],
+   "amap": {
+    "name": "福道",
+    "id": "B0FFKKSL04",
+    "addr": "鼓楼区 洪山镇西环北路110号附近",
+    "type": "旅游景点",
+    "tel": "0591-83768730",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-22:00",
+    "lng": 119.266264,
+    "lat": 26.086488,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/31c7bac2312021660000008086812183?type=pic",
+     "https://store.is.autonavi.com/showpic/206cb1d9e67d130e0000005450638368?type=pic",
+     "https://store.is.autonavi.com/showpic/be08da1acd7318190000000734590505?type=pic"
+    ]
+   }
   },
   {
    "name": "林则徐纪念馆",
@@ -112,7 +214,24 @@
    "tips": [
     "免费参观，开放时间和是否预约以官方公告为准",
     "和三坊七巷安排在同一天比较顺"
-   ]
+   ],
+   "amap": {
+    "name": "林则徐纪念馆",
+    "id": "B024F03N1D",
+    "addr": "鼓楼区 澳门路16号(南门兜地铁站L口步行420米)",
+    "type": "纪念馆",
+    "tel": "0591-87622782",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "",
+    "lng": 119.297274,
+    "lat": 26.078369,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/91f2bdc5012e56d8ba98b41b364e2e5b",
+     "https://aos-comment.amap.com/B024F03N1D/comment/8ca3b95e8157f66f1f33d0bf669655a4_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/9d97dba3d11a530d0000003626310158?type=pic"
+    ]
+   }
   },
   {
    "name": "马尾船政文化",
@@ -127,7 +246,24 @@
    "tips": [
     "开放时间和预约方式以官方公告为准，一般周一闭馆",
     "适合对近代史感兴趣的人，可以和鼓山安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "中国船政文化博物馆",
+    "id": "B024F05AOB",
+    "addr": "马尾区 联安路142号中国船政文化景区内(西北角)",
+    "type": "博物馆",
+    "tel": "0591-83983253",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1/1-12/31 周二–周日 09:00–17:00开放 最晚进入16:30；1/1-12/31 周一 全天不开放；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00–17:00开放 最晚进入16:30",
+    "lng": 119.446519,
+    "lat": 25.989732,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0be0ea9a3de49f68ebc7b9c573fba830",
+     "https://store.is.autonavi.com/showpic/216c5c0384946b4ccbb4bbe66b1d5d24",
+     "https://store.is.autonavi.com/showpic/69e2a9b0a6330f900000002876764875?type=pic"
+    ]
+   }
   },
   {
    "name": "平潭岛",
@@ -143,7 +279,24 @@
     "岛上风很大，帽子和轻薄物品容易被吹走",
     "蓝眼泪不保证能看到，别专门为它去",
     "从福州市区自驾约 2 小时，也可以坐动车到平潭站"
-   ]
+   ],
+   "amap": {
+    "name": "平潭国际旅游岛·坛南湾",
+    "id": "B0FFG4E08T",
+    "addr": "平潭县 平潭综合实验区敖东镇田美路",
+    "type": "风景名胜",
+    "tel": "0591-38080686",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.759915,
+    "lat": 25.438532,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG4E08T/comment/266C7D37_2F11_4F90_8118_958DB28275AE_L0_001_2000_150_1756192131957_18864886.jpg",
+     "https://store.is.autonavi.com/showpic/81d887c5c5745dd02e32383433ec7946",
+     "https://store.is.autonavi.com/showpic/fa12bf3ce5d8c99ca93149b9d5b3e4e8"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "用料差别很大，价格也悬殊，点之前看清用料",
     "单人份小盅就够尝鲜"
-   ]
+   ],
+   "amap": {
+    "name": "聚春园(南后街店)",
+    "id": "B0FFFFRTTG",
+    "addr": "鼓楼区 南后街45号",
+    "type": "糕饼店",
+    "tel": "0591-87503160",
+    "rating": 4.5,
+    "cost": 21.0,
+    "open": "周一至周日 08:00-22:00",
+    "lng": 119.297156,
+    "lat": 26.081769,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c8aad9fcd33d7b1b0000003099930341?type=pic",
+     "https://aos-comment.amap.com/B0FFFFRTTG/headerImg/97072D59_2326_4FA7_858D_CF2AA7504BEA_L0_001_4032_3024__1656125147738_1b1ec608.jpg",
+     "https://aos-comment.amap.com/B0FFFFRTTG/comment/FAF0C146_EDB0_4EEE_87F4_AE170B9FFC5E_L0_001_2000_150_1770262256003_02066459.jpg"
+    ]
+   }
   },
   {
    "name": "福州鱼丸",
@@ -170,7 +340,24 @@
    ],
    "tips": [
     "里面有热汤，咬的时候小心烫"
-   ]
+   ],
+   "amap": {
+    "name": "老福洲三十年·福州风味(东街口三坊七巷店)",
+    "id": "B0GU3ZHZEO",
+    "addr": "鼓楼区 吉庇巷70号(南门兜地铁站L口步行420米)",
+    "type": "福建菜",
+    "tel": "0591-87736189",
+    "rating": 4.6,
+    "cost": 92.0,
+    "open": "周一至周日 11:00-14:30,16:00-21:30",
+    "lng": 119.29865,
+    "lat": 26.080515,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4be6be14414eb9c67f132377041af1a4",
+     "https://aos-comment.amap.com/B0GU3ZHZEO/comment/content_media_external_file_57711_ss__1770539484643_11724439.jpg",
+     "https://store.is.autonavi.com/showpic/e2de9a876a53e22e296ff40ac039dd9c"
+    ]
+   }
   },
   {
    "name": "肉燕",
@@ -182,7 +369,24 @@
    ],
    "tips": [
     "点「太平燕」能一次吃到肉燕和鸭蛋，寓意平安"
-   ]
+   ],
+   "amap": {
+    "name": "同利肉燕老铺(澳门路店)",
+    "id": "B024F01CY2",
+    "addr": "鼓楼区 澳门路3号(林则徐纪念馆对面)",
+    "type": "购物相关场所",
+    "tel": "17759075632",
+    "rating": 4.4,
+    "cost": 24.0,
+    "open": "周一至周日 08:00-20:30",
+    "lng": 119.298088,
+    "lat": 26.078316,
+    "photos": [
+     "https://aos-comment.amap.com/B024F01CY2/comment/content_media_external_file_1000008074_ss__1763520720563_23090767.jpg",
+     "https://aos-comment.amap.com/B024F01CY2/comment/content_media_external_file_21270_ss__1766477137263_88567235.jpg",
+     "https://store.is.autonavi.com/showpic/51262646af1f2add03b5705b51fd1af0"
+    ]
+   }
   },
   {
    "name": "锅边糊",
@@ -195,7 +399,24 @@
    "tips": [
     "早上吃最地道，很多店中午就卖完了",
     "搭配海蛎饼一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "连江锅边(福新店)",
+    "id": "B0FFFGXALL",
+    "addr": "晋安区 福新中路29号",
+    "type": "中餐厅",
+    "tel": "13635272838",
+    "rating": 4.3,
+    "cost": 9.0,
+    "open": "周一至周日 06:00-02:00",
+    "lng": 119.32141,
+    "lat": 26.080795,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/48b71d238ffa4659d4415d94c4706a0f",
+     "https://store.is.autonavi.com/showpic/543f700fa310076b258e8c7f",
+     "https://store.is.autonavi.com/showpic/13edda36cbd1e1af6dc7586d4bd160c5"
+    ]
+   }
   },
   {
    "name": "荔枝肉",
@@ -207,7 +428,22 @@
    ],
    "tips": [
     "偏甜偏酸，喜欢清淡的可以少点几道甜口菜"
-   ]
+   ],
+   "amap": {
+    "name": "福州古法荔枝肉",
+    "id": "B0MAX9NHEN",
+    "addr": "仓山区 金祥路923号(桔园洲地铁站B西南口旁)",
+    "type": "中餐厅",
+    "tel": "18059712517",
+    "rating": 3.5,
+    "cost": 0,
+    "open": "",
+    "lng": 119.242014,
+    "lat": 26.046508,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/31430fd189efa885c11d417e9e5a94d3"
+    ]
+   }
   },
   {
    "name": "拌面扁肉",
@@ -219,7 +455,24 @@
    ],
    "tips": [
     "拌面要趁热拌匀，凉了花生酱容易结块"
-   ]
+   ],
+   "amap": {
+    "name": "苏捞坊",
+    "id": "B0FFLOJ57N",
+    "addr": "仓山区 大坪路先峰路口(人民检查院对面)",
+    "type": "火锅店",
+    "tel": "15059106835",
+    "rating": 4.7,
+    "cost": 36.0,
+    "open": "周一至周日 11:00-21:00",
+    "lng": 119.331818,
+    "lat": 26.041801,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4f110dc9124d77490000002119074216?type=pic",
+     "https://aos-comment.amap.com/B0FFLOJ57N/comment/menu/9fd2c39b34d15c1171c85eb2cbb0c735_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFLOJ57N/comment/31ea1a3e7a26038c12a823dde2d4d7c9_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "海蛎饼",
@@ -231,7 +484,24 @@
    ],
    "tips": [
     "一定要吃现炸的，放久了外壳会软"
-   ]
+   ],
+   "amap": {
+    "name": "阿郑嫂福清番薯丸海蛎饼(总店)",
+    "id": "B0FFKT9B11",
+    "addr": "鼓楼区 鼓西街道达明路138号新村3座9号店面(鼓西路189号)",
+    "type": "餐饮相关",
+    "tel": "18050792777",
+    "rating": 4.2,
+    "cost": 13.0,
+    "open": "周一至周日 09:30-21:30",
+    "lng": 119.29424,
+    "lat": 26.088723,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKT9B11/comment/9B75B7AB_5C11_4FF9_A0FB_4E7539EBCB61_L0_001_1500_2000_1734425234901_77201304.jpg",
+     "https://aos-comment.amap.com/B0FFKT9B11/comment/177139198716_1771391997336_19976017.jpg",
+     "https://aos-comment.amap.com/B0FFKT9B11/comment/20260323-24affdf8790710a7aa3dbdfb-2l5oRLZLkKm8piRq9WA3HO.jpg"
+    ]
+   }
   },
   {
    "name": "芋泥",
@@ -243,7 +513,24 @@
    ],
    "tips": [
     "传统芋泥用猪油，比较甜腻，几个人分一份就好"
-   ]
+   ],
+   "amap": {
+    "name": "破店·非遗蹄膀·佛跳墙·福建菜(上下杭店)",
+    "id": "B0JAXKXY7I",
+    "addr": "台江区 上下杭历史文化街区利发巷69号",
+    "type": "中餐厅",
+    "tel": "18965912397",
+    "rating": 4.5,
+    "cost": 57.0,
+    "open": "周一至周日 10:00-21:30",
+    "lng": 119.307885,
+    "lat": 26.052503,
+    "photos": [
+     "https://aos-comment.amap.com/B0JAXKXY7I/comment/content_media_external_images_media_1000038223_ss__1727841772786_46386696.jpg",
+     "https://aos-comment.amap.com/B0JAXKXY7I/comment/20260204-cabbd3766ecac7f4b4ef1a0a-ATlx8R63nbKAqztjfLBrl3.jpg",
+     "https://aos-comment.amap.com/B0JAXKXY7I/comment/content_media_external_images_media_1000038217_ss__1727841772785_18508812.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

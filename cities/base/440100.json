@@ -21,7 +21,24 @@
     "上塔的门票按高度分档，提前在官方渠道买好",
     "珠江夜游有多个码头可以上船，晚饭后的时段最热门",
     "地铁 3 号线、APM 线广州塔站下车即到"
-   ]
+   ],
+   "amap": {
+    "name": "广州塔",
+    "id": "B00140WBI1",
+    "addr": "海珠区 阅江西路222号",
+    "type": "国家级景点",
+    "tel": "020-89338222",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:30-22:30 最晚进入22:00",
+    "lng": 113.324521,
+    "lat": 23.106428,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d5b56df50d024cbd33e4e1a16f77d419",
+     "https://store.is.autonavi.com/showpic/548caf7e81c63a843faae5d1a9be968c",
+     "https://store.is.autonavi.com/showpic/d4bb7a5b77ff1de082bb50452c61657c"
+    ]
+   }
   },
   {
    "name": "陈家祠",
@@ -37,7 +54,24 @@
     "门票需要购买，节假日人多可以早点去",
     "地铁 1 号线陈家祠站下车即到",
     "建筑细节很多，带个望远镜或手机长焦会看得更清楚"
-   ]
+   ],
+   "amap": {
+    "name": "陈家祠堂",
+    "id": "B00140H88E",
+    "addr": "荔湾区 中山七路恩龙里34号(地铁1,8号线陈家祠站D出口步行110米)",
+    "type": "国家级景点",
+    "tel": "020-81819653",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一, 周三至周日 09:00-18:00， 周二 全天关闭（法定节假日除外）",
+    "lng": 113.245158,
+    "lat": 23.126692,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c7d75e7e2eddcfff75643f40e6aa8572",
+     "https://store.is.autonavi.com/showpic/da9a8666c1ed5a5c9ca4abf44a7c7f1b",
+     "https://store.is.autonavi.com/showpic/e0b4f1ceb6e597539a740e10ee68b796"
+    ]
+   }
   },
   {
    "name": "沙面",
@@ -52,7 +86,24 @@
    "tips": [
     "地铁 1 号线、6 号线黄沙站下车步行可到",
     "老建筑大多是办公或住宅，不能进入，外面看就好"
-   ]
+   ],
+   "amap": {
+    "name": "沙面岛",
+    "id": "B0FFFAJYVI",
+    "addr": "荔湾区 沙面南街52号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.244707,
+    "lat": 23.106802,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/91dcee6b7c96761aab55616e493b7013",
+     "https://aos-comment.amap.com/B0FFFAJYVI/comment/content_media_external_file_196256_1767444427544_78275475.jpg",
+     "https://store.is.autonavi.com/showpic/0cb21e46a456d38dabb614ed05a3e0fa"
+    ]
+   }
   },
   {
    "name": "永庆坊",
@@ -67,7 +118,24 @@
    "tips": [
     "粤剧艺术博物馆需要预约，周一一般闭馆",
     "地铁 1 号线、5 号线附近站点下车步行可到"
-   ]
+   ],
+   "amap": {
+    "name": "永庆坊",
+    "id": "B0IUPDSJHU",
+    "addr": "荔湾区 恩宁路99号",
+    "type": "风景名胜",
+    "tel": "020-33370192",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.237495,
+    "lat": 23.114821,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/c35f6718-0f3b-4469-a7a0-830bee44d9c9.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/cb082144-68c6-40f1-bbc1-64d082c6b868.jpg",
+     "https://aos-comment.amap.com/B0FFHK3TWH/headerImg/37bfcf875a83a69d53ea90b2c9387eab_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "越秀公园",
@@ -83,7 +151,24 @@
     "公园免费，镇海楼需要另外购票",
     "地铁 2 号线越秀公园站下车即到",
     "山上台阶较多，夏天去要防暑"
-   ]
+   ],
+   "amap": {
+    "name": "越秀公园",
+    "id": "B00140BNNF",
+    "addr": "越秀区 解放北路988号",
+    "type": "公园",
+    "tel": "020-86661950",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:00-22:00 最晚进入21:30",
+    "lng": 113.265561,
+    "lat": 23.140096,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/eab86347c2bec4ec7bfbc0a018153f3e",
+     "https://store.is.autonavi.com/showpic/69714ab65134025e3a74f26263e3bdfc",
+     "https://store.is.autonavi.com/showpic/e0557710b4c445efed236cb0adf1f3d8"
+    ]
+   }
   },
   {
    "name": "南越王博物院",
@@ -98,7 +183,24 @@
    "tips": [
     "需要提前预约，周一一般闭馆",
     "地铁 2 号线越秀公园站下车步行可到"
-   ]
+   ],
+   "amap": {
+    "name": "南越王博物院(王墓展区)",
+    "id": "B0014021B3",
+    "addr": "越秀区 解放北路867号(地铁2号线越秀公园站E出口步行150米)",
+    "type": "博物馆",
+    "tel": "020-36182920",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二-周日, 09:00-17:30；周一, 全天不开放；法定节假日（含周一）, 09:00-17:30",
+    "lng": 113.261015,
+    "lat": 23.137823,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d76826e689f36a63056ffd20331daa0e",
+     "https://store.is.autonavi.com/showpic/c6a1944fda30c9d301dcdb7f6d2c163f",
+     "https://store.is.autonavi.com/showpic/673ba34ff547b2d67c583823312dbc3d"
+    ]
+   }
   },
   {
    "name": "广东省博物馆",
@@ -113,7 +215,24 @@
    "tips": [
     "免费参观，需要提前预约，周一一般闭馆",
     "地铁 3 号线、5 号线珠江新城站下车步行可到"
-   ]
+   ],
+   "amap": {
+    "name": "广东省博物馆",
+    "id": "B00140U6L3",
+    "addr": "天河区 珠江东路2号(大剧院地铁站B口步行180米)",
+    "type": "博物馆",
+    "tel": "020-38046886",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "7月-8月 周二至周日 09:00-21:00开放 最晚进入20:00； 1月-6月, 9月-12月 周二至周日 09:00-17:00开放 最晚进入16:00 周一 不开放(法定节假日除外)",
+    "lng": 113.326369,
+    "lat": 23.114763,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/85fc1a6f904ebab3df6f6346f32aaacb",
+     "https://store.is.autonavi.com/showpic/5987170707206a0af7f745d255869f5a",
+     "https://store.is.autonavi.com/showpic/416161fddc3472435773e67121d53e2e"
+    ]
+   }
   },
   {
    "name": "白云山",
@@ -129,7 +248,24 @@
     "景区面积大，建议提前规划好从哪个门进、哪个门出",
     "周末上午人多，缆车可能要排队",
     "下雨天山路湿滑，带好雨具"
-   ]
+   ],
+   "amap": {
+    "name": "广州市白云山风景名胜区",
+    "id": "B0014014AD",
+    "addr": "白云区 广园中路801号",
+    "type": "国家级景点",
+    "tel": "020-37222222",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；南门和西门全天开放；北门开放时间:07:00-22:00",
+    "lng": 113.297041,
+    "lat": 23.180245,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/18806769bd40794b77f7fb90252373b1",
+     "https://store.is.autonavi.com/showpic/4aad6963a2e51a189760f8650c6fb7a7",
+     "https://store.is.autonavi.com/showpic/855e28d2d318eef81b475c3ff599953b"
+    ]
+   }
   },
   {
    "name": "长隆野生动物世界",
@@ -145,7 +281,24 @@
     "门票较贵，提前在官方渠道购买，留意套票",
     "园区很大，一天走下来很累，带好推车和水",
     "地铁 3 号线、7 号线汉溪长隆站下车后坐接驳车或步行"
-   ]
+   ],
+   "amap": {
+    "name": "长隆野生动物世界",
+    "id": "B00141TJLD",
+    "addr": "番禺区 汉溪大道东299号",
+    "type": "动物园",
+    "tel": "020-84783333",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "10月1日-10月6日:8:30-19:00；10月7日-10月31日:9:30-18:00注:营业时间与设施运营计划如有调整，请以官网/现场公示为准",
+    "lng": 113.315593,
+    "lat": 23.00266,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a918f102ea95db24dba028144b854df0",
+     "https://aos-comment.amap.com/B00141TJLD/comment/A4B3C44D_EE26_45DA_AB08_D526A3BC2669_L0_001_1125_150_1766669061625_90735338.jpg",
+     "https://store.is.autonavi.com/showpic/b3f2cdee8c133f61d418a10867c7fcb4"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +313,24 @@
    "tips": [
     "周末上午人多，最好 9 点前到或者提前取号",
     "茶位费一般按人收，点心可以几个人分着多尝几样"
-   ]
+   ],
+   "amap": {
+    "name": "点都德(北京路贰店)",
+    "id": "B0FFK6QJP6",
+    "addr": "越秀区 北京路352、354号",
+    "type": "餐饮相关",
+    "tel": "020-83522927",
+    "rating": 4.6,
+    "cost": 86.0,
+    "open": "周一至周日 08:00-16:00,16:30-21:00",
+    "lng": 113.268955,
+    "lat": 23.126571,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e23b9038d9f5540dbcb120d63e9ee229",
+     "https://aos-comment.amap.com/B0FFK6QJP6/comment/D1EDCB48_1141_417E_8CA2_E70F64CD6827_L0_001_2016_151_1765251522959_30596873.jpg",
+     "https://store.is.autonavi.com/showpic/fc7721d4d49bfaad02a776fafabf5d3b"
+    ]
+   }
   },
   {
    "name": "白切鸡",
@@ -172,7 +342,24 @@
    ],
    "tips": [
     "骨头带点血丝是正常做法，不习惯的可以和店家说"
-   ]
+   ],
+   "amap": {
+    "name": "清平饭店·广州第一鸡",
+    "id": "B0JKN7JQGS",
+    "addr": "荔湾区 中山七路扬韬科技广场1号楼2层(陈家祠地铁站A出口)",
+    "type": "中餐厅",
+    "tel": "18102684239",
+    "rating": 4.6,
+    "cost": 85.0,
+    "open": "周一至周日 11:00-14:00,17:00-21:00",
+    "lng": 113.245021,
+    "lat": 23.125304,
+    "photos": [
+     "https://aos-comment.amap.com/B0JKN7JQGS/comment/95F21D1B_17BA_4285_B016_4B47CEA7E68B_L0_001_1179_84_1769558299005_25783689.jpg",
+     "https://aos-comment.amap.com/B0JKN7JQGS/comment/content_media_external_file_100002746_1769013887985_40279861.jpg",
+     "https://aos-comment.amap.com/B0JKN7JQGS/comment/content_media_external_file_1000080355_ss__1771067830074_13484208.jpg"
+    ]
+   }
   },
   {
    "name": "烧鹅",
@@ -185,7 +372,24 @@
    "tips": [
     "想吃不同部位可以说「要髀」（腿）或者「要胸」",
     "双拼、三拼饭能一次尝几种烧味"
-   ]
+   ],
+   "amap": {
+    "name": "東園·广州味·点心与烧鹅(大沙头店)",
+    "id": "B0KASUN3CD",
+    "addr": "越秀区 沿江东路440号",
+    "type": "中餐厅",
+    "tel": "020-31191001",
+    "rating": 4.7,
+    "cost": 80.0,
+    "open": "周一至周日 08:00-14:00,17:00-21:30",
+    "lng": 113.283544,
+    "lat": 23.113215,
+    "photos": [
+     "https://aos-comment.amap.com/B0KASUN3CD/comment/content_media_external_file_9980_1763046725780_95566309.jpg",
+     "https://aos-comment.amap.com/B0KASUN3CD/comment/BC438B23_2236_4B2B_8611_A9EBCC23BECB_L0_001_2000_150_1746171174249_24440745.jpg",
+     "https://aos-comment.amap.com/B0KASUN3CD/comment/content_media_external_images_media_28972_ss__1727509929074_70282993.jpg"
+    ]
+   }
   },
   {
    "name": "肠粉",
@@ -197,7 +401,24 @@
    ],
    "tips": [
     "早餐时段现蒸的最好吃"
-   ]
+   ],
+   "amap": {
+    "name": "银记肠粉(北京路店)",
+    "id": "B0JDBMFGU9",
+    "addr": "越秀区 惠福东路519号(北京路地铁站B口步行490米)",
+    "type": "中餐厅",
+    "tel": "18929500090",
+    "rating": 4.5,
+    "cost": 15.0,
+    "open": "周一至周日 06:30-00:30",
+    "lng": 113.26821,
+    "lat": 23.121449,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/70e101b442a07d8eb514b7719d0c6215",
+     "https://store.is.autonavi.com/showpic/6e2e3d357e57c31c9b37f86525ada51f",
+     "https://aos-comment.amap.com/B0JDBMFGU9/comment/content_media_external_file_1000011319_ss__1768707486919_11083231.jpg"
+    ]
+   }
   },
   {
    "name": "艇仔粥",
@@ -209,7 +430,24 @@
    ],
    "tips": [
     "粥很烫，配料多，慢慢吃"
-   ]
+   ],
+   "amap": {
+    "name": "荔枝湾艇仔粥(广州美食园店)",
+    "id": "B0FFK8AHEA",
+    "addr": "荔湾区 泮塘路东侧B栋",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.3,
+    "cost": 19.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 113.236464,
+    "lat": 23.122395,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cfea6b68dc7ac7faed9fc82ee96a6183",
+     "https://store.is.autonavi.com/showpic/8ec26caffeb402f496ffb7cfffe5ba7f",
+     "https://store.is.autonavi.com/showpic/fc7812a0b092ef8971578e180c346983"
+    ]
+   }
   },
   {
    "name": "双皮奶",
@@ -221,7 +459,24 @@
    ],
    "tips": [
     "老字号店人多，可以外带边走边吃"
-   ]
+   ],
+   "amap": {
+    "name": "南信牛奶甜品专家",
+    "id": "B00140GYAI",
+    "addr": "荔湾区 第十甫路47号",
+    "type": "甜品店",
+    "tel": "020-81389904",
+    "rating": 4.7,
+    "cost": 27.0,
+    "open": "周一至周日 10:00-22:30",
+    "lng": 113.242835,
+    "lat": 23.113477,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c4831e7c3bb21e7bea3bf4e90e7ad7b9",
+     "https://store.is.autonavi.com/showpic/c8d7782713a64a9a7cd1471c17f8d965",
+     "https://store.is.autonavi.com/showpic/11b74fdb1cc6f353becc26223387402a"
+    ]
+   }
   },
   {
    "name": "牛杂",
@@ -233,7 +488,24 @@
    ],
    "tips": [
     "不吃内脏的可以只点萝卜和牛筋"
-   ]
+   ],
+   "amap": {
+    "name": "沙胆彪炭炉牛杂煲(广州北京路店)",
+    "id": "B0FFLKPLNA",
+    "addr": "越秀区 清源巷12号1楼",
+    "type": "中餐厅",
+    "tel": "18026230912",
+    "rating": 4.5,
+    "cost": 80.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 113.267908,
+    "lat": 23.121033,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFLKPLNA/comment/936B820D_1528_4A5A_A67A_9182E67EDF85_L0_001_1500_2000_1729650820487_37864965.jpg",
+     "https://store.is.autonavi.com/showpic/fe822c83c1aee2e10000009491788838?type=pic",
+     "https://store.is.autonavi.com/showpic/ee97897151e6d7070000002739276979?type=pic"
+    ]
+   }
   },
   {
    "name": "煲仔饭",
@@ -245,7 +517,24 @@
    ],
    "tips": [
     "现煮需要时间，饭点去可能要等比较久"
-   ]
+   ],
+   "amap": {
+    "name": "民记煲仔饭(北京路店)",
+    "id": "B0FFLI77QK",
+    "addr": "越秀区 惠福东路452号",
+    "type": "餐饮相关",
+    "tel": "020-83700872",
+    "rating": 4.7,
+    "cost": 36.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 113.265251,
+    "lat": 23.120474,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f4d9cdd35346c0a9873e80d8cdcdf67f",
+     "https://store.is.autonavi.com/showpic/3ff23f8bf90d5c080000000718094947?type=pic",
+     "https://aos-comment.amap.com/B0FFLI77QK/comment/_1772809127016_66543235.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

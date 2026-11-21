@@ -21,7 +21,24 @@
     "门票需要提前在官方渠道实名预约，旺季常常提前几天约满",
     "开园就进人最少，十点后旅游团陆续进来会很挤",
     "园内建议请讲解或用语音导览，不然很容易只看个热闹"
-   ]
+   ],
+   "amap": {
+    "name": "拙政园",
+    "id": "B020001R2Q",
+    "addr": "姑苏区 东北街178号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至2月,11月至12月 周一至周日 07:30-17:00 最晚进入16:30；3月至10月 周一至周日 07:30-17:30 最晚进入17:00；周二-周日开放夜游:18:30-21:00（法定节假日21:30），日场和夜游之间将清场。暮游体验以项目购买入场时间为准。",
+    "lng": 120.629211,
+    "lat": 31.324194,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/72263ebfa1dfbeefe0269400e6ba822f",
+     "https://store.is.autonavi.com/showpic/ede1a1405804de918a4a852ad43c6e9a",
+     "https://store.is.autonavi.com/showpic/19da5ec8f95f8999c2eb98c4004afadd"
+    ]
+   }
   },
   {
    "name": "苏州博物馆",
@@ -37,7 +54,24 @@
     "免费参观，需要提前预约，节假日名额很紧",
     "周一通常闭馆，出发前看官方公告",
     "就在拙政园隔壁，可以一起安排"
-   ]
+   ],
+   "amap": {
+    "name": "苏州博物馆(本馆)",
+    "id": "B020001285",
+    "addr": "姑苏区 东北街204号",
+    "type": "博物馆",
+    "tel": "0512-67575666",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "09/25-09/27 10:00–20:00开放 最晚进入19:00；09/30-10/06 10:00–20:00开放 最晚进入19:00；01/01-09/24 周二–周日 09:00–17:00开放 最晚进入16:00；09/28-09/29 周二–周日 09:00–17:00开放 最晚进入16:00；10/07-12/31 周二–周日 09:00–17:00开放 最晚进入16:00；01/01-09/24 周一 全天不开放；09/28-09/29 周一 全天不开放；10/07-12/31 周一 全天不开放；春节,劳动节,端午节 09:00–17:00开放；夜间开放时间另行公布。如本馆遇有重大活动或重要设备设施维修保养时，可根据需要临时闭馆，届时将告示公众。",
+    "lng": 120.627856,
+    "lat": 31.322948,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/aced2ad6e6cebff9f83132f53195b0a5",
+     "https://store.is.autonavi.com/showpic/8483188a05785303267188c627a21c12",
+     "https://store.is.autonavi.com/showpic/0fb59a9fcd3d3ab1b7927f3bfcbc087b"
+    ]
+   }
   },
   {
    "name": "平江路",
@@ -53,7 +87,24 @@
     "主街节假日很挤，清晨或晚上去体验更好",
     "听评弹的茶馆一般按茶位收费，进门前问清价格",
     "离拙政园不远，可以连着逛"
-   ]
+   ],
+   "amap": {
+    "name": "平江路",
+    "id": "B0FFG6OTD5",
+    "addr": "姑苏区 白塔东路65号",
+    "type": "特色商业街",
+    "tel": "0512-69163907",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "00:00-24:00；游船两班,10:00-14:00各班(开船前半小时停止换票)",
+    "lng": 120.634556,
+    "lat": 31.313969,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5b8d0cdca4174cc7a052a5e06035975f",
+     "https://store.is.autonavi.com/showpic/d0e55356d0974366ba01f5679f944e4e",
+     "https://store.is.autonavi.com/showpic/45e2f18b552c02c91a1ffa8c47c199b6"
+    ]
+   }
   },
   {
    "name": "留园",
@@ -68,7 +119,24 @@
    "tips": [
     "位于老城西北，离拙政园有一段距离，打车比较方便",
     "可以和虎丘、山塘街安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "留园",
+    "id": "B02000IFFA",
+    "addr": "姑苏区 阊门外留园路338号",
+    "type": "世界遗产",
+    "tel": "0512-68123123",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "3–10月7:30–17:30(17:00 止入),11–2月7:30–17:00(16:30 止入)(数据来源:江苏省文旅厅公共服务平台苏心游)",
+    "lng": 120.59226,
+    "lat": 31.315369,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9a023735af5bae8759d1ad0ddeaf45d3",
+     "https://store.is.autonavi.com/showpic/e5701b5b4f8cd37f85810f2427ccfa80",
+     "https://store.is.autonavi.com/showpic/989b9e0cda8852e646c357fe02b42bfa"
+    ]
+   }
   },
   {
    "name": "狮子林",
@@ -83,7 +151,24 @@
    "tips": [
     "需要购票，旺季建议提前预约",
     "假山石阶不平，带老人小孩注意脚下"
-   ]
+   ],
+   "amap": {
+    "name": "狮子林",
+    "id": "B020001B0C",
+    "addr": "姑苏区 园林路23号",
+    "type": "国家级景点",
+    "tel": "0512-67773263",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "3–10月7:30–17:30,11–次年2月7:30–17:00(数据来源:江苏省文旅厅公共服务平台苏心游)",
+    "lng": 120.629095,
+    "lat": 31.321068,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/392c0cfd704012a9e49c534b960d81a9",
+     "https://store.is.autonavi.com/showpic/0ae6b46f9d5b4acd1082904a8e3d85ab",
+     "https://store.is.autonavi.com/showpic/256b59c1286f6b2f618b93130e609908"
+    ]
+   }
   },
   {
    "name": "虎丘",
@@ -98,7 +183,24 @@
    "tips": [
     "需要购票，走路不多，但有上下坡",
     "下午去，傍晚接山塘街夜景比较顺"
-   ]
+   ],
+   "amap": {
+    "name": "虎丘山风景区",
+    "id": "B020001DMQ",
+    "addr": "姑苏区 山塘街898号",
+    "type": "世界遗产",
+    "tel": "0512-65323488",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至4月,11月至12月 周一至周日 07:30-17:30 最晚进入17:00；5月至10月 周一至周日 07:30-18:00 最晚进入17:30",
+    "lng": 120.580016,
+    "lat": 31.334584,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d814aa2aaf63b6199d4701ca3194ab6b",
+     "https://store.is.autonavi.com/showpic/eaa0d676a6edd79462f91c9f7c9fe829",
+     "https://store.is.autonavi.com/showpic/9801ec2f6e51bd0bd75d36e072262a9c"
+    ]
+   }
   },
   {
    "name": "山塘街",
@@ -113,7 +215,24 @@
    "tips": [
     "靠近阊门一段人多偏商业化，往西走更安静",
     "夜游船票按班次售卖，节假日提前购买"
-   ]
+   ],
+   "amap": {
+    "name": "七里山塘景区",
+    "id": "B0200178TG",
+    "addr": "姑苏区 山塘街177号",
+    "type": "国家级景点",
+    "tel": "0512-65314467",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 120.602105,
+    "lat": 31.317059,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3ad4167680bb72c570faeb1df76c21bb",
+     "https://store.is.autonavi.com/showpic/7d399e4c1563b2f95b35f24161d4a670",
+     "https://store.is.autonavi.com/showpic/639b18708bbbc94f02bbc1b8afa35b7d"
+    ]
+   }
   },
   {
    "name": "金鸡湖",
@@ -128,7 +247,24 @@
    "tips": [
     "湖很大，绕一圈很远，选一段走就好，也可以骑共享单车",
     "地铁 1 号线可以到达湖西一带"
-   ]
+   ],
+   "amap": {
+    "name": "金鸡湖景区",
+    "id": "B020019OXQ",
+    "addr": "吴中区 苏州工业园区",
+    "type": "国家级景点",
+    "tel": "4007558558",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.704824,
+    "lat": 31.310263,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7c0932d199ea2c0e3409a4c4f5a19bbb",
+     "https://store.is.autonavi.com/showpic/979585065796c38882ca5cbc4dd59fc1",
+     "https://store.is.autonavi.com/showpic/1ce3543c8d2b3520e907eb243b412651"
+    ]
+   }
   },
   {
    "name": "同里古镇",
@@ -144,7 +280,24 @@
     "从市区开车约 40 分钟到 1 小时",
     "古镇需要购票，部分景点包含在门票内",
     "想看周庄的话一天只够去一个古镇"
-   ]
+   ],
+   "amap": {
+    "name": "苏州同里古镇旅游区",
+    "id": "B020001H7G",
+    "addr": "吴江区 中川南路1号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "08:00-17:1517:15后同里古镇各子景点闭园,街道免费开放",
+    "lng": 120.723765,
+    "lat": 31.154999,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/058c59a2580835c25eafbd85463b7823",
+     "https://store.is.autonavi.com/showpic/33b624447811cfd7602db559f4594832",
+     "https://store.is.autonavi.com/showpic/5dc31dd81934e7c52429a1c44ca45376"
+    ]
+   }
   }
  ],
  "foods": [
@@ -159,7 +312,24 @@
    "tips": [
     "很多老面馆只做早上和中午，下午可能打烊",
     "三虾面、秃黄油面是季节限定，价格较高"
-   ]
+   ],
+   "amap": {
+    "name": "平阊园苏式面馆",
+    "id": "B0KR24I8QA",
+    "addr": "姑苏区 阊门西街6号6幢",
+    "type": "中餐厅",
+    "tel": "17768008529",
+    "rating": 4.8,
+    "cost": 77.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 120.61025,
+    "lat": 31.317594,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/60f9b09b59fc86190000002987742665?type=pic",
+     "https://store.is.autonavi.com/showpic/fa0ff5b28e77e22a0000002881472339?type=pic",
+     "https://store.is.autonavi.com/showpic/61d630d02b1514460000001464316374?type=pic"
+    ]
+   }
   },
   {
    "name": "松鼠鳜鱼",
@@ -172,7 +342,24 @@
    "tips": [
     "老字号饭点排队长，提前订座或者错峰",
     "整体偏甜，可以搭配清淡的菜"
-   ]
+   ],
+   "amap": {
+    "name": "松鹤楼(观前店)",
+    "id": "B0LGZCVCWI",
+    "addr": "姑苏区 观前街太监弄15号",
+    "type": "中餐厅",
+    "tel": "0512-67700688",
+    "rating": 4.6,
+    "cost": 157.0,
+    "open": "周一至周日 11:00-14:00,17:00-20:30",
+    "lng": 120.625938,
+    "lat": 31.310453,
+    "photos": [
+     "https://store.is.autonavi.com/query_pic?id=st4e59a81c-8dd5-4876-9cdf-1e3afe32ebe2&user=search&operate=original",
+     "https://aos-comment.amap.com/B0LGZCVCWI/comment/content_media_external_file_100012004_1765988230655_45114165.jpg",
+     "https://store.is.autonavi.com/showpic/c0a39b248cc7f1ff0000002824556597?type=pic"
+    ]
+   }
   },
   {
    "name": "生煎包",
@@ -185,7 +372,24 @@
    "tips": [
     "刚出锅非常烫，先咬小口",
     "排队人多，早点去或者避开周末"
-   ]
+   ],
+   "amap": {
+    "name": "哑巴生煎(临顿路店)",
+    "id": "B02000HQQR",
+    "addr": "姑苏区 临顿路温家岸12号(悬桥巷地铁站2号口步行150米)",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 28.0,
+    "open": "周一至周日 06:30-19:30",
+    "lng": 120.628428,
+    "lat": 31.31512,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/747243a600fefe2c106ad44dfa21fd96",
+     "https://store.is.autonavi.com/showpic/c29cca93da51413b0000000847062789?type=pic",
+     "https://store.is.autonavi.com/showpic/1a2cc5ce1f9774fb0000000976496915?type=pic"
+    ]
+   }
   },
   {
    "name": "鲜肉月饼",
@@ -198,7 +402,24 @@
    "tips": [
     "一定要趁热吃，凉了酥皮会塌",
     "中秋前后排队很长，平时去轻松很多"
-   ]
+   ],
+   "amap": {
+    "name": "味九鼎苏式鲜肉月饼(景城邻里中心店)",
+    "id": "B0LD7ZY7Y8",
+    "addr": "吴中区 九华路65号景城邻里中心F1层",
+    "type": "糕饼店",
+    "tel": "18251198996",
+    "rating": 4.2,
+    "cost": 25.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 120.724244,
+    "lat": 31.326784,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5286930a5499425f0000001898930762?type=pic",
+     "https://store.is.autonavi.com/showpic/a48350ab0479bda18818086f758704a7",
+     "https://store.is.autonavi.com/showpic/bf6b765ec90a3cd40000000671510948?type=pic"
+    ]
+   }
   },
   {
    "name": "苏式糕团",
@@ -210,7 +431,24 @@
    ],
    "tips": [
     "糕团保质期短，当天买当天吃最好"
-   ]
+   ],
+   "amap": {
+    "name": "黄天源",
+    "id": "B0FFKFZ5PD",
+    "addr": "姑苏区 观前街86号",
+    "type": "中餐厅",
+    "tel": "0512-67704427",
+    "rating": 4.6,
+    "cost": 29.0,
+    "open": "周一至周日 07:30-21:00 2026-05-01至2026-05-05 周一至周日 07:30-21:00",
+    "lng": 120.627008,
+    "lat": 31.311494,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFKFZ5PD/comment/7036CE9B_824B_4BB1_9FA0_AE8064D44D03_L0_001_800_800_1747211022313_26257534.jpg",
+     "https://aos-comment.amap.com/B0FFKFZ5PD/comment/413acba2dfb88c311f36970f30fd45b7_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFKFZ5PD/comment/dfe1705dc5aaf251e84367480776f18a_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "响油鳝糊",
@@ -222,7 +460,24 @@
    ],
    "tips": [
     "偏甜偏浓，配白饭或者拌面都很合适"
-   ]
+   ],
+   "amap": {
+    "name": "吴记小园楼(白塔西路总店)",
+    "id": "B0FFIXDR4Q",
+    "addr": "姑苏区 皮市街241-249号白塔西路71-75号",
+    "type": "中餐厅",
+    "tel": "0512-67287277",
+    "rating": 4.7,
+    "cost": 79.0,
+    "open": "周一至周日 10:30-14:00,16:30-21:00",
+    "lng": 120.624182,
+    "lat": 31.317487,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6d8b70a59aa5841118707db0a491ab2c",
+     "https://store.is.autonavi.com/showpic/04435858a5a5df3a0000002413658232?type=pic",
+     "https://aos-comment.amap.com/B0FFIXDR4Q/comment/09AF2A08_EF49_4AFF_8B9F_759DCC915230_L0_001_2000_150_1761351211142_25006924.jpg"
+    ]
+   }
   },
   {
    "name": "鸡头米",
@@ -234,7 +489,22 @@
    ],
    "tips": [
     "新鲜鸡头米价格不便宜，冷冻的口感会差一些"
-   ]
+   ],
+   "amap": {
+    "name": "小宋家鸡头米",
+    "id": "B0MR1AC61A",
+    "addr": "姑苏区 苏站路1808号北间",
+    "type": "中餐厅",
+    "tel": "15895400123",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 07:00-22:00",
+    "lng": 120.601826,
+    "lat": 31.331622,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8ecaa467e231130ebdb4e562e66e550c"
+    ]
+   }
   }
  ],
  "food_areas": [

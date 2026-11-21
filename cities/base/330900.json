@@ -21,7 +21,24 @@
     "从朱家尖蜈蚣峙码头坐船上岛约 15 分钟，船票和门票都可以提前在线购买",
     "农历二月十九、六月十九、九月十九是观音香会，人会非常多",
     "寺院里不要穿太暴露的衣服，拍照前留意是否禁止"
-   ]
+   ],
+   "amap": {
+    "name": "普陀山风景名胜区",
+    "id": "B02445IKZ7",
+    "addr": "普陀区 普陀山镇梅芩路1号(奇石王宫景区东北166.9公里)",
+    "type": "国家级景点",
+    "tel": "0580-3191919",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "06:30-22:00(分季节调整,具体以轮船公司船期为准)",
+    "lng": 122.393559,
+    "lat": 30.000523,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/19e01764403658ced996b6c89cebb491",
+     "https://store.is.autonavi.com/showpic/ae2c8eb77e7b518db7664c29547f3f97",
+     "https://store.is.autonavi.com/showpic/c26a7e0ace85621d04c758f8ca21516e"
+    ]
+   }
   },
   {
    "name": "朱家尖",
@@ -37,7 +54,24 @@
     "夏天下水注意看沙滩的安全提示和涨潮时间",
     "南沙需要门票，乌石塘、东沙部分区域免费",
     "海边防晒要做足，风大容易晒伤"
-   ]
+   ],
+   "amap": {
+    "name": "朱家尖南沙景区",
+    "id": "B0H1L5I2R1",
+    "addr": "普陀区 龙眼线朱家尖国际沙雕艺术广场(西北角)",
+    "type": "旅游景点",
+    "tel": "0580-6632545",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "11月至12月 周一至周日 08:00-16:30 最晚进入16:30；自2026年9月1日—9月30日，对各景区营业时间作出相应调整，具体调整如下: 南沙景点营业时间7:30—20:00；夜间票:18:00-20:00；日间票于17:45停止售票。",
+    "lng": 122.406684,
+    "lat": 29.881219,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/acb8864892fb57df4128684ddb286e74",
+     "https://store.is.autonavi.com/showpic/6017ca1f0358129176ece5593e754a37",
+     "https://store.is.autonavi.com/showpic/d3202a2bdd0c28820000001036782193?type=pic"
+    ]
+   }
   },
   {
    "name": "沈家门渔港",
@@ -53,7 +87,24 @@
     "夜排档点菜前先问清价格和计价方式，按斤算的要看着称",
     "梭子蟹、带鱼、虾潺是必点",
     "国庆假期人非常多，提前去占位"
-   ]
+   ],
+   "amap": {
+    "name": "沈家门渔港小镇(普陀区非物质文化遗产馆)",
+    "id": "B0J22HWY55",
+    "addr": "普陀区 沈家门街道滨港西路8号",
+    "type": "旅游景点",
+    "tel": "0580-3062255",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 08:30-11:30,14:00-16:30",
+    "lng": 122.296886,
+    "lat": 29.942224,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/67703ae940c9abc6dc4ae6527710758f",
+     "https://aos-comment.amap.com/B0J22HWY55/comment/content_media_external_file_109052_ss__1765345314205_35982515.jpg",
+     "https://aos-comment.amap.com/B0KRAS4I05/comment/IMG_20241231_094146_tem_1735609315683_10328795.jpg"
+    ]
+   }
   },
   {
    "name": "观音法界",
@@ -69,7 +120,24 @@
     "需要购票，可以和普陀山套票一起买",
     "园区很大，留出半天时间",
     "建筑内部部分区域禁止拍照"
-   ]
+   ],
+   "amap": {
+    "name": "普陀山观音法界",
+    "id": "B0FFHODAQ6",
+    "addr": "普陀区 舟山群岛朱家尖白山山麓",
+    "type": "风景名胜",
+    "tel": "0580-6878000",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "冬令时09:00-17:00,夏令时09:30-17:30；2026年2月16日09:00-16:00,13:00停止售票,13:10停止入园；2026年2月17日至2026年2月21日08:30-17:30,14:00停止售票,14:40停止入园",
+    "lng": 122.388072,
+    "lat": 29.923825,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/418b57e5-dcf7-4bc8-9c59-559b7c4b1182.jpg",
+     "https://store.is.autonavi.com/showpic/c2d288ca2e3812740000003598894958?type=pic",
+     "https://store.is.autonavi.com/showpic/16fd9b452ea11e0f0000009174684093?type=pic"
+    ]
+   }
   },
   {
    "name": "东极岛",
@@ -85,7 +153,24 @@
     "从沈家门半升洞码头坐船，单程约 1.5–2.5 小时，船票紧张时要提前抢",
     "大风天会停航，出发前看海事公告，最好留出一天备用",
     "岛上物资贵、晚上安静，适合住一晚看日出"
-   ]
+   ],
+   "amap": {
+    "name": "东极岛景区",
+    "id": "B024464EPF",
+    "addr": "普陀区 东极镇",
+    "type": "风景名胜",
+    "tel": "0580-6048002",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 07:00-18:00 最晚进入17:30",
+    "lng": 122.721934,
+    "lat": 30.172618,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bfbf09fe501a37944bf0e595436392e5",
+     "https://store.is.autonavi.com/showpic/d76775fda4aef5dc1bc679272ef96d06",
+     "https://store.is.autonavi.com/showpic/1185c2af6d5f25ca16a3c5c8afcd3d4e"
+    ]
+   }
   },
   {
    "name": "定海古城",
@@ -101,7 +186,24 @@
     "老街周末人多，平日更好逛",
     "鸦片战争遗址公园可以免费参观",
     "和沈家门分别在本岛两头，开车大约半小时"
-   ]
+   ],
+   "amap": {
+    "name": "定海古城",
+    "id": "B0I12N0Q3V",
+    "addr": "定海区 东大街123号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 122.112596,
+    "lat": 30.017986,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0e5bd9feaa2ecf1ba3fd1f984e4d1209",
+     "https://store.is.autonavi.com/showpic/3ab50555fa36d66f0000002703662624?type=pic",
+     "https://store.is.autonavi.com/showpic/f9ae8ca92dbc427c0000008764966055?type=pic"
+    ]
+   }
   },
   {
    "name": "桃花岛",
@@ -117,7 +219,24 @@
     "从朱家尖或沈家门坐船上岛，注意末班船时间",
     "爬安期峰全程台阶，穿运动鞋",
     "可以开车坐车渡上岛，自驾更自由"
-   ]
+   ],
+   "amap": {
+    "name": "舟山桃花岛风景旅游区",
+    "id": "B024464OFB",
+    "addr": "普陀区",
+    "type": "国家级景点",
+    "tel": "0580-6063668",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1月至4月,11月至12月 周一至周日 08:00-16:30 最晚进入16:00；5月至10月 周一至周日 08:00-18:00",
+    "lng": 122.275733,
+    "lat": 29.814482,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c6d84c225fe813c4494a650d68b5050e",
+     "https://store.is.autonavi.com/showpic/bfa2c0734f8358e944a9ce6a526571a1",
+     "https://store.is.autonavi.com/showpic/b41c16d9e4b35ad768c01d74e26aa5c1"
+    ]
+   }
   },
   {
    "name": "岱山",
@@ -133,7 +252,24 @@
     "从舟山本岛三江码头坐船，或者开车坐车渡",
     "小博物馆多数免费，部分周一闭馆",
     "海滩边设施相对少，自带水和防晒"
-   ]
+   ],
+   "amap": {
+    "name": "鹿栏晴沙",
+    "id": "B02445IMSH",
+    "addr": "岱山县 高亭镇山外路195号岱山风景名胜区",
+    "type": "风景名胜",
+    "tel": "0580-7612120",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 07:00-20:00",
+    "lng": 122.224802,
+    "lat": 30.312785,
+    "photos": [
+     "https://aos-comment.amap.com/B02445IMSH/comment/7343F72C_86C2_44CC_856F_17A78D659389_L0_001_1536_204_1756709142934_58668148.jpg",
+     "https://aos-comment.amap.com/default_poi/comment/F26B43FA_7A39_45DE_8E75_14654EF1149F_L0_001_1500_2000_1728437328625_86746569.jpg",
+     "https://aos-comment.amap.com/B02445IMSH/comment/content_media_external_file_17007_ss__1763687114554_40698955.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -149,7 +285,24 @@
     "开渔季（9 月中旬到 12 月）最好吃",
     "生腌炝蟹偏咸，肠胃弱的少吃",
     "挑蟹时看腹部是否饱满、蟹脚是否灵活"
-   ]
+   ],
+   "amap": {
+    "name": "高佳庄·舟山海鲜(海景旗舰店)",
+    "id": "B0H0K5MYF9",
+    "addr": "普陀区 中国舟山国际水产城西南门旁",
+    "type": "海鲜酒楼",
+    "tel": "0580-8882228",
+    "rating": 4.8,
+    "cost": 173.0,
+    "open": "周一至周日 11:00-14:00,17:00-20:30 2026-09-25至2026-09-27 11:00-14:30,17:00-20:30；2026-10-01至2026-10-07 11:00-14:30,17:00-20:30",
+    "lng": 122.284543,
+    "lat": 29.939067,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/effe83eab18dfb850000002361798971?type=pic",
+     "https://aos-comment.amap.com/B0H0K5MYF9/comment/5B1D74FC_64F3_4EC1_AF19_D7CA21F58A30_L0_001_2048_153_1762904054673_36617704.jpg",
+     "https://store.is.autonavi.com/showpic/383069e11071d20d368cb52c4665c330"
+    ]
+   }
   },
   {
    "name": "带鱼",
@@ -162,7 +315,24 @@
    "tips": [
     "小眼睛、银鳞完整的带鱼更新鲜",
     "在菜场买、在排档加工，会比直接点菜划算"
-   ]
+   ],
+   "amap": {
+    "name": "欢聚平价海鲜城(汇丰广场店)",
+    "id": "B0I6LD11TQ",
+    "addr": "普陀区 朱家尖中欣北路22号(汇丰广场)",
+    "type": "海鲜酒楼",
+    "tel": "18368073675",
+    "rating": 4.7,
+    "cost": 100.0,
+    "open": "周一至周日 10:30-22:30",
+    "lng": 122.384785,
+    "lat": 29.917634,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ef87664ae7421e920000005202828428?type=pic",
+     "https://store.is.autonavi.com/showpic/cca89cb9e54881a41f023b4a4cfb5373",
+     "https://store.is.autonavi.com/showpic/eb82f14e2e4b7d230000002349354422"
+    ]
+   }
   },
   {
    "name": "海鲜面",
@@ -175,7 +345,24 @@
    "tips": [
     "配料丰富的价格也高，点单前看清价格",
     "早上去本地面馆最地道"
-   ]
+   ],
+   "amap": {
+    "name": "高佳庄·海鲜酒楼(东港店)",
+    "id": "B024464S43",
+    "addr": "普陀区 宁兴街128号(近普陀新区政府)",
+    "type": "海鲜酒楼",
+    "tel": "0580-3988222",
+    "rating": 4.7,
+    "cost": 167.0,
+    "open": "周一至周五 11:00-14:00,17:00-20:30；周六至周日 11:00-14:30,17:00-20:30 2026-09-25至2026-09-27 11:00-14:30,17:00-20:30；2026-10-01至2026-10-07 11:00-14:30,17:00-20:30",
+    "lng": 122.321371,
+    "lat": 29.97323,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7391de33d0516b3a06a7661fa9ad7b6c",
+     "https://aos-comment.amap.com/B024464S43/comment/d23875911d8996dff08c084e14d550b0_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/3865156d7a9e3a430000004390032442?type=pic"
+    ]
+   }
   },
   {
    "name": "虾潺",
@@ -188,7 +375,24 @@
    "tips": [
     "新鲜虾潺不耐保存，在海边吃最好",
     "虾潺干可以买来带回家做菜"
-   ]
+   ],
+   "amap": {
+    "name": "川来湘·凌晨之夜·海鲜大排档",
+    "id": "B0JUTRR85H",
+    "addr": "定海区 千岛街道体育路69号舟山体育馆南侧海鲜烧烤夜市A1-A2号",
+    "type": "餐饮相关",
+    "tel": "13665805755",
+    "rating": 4.6,
+    "cost": 86.0,
+    "open": "周一至周日 16:30-02:00",
+    "lng": 122.209671,
+    "lat": 29.979145,
+    "photos": [
+     "https://aos-comment.amap.com/B0JUTRR85H/comment/fe006b45d08e3acc187960e1415b84d3_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/4e854a95de3580cfc6b995993966f2e7",
+     "https://aos-comment.amap.com/B0JUTRR85H/comment/content_media_external_images_media_1000006896_ss__1741517408478_16595338.jpg"
+    ]
+   }
   },
   {
    "name": "望潮",
@@ -201,7 +405,24 @@
    "tips": [
     "白灼蘸酱油最能吃出鲜甜",
     "望潮炖萝卜汤鲜，冬天很暖"
-   ]
+   ],
+   "amap": {
+    "name": "望潮酒店(舟山白泉店)",
+    "id": "B0IAVUJM9B",
+    "addr": "定海区 电厂路80号",
+    "type": "宾馆酒店",
+    "tel": "18506800627",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "",
+    "lng": 122.162856,
+    "lat": 30.068441,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d7b2a25cc7d6a51bb8577c5d4268849a",
+     "https://store.is.autonavi.com/showpic/5da802c246da1c57fa159f55a0986e07",
+     "https://store.is.autonavi.com/showpic/79099e9d9d9aa7c0db2858262d55986f"
+    ]
+   }
   },
   {
    "name": "普陀山素斋",
@@ -214,7 +435,24 @@
    "tips": [
     "寺院斋堂有固定开饭时间，错过就没有了",
     "吃斋饭时不要浪费，按需取用"
-   ]
+   ],
+   "amap": {
+    "name": "长生素斋",
+    "id": "B0FFF3NO1Q",
+    "addr": "普陀区 普陀山镇法雨路51号",
+    "type": "休闲餐饮场所",
+    "tel": "0580-6093677",
+    "rating": 4.3,
+    "cost": 52.0,
+    "open": "周一至周日 09:30-14:00,17:00-19:00",
+    "lng": 122.390575,
+    "lat": 29.993862,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFF3NO1Q/comment/8a055ced6070b7d890b5e7dfba18359b_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/332c98fcdf5176feb6c31d48192ea946",
+     "https://aos-comment.amap.com/B0FFF3NO1Q/comment/content_media_external_images_media_1000012354_ss__1734949700514_15384826.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

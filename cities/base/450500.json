@@ -21,7 +21,24 @@
     "白天比较晒，傍晚到晚上逛最舒服",
     "街上的手信店价格差别大，可以多看几家",
     "附近的北海近代建筑群（英国领事馆旧址等）可以顺路看"
-   ]
+   ],
+   "amap": {
+    "name": "北海老城",
+    "id": "B030B0MRNH",
+    "addr": "海城区 珠海中路98号",
+    "type": "风景名胜",
+    "tel": "0779-2088260",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:30-21:30",
+    "lng": 109.115918,
+    "lat": 21.483575,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/603b37d5b13df4f920db77f0df50f9f7",
+     "https://store.is.autonavi.com/showpic/4e64462600c9ad0aa59e75b1d0643fb6",
+     "https://store.is.autonavi.com/showpic/e846614b4f79b4dd49ac29668105d2fa"
+    ]
+   }
   },
   {
    "name": "侨港风情街",
@@ -36,7 +53,24 @@
    "tips": [
     "晚上人多，热门小吃店要排队",
     "侨港海滩适合看日落，渔港一带地面湿滑"
-   ]
+   ],
+   "amap": {
+    "name": "侨港风情街",
+    "id": "B0FFF2H3T3",
+    "addr": "银海区 侨南路1号",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 109.125008,
+    "lat": 21.425215,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1b34e1db11cf43f4f038587de995d5d2",
+     "https://store.is.autonavi.com/showpic/260583a5991171241f38e5a884a493a5",
+     "https://store.is.autonavi.com/showpic/95b63cbe13c03226db4f700166c05495"
+    ]
+   }
   },
   {
    "name": "北海银滩",
@@ -52,7 +86,24 @@
     "下海游泳请在有救生员的区域，注意涨潮和离岸流",
     "夏天紫外线强，防晒要做足",
     "带好换洗衣物，海滩边有冲淋点"
-   ]
+   ],
+   "amap": {
+    "name": "北海银滩国家旅游度假区",
+    "id": "B030B002C9",
+    "addr": "银海区 广东路与银滩中路交叉口",
+    "type": "国家级景点",
+    "tel": "0779-3884839",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "07:30-21:30,2026年2月16日不营业",
+    "lng": 109.155721,
+    "lat": 21.40364,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/34166b716191f64bb6e2ab76d27ae8fe",
+     "https://store.is.autonavi.com/showpic/43cfc77085060e7d0000007752300549?type=pic",
+     "https://store.is.autonavi.com/showpic/28a9163f2e49fe5189c73a0b023cde30"
+    ]
+   }
   },
   {
    "name": "冠头岭",
@@ -67,7 +118,24 @@
    "tips": [
     "山上步道有坡度，穿运动鞋",
     "看日落结束后天黑得快，下山注意照明"
-   ]
+   ],
+   "amap": {
+    "name": "广西冠头岭国家森林公园",
+    "id": "B030B002BE",
+    "addr": "海城区 冠头岭",
+    "type": "风景名胜",
+    "tel": "0779-3883863",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 109.056522,
+    "lat": 21.453058,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/90741d5f30e4072c0000003203070199?type=pic",
+     "https://store.is.autonavi.com/showpic/79b84470664464e40000003981960519?type=pic",
+     "https://store.is.autonavi.com/showpic/2a945cd0c47c082a0000002899360402?type=pic"
+    ]
+   }
   },
   {
    "name": "金海湾红树林",
@@ -83,7 +151,24 @@
     "赶海要看潮汐时间，出发前查好退潮时段",
     "滩涂泥多，准备旧鞋或穿景区提供的鞋套",
     "活动和开放安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "北海金海湾红树林生态旅游区",
+    "id": "B030B00HSH",
+    "addr": "银海区 银滩往东6公里龙潭大冠沙",
+    "type": "国家级景点",
+    "tel": "0779-3992600",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 07:30-19:00",
+    "lng": 109.221205,
+    "lat": 21.416864,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/60147fe90cd2fdb6cc9efd955730b663",
+     "https://store.is.autonavi.com/showpic/96a8af2b4e673a48b59a47e9de4f510d",
+     "https://store.is.autonavi.com/showpic/0ade256b2e3d9320ccfa21503b469803"
+    ]
+   }
   },
   {
    "name": "涠洲岛鳄鱼山",
@@ -99,7 +184,24 @@
     "栈道有不少台阶，穿防滑鞋",
     "夏天岛上太阳毒辣，尽量安排在上午或傍晚",
     "上岛船票需要提前实名购买，大风天会停航"
-   ]
+   ],
+   "amap": {
+    "name": "南湾鳄鱼山景区",
+    "id": "B030B0MRNC",
+    "addr": "海城区 涠洲岛火山国家地质公园",
+    "type": "风景名胜",
+    "tel": "0779-6016278",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-18:00 最晚进入18:00航班时间参考所购船票,节假日或天气情况等原因,航班时间会有变动,以实际下单后接收通知为准",
+    "lng": 109.102429,
+    "lat": 21.009399,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e4e83b76bdd42ed8a2b65f5ade9fa568",
+     "https://store.is.autonavi.com/showpic/5675d8b0ee6ffdb782ede5ea8a7e3d26",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/f85ae06a-9aab-4fff-b5d8-84e036a34e27.jpg"
+    ]
+   }
   },
   {
    "name": "涠洲岛五彩滩",
@@ -114,7 +216,24 @@
    "tips": [
     "日出要很早起，可以提前在住处安排好电动车或包车",
     "岩石湿滑锋利，别穿拖鞋，注意涨潮"
-   ]
+   ],
+   "amap": {
+    "name": "五彩滩景区",
+    "id": "B030B0MRL8",
+    "addr": "海城区 涠洲岛东南部",
+    "type": "风景名胜",
+    "tel": "0779-6016278",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00 最晚进入18:00",
+    "lng": 109.122026,
+    "lat": 21.022376,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cfb5964cce32839f95a8517d5375c321",
+     "https://store.is.autonavi.com/showpic/e0e5c9363fe5d74a6728d0a6634129ec",
+     "https://store.is.autonavi.com/showpic/75fa923010c75ebe59be2fb9e704aa0c"
+    ]
+   }
   },
   {
    "name": "涠洲岛天主教堂",
@@ -129,7 +248,24 @@
    "tips": [
     "教堂仍是宗教场所，参观时保持安静",
     "石螺口海滩适合看日落，可以和教堂安排在同一个下午"
-   ]
+   ],
+   "amap": {
+    "name": "涠洲岛-圣堂景区天主教堂",
+    "id": "B030B0N79U",
+    "addr": "海城区 涠洲岛盛塘村",
+    "type": "教堂",
+    "tel": "0779-6016278",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30 最晚进入17:30",
+    "lng": 109.136331,
+    "lat": 21.050896,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8a779eeb8dd600ca1063222a735647e8",
+     "https://store.is.autonavi.com/showpic/15b412e3b813adfe0442834158354ab9",
+     "https://store.is.autonavi.com/showpic/ee5c91dad02f45184b7bd26f8fa2f34c"
+    ]
+   }
   },
   {
    "name": "合浦汉代文化博物馆",
@@ -144,7 +280,24 @@
    "tips": [
     "参观是否需要预约、开放时间以官方公告为准",
     "从北海市区开车约 40 分钟到 1 小时"
-   ]
+   ],
+   "amap": {
+    "name": "广西合浦汉代文化博物馆",
+    "id": "B030B0MC8F",
+    "addr": "合浦县 廉州镇定海南路81号",
+    "type": "博物馆",
+    "tel": "0779-7285790",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00 最晚进入16:30；星期一为闭馆日（国家法定节假日除外）具体营业时间以当天开放情况为准。",
+    "lng": 109.190611,
+    "lat": 21.643259,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ba27e8040d3895070000005630224032?type=pic",
+     "https://store.is.autonavi.com/showpic/32dd30d1e8ef91611aa05174cfd079bd",
+     "https://aos-comment.amap.com/B030B0MC8F/comment/content_media_external_file_1000003810_ss__1757491457164_11778127.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -159,7 +312,24 @@
    "tips": [
     "海鲜按斤称，称重和价格当场确认清楚",
     "海鲜性寒，别一次吃太多，配点姜醋"
-   ]
+   ],
+   "amap": {
+    "name": "食好嘢海鲜大排档(侨港店)",
+    "id": "B0JA1AO2IQ",
+    "addr": "银海区 小港北二路22号",
+    "type": "中餐厅",
+    "tel": "18177990588",
+    "rating": 4.7,
+    "cost": 76.0,
+    "open": "周一至周日 11:00-24:00",
+    "lng": 109.125926,
+    "lat": 21.423108,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/277fcebb068c33300000009444780947?type=pic",
+     "https://aos-comment.amap.com/B0JA1AO2IQ/comment/content_media_external_file_1000033949_ss__1766198463604_44551806.jpg",
+     "https://aos-comment.amap.com/comment/content_service_a04a6c8ee21e07930a2c6b50e6ab5072_1767150415013_02834917.jpg"
+    ]
+   }
   },
   {
    "name": "猪脚粉",
@@ -172,7 +342,23 @@
    "tips": [
     "可以加一份卤蛋或者酸菜",
     "干捞最能吃出卤汁的味道"
-   ]
+   ],
+   "amap": {
+    "name": "保叔猪脚粉(花园街分店)",
+    "id": "B0I32UJZSY",
+    "addr": "海城区 广场东里10栋201(保叔猪脚粉花园街店旁2楼)",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 15.0,
+    "open": "周一至周日 07:00-22:00",
+    "lng": 109.115503,
+    "lat": 21.469073,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9d340b1c8b7d312f39c1cde8d073d541",
+     "https://store.is.autonavi.com/showpic/61741517b5435660da7174d2be658cd9"
+    ]
+   }
   },
   {
    "name": "沙蟹汁",
@@ -184,7 +370,24 @@
    ],
    "tips": [
     "先蘸少量试试，味道比较咸重"
-   ]
+   ],
+   "amap": {
+    "name": "越乡小厨 (老码头店)",
+    "id": "B0HROZJKB4",
+    "addr": "银海区 北海国际客运港老码头商业中心独栋2号楼",
+    "type": "中餐厅",
+    "tel": "17777970880",
+    "rating": 4.7,
+    "cost": 73.0,
+    "open": "周一至周日 11:00-15:00,17:00-22:00",
+    "lng": 109.129241,
+    "lat": 21.42086,
+    "photos": [
+     "https://aos-comment.amap.com/B0HROZJKB4/comment/content_media_external_file_51079_ss__1757383277891_71811961.jpg",
+     "https://aos-comment.amap.com/B0HROZJKB4/comment/content_media_external_file_100001746_1769305367589_02632255.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/b0b8daf4-672e-4ca0-a02f-464a750f8f16.jpg"
+    ]
+   }
   },
   {
    "name": "越南风味小吃",
@@ -197,7 +400,24 @@
    "tips": [
     "虾饼趁热吃最脆",
     "鱼露蘸汁有特殊的咸鲜味，可以先尝一点"
-   ]
+   ],
+   "amap": {
+    "name": "张姨正宗越南卷粉30年老店",
+    "id": "B0KDYCUCRD",
+    "addr": "银海区 侨港镇侨民小区西区一栋107",
+    "type": "餐饮相关",
+    "tel": "18777960668",
+    "rating": 4.0,
+    "cost": 22.0,
+    "open": "周一至周日 06:00-21:00",
+    "lng": 109.124064,
+    "lat": 21.426005,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5cb439a8bdc05a249a5625413b213538",
+     "https://store.is.autonavi.com/showpic/399d260541a148b10000003362234700?type=pic",
+     "https://store.is.autonavi.com/showpic/8fa57377305747810749a49edccce1c7"
+    ]
+   }
   },
   {
    "name": "北海糖水",
@@ -209,7 +429,24 @@
    ],
    "tips": [
     "怕凉的可以要常温或热的"
-   ]
+   ],
+   "amap": {
+    "name": "荣记糖水(三中路店)",
+    "id": "B0FFG6RFOQ",
+    "addr": "海城区 三中路3号瑞安公寓106号",
+    "type": "甜品店",
+    "tel": "18077941965",
+    "rating": 4.6,
+    "cost": 15.0,
+    "open": "周一至周日 12:00-04:00",
+    "lng": 109.108241,
+    "lat": 21.474929,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG6RFOQ/comment/9F369DD9_E909_425D_9625_ADB91BC97D56_L0_001_1500_200_1764234534282_84551274.jpg",
+     "https://store.is.autonavi.com/showpic/71bd453c8918278845a4835c289055ca",
+     "https://aos-comment.amap.com/B0FFG6RFOQ/comment/content_media_external_file_37902_ss__1766492252533_09357374.jpg"
+    ]
+   }
   },
   {
    "name": "车螺芥菜汤",
@@ -221,7 +458,24 @@
    ],
    "tips": [
     "车螺可能有沙，好的店会提前吐沙"
-   ]
+   ],
+   "amap": {
+    "name": "好食来海鲜小排档(侨港海滩店)",
+    "id": "B0FFFCR1RO",
+    "addr": "银海区 华侨镇港口路侨港海滩回来200米",
+    "type": "海鲜酒楼",
+    "tel": "13977990026",
+    "rating": 4.6,
+    "cost": 81.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 109.12036,
+    "lat": 21.417729,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ad79f9251f9b2c903084765ea709a4e6",
+     "https://aos-comment.amap.com/B0FFFCR1RO/comment/content_media_external_file_26897_ss__1761017578137_10473001.jpg",
+     "https://store.is.autonavi.com/showpic/5454fd039735b0ab0000003044178788?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

@@ -21,7 +21,24 @@
     "上桥需要购票，浮桥开合有固定时间，以现场公布为准",
     "夜景免费就能看，傍晚到江边等亮灯",
     "节假日桥上人非常多，早上去更从容"
-   ]
+   ],
+   "amap": {
+    "name": "广济桥",
+    "id": "B030000E1K",
+    "addr": "湘桥区 环城东路(广济门城楼对面)",
+    "type": "国家级景点",
+    "tel": "0768-2222683",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "02/20-10/31 周一-周五 10:00-17:00开放；02/20-10/31 周六-周日 09:00-17:00开放；11/01-01/31 周一-周五 10:00-16:00开放；11/01-01/31 周六-周日 09:00-16:00开放",
+    "lng": 116.652732,
+    "lat": 23.662858,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3f97055e9623bf9a189a34c79eba0c05",
+     "https://store.is.autonavi.com/showpic/8864250c859346d44ba4296a62f48f79",
+     "https://store.is.autonavi.com/showpic/10c5b8c7db943d0b2c8dbbc5c498e6a6"
+    ]
+   }
   },
   {
    "name": "牌坊街",
@@ -36,7 +53,24 @@
    "tips": [
     "主街的店偏游客向，地道小吃可以拐进旁边的巷子找",
     "节假日晚上人挤人，看好随身物品"
-   ]
+   ],
+   "amap": {
+    "name": "牌坊街-东门大井",
+    "id": "B0HGT1AM3L",
+    "addr": "湘桥区 太平街道水平路85号东南90米潮州古城(东南角)",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 116.650817,
+    "lat": 23.663228,
+    "photos": [
+     "https://aos-comment.amap.com/B0HGT1AM3L/comment/df57e959dd58254d1ee99423bb3bca0d_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0HGT1AM3L/comment/content_media_external_images_media_1000024889_ss__1770378199034_99095317.jpg",
+     "https://aos-comment.amap.com/B0HGT1AM3L/comment/content_media_external_images_media_1000024888_ss__1770378199032_07995537.jpg"
+    ]
+   }
   },
   {
    "name": "开元寺",
@@ -51,7 +85,24 @@
    "tips": [
     "寺院是宗教场所，衣着得体，殿内不要大声喧哗",
     "早上去人少，香客多的日子比较热闹"
-   ]
+   ],
+   "amap": {
+    "name": "开元寺",
+    "id": "B03000067N",
+    "addr": "湘桥区 开元路32号",
+    "type": "寺庙道观",
+    "tel": "0768-2225571",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "07:00-17:00 最晚进入16:30",
+    "lng": 116.648963,
+    "lat": 23.663056,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3d525bf2aaacd368cb822846e40b6e1a",
+     "https://store.is.autonavi.com/showpic/cda6a55ae0a4db3f0000006617018275?type=pic",
+     "https://store.is.autonavi.com/showpic/795f81f90a4a5ee40000006629812148?type=pic"
+    ]
+   }
   },
   {
    "name": "韩文公祠",
@@ -66,7 +117,24 @@
    "tips": [
     "门票需要购买，周边台阶较多",
     "从古城过来可以步行过广济桥，或者打车过韩江大桥"
-   ]
+   ],
+   "amap": {
+    "name": "韩文公祠",
+    "id": "B0FFH6KSA9",
+    "addr": "湘桥区 桥东街道桥东街道桥东社区东兴北路18号",
+    "type": "省级景点",
+    "tel": "0768-2291733",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 08:30-17:00",
+    "lng": 116.65904,
+    "lat": 23.663533,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f81e169291e7f9620000003789264849?type=pic",
+     "https://store.is.autonavi.com/showpic/1bcb30682f78e0900000002935612180?type=pic",
+     "https://store.is.autonavi.com/showpic/144016478e6156730000003079460007?type=pic"
+    ]
+   }
   },
   {
    "name": "广济门城楼",
@@ -81,7 +149,24 @@
    "tips": [
     "城楼需要购票，傍晚上去能同时看日落和亮灯",
     "就在牌坊街东头，可以和广济桥一起安排"
-   ]
+   ],
+   "amap": {
+    "name": "广济门城楼",
+    "id": "B0300008JK",
+    "addr": "湘桥区 湘桥街道水平路牌坊街潮州古城(东南角)",
+    "type": "风景名胜",
+    "tel": "0768-2236031",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 09:00-17:30 最晚进入17:00",
+    "lng": 116.652241,
+    "lat": 23.662959,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bb26f19ed98146e3d52464a56426b001",
+     "https://store.is.autonavi.com/showpic/a611bff5e9e951820000009387398744?type=pic",
+     "https://store.is.autonavi.com/showpic/2dbde8dac139a5510000000972810816?type=pic"
+    ]
+   }
   },
   {
    "name": "甲第巷",
@@ -96,7 +181,24 @@
    "tips": [
     "巷子里的老宅大多还有人住，不要随便闯进院子",
     "早上或傍晚光线好，人也少"
-   ]
+   ],
+   "amap": {
+    "name": "甲第坊",
+    "id": "B0FFGBG0XM",
+    "addr": "湘桥区 水平路85号东南90米潮州古城内(南侧)",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 116.649078,
+    "lat": 23.660005,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGBG0XM/comment/content_media_external_file_1000020459_ss__1753510892850_94841682.jpg",
+     "https://aos-comment.amap.com/B0FFGBG0XM/comment/content_media_external_file_1000020475_ss__1753510892945_22202228.jpg",
+     "https://aos-comment.amap.com/B0FFGBG0XM/comment/content_media_external_file_1000020469_ss__1753510892904_54431813.jpg"
+    ]
+   }
   },
   {
    "name": "己略黄公祠",
@@ -111,7 +213,24 @@
    "tips": [
     "需要购票，祠堂不大，半小时到一小时就能看完",
     "木雕多在高处，带个望远镜或用手机长焦更能看清细节"
-   ]
+   ],
+   "amap": {
+    "name": "己略黄公祠",
+    "id": "B030000G4N",
+    "addr": "湘桥区 湘桥街道义安路铁巷2号",
+    "type": "寺庙道观",
+    "tel": "0768-2251318",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1/1-12/31 周二–周日 08:30–17:30开放 最晚进入17:00；1/1-12/31 周一 全天不开放；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 08:30–17:30开放 最晚进入17:00",
+    "lng": 116.648302,
+    "lat": 23.665454,
+    "photos": [
+     "https://aos-comment.amap.com/B030000G4N/comment/file_media_Photo_1884_IMG_1766812848_1677_IMG_20251227_131908_jpg_ss__1766812838062_63776806.jpg",
+     "https://aos-comment.amap.com/B030000G4N/comment/content_media_external_file_1000017499_ss__1766409439632_60794702.jpg",
+     "https://aos-comment.amap.com/comment/content_service__1772257219050_81603458_1772257244394_73572753.jpg"
+    ]
+   }
   },
   {
    "name": "许驸马府",
@@ -126,7 +245,24 @@
    "tips": [
     "需要购票，可以问一下现场有没有和古城其他景点的联票",
     "就在古城东侧，可以和己略黄公祠、甲第巷步行串起来"
-   ]
+   ],
+   "amap": {
+    "name": "许驸马府",
+    "id": "B030000247",
+    "addr": "湘桥区 中山路葡萄巷东府埕4号",
+    "type": "风景名胜",
+    "tel": "0768-2250026",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "1/1-12/31 周二–周日 09:00–17:30开放 最晚进入17:00；1/1-12/31 周一 全天不开放；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00–17:30开放 最晚进入17:00",
+    "lng": 116.647155,
+    "lat": 23.670855,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e3d060be693392a1ee272c63f8615528",
+     "https://aos-comment.amap.com/B030000247/comment/content_media_external_images_media_1000014521_ss__1734511666469_27243076.jpg",
+     "https://store.is.autonavi.com/showpic/68e95bfac63d6dd80000009198878812?type=pic"
+    ]
+   }
   },
   {
    "name": "龙湖古寨",
@@ -141,7 +277,24 @@
    "tips": [
     "从市区过去需要开车或打车，公共交通不太方便",
     "寨里有居民生活，拍照时注意礼貌"
-   ]
+   ],
+   "amap": {
+    "name": "龙湖古寨",
+    "id": "B030000PAV",
+    "addr": "潮安区 市头村",
+    "type": "风景名胜",
+    "tel": "0768-6598099",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "00:00-24:00古寨内各景点不同,具体营业状态以当天开放情况为准",
+    "lng": 116.651702,
+    "lat": 23.552182,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/75a86ba0531c77d9309ac0cf64dca9af",
+     "https://store.is.autonavi.com/showpic/cf9aec49666b21290000003122910811?type=pic",
+     "https://aos-comment.amap.com/B030000PAV/comment/20260313-44ea08e6f4644a67fbfc3655-9mdJUkoKNZk7KcRolErIY4.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -155,7 +308,24 @@
    ],
    "tips": [
     "一碗分量不小，几个人可以分着吃，留肚子吃别的"
-   ]
+   ],
+   "amap": {
+    "name": "胡荣泉",
+    "id": "B0FFHFWVP0",
+    "addr": "湘桥区 太平路183-185号",
+    "type": "快餐厅",
+    "tel": "13670776143",
+    "rating": 4.2,
+    "cost": 13.0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 116.65077,
+    "lat": 23.666674,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHFWVP0/comment/750F4851_17C8_43B0_99B1_E0F172031034_L0_001_1421_147_1770001174022_46857382.jpg",
+     "https://store.is.autonavi.com/showpic/941ea6c3df382f6565cbe087a166e8fe",
+     "https://aos-comment.amap.com/B0FFHFWVP0/comment/986C868C_37B4_4CB6_A8A1_79C87E5C916E_L0_001_1500_200_1766458762368_10415809.jpg"
+    ]
+   }
   },
   {
    "name": "春饼",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "刚出锅很烫，小心咬"
-   ]
+   ],
+   "amap": {
+    "name": "老大小食老尾春饼",
+    "id": "B0FFGMK51C",
+    "addr": "湘桥区 西马路真君宫巷306号",
+    "type": "中餐厅",
+    "tel": "13715777454",
+    "rating": 4.0,
+    "cost": 7.0,
+    "open": "周一至周日 08:00-17:30",
+    "lng": 116.643316,
+    "lat": 23.66447,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/791dcc88ec532ae60000002523832108?type=pic",
+     "https://aos-comment.amap.com/B0FFGMK51C/comment/33b551a0bf35790c6ad31d37e699ebe6_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFGMK51C/comment/edbc96d69c503021fd76f5ece972a599_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "腐乳饼",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "饼比较甜油，一次不要吃太多，买回去分给家人"
-   ]
+   ],
+   "amap": {
+    "name": "揚航饼家•省级非遗(牌坊街店)",
+    "id": "B0LR1HRSSI",
+    "addr": "湘桥区 太平街道开元路开元广场E幢17号首层门市",
+    "type": "糕饼店",
+    "tel": "13828387660",
+    "rating": 4.3,
+    "cost": 74.0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 116.649641,
+    "lat": 23.661955,
+    "photos": [
+     "https://aos-comment.amap.com/B0LR1HRSSI/comment/content_media_external_file_1863_1758074623967_79581117.jpg",
+     "https://aos-comment.amap.com/B0LR1HRSSI/comment/content_media_external_file_52677_ss__1757652062035_34788934.jpg",
+     "https://aos-comment.amap.com/B0LR1HRSSI/comment/content_media_external_file_1000013202_ss__1769575538757_97616215.jpg"
+    ]
+   }
   },
   {
    "name": "潮州打冷",
@@ -192,7 +396,24 @@
    "tips": [
     "按碟计价，点之前看清价格",
     "生腌类口味重，第一次吃可以少点一些试试"
-   ]
+   ],
+   "amap": {
+    "name": "趣边白粥(牌坊街店)·卤味·生腌·打冷·小炒",
+    "id": "B0MASHFSXO",
+    "addr": "湘桥区 潮州市纺织品大楼西门北60米",
+    "type": "中餐厅",
+    "tel": "19988292233",
+    "rating": 4.4,
+    "cost": 56.0,
+    "open": "周一至周日 09:30-21:30",
+    "lng": 116.650301,
+    "lat": 23.664686,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/42480d427d819e8d0000005587376582?type=pic",
+     "https://store.is.autonavi.com/showpic/565bd642d49f70d70000006062984557?type=pic",
+     "https://store.is.autonavi.com/showpic/61f1382755612f3d0000004869436894?type=pic"
+    ]
+   }
   },
   {
    "name": "工夫茶",
@@ -204,7 +425,24 @@
    ],
    "tips": [
     "单丛茶价格跨度很大，多试几家、量力而买"
-   ]
+   ],
+   "amap": {
+    "name": "载阳茶馆(牌坊街店)",
+    "id": "B0FFHQL787",
+    "addr": "湘桥区 义安路英聚巷6号",
+    "type": "茶艺馆",
+    "tel": "0768-2185228",
+    "rating": 4.5,
+    "cost": 74.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 116.65016,
+    "lat": 23.666092,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHQL787/comment/4181e32fe9b29d91b9c1888324bcd871_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFHQL787/comment/20260321-53c93013958b497aa4af3fb6-33jmd24ijKm99lMlRsHvrE.jpg",
+     "https://aos-comment.amap.com/B0FFHQL787/comment/95E89BA3_38E5_4C43_AFDE_95EA7ED44F85_L0_001_2000_1500_1732935598883_05860698.jpg"
+    ]
+   }
   },
   {
    "name": "粿条汤",
@@ -216,7 +454,24 @@
    ],
    "tips": [
     "干拌粿条加一点沙茶酱也很好吃"
-   ]
+   ],
+   "amap": {
+    "name": "双生肠粉(牌坊街总店)",
+    "id": "B0FFL2IWMJ",
+    "addr": "湘桥区 西园路明盛钱财店隔壁",
+    "type": "中餐厅",
+    "tel": "13172590435",
+    "rating": 4.5,
+    "cost": 19.0,
+    "open": "周一至周日 08:00-14:30,17:00-20:00",
+    "lng": 116.638187,
+    "lat": 23.668309,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dca27db7ccc12cbbe1d7da71e1fc3c5b",
+     "https://store.is.autonavi.com/showpic/dfcc64cb15f5e47e6b64d98bc6fda7f9",
+     "https://store.is.autonavi.com/showpic/3505cf26240f7fe80000000981834263?type=pic"
+    ]
+   }
   },
   {
    "name": "笋粿",
@@ -228,7 +483,24 @@
    ],
    "tips": [
     "煎过的比蒸的更香，可以让店家煎一下再吃"
-   ]
+   ],
+   "amap": {
+    "name": "松河竹笋店",
+    "id": "B0FFG98C3L",
+    "addr": "潮安区 江东镇樟厝洲村镇道南侧(林松河商铺)",
+    "type": "中餐厅",
+    "tel": "13631008308",
+    "rating": 4.6,
+    "cost": 59.0,
+    "open": "周一至周日 10:00-14:00,16:00-21:00",
+    "lng": 116.663884,
+    "lat": 23.549894,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG98C3L/comment/693ead683df94d1492074618a502fe81_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/5a468daca75030e20000009395658993?type=pic",
+     "https://store.is.autonavi.com/showpic/727780d6fd85aaf70000009395728178?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

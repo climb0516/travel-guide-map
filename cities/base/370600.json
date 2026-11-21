@@ -21,7 +21,24 @@
     "门票和开放时间以官方公告为准，旺季建议提前在线购票",
     "从芝罘区开车约 1 小时多，可以和八仙过海景区安排在同一天",
     "海市蜃楼可遇不可求，别专门为此等"
-   ]
+   ],
+   "amap": {
+    "name": "蓬莱阁景区",
+    "id": "B0FFF4XX51",
+    "addr": "蓬莱区 北关路1号",
+    "type": "国家级景点",
+    "tel": "0535-5621111",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日8:00-17:00（16:00停止检票），2026年2月17日7:00-17:00",
+    "lng": 120.752923,
+    "lat": 37.824795,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/37aa3158faf15fd9ebc0d1a3b7f23d0a",
+     "https://store.is.autonavi.com/showpic/3c8816129b839db51e9c92438e486c4c",
+     "https://store.is.autonavi.com/showpic/6cc41f14d4604cbfb6b2696381bdca3c"
+    ]
+   }
   },
   {
    "name": "八仙过海景区",
@@ -36,7 +53,24 @@
    "tips": [
     "和蓬莱阁不是同一个景区，门票分开",
     "海边风大，夏天也带件薄外套"
-   ]
+   ],
+   "amap": {
+    "name": "八仙过海景区",
+    "id": "B021704KQ3",
+    "addr": "蓬莱区 蓬莱阁街道仙境路9号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "8:00-17:00,最晚入园16:00",
+    "lng": 120.775595,
+    "lat": 37.825198,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/35feb0319b6c3d49a411e63a09abbbfc",
+     "https://store.is.autonavi.com/showpic/74e05fde933eb6966ed842d19bd2b795",
+     "https://store.is.autonavi.com/showpic/a6c77a48431d80f8d2c89a1b94e080ac"
+    ]
+   }
   },
   {
    "name": "烟台山景区",
@@ -52,7 +86,24 @@
     "以官方公告为准确认开放时间和是否收费",
     "和朝阳街、所城里都在芝罘区，可以步行串起来",
     "傍晚上山看海湾夕阳很舒服"
-   ]
+   ],
+   "amap": {
+    "name": "烟台山景区",
+    "id": "B021704Q4E",
+    "addr": "芝罘区 历新路7号",
+    "type": "国家级景点",
+    "tel": "0535-6632846",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:00-21:00 最晚进入21:00",
+    "lng": 121.402115,
+    "lat": 37.548354,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ea84d61b44f4cbf398a19098f4341046",
+     "https://store.is.autonavi.com/showpic/8a04a7f317ccece41275cc1bbd355594",
+     "https://store.is.autonavi.com/showpic/69e0cf89d6fbb306c2f3c25a00ee7058"
+    ]
+   }
   },
   {
    "name": "张裕酒文化博物馆",
@@ -68,7 +119,24 @@
     "参观时间和预约方式以官方公告为准",
     "在芝罘区老城，离朝阳街不远",
     "开车的话品酒要找人代驾"
-   ]
+   ],
+   "amap": {
+    "name": "张裕酒文化博物馆",
+    "id": "B0217016BD",
+    "addr": "芝罘区 大马路56号",
+    "type": "博物馆",
+    "tel": "0535-6632892",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1/1-12/31 08:00–17:00开放 最晚进入16:30；国庆节 08:00–19:00开放 最晚进入18:00",
+    "lng": 121.405816,
+    "lat": 37.541857,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/178dd8d0d5850b7b2b330dc5198dedfc",
+     "https://store.is.autonavi.com/showpic/228b3339838869bfa35f10f6cd3e273a",
+     "https://store.is.autonavi.com/showpic/e1f69562582f8c8d1683149561beb7f9"
+    ]
+   }
   },
   {
    "name": "养马岛",
@@ -84,7 +152,24 @@
     "开车上岛最方便，公共交通班次少",
     "赶海要看潮汐表，注意涨潮时间",
     "节假日岛上民宿要提前订"
-   ]
+   ],
+   "amap": {
+    "name": "养马岛",
+    "id": "B02170253C",
+    "addr": "牟平区 天马路99号",
+    "type": "国家级景点",
+    "tel": "0535-4763763",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:00-17:00；2026年2月16日08:00-17:00,2026年2月17日至2026年3月3日08:00-21:00",
+    "lng": 121.61109,
+    "lat": 37.453552,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/eb5996af-8253-427e-8fd1-3d1291238b43.jpg",
+     "https://store.is.autonavi.com/showpic/4d025824faf5b24ab167bdac0f7ef023",
+     "https://store.is.autonavi.com/showpic/d8732b7f12b1b76bab2efccf53ae426c"
+    ]
+   }
   },
   {
    "name": "朝阳街和所城里",
@@ -99,7 +184,24 @@
    "tips": [
     "从烟台山下来步行就能到",
     "老街上的店换得快，吃饭看当下评价"
-   ]
+   ],
+   "amap": {
+    "name": "朝阳街民居",
+    "id": "B02170SRJ5",
+    "addr": "芝罘区 朝阳街与顺太街交叉口北60米",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.401901,
+    "lat": 37.545237,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bf03fa88ee198061f5d582420bb901d6",
+     "https://aos-comment.amap.com/B02170SRJ5/comment/8ff8a8ba2d7ebd605c2c5b842ff474a6_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02170SRJ5/comment/814fa8d3ec0ad5471b5430bb625bf39b_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "烟台滨海广场和第一海水浴场",
@@ -114,7 +216,24 @@
    "tips": [
     "夏天游泳去正规开放的海水浴场",
     "骑共享单车沿海边走很舒服"
-   ]
+   ],
+   "amap": {
+    "name": "第一海水浴场",
+    "id": "B0FFJFESL1",
+    "addr": "芝罘区 山东烟台芝罘大马路3-9光上滨海国际公馆302",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 184.0,
+    "open": "",
+    "lng": 121.414125,
+    "lat": 37.536825,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/38976c70d13ace690000008436914602?type=pic",
+     "https://store.is.autonavi.com/showpic/73444bd71d7239610000008436886903?type=pic",
+     "https://store.is.autonavi.com/showpic/7422559fc399cc0d0000004866310723?type=pic"
+    ]
+   }
   },
   {
    "name": "昆嵛山国家森林公园",
@@ -129,7 +248,24 @@
    "tips": [
     "景区较大，开放和游览线路以官方公告为准",
     "山里信号和补给有限，带好水"
-   ]
+   ],
+   "amap": {
+    "name": "烟台昆嵛山国家森林公园(暂停开放)",
+    "id": "B0FFFCX6RC",
+    "addr": "牟平区 东南20公里处昆嵛山林场",
+    "type": "国家级景点",
+    "tel": "0535-4693307",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "07:30-16:30(旺季),其他时间不同",
+    "lng": 121.736236,
+    "lat": 37.258238,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a0e08585e4d41f3cd7ab3bba3bfde97f",
+     "https://store.is.autonavi.com/showpic/177d901136814589dd638a5a50aead47",
+     "https://store.is.autonavi.com/showpic/8275453fae54a9e049480eb4548ba6a8"
+    ]
+   }
   }
  ],
  "foods": [
@@ -144,7 +280,24 @@
    "tips": [
     "买之前问清称重和加工费",
     "春天皮皮虾、秋天螃蟹最肥"
-   ]
+   ],
+   "amap": {
+    "name": "小红鲸·海鲜餐厅(北马路店)",
+    "id": "B0IG0S5YPD",
+    "addr": "芝罘区 北马路181号芝罘湾广场11号楼",
+    "type": "海鲜酒楼",
+    "tel": "0535-6211088",
+    "rating": 4.8,
+    "cost": 89.0,
+    "open": "周一至周日 11:00-14:00,17:00-21:00",
+    "lng": 121.395451,
+    "lat": 37.543596,
+    "photos": [
+     "https://aos-comment.amap.com/B0IG0S5YPD/comment/content_media_external_file_100003518_1768912984942_20461193.jpg",
+     "https://store.is.autonavi.com/showpic/bdee0b3bddd7a7be0000003360758869?type=pic",
+     "https://aos-comment.amap.com/B0IG0S5YPD/comment/content_media_external_images_media_133055_ss__1766580464684_12265986.jpg"
+    ]
+   }
   },
   {
    "name": "蓬莱小面",
@@ -157,7 +310,24 @@
    "tips": [
     "分量小，可以吃两碗",
     "早上去吃最有本地味"
-   ]
+   ],
+   "amap": {
+    "name": "建兴面馆(东关路店)",
+    "id": "B0FFHSB7KN",
+    "addr": "蓬莱区 凤凰街1号",
+    "type": "中餐厅",
+    "tel": "18863888899",
+    "rating": 4.7,
+    "cost": 13.0,
+    "open": "周一至周日 04:30-14:30",
+    "lng": 120.764838,
+    "lat": 37.810816,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e1e0b6333971eca0000007604478036?type=pic",
+     "https://aos-comment.amap.com/B0FFHSB7KN/comment/BF1E60DD_B1EE_4788_8290_BC332DFE2C58_L0_001_2000_150_1751730645268_67066575.jpg",
+     "https://aos-comment.amap.com/B0FFHSB7KN/comment/menu/ca749adfe4569eb53f553806e01ed4a2_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "福山大面",
@@ -169,7 +339,24 @@
    ],
    "tips": [
     "可以多点几种卤子换着尝"
-   ]
+   ],
+   "amap": {
+    "name": "福山大面(烟台蓬莱国际机场T2航站楼2层店)",
+    "id": "B0KR9RB4XD",
+    "addr": "蓬莱区 烟台美食汇南侧",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 3.6,
+    "cost": 59.0,
+    "open": "周一至周日 05:30-22:00",
+    "lng": 120.983811,
+    "lat": 37.652169,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/539267ddc54bdbcc0000002317938380?type=pic",
+     "https://store.is.autonavi.com/showpic/8f328f81bb18f23f0000002317912948?type=pic",
+     "https://store.is.autonavi.com/showpic/3bb58f911459571d0000002317866877?type=pic"
+    ]
+   }
   },
   {
    "name": "焖子",
@@ -181,7 +368,23 @@
    ],
    "tips": [
     "趁热吃，凉了就不脆了"
-   ]
+   ],
+   "amap": {
+    "name": "烟台焖子",
+    "id": "B0FFIG0DU3",
+    "addr": "芝罘区 东山街道滨海路(近东炮台1号)东炮台公园",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.4,
+    "cost": 0,
+    "open": "",
+    "lng": 121.434223,
+    "lat": 37.534946,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/db7e98eec13318f72686f71af2654677",
+     "https://store.is.autonavi.com/showpic/52bfc77d19492a3cd5c364965ecf8380"
+    ]
+   }
   },
   {
    "name": "鲅鱼水饺",
@@ -194,7 +397,24 @@
    "tips": [
     "春天鲅鱼上市时最新鲜",
     "饺子个头大，按斤或按盘点注意分量"
-   ]
+   ],
+   "amap": {
+    "name": "佳和水饺(海德公馆店)",
+    "id": "B0H1C54ZPP",
+    "addr": "蓬莱区 登州街道海市路142号A203号海德公馆西门停车场",
+    "type": "中餐厅",
+    "tel": "15954961809",
+    "rating": 4.7,
+    "cost": 82.0,
+    "open": "周一至周日 10:00-14:00,16:30-21:00",
+    "lng": 120.78846,
+    "lat": 37.794169,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6b4cd0d486d2cf440000009197446253?type=pic",
+     "https://store.is.autonavi.com/showpic/102ee0594b9e9bd4aba7e514c94838d8",
+     "https://store.is.autonavi.com/showpic/247038477420cfae0000007050934456?type=pic"
+    ]
+   }
   },
   {
    "name": "海肠捞饭",
@@ -206,7 +426,24 @@
    ],
    "tips": [
     "海肠要爆炒，火候过了会发硬"
-   ]
+   ],
+   "amap": {
+    "name": "小红鲸·海鲜餐厅(北马路店)",
+    "id": "B0IG0S5YPD",
+    "addr": "芝罘区 北马路181号芝罘湾广场11号楼",
+    "type": "海鲜酒楼",
+    "tel": "0535-6211088",
+    "rating": 4.8,
+    "cost": 89.0,
+    "open": "周一至周日 11:00-14:00,17:00-21:00",
+    "lng": 121.395451,
+    "lat": 37.543596,
+    "photos": [
+     "https://aos-comment.amap.com/B0IG0S5YPD/comment/content_media_external_file_100003518_1768912984942_20461193.jpg",
+     "https://store.is.autonavi.com/showpic/bdee0b3bddd7a7be0000003360758869?type=pic",
+     "https://aos-comment.amap.com/B0IG0S5YPD/comment/content_media_external_images_media_133055_ss__1766580464684_12265986.jpg"
+    ]
+   }
   },
   {
    "name": "大樱桃和苹果",
@@ -219,7 +456,24 @@
    "tips": [
     "采摘园价格和开放情况提前问清",
     "寄快递前确认包装和运输时效"
-   ]
+   ],
+   "amap": {
+    "name": "Apple授权专营店(招远振华店)",
+    "id": "B0FFG31XZN",
+    "addr": "招远市 中心东关街60号振华商厦中心店",
+    "type": "手机销售",
+    "tel": "0535-8030666",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 120.406275,
+    "lat": 37.361475,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/774dd8c7d9ede513d1d87db0ae5dd632",
+     "https://store.is.autonavi.com/showpic/5e06c3ebb3b08ee053e450bfc7458bee",
+     "https://store.is.autonavi.com/showpic/8099e9bd3a1cea80a8268dac9176a8cc"
+    ]
+   }
   }
  ],
  "food_areas": [

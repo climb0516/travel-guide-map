@@ -21,7 +21,24 @@
     "需要携带身份证件实名进入，安检比较严格",
     "从市区到大坝约一小时车程，可以坐专线车",
     "泄洪不是每天都有，不要专门为看泄洪安排行程"
-   ]
+   ],
+   "amap": {
+    "name": "三峡大坝旅游区",
+    "id": "B0FFG2WWCJ",
+    "addr": "夷陵区 神女路10号",
+    "type": "国家级景点",
+    "tel": "0717-6763498",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "3月1日至12月15日 周一至周日08:00-17:00；12月16日至2月28日 周一至周日08:30-16:30；节假日开放时间以官方通知为准",
+    "lng": 111.037958,
+    "lat": 30.828051,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/05d748517a7323eb41e12d793a17df2c",
+     "https://store.is.autonavi.com/showpic/206de061c522c054969ca7150d763a3c",
+     "https://store.is.autonavi.com/showpic/b771df54762198d51d8b5a9ba0898a63"
+    ]
+   }
   },
   {
    "name": "三峡人家",
@@ -37,7 +54,24 @@
     "景区台阶多，穿好走的鞋",
     "可以和三峡大坝安排在同一天，但会比较赶",
     "游船和演出安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "三峡人家风景区",
+    "id": "B02CD01U6K",
+    "addr": "夷陵区 三斗坪镇石牌村",
+    "type": "国家级景点",
+    "tel": "0717-8850588",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:00-17:30(15:00停止售票)",
+    "lng": 111.156941,
+    "lat": 30.792549,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9daf2777c23fd9ed525848fde33f00e2",
+     "https://aos-comment.amap.com/B02CD01U6K/comment/content_media_external_file_100010416_1767019973654_87323735.jpg",
+     "https://store.is.autonavi.com/showpic/8fdd222c818a2580d1ac3ff9f7b7ff1d"
+    ]
+   }
   },
   {
    "name": "葛洲坝",
@@ -52,7 +86,24 @@
    "tips": [
     "游船过船闸的时间受航运调度影响",
     "城区附近，安排在到达当天或离开前都可以"
-   ]
+   ],
+   "amap": {
+    "name": "葛洲坝船闸景区",
+    "id": "B02CD0RHTE",
+    "addr": "西陵区 镇平路39号",
+    "type": "旅游景点",
+    "tel": "0717-6962516",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；游船等项目参考票种披露",
+    "lng": 111.292024,
+    "lat": 30.731983,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a5e0c03cdffb8ee2b7b18b6aa52dae6e",
+     "https://store.is.autonavi.com/showpic/7f7e9924d1a9adff3db6c04d1f1bce9e",
+     "https://store.is.autonavi.com/showpic/0852c8c67bcf32c70062531bf0fe2c41"
+    ]
+   }
   },
   {
    "name": "三游洞",
@@ -67,7 +118,24 @@
    "tips": [
     "离市区较近，打车即可到达",
     "临江栈道有坡有台阶，注意脚下"
-   ]
+   ],
+   "amap": {
+    "name": "三游洞景区",
+    "id": "B02CD041A1",
+    "addr": "夷陵区 南津关",
+    "type": "国家级景点",
+    "tel": "0717-8862161",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "3月至12月 周一至周日 08:30-17:30 最晚进入16:30",
+    "lng": 111.266705,
+    "lat": 30.765106,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7c4aad7209d724ebe8e4be06fb84bf41",
+     "https://store.is.autonavi.com/showpic/03fce47518d545e6f6122d0c21450633",
+     "https://store.is.autonavi.com/showpic/7619b9f53d6c490726c70a37e43441d3"
+    ]
+   }
   },
   {
    "name": "清江画廊",
@@ -83,7 +151,24 @@
     "游船时间较长，建议安排一整天",
     "从宜昌市区到长阳约一小时车程",
     "游船班次以景区当天安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "清江画廊旅游度假区",
+    "id": "B02CD02EMJ",
+    "addr": "长阳土家族自治县",
+    "type": "国家级景点",
+    "tel": "0717-5418888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "8:00-17:30",
+    "lng": 111.138347,
+    "lat": 30.466625,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/75f8c00c0ed73ab8e7b67649f20be5a9",
+     "https://store.is.autonavi.com/showpic/38d143e48495a0714661be4a437ae86a",
+     "https://store.is.autonavi.com/showpic/ad6906562efb79bde60b8ef05801b03a"
+    ]
+   }
   },
   {
    "name": "屈原故里",
@@ -98,7 +183,24 @@
    "tips": [
     "端午节前后有龙舟赛和纪念活动，人比较多",
     "可以和三峡大坝安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "屈原故里",
+    "id": "B0FFF4HBPZ",
+    "addr": "秭归县 平湖大道",
+    "type": "国家级景点",
+    "tel": "15717895513",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-17:00,2026年2月16日闭园",
+    "lng": 110.988428,
+    "lat": 30.826058,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0547aa0c926bd231c493db2280f7bb10",
+     "https://store.is.autonavi.com/showpic/eaafb122dc05570eee68d3987d7d9c26",
+     "https://store.is.autonavi.com/showpic/8436aae32448ca3794b5581f3e6623a2"
+    ]
+   }
   },
   {
    "name": "车溪民俗旅游区",
@@ -113,7 +215,24 @@
    "tips": [
     "适合想避开大景区人流的游客",
     "开放安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "宜昌车溪民俗旅游区",
+    "id": "B0FFHFMS7S",
+    "addr": "点军区 土城乡车溪村",
+    "type": "国家级景点",
+    "tel": "0717-7884167",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "9月3日-9月30日 周一 08:30-17:00开放（15:30停止售票，16:00停止入园）；周二-周日 08:30-21:30开放（20:00停止入园）、老街 10:00-17:00 日游演出时间:演出时间:上午场10:00，下午场14:30 夜游须知:18:00开始检票入园；具体开放时间以官方通知为准",
+    "lng": 111.077124,
+    "lat": 30.657615,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1ba0432f823f6c390a8d4f250c023455",
+     "https://store.is.autonavi.com/showpic/5131688eee86879ae50da2d7b2c9107c",
+     "https://store.is.autonavi.com/showpic/c34a339dc1c0ee79db3aba7ba10cbe4a"
+    ]
+   }
   },
   {
    "name": "宜昌滨江公园",
@@ -128,7 +247,24 @@
    "tips": [
     "夏季汛期注意不要下到水边",
     "可以选一段走走，不必走完全程"
-   ]
+   ],
+   "amap": {
+    "name": "滨江公园",
+    "id": "B02CD02CXK",
+    "addr": "西陵区 沿江大道006号",
+    "type": "公园",
+    "tel": "18288283424",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 111.287086,
+    "lat": 30.690523,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8136cbd5c90ea560469b42525811c272",
+     "https://store.is.autonavi.com/showpic/eff0f519208c269f3a9ecbd0b23cb7cb",
+     "https://store.is.autonavi.com/showpic/1bc728dc812a9ce50000002462510338?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    ],
    "tips": [
     "红糖水甜度可以让老板调整"
-   ]
+   ],
+   "amap": {
+    "name": "致祥王氏凉虾(解放路总店)",
+    "id": "B0G1SLAFED",
+    "addr": "西陵区 致祥路8号中山路与致祥路交汇处",
+    "type": "餐饮相关",
+    "tel": "18727252620",
+    "rating": 4.6,
+    "cost": 7.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 111.286341,
+    "lat": 30.698,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/527b6a8b1563c34f0000002160222352?type=pic",
+     "https://store.is.autonavi.com/showpic/2243cafa3dbb21a50000002460888746?type=pic",
+     "https://aos-comment.amap.com/B0G1SLAFED/comment/ba600cd843415a52e4e53f1268e176e7_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "萝卜饺子",
@@ -154,7 +307,24 @@
    ],
    "tips": [
     "刚出锅很烫，稍等一会儿再咬"
-   ]
+   ],
+   "amap": {
+    "name": "三峡鱼馆",
+    "id": "B0JBYSUP2L",
+    "addr": "伍家岗区 胜利二路6-2号",
+    "type": "中餐厅",
+    "tel": "0717-6219677",
+    "rating": 4.4,
+    "cost": 73.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 111.303589,
+    "lat": 30.683411,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5f8f3185bf608e590000002977002689?type=pic",
+     "https://store.is.autonavi.com/showpic/77f8870a12215a2aaafba131b1a07369",
+     "https://aos-comment.amap.com/B0JBYSUP2L/comment/89EC6D01_404F_412E_A636_65C1953B971C_L0_001_1500_2000_1743679794208_08914174.jpg"
+    ]
+   }
   },
   {
    "name": "清江鱼",
@@ -167,7 +337,24 @@
    "tips": [
     "可以选微辣，鱼的鲜味更明显",
     "按斤计价，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "刘记搓一顿土家特色",
+    "id": "B0HAXCLMDW",
+    "addr": "长阳土家族自治县 桔园新城12号",
+    "type": "中餐厅",
+    "tel": "0717-5358678",
+    "rating": 4.5,
+    "cost": 53.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 111.163862,
+    "lat": 30.497182,
+    "photos": [
+     "https://aos-comment.amap.com/B0HAXCLMDW/comment/a7ffddf0e40a500e269b7e6f51c2f098_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0HAXCLMDW/comment/E1678400_79F4_4CAA_9D8C_8910F81FB373_L0_001_1080_144_1766469109976_60784612.jpg",
+     "https://aos-comment.amap.com/B0HAXCLMDW/comment/content_media_external_images_media_154786_ss__1729656540229_52698517.jpg"
+    ]
+   }
   },
   {
    "name": "土家腊肉",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "腊肉偏咸，配米饭吃刚好"
-   ]
+   ],
+   "amap": {
+    "name": "刘记搓一顿土家特色",
+    "id": "B0HAXCLMDW",
+    "addr": "长阳土家族自治县 桔园新城12号",
+    "type": "中餐厅",
+    "tel": "0717-5358678",
+    "rating": 4.5,
+    "cost": 53.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 111.163862,
+    "lat": 30.497182,
+    "photos": [
+     "https://aos-comment.amap.com/B0HAXCLMDW/comment/a7ffddf0e40a500e269b7e6f51c2f098_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0HAXCLMDW/comment/E1678400_79F4_4CAA_9D8C_8910F81FB373_L0_001_1080_144_1766469109976_60784612.jpg",
+     "https://aos-comment.amap.com/B0HAXCLMDW/comment/content_media_external_images_media_154786_ss__1729656540229_52698517.jpg"
+    ]
+   }
   },
   {
    "name": "包面",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "可以清汤、红油各来一碗试试"
-   ]
+   ],
+   "amap": {
+    "name": "御食汤包面馆",
+    "id": "B0K3BUP69R",
+    "addr": "伍家岗区 白沙二路时代印小区二期商铺3-101",
+    "type": "中餐厅",
+    "tel": "18928811977",
+    "rating": 4.3,
+    "cost": 15.0,
+    "open": "周一至周日 06:00-20:30",
+    "lng": 111.358002,
+    "lat": 30.63736,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/98a1072d42bf5139cfaf8cd60314d36e",
+     "https://aos-comment.amap.com/B0K3BUP69R/comment/3FF3B25A_6EFA_42C5_B42E_EC5ABCB2B346_L0_001_1500_200_1767924115404_37359131.jpg",
+     "https://aos-comment.amap.com/B0K3BUP69R/comment/E8E4F312_31EC_4B42_9016_0BF66792F235_L0_001_1500_200_1767255760320_50474465.jpg"
+    ]
+   }
   },
   {
    "name": "秭归脐橙",
@@ -203,7 +424,24 @@
    ],
    "tips": [
     "上市时间以当年情况为准"
-   ]
+   ],
+   "amap": {
+    "name": "秭归脐橙",
+    "id": "B0KKR4MMI1",
+    "addr": "西陵区 金家台路4号金家和苑小区门口",
+    "type": "果品市场",
+    "tel": "13657171150",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 111.300847,
+    "lat": 30.695552,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/99811bf989435a45153134fe2f6454db",
+     "https://store.is.autonavi.com/showpic/ee62b298d398f2065f044668d8a81b78",
+     "https://aos-comment.amap.com/B0KKR4MMI1/headerImg/content_media_external_images_media_100001901_1737630576209_86438274.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

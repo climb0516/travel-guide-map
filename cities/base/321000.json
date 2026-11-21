@@ -21,7 +21,24 @@
     "春季和节假日人很多，尽量开园就进，门票建议提前在官方渠道购买",
     "园区很大，可以坐船或电瓶车，从南门进、北门出比较顺",
     "傍晚光线柔和，拍五亭桥和白塔效果更好"
-   ]
+   ],
+   "amap": {
+    "name": "蜀冈-瘦西湖风景名胜区",
+    "id": "B0202154UD",
+    "addr": "邗江区 大虹桥路28号",
+    "type": "国家级景点",
+    "tel": "0514-87357803",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "白天:07:00–19:30，白天停止检票时间17:30，白天最迟出园时间19:30，夜游开放时间:18:30-22:00",
+    "lng": 119.420197,
+    "lat": 32.409631,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1cbe10d4552a9b079d65abfbfb0eff30",
+     "https://store.is.autonavi.com/showpic/74c20ed2454f117928e273ae2f51deed",
+     "https://store.is.autonavi.com/showpic/53a59cef0724fd4710ab63f91eee6ffa"
+    ]
+   }
   },
   {
    "name": "个园",
@@ -36,7 +53,24 @@
    "tips": [
     "和东关街挨着，可以安排在一起",
     "冬山的宣石在阳光下发白像积雪，晴天看效果更好"
-   ]
+   ],
+   "amap": {
+    "name": "个园",
+    "id": "B0202007R2",
+    "addr": "广陵区 盐阜东路10号",
+    "type": "国家级景点",
+    "tel": "0514-87361638",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 07:15-17:30",
+    "lng": 119.443696,
+    "lat": 32.399141,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f282a8ff0a9204c150aa8a49ea756c5a",
+     "https://store.is.autonavi.com/showpic/afa62893987e468d54a0c44b3ce00175",
+     "https://store.is.autonavi.com/showpic/38c755c1fb5d0d4f31c1c036d50cbc97"
+    ]
+   }
   },
   {
    "name": "何园",
@@ -51,7 +85,24 @@
    "tips": [
     "和个园风格不同，时间够可以都去",
     "附近的南河下一带还有不少盐商老宅，可以顺路走走"
-   ]
+   ],
+   "amap": {
+    "name": "何园",
+    "id": "B0202002FA",
+    "addr": "广陵区 徐凝门大街66号",
+    "type": "国家级景点",
+    "tel": "0514-87239626",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至2月,12月 周一至周日 07:30-17:15 最晚进入16:45；3月至5月,9月至11月 周一至周日 07:30-17:30 最晚进入17:00；6月至8月 周一至周日 07:30-18:00 最晚进入17:30",
+    "lng": 119.448798,
+    "lat": 32.38563,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/52ee354d47050e9b25d760fe3d51db10",
+     "https://store.is.autonavi.com/showpic/33c9ce2edc118f284a81319caa48418c",
+     "https://store.is.autonavi.com/showpic/cca6259f1807917446bf4e2e95d228c2"
+    ]
+   }
   },
   {
    "name": "东关街",
@@ -67,7 +118,24 @@
     "主街小吃偏游客化，正餐可以去附近的老字号",
     "谢馥春的香粉、四美酱菜适合当伴手礼",
     "街口附近停车困难，建议打车或骑车过来"
-   ]
+   ],
+   "amap": {
+    "name": "扬州东关街",
+    "id": "B02021604C",
+    "addr": "广陵区 东关街与国庆路交叉口东100米",
+    "type": "风景名胜",
+    "tel": "0514-87330260",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.446821,
+    "lat": 32.398188,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/26b54e6e9a80e1d5d2dbbbf986f8a3b2",
+     "https://store.is.autonavi.com/showpic/2af84047d5c0f757028b29170b43b13c",
+     "https://store.is.autonavi.com/showpic/c28bd50a5cb872e4f3198aeda7b761de"
+    ]
+   }
   },
   {
    "name": "大明寺",
@@ -82,7 +150,24 @@
    "tips": [
     "寺院有香火，进殿注意礼仪",
     "和瘦西湖北门很近，适合连着逛"
-   ]
+   ],
+   "amap": {
+    "name": "大明寺(扬州大运河文化旅游度假区)",
+    "id": "B020200BTN",
+    "addr": "邗江区 蜀冈中峰平山堂东路8号",
+    "type": "寺庙道观",
+    "tel": "0514-87335286",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 119.412679,
+    "lat": 32.419864,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5e24fad57bcc9d6111702f363e482a2f",
+     "https://store.is.autonavi.com/showpic/afe310dbd105b94fdfb55bf10b814afa",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/248b9a99-d8e0-4c62-99f3-47d91ebdc5fe.jpg"
+    ]
+   }
   },
   {
    "name": "中国大运河博物馆",
@@ -98,7 +183,24 @@
     "免费参观但需要提前预约，热门时段很快约满，周一通常闭馆",
     "部分沉浸式展项需要单独预约，以官方公告为准",
     "离老城有一段距离，建议打车或自驾"
-   ]
+   ],
+   "amap": {
+    "name": "中国大运河博物馆",
+    "id": "B0G1X5HFSJ",
+    "addr": "广陵区 东南新城运博路1号(运河三湾景区内)",
+    "type": "博物馆",
+    "tel": "0514-82773088",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "全年 周一 全天不开放；08/08-08/31 周二-周日 09:00-18:00开放；05/06-08/07 周二-周日 09:00-17:00开放；端午节 09:00-18:00开放",
+    "lng": 119.428119,
+    "lat": 32.362437,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1952b8fec2e504303c9143b54d24e39e",
+     "https://store.is.autonavi.com/showpic/b77f812fb795590fc87f78875c6f4fa6",
+     "https://store.is.autonavi.com/showpic/cebf91305d1f6e460000009378796660?type=pic"
+    ]
+   }
   },
   {
    "name": "扬州博物馆",
@@ -113,7 +215,24 @@
    "tips": [
     "免费参观，需提前预约，开放安排以官方公告为准",
     "和大运河博物馆选一个即可，时间多再都去"
-   ]
+   ],
+   "amap": {
+    "name": "扬州博物馆",
+    "id": "B02020I0QT",
+    "addr": "邗江区 文昌西路468号",
+    "type": "博物馆",
+    "tel": "0514-85228003",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00",
+    "lng": 119.371778,
+    "lat": 32.390891,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a16f9f034c6c5c0fcde9e23ad1670ab7",
+     "https://store.is.autonavi.com/showpic/6ef3002c3224a06cde5d612ed06b346b",
+     "https://store.is.autonavi.com/showpic/ce6870a1af2d1cbf0000009190664395?type=pic"
+    ]
+   }
   },
   {
    "name": "汪氏小苑",
@@ -128,7 +247,24 @@
    "tips": [
     "小苑不大，1 小时足够",
     "可以和东关街、个园串在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "汪氏小苑",
+    "id": "B0202004A8",
+    "addr": "广陵区 东圈门地官第18号",
+    "type": "风景名胜",
+    "tel": "0514-82999066",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30",
+    "lng": 119.446875,
+    "lat": 32.395985,
+    "photos": [
+     "https://aos-comment.amap.com/B0202004A8/comment/content_media_external_file_323231_ss__1760793181829_85536409.jpg",
+     "https://store.is.autonavi.com/showpic/295534a774cd6cc50000009404620141?type=pic",
+     "https://store.is.autonavi.com/showpic/1d449b20d3b7f1d00000003041508342?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    "tips": [
     "热门茶社周末 8 点前到能少排队",
     "人少的话点几样招牌就够，别一次点太多"
-   ]
+   ],
+   "amap": {
+    "name": "冶春茶社(珍园店)",
+    "id": "B0202154UM",
+    "addr": "广陵区 文昌中路492号珍园商业街广陵苑1层",
+    "type": "中餐厅",
+    "tel": "0514-87315777",
+    "rating": 4.3,
+    "cost": 54.0,
+    "open": "周一至周日 07:00-13:30,17:00-20:00",
+    "lng": 119.438163,
+    "lat": 32.395003,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ad88e95cf04b820a8f1a15d68db8771f",
+     "https://aos-comment.amap.com/B0202154UM/comment/7a348c52962c6a521a286a7a6e0b3bfe_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0202154UM/comment/072cc7cdf53543c73101b77235db6f42_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "三丁包",
@@ -155,7 +308,24 @@
    ],
    "tips": [
     "一笼常有好几只，人少可以和别的点心搭配着点"
-   ]
+   ],
+   "amap": {
+    "name": "富春茶社",
+    "id": "B0FFFEIFQ7",
+    "addr": "广陵区 国庆路得胜桥35号",
+    "type": "中餐厅",
+    "tel": "0514-87233326",
+    "rating": 4.4,
+    "cost": 65.0,
+    "open": "周一至周日 06:30-13:30，15:45-19:30",
+    "lng": 119.442174,
+    "lat": 32.390616,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/954500c66ee063702513cb55c81ee9ed",
+     "https://store.is.autonavi.com/showpic/430b47e2bfd962ac0000001338706942?type=pic",
+     "https://aos-comment.amap.com/B0FFFEIFQ7/comment/content_media_external_file_100004190_1753840007108_37294324.jpg"
+    ]
+   }
   },
   {
    "name": "千层油糕和翡翠烧卖",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "两样都偏甜，可以和咸点心搭配"
-   ]
+   ],
+   "amap": {
+    "name": "皮包水茶社·早茶·淮扬菜(何园店)",
+    "id": "B0K1H5UNS5",
+    "addr": "广陵区 南通西路75号广源丁山大酒店一层(近东北门)",
+    "type": "餐饮相关",
+    "tel": "0514-89330017",
+    "rating": 4.5,
+    "cost": 46.0,
+    "open": "周一至周日 06:00-13:30,16:30-21:00",
+    "lng": 119.438296,
+    "lat": 32.383666,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2e4477d54abc86990000006193540461?type=pic",
+     "https://store.is.autonavi.com/showpic/541c37be181c7e6eef119cf55c5e2982",
+     "https://store.is.autonavi.com/showpic/d57389d32acacded0000007044102295?type=pic"
+    ]
+   }
   },
   {
    "name": "大煮干丝",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "想吃清爽一点就点烫干丝"
-   ]
+   ],
+   "amap": {
+    "name": "淮扬醉香楼酒店",
+    "id": "B0FFK6N80C",
+    "addr": "广陵区 文昌中路590号内综合楼的一楼",
+    "type": "餐饮相关",
+    "tel": "0514-82132977",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 10:30-13:30,16:30-21:00",
+    "lng": 119.42924,
+    "lat": 32.394957,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/be80a226737fe4420000004356744592?type=pic",
+     "https://store.is.autonavi.com/showpic/3cf889a323909dac0000002394862180?type=pic",
+     "https://store.is.autonavi.com/showpic/f6e28794eef43b420000009294062745?type=pic"
+    ]
+   }
   },
   {
    "name": "清炖蟹粉狮子头",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "蟹粉版本季节性强，非蟹季也有清炖或红烧版"
-   ]
+   ],
+   "amap": {
+    "name": "大毛.淮扬菜(何园店)",
+    "id": "B0LAKUFHKG",
+    "addr": "广陵区 东关街道徐凝门路号楼10楼(徐门大街55号)",
+    "type": "中餐厅",
+    "tel": "15396781959",
+    "rating": 4.8,
+    "cost": 87.0,
+    "open": "周一至周日 11:00-21:00",
+    "lng": 119.449921,
+    "lat": 32.385745,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0b6426dfde65f44b0000004868090965?type=pic",
+     "https://store.is.autonavi.com/showpic/4e9c2150d44fdc24021cd15358f59d1e",
+     "https://store.is.autonavi.com/showpic/95f06e2e398cab190000003144122231?type=pic"
+    ]
+   }
   },
   {
    "name": "扬州炒饭",
@@ -203,7 +424,24 @@
    ],
    "tips": [
     "适合作为一顿饭的最后一道主食"
-   ]
+   ],
+   "amap": {
+    "name": "大毛·淮扬菜(梅岭东路店)",
+    "id": "B0H1ML1K8I",
+    "addr": "邗江区 梅岭东路与史可法路交叉口东100米",
+    "type": "中餐厅",
+    "tel": "0514-82208997",
+    "rating": 4.8,
+    "cost": 85.0,
+    "open": "周一至周日 11:00-24:00",
+    "lng": 119.441109,
+    "lat": 32.40714,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5e09f12400e7e8430000009467460467?type=pic",
+     "https://store.is.autonavi.com/showpic/716cf08f99a68e4459bf3ee39e94f88b",
+     "https://store.is.autonavi.com/showpic/a9503143b075adc90000006406270807?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

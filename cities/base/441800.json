@@ -21,7 +21,24 @@
     "漂流要带一套换洗衣服和拖鞋，手机装防水袋",
     "暑假周末人很多，最好提前预约",
     "雨后水量大时漂流可能暂停，出发前确认"
-   ]
+   ],
+   "amap": {
+    "name": "古龙峡",
+    "id": "B02FB024GL",
+    "addr": "清新区 三坑滩村",
+    "type": "国家级景点",
+    "tel": "0763-5851668",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:00 最晚进入16:00；子项目开放时间请以景区现场公布为准",
+    "lng": 112.957388,
+    "lat": 23.78032,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9a6122dd9be60c19d5d90cfeb003dbbb",
+     "https://store.is.autonavi.com/showpic/8390acb49c8159b49c979e529c9ab165",
+     "https://store.is.autonavi.com/showpic/84ab43b665990630c11c4f49567ea0a3"
+    ]
+   }
   },
   {
    "name": "英西峰林走廊",
@@ -37,7 +54,24 @@
     "自驾最方便，公共交通很少",
     "早晨常有薄雾，峰林景色最好看",
     "乡道比较窄，会车要小心"
-   ]
+   ],
+   "amap": {
+    "name": "清远英西峰林走廊",
+    "id": "B0FFFAO66X",
+    "addr": "英德市 九龙镇,黄花镇",
+    "type": "风景名胜",
+    "tel": "0763-2751888",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-17:30 最晚进入17:00；老虎谷漂流时间:14:00-15:30",
+    "lng": 112.905039,
+    "lat": 24.154025,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c945d860d519ad06174165eac9162a58",
+     "https://store.is.autonavi.com/showpic/a0e2600c1ecd3d5cf88066ffc2ee2af7",
+     "https://store.is.autonavi.com/showpic/64fcf8d27f7ad8a0410368628859b17f"
+    ]
+   }
   },
   {
    "name": "英德宝晶宫",
@@ -52,7 +86,24 @@
    "tips": [
     "洞内湿滑，穿防滑鞋",
     "洞里比外面凉，夏天也可以带件薄外套"
-   ]
+   ],
+   "amap": {
+    "name": "英德宝晶宫乐园",
+    "id": "B0G1650WGS",
+    "addr": "英德市 南郊七公里的燕子岩山",
+    "type": "旅游景点",
+    "tel": "0763-2219999",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00",
+    "lng": 113.369439,
+    "lat": 24.123431,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/701b719dab0b97e59bca7d44234380aa",
+     "https://store.is.autonavi.com/showpic/09e7529d1e14213a2a371677b2f674ea",
+     "https://aos-comment.amap.com/B0G1650WGS/comment/89AD667B_337C_4B91_8969_F273F4B1ECE7_L0_001_1500_2000_1740818559745_81063473.jpg"
+    ]
+   }
   },
   {
    "name": "飞霞风景名胜区",
@@ -67,7 +118,24 @@
    "tips": [
     "山路以台阶为主，穿舒服的鞋",
     "可以了解一下北江游船是否开放，坐船游览更有意思"
-   ]
+   ],
+   "amap": {
+    "name": "飞霞风景名胜区(洞口片区)",
+    "id": "B02FB001DF",
+    "addr": "清城区 源潭镇李家庄",
+    "type": "风景名胜",
+    "tel": "0763-3780128",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:00",
+    "lng": 113.194663,
+    "lat": 23.714638,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/21f34fc58f7cf2f8a9dd3f569b709f8c",
+     "https://store.is.autonavi.com/showpic/22ef8d21d80e22106561fd59520206c7",
+     "https://store.is.autonavi.com/showpic/efdfe1295173ef2c91401bf60a95fefa"
+    ]
+   }
   },
   {
    "name": "黄腾峡",
@@ -82,7 +150,24 @@
    "tips": [
     "漂流需要换洗衣物，注意防晒",
     "高空项目对身体有要求，量力而行"
-   ]
+   ],
+   "amap": {
+    "name": "清远黄腾峡生态旅游区",
+    "id": "B02FB02R77",
+    "addr": "清城区 东城街石板村",
+    "type": "国家级景点",
+    "tel": "0763-3906999",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周五 12:30-21:00；周六至周日 09:00-21:00",
+    "lng": 113.095287,
+    "lat": 23.76268,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ee62d4cae8f0bb2b0f8cfe02ec5acef9",
+     "https://store.is.autonavi.com/showpic/3c65aa73ff008fda650208d4aad75a60",
+     "https://store.is.autonavi.com/showpic/4a10c8bf744050fefc509a4b0bde63a9"
+    ]
+   }
   },
   {
    "name": "连南千年瑶寨",
@@ -98,7 +183,24 @@
     "寨子依山而建，上坡路多，体力要留够",
     "节庆期间人多，提前订好住宿",
     "拍摄村民前先征得同意"
-   ]
+   ],
+   "amap": {
+    "name": "清远千年瑶寨景区",
+    "id": "B02FB0P86Z",
+    "addr": "连南瑶族自治县 三排镇南岗村",
+    "type": "国家级景点",
+    "tel": "0763-3175788",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；一、日间演艺 【瑶族风情歌舞展演】 瑶族舞曲广场｜每日 9:40、11:00、14:20、16:00 【迎宾舞+源远流长敬酒礼】 游客中心｜周日 10:35 【瑶族非遗婚俗展演】 主寨门｜周日 15:30 二、夜间演艺 【火把巡游】 游客中心-梯田-瑶族舞曲广场｜周六:18:30-19:00 【篝火晚会】 瑶族舞曲广场｜周六:19:00-20:00 温馨提示: 1、如遇降雨天气，游客中心、主寨门等室外露台演出将临时取消；节假日及主题活动期间节目若有调整，均以景区现场公告为准； 2、篝火晚会为园内二销项目，需另外购票。",
+    "lng": 112.301397,
+    "lat": 24.582188,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/03acf1e8c00c97bd07cbf58309eded78",
+     "https://store.is.autonavi.com/showpic/916c77906dff7f6e623c24a9a6b6decf",
+     "https://store.is.autonavi.com/showpic/80357d16577d6799c4784b1e86c5cc4e"
+    ]
+   }
   },
   {
    "name": "连州地下河",
@@ -113,7 +215,24 @@
    "tips": [
     "洞内温度低，带件外套",
     "地下河乘船时不要把手伸出船外"
-   ]
+   ],
+   "amap": {
+    "name": "连州地下河",
+    "id": "B02FB024HU",
+    "addr": "连州市 东陂镇大洞村",
+    "type": "国家级景点",
+    "tel": "0763-6269189",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "全年 09:00-17:00开放（17:00停止入园）；5月2日-5月5日 07:30-17:30开放；10月2日-10月7日 07:30-17:30开放；2027年2月7日-2027年2月12日 07:30-17:30开放",
+    "lng": 112.32985,
+    "lat": 25.006742,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e47f1ad804e5cf5ac8ea116a2ea13c12",
+     "https://store.is.autonavi.com/showpic/724cc8bcb4268f9081fe7467fef2dabc",
+     "https://store.is.autonavi.com/showpic/4d0e85ae772d0fe589dc89bb27cc6a62"
+    ]
+   }
   },
   {
    "name": "积庆里",
@@ -128,7 +247,24 @@
    "tips": [
     "春季采茶季去最有氛围",
     "茶园阳光很晒，带帽子防晒"
-   ]
+   ],
+   "amap": {
+    "name": "积庆里红茶谷",
+    "id": "B0FFFQ66OO",
+    "addr": "英德市 横石塘镇前锋村委向阳(老下洞)村民小组",
+    "type": "风景名胜",
+    "tel": "0763-2662300",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 113.2765,
+    "lat": 24.345168,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bbb6555ecd1bcb3dcc93cd32ad2ff933",
+     "https://store.is.autonavi.com/showpic/1c02a1b20e603456db37b2649f2d9eb3",
+     "https://store.is.autonavi.com/showpic/dd6dd5709982bf7ef0705b52f0cb9094"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    "tips": [
     "白切鸡讲究刚熟，骨头带一点血色是正常的",
     "半只一般够两三个人吃"
-   ]
+   ],
+   "amap": {
+    "name": "湖边边妈妈的菜清远鸡家宴",
+    "id": "B0JD0MSW7W",
+    "addr": "清城区 洲心街办凤凰管理区岭头村221号首层",
+    "type": "中餐厅",
+    "tel": "19307630347",
+    "rating": 4.6,
+    "cost": 70.0,
+    "open": "周一至周日 11:00-21:00",
+    "lng": 113.067696,
+    "lat": 23.670367,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fd875bca0004edc50000003182896382?type=pic",
+     "https://store.is.autonavi.com/showpic/06a67b0c1fdad1380000009476642065?type=pic",
+     "https://store.is.autonavi.com/showpic/0f1619de605442420000002990186157?type=pic"
+    ]
+   }
   },
   {
    "name": "北江河鲜",
@@ -155,7 +308,22 @@
    ],
    "tips": [
     "按斤称重的店，点菜前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "欧记正宗北江河鲜",
+    "id": "B0LAT186II",
+    "addr": "清城区 连江路75号聚豪花园",
+    "type": "海鲜酒楼",
+    "tel": "",
+    "rating": 3.7,
+    "cost": 0,
+    "open": "",
+    "lng": 113.052567,
+    "lat": 23.676846,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/de66a66a6d6dc4a06d3bf66f63eb7995"
+    ]
+   }
   },
   {
    "name": "东陂腊味",
@@ -167,7 +335,22 @@
    ],
    "tips": [
     "买腊味认准正规店，真空包装方便带走"
-   ]
+   ],
+   "amap": {
+    "name": "东陂腊味外卖仓库",
+    "id": "B0FFIQFGHG",
+    "addr": "清新区 玄真路23号小区西门旁",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 0.6,
+    "cost": 0,
+    "open": "",
+    "lng": 113.01571,
+    "lat": 23.734252,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/add2139e83d36032338b9ebc622b0079"
+    ]
+   }
   },
   {
    "name": "连州菜心",
@@ -179,7 +362,22 @@
    ],
    "tips": [
     "冬季是吃菜心的最佳时节"
-   ]
+   ],
+   "amap": {
+    "name": "连州市连州菜心省级现代农业产业园",
+    "id": "B0FFMDYXBN",
+    "addr": "连州市 城南大道三鸟市场",
+    "type": "产业园区",
+    "tel": "",
+    "rating": 0,
+    "cost": 0,
+    "open": "",
+    "lng": 112.380407,
+    "lat": 24.747805,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2d6d92839d68b3b355909e4d1c5c6bbd"
+    ]
+   }
   },
   {
    "name": "英德红茶",
@@ -191,7 +389,23 @@
    ],
    "tips": [
     "买之前先试喝，再挑选合适的价位"
-   ]
+   ],
+   "amap": {
+    "name": "英德红茶馆(维港半岛店)",
+    "id": "B0FFG0HI1Y",
+    "addr": "英德市 桥西路41附近",
+    "type": "茶艺馆",
+    "tel": "13553912212",
+    "rating": 3.5,
+    "cost": 44.0,
+    "open": "周一至周日 09:00-12:00,14:30-18:00",
+    "lng": 113.416619,
+    "lat": 24.176625,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/77cd43a7d7f4953d0000000737080187",
+     "https://store.is.autonavi.com/showpic/2b77afb2aeee22e1cf84a65c2ace4da1"
+    ]
+   }
   },
   {
    "name": "石潭豆腐",
@@ -203,7 +417,24 @@
    ],
    "tips": [
     "煎酿豆腐是比较经典的点法"
-   ]
+   ],
+   "amap": {
+    "name": "石潭贵香酒店(黄坑分店)",
+    "id": "B02FB0OP35",
+    "addr": "清新区 太和镇玄真路67号",
+    "type": "中餐厅",
+    "tel": "0763-5822118",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:30-21:00",
+    "lng": 113.016851,
+    "lat": 23.742472,
+    "photos": [
+     "https://aos-comment.amap.com/B02FB0OP35/comment/A5C69AE1_8F79_4367_A0A4_8823B521BE2C_L0_001_1512_201_1768803260523_98617765.jpg",
+     "https://aos-comment.amap.com/B02FB0OP35/comment/content_media_external_file_14886_1769001585021_56642211.jpg",
+     "https://aos-comment.amap.com/B02FB0OP35/comment/content_media_external_file_126733_ss__1769580319074_66933364.jpg"
+    ]
+   }
   },
   {
    "name": "瑶家菜",
@@ -215,7 +446,24 @@
    ],
    "tips": [
     "瑶族米酒入口甜但后劲大，开车的人不要喝"
-   ]
+   ],
+   "amap": {
+    "name": "瑶家火塘餐厅",
+    "id": "B0HABCR0LQ",
+    "addr": "连南瑶族自治县 拾月拾陆瑶族非遗文创园内",
+    "type": "中餐厅",
+    "tel": "0763-8669996",
+    "rating": 4.4,
+    "cost": 67.0,
+    "open": "周一至周日 10:00-13:30,17:00-21:30",
+    "lng": 112.281834,
+    "lat": 24.715151,
+    "photos": [
+     "https://aos-comment.amap.com/B0HABCR0LQ/comment/content_media_external_file_527_1761184128026_14074533.jpg",
+     "https://store.is.autonavi.com/showpic/a1a854a3beacc2a00000003060302063?type=pic",
+     "https://store.is.autonavi.com/showpic/4957aef471a3ed6d0000003060282933?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

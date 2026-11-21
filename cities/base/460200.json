@@ -21,7 +21,24 @@
     "海上项目价格差别大，先问清价格和时长",
     "正午太阳最毒，上午和傍晚下海更舒服",
     "离市区约半小时车程，住在这里的话吃饭选择相对少"
-   ]
+   ],
+   "amap": {
+    "name": "亚龙湾国家旅游度假区",
+    "id": "B03830MRM2",
+    "addr": "吉阳区 亚龙湾路100号",
+    "type": "国家级景点",
+    "tel": "18889989351",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 109.649664,
+    "lat": 18.235582,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/a8a27a93-ae69-4bd2-97cf-5f92f4a07119.jpg",
+     "https://store.is.autonavi.com/showpic/a8e7ad9fc117e1a9fe1542b24b5f6bf3",
+     "https://store.is.autonavi.com/showpic/549c3095e062f8299a1fe2c03199a114"
+    ]
+   }
   },
   {
    "name": "蜈支洲岛",
@@ -37,7 +54,24 @@
     "门票含往返船票，节假日要提前在官方渠道预约",
     "风浪大时可能停航，出发前关注通知",
     "潜水前如实说明身体情况，耳朵不适及时示意教练"
-   ]
+   ],
+   "amap": {
+    "name": "蜈支洲岛旅游风景区",
+    "id": "B0FFFUBJXQ",
+    "addr": "海棠区 林旺蜈支洲岛",
+    "type": "国家级景点",
+    "tel": "4001146666",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:30；潜水体验时间以所购项目为准。",
+    "lng": 109.765947,
+    "lat": 18.310381,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/FB987A825D3C460684E009C9487D6AB8",
+     "https://store.is.autonavi.com/showpic/AF4F70C2B59B45238C0F0A873B71820B",
+     "https://store.is.autonavi.com/showpic/3a39d7dc2ba95d0b3ccaed4fd1a4810c"
+    ]
+   }
   },
   {
    "name": "亚龙湾热带天堂森林公园",
@@ -53,7 +87,24 @@
     "园内要坐观光车上山，排队时间要留够",
     "吊桥比较晃，恐高的人量力而行",
     "上午光线好，山顶看海更清楚"
-   ]
+   ],
+   "amap": {
+    "name": "亚龙湾热带天堂森林公园",
+    "id": "B0383011JF",
+    "addr": "吉阳区 吉阳镇亚龙湾",
+    "type": "国家级景点",
+    "tel": "0898-38238888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "全年 08:00-18:00开放(17:30停止售票,17:30停止入园)；7月19日 09:00-18:00开放",
+    "lng": 109.643059,
+    "lat": 18.253643,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/09e822ba5b1a7ab5423832a38980476c",
+     "https://store.is.autonavi.com/showpic/361e7f674e3ba5556bb7c59cb45d447f",
+     "https://store.is.autonavi.com/showpic/375092290421aaedbf90f969eb6d081d"
+    ]
+   }
   },
   {
    "name": "南山文化旅游区",
@@ -69,7 +120,24 @@
     "景区很大，建议坐观光车",
     "进寺庙注意着装，避开过于暴露的衣服",
     "当心景区里推销高价香火，可以直接拒绝"
-   ]
+   ],
+   "amap": {
+    "name": "三亚南山文化旅游区",
+    "id": "B03830047D",
+    "addr": "崖州区 南山村",
+    "type": "国家级景点",
+    "tel": "0898-88837888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00；17:00后景区室内、寺庙景观停止开放",
+    "lng": 109.208349,
+    "lat": 18.298366,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4e6f68323f2bc80f42d4939a250b6258",
+     "https://store.is.autonavi.com/showpic/9f18a5d269b26d6f59a3ad018169c41e",
+     "https://store.is.autonavi.com/showpic/4af42fd013e559f29ecbc2c241487b82"
+    ]
+   }
   },
   {
    "name": "天涯海角",
@@ -84,7 +152,24 @@
    "tips": [
     "夏天中午石头晒得很烫，早上或傍晚去",
     "景区内纪念品价格偏高"
-   ]
+   ],
+   "amap": {
+    "name": "天涯海角游览区",
+    "id": "B03830048T",
+    "addr": "天涯区 天涯镇马岭山麓",
+    "type": "国家级景点",
+    "tel": "0898-88910131",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "3月至11月 08:00-19:00,12月至2月08:00-18:30",
+    "lng": 109.348143,
+    "lat": 18.294988,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a73b1b6e8914654c9b83d5a8d0518a3b",
+     "https://store.is.autonavi.com/showpic/65efc845a5e74bef054e7cdf355ba26e",
+     "https://store.is.autonavi.com/showpic/ada6fa24ad7689b82012b8a55aa28f28"
+    ]
+   }
   },
   {
    "name": "鹿回头风景区",
@@ -99,7 +184,24 @@
    "tips": [
     "傍晚日落前半小时到最合适",
     "从市区打车很近，十几分钟"
-   ]
+   ],
+   "amap": {
+    "name": "鹿回头风景区",
+    "id": "B03830MO5N",
+    "addr": "吉阳区 鹿岭路",
+    "type": "公园",
+    "tel": "0898-88213740",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "08:00-22:30 最晚进入22:00",
+    "lng": 109.50131,
+    "lat": 18.225639,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5e741e3870348298407cc04bf881b99b",
+     "https://store.is.autonavi.com/showpic/a7188fdacd7748c0acbc3c2b42b462af",
+     "https://store.is.autonavi.com/showpic/f994dcf1956dc801c97bc1550ea569ed"
+    ]
+   }
   },
   {
    "name": "大东海",
@@ -114,7 +216,24 @@
    "tips": [
     "海滩上有不少推销海上项目的，不需要就直接拒绝",
     "傍晚的海边人很多，很热闹"
-   ]
+   ],
+   "amap": {
+    "name": "大东海旅游区",
+    "id": "B03830NTNI",
+    "addr": "吉阳区 榆亚大道(明月广场西南400米至大东海广场2.9公里海岸线)",
+    "type": "国家级景点",
+    "tel": "19044130521",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "00:00-24:00,大东海旅游区游客中心09:00-22:00,游泳区09:00-18:00",
+    "lng": 109.522212,
+    "lat": 18.22082,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d13e9b08dd3a19359b1102934dc08782",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/39681614-448b-49a2-82cd-296f2c020fb8.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/ce5c7ea1-d85e-444a-8809-7eade65cc73c.jpg"
+    ]
+   }
   },
   {
    "name": "三亚湾和椰梦长廊",
@@ -129,7 +248,24 @@
    "tips": [
     "日落前一小时去，可以沿海边骑一段共享单车",
     "海浪较大，下海游泳要注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "三亚湾",
+    "id": "B0FFG3XPFA",
+    "addr": "天涯区 三亚湾路189-9号",
+    "type": "风景名胜",
+    "tel": "18876725597",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 109.445041,
+    "lat": 18.280747,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0c9d6c0f246e84b72ea4fe04c8ccbd9c",
+     "https://store.is.autonavi.com/showpic/3d68f1ce37c42ea8b7110327e8adf04f",
+     "https://store.is.autonavi.com/showpic/3ae8064ee9eea0c147507e1f51702b35"
+    ]
+   }
   },
   {
    "name": "后海村",
@@ -145,7 +281,24 @@
     "冬季浪比较好，适合冲浪",
     "冲浪前做好防晒，最好穿冲浪服",
     "村里道路窄，旺季停车比较难"
-   ]
+   ],
+   "amap": {
+    "name": "后海村",
+    "id": "B0FFJXRDHO",
+    "addr": "海棠区 海棠湾镇",
+    "type": "旅游景点",
+    "tel": "4008330307",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 109.72963,
+    "lat": 18.272223,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7a39e1ae245859480833b5fa03c5d216",
+     "https://store.is.autonavi.com/showpic/6471fa2089dd463d4d3e9a27e8c7675c",
+     "https://store.is.autonavi.com/showpic/5ac11e81542a5751e4ecc2c8536bfe8f"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +313,24 @@
    "tips": [
     "买之前多问几家对比价格，看着称重",
     "加工费按斤或按做法算，先问清楚"
-   ]
+   ],
+   "amap": {
+    "name": "第一市场夜市",
+    "id": "B0IKVUFYT4",
+    "addr": "天涯区 红旗街95号",
+    "type": "餐饮相关",
+    "tel": "13876479839",
+    "rating": 4.7,
+    "cost": 17.0,
+    "open": "周一至周日 18:00-24:00",
+    "lng": 109.507566,
+    "lat": 18.238244,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1772261666286_12656525_1772261673553_87754506.jpg",
+     "https://store.is.autonavi.com/showpic/e3adad0c507fe2550000006074644553?type=pic",
+     "https://store.is.autonavi.com/showpic/817f1e39ede590200000000867954192?type=pic"
+    ]
+   }
   },
   {
    "name": "椰子鸡",
@@ -172,7 +342,24 @@
    ],
    "tips": [
     "先喝原汤再吃鸡，汤会越煮越香"
-   ]
+   ],
+   "amap": {
+    "name": "海南椰子鸡饭店(三亚湾海景店)",
+    "id": "B0LBXCDE7S",
+    "addr": "天涯区 新风路3号昌达花园A105号",
+    "type": "中餐厅",
+    "tel": "13876637289",
+    "rating": 4.7,
+    "cost": 58.0,
+    "open": "周一至周日 09:30-22:30 2026-02-16至2026-02-16 周一 09:30-20:30",
+    "lng": 109.500915,
+    "lat": 18.250655,
+    "photos": [
+     "https://aos-comment.amap.com/B0LBXCDE7S/comment/20260321-5750192852a4680258dff47f-4fFphLwnxKd7WWps6wNdEx.jpg",
+     "https://store.is.autonavi.com/showpic/539efc48e35ab493789b137f1f038e2b",
+     "https://store.is.autonavi.com/showpic/1e938b1e62fad23f0000000740818426?type=pic"
+    ]
+   }
   },
   {
    "name": "清补凉",
@@ -184,7 +371,24 @@
    ],
    "tips": [
     "椰奶底更香浓，糖水底更清爽"
-   ]
+   ],
+   "amap": {
+    "name": "嫚姐清补凉",
+    "id": "B0K2VCCVPW",
+    "addr": "天涯区 新民街127号",
+    "type": "餐饮相关",
+    "tel": "13907568258",
+    "rating": 4.7,
+    "cost": 23.0,
+    "open": "周一至周日 11:00-24:00",
+    "lng": 109.508542,
+    "lat": 18.237585,
+    "photos": [
+     "https://aos-comment.amap.com/B0K2VCCVPW/comment/9090D97D_112D_4832_A8A8_61B411952363_L0_001_1500_200_1750866726749_98399754.jpg",
+     "https://aos-comment.amap.com/B0K2VCCVPW/comment/content_media_external_file_100015178_1768972263736_11918732.jpg",
+     "https://aos-comment.amap.com/B0K2VCCVPW/comment/content_media_external_file_105174_ss__1765628009890_40618733.jpg"
+    ]
+   }
   },
   {
    "name": "糟粕醋火锅",
@@ -196,7 +400,24 @@
    ],
    "tips": [
     "酸味比较明显，第一次可以先尝尝原汤"
-   ]
+   ],
+   "amap": {
+    "name": "琼小琼·糟粕醋海鲜火锅(亚特兰蒂斯店)",
+    "id": "B0JKBHLWUM",
+    "addr": "海棠区 海棠北路76号南海印象101综合体",
+    "type": "餐饮相关",
+    "tel": "13086065662",
+    "rating": 4.8,
+    "cost": 133.0,
+    "open": "周一至周日 11:00-22:30",
+    "lng": 109.740394,
+    "lat": 18.348694,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cd3ea540ae22b6550000002732172111?type=pic",
+     "https://store.is.autonavi.com/showpic/8faae25a455dec170000002529312976?type=pic",
+     "https://store.is.autonavi.com/showpic/42745523a16e45d30000002630280582?type=pic"
+    ]
+   }
   },
   {
    "name": "抱罗粉",
@@ -208,7 +429,24 @@
    ],
    "tips": [
     "可以加一勺黄灯笼辣椒酱，但很辣要少放"
-   ]
+   ],
+   "amap": {
+    "name": "正宗抱罗粉店",
+    "id": "B0FFLFGGCQ",
+    "addr": "天涯区 西河西路33-34号",
+    "type": "中餐厅",
+    "tel": "13307595298",
+    "rating": 4.7,
+    "cost": 20.0,
+    "open": "周一至周日 07:30-23:30",
+    "lng": 109.509436,
+    "lat": 18.238775,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/90a3d38c399dfa2c2209b6528dc76d6d",
+     "https://store.is.autonavi.com/showpic/9b41c9a24240a22df85697788b7a2843",
+     "https://aos-comment.amap.com/B0FFLFGGCQ/comment/71C0C18D_EC2D_4EC2_87EF_FAE123BE17B0_L0_001_2016_113_1756358676268_26360688.jpg"
+    ]
+   }
   },
   {
    "name": "文昌鸡",
@@ -220,7 +458,24 @@
    ],
    "tips": [
     "点半只就够两三个人吃"
-   ]
+   ],
+   "amap": {
+    "name": "南海黎村·海南民族菜·海景餐厅(椰梦长廊店)",
+    "id": "B0J35CUMMV",
+    "addr": "天涯区 景利莱度假酒店南门旁",
+    "type": "中餐厅",
+    "tel": "15289888066",
+    "rating": 4.7,
+    "cost": 100.0,
+    "open": "周一至周日 11:00-22:30",
+    "lng": 109.449482,
+    "lat": 18.285503,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/96ab90e2b8918d4d0000004917012635?type=pic",
+     "https://store.is.autonavi.com/showpic/8be07ad299d544520000004604592147?type=pic",
+     "https://store.is.autonavi.com/showpic/490d86231f5f1c8f0000003384762584?type=pic"
+    ]
+   }
   },
   {
    "name": "鸡屎藤",
@@ -232,7 +487,24 @@
    ],
    "tips": [
     "热的冷的都有，冬天吃热的更舒服"
-   ]
+   ],
+   "amap": {
+    "name": "何国芳小吃店",
+    "id": "B0FFJCYIH1",
+    "addr": "吉阳区 新中路东七巷82号1楼第3号铺面",
+    "type": "餐饮相关",
+    "tel": "15120940045",
+    "rating": 4.4,
+    "cost": 15.0,
+    "open": "周一至周日 06:30-18:00",
+    "lng": 109.522697,
+    "lat": 18.298175,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJCYIH1/comment/EBDE2B27_8915_41A7_85E9_FB38874C569B_L0_001_1500_200_1767432227202_70469848.jpg",
+     "https://store.is.autonavi.com/showpic/377d6bc1040d4e9fa95adc79575c2881",
+     "https://aos-comment.amap.com/B0FFJCYIH1/comment/792ec01090d31b21407f272934463446_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

@@ -21,7 +21,24 @@
     "山上有几条索道，按自己的路线提前规划上下山方式，以景区公告为准",
     "神秘谷单向通行，比较窄，胖一点或怕黑的人慎入",
     "山上住宿条件一般，多数人选择住山脚下"
-   ]
+   ],
+   "amap": {
+    "name": "天柱山世界地质公园",
+    "id": "B022C002C5",
+    "addr": "潜山市 天柱山",
+    "type": "国家级景点",
+    "tel": "4000556900",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "03-16至11-15 周一至周日 06:30-18:00 最晚进入15:30；11-16至03-15 周一至周日 07:00-18:00 最晚进入15:00",
+    "lng": 116.461729,
+    "lat": 30.735695,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/21826a8d20905440712526f398e1a632",
+     "https://store.is.autonavi.com/showpic/529dd55e456ff23d8c547752f56b6b50",
+     "https://store.is.autonavi.com/showpic/9aeefb4891d58d21277e6dbefe7d3e07"
+    ]
+   }
   },
   {
    "name": "三祖寺和山谷流泉",
@@ -36,7 +53,24 @@
    "tips": [
     "和天柱山主景区可以安排在同一天或前后两天",
     "石刻区溪边石头湿滑，注意脚下"
-   ]
+   ],
+   "amap": {
+    "name": "三祖禅寺",
+    "id": "B0H1D7PE9B",
+    "addr": "潜山市 天柱山南面的凤形山上",
+    "type": "寺庙道观",
+    "tel": "0556-8142064",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 06:00-18:00",
+    "lng": 116.495002,
+    "lat": 30.664659,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9027eb979bae194165b11b0b4984e91c",
+     "https://store.is.autonavi.com/showpic/1f1783daecf4e59dc3a3b50651b9d209",
+     "https://store.is.autonavi.com/showpic/307d0a0cf189392f55f9c779fe2e3b25"
+    ]
+   }
   },
   {
    "name": "迎江寺和振风塔",
@@ -51,7 +85,24 @@
    "tips": [
     "振风塔能否登塔以寺方安排为准",
     "傍晚在滨江一带散步最舒服"
-   ]
+   ],
+   "amap": {
+    "name": "迎江寺",
+    "id": "B022C0S2LC",
+    "addr": "迎江区 沿江东路148号",
+    "type": "寺庙道观",
+    "tel": "0556-5583310",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 117.05456,
+    "lat": 30.501432,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/505dcd460a8f510b4760e0a2963ff02a",
+     "https://store.is.autonavi.com/showpic/43d1f3796ff955a70000002670502112?type=pic",
+     "https://store.is.autonavi.com/showpic/c607dbaeda574268fa1726df3fdebc19"
+    ]
+   }
   },
   {
    "name": "倒扒狮步行街",
@@ -66,7 +117,24 @@
    "tips": [
     "适合晚饭前后来逛",
     "附近小街小巷多，开车不方便停车，建议步行"
-   ]
+   ],
+   "amap": {
+    "name": "安庆古城·倒扒狮历史文化街区",
+    "id": "B0FFM18UGE",
+    "addr": "迎江区 人民路663号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.039179,
+    "lat": 30.506206,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFM18UGE/comment/20260310-81a7dead99f8f94f6c836ea3-Ax8ORPFVSWe9eZsFWRGoJb.jpg",
+     "https://store.is.autonavi.com/showpic/bda1d41aa2232a730000002379618088?type=pic",
+     "https://aos-comment.amap.com/B0FFM18UGE/comment/177086525280_1770865269106_18202823.jpg"
+    ]
+   }
   },
   {
    "name": "陈独秀墓园",
@@ -81,7 +149,24 @@
    "tips": [
     "纪念场所，参观时保持安静",
     "开放安排以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "陈独秀墓",
+    "id": "B022C0487T",
+    "addr": "大观区 独秀园路",
+    "type": "红色景区",
+    "tel": "0556-5368589",
+    "rating": 4.1,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:30",
+    "lng": 117.002581,
+    "lat": 30.573417,
+    "photos": [
+     "https://aos-comment.amap.com/B022C0487T/headerImg/4d1746ee0dc3f6bd2a4017427e5e5910_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B022C0487T/headerImg/c0564c7e5c9455404ed8bdf49bd8c811_2048_2048_80.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/65c7d9bf-b69a-4411-a287-8d2ef0a3c6e1.jpg"
+    ]
+   }
   },
   {
    "name": "六尺巷",
@@ -96,7 +181,24 @@
    "tips": [
     "巷子很短，和桐城文庙一起安排更充实",
     "从安庆市区过去约 1 小时车程"
-   ]
+   ],
+   "amap": {
+    "name": "六尺巷",
+    "id": "B022C014AW",
+    "addr": "桐城市 文城西路68号",
+    "type": "省级景点",
+    "tel": "0556-5625006",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00",
+    "lng": 116.948643,
+    "lat": 31.049517,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6c26014e2b424b6f6458b5501fdc851b",
+     "https://aos-comment.amap.com/B022C014AW/comment/content_media_external_file_100000612_1761127998336_63533762.jpg",
+     "https://store.is.autonavi.com/showpic/81f33cc0d670d3230000002393630061?type=pic"
+    ]
+   }
   },
   {
    "name": "花亭湖",
@@ -111,7 +213,24 @@
    "tips": [
     "自驾更方便，湖区面积大",
     "游船安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "中国花亭湖风景名胜区",
+    "id": "B022C03ICY",
+    "addr": "太湖县 县城4公里大别山南麓",
+    "type": "国家级景点",
+    "tel": "0556-4169249",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "05-01至10-07 周一至周日 08:00-17:30 最晚进入17:00；10-08至04-30 周一至周日 08:00-17:00 最晚进入16:30",
+    "lng": 116.246482,
+    "lat": 30.476651,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0e2c7426b453ab875ac889813e087875",
+     "https://store.is.autonavi.com/showpic/7f20cca7e193e45917edaa86247ef4ec",
+     "https://store.is.autonavi.com/showpic/060cea8f9a378116f1e50f1fc64dd02b"
+    ]
+   }
   },
   {
    "name": "明堂山",
@@ -126,7 +245,24 @@
    "tips": [
     "山上气温低，带件外套",
     "栈道段恐高的人注意"
-   ]
+   ],
+   "amap": {
+    "name": "明堂山风景名胜区",
+    "id": "B022C049FV",
+    "addr": "岳西县 318国道",
+    "type": "省级景点",
+    "tel": "0556-2302888",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 08:30-17:00；4月至10月 周一至周日 08:00-17:00",
+    "lng": 116.087185,
+    "lat": 30.866464,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/519c5d545f0d9edcafe0cb2836ba5e48",
+     "https://store.is.autonavi.com/showpic/f47a2523c38e0e056ae94c9c439e4611",
+     "https://store.is.autonavi.com/showpic/5443e1b6b5231378244f355a7e380dd7"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    "tips": [
     "早上去吃最地道，饭点人多要排队",
     "可以加一份牛肉包子或者烧卖一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "江毛水饺(回祥路店)",
+    "id": "B0FFI1ZG6B",
+    "addr": "宜秀区 菱北街道菱建小区B区24#楼一层21室",
+    "type": "快餐厅",
+    "tel": "18055618235",
+    "rating": 4.3,
+    "cost": 11.0,
+    "open": "周一至周日 07:30-19:30",
+    "lng": 117.065875,
+    "lat": 30.540675,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFI1ZG6B/comment/40588913bbf7bf3e1136742052b82f6b_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/8a9c34c966cfbfc709d1de199d58529b",
+     "https://aos-comment.amap.com/B0FFI1ZG6B/comment/97AFAB07_57C0_4F72_99FB_3C41BD49C836_L0_001_1126_200_1757122336790_59607942.jpg"
+    ]
+   }
   },
   {
    "name": "大南门牛肉包子",
@@ -154,7 +307,24 @@
    "tips": [
     "刚出锅很烫，先咬个小口",
     "早上卖完就收摊，早点去"
-   ]
+   ],
+   "amap": {
+    "name": "大南门牛肉包子店",
+    "id": "B022C01HUI",
+    "addr": "迎江区 大南门街11号",
+    "type": "中餐厅",
+    "tel": "13074089789",
+    "rating": 4.6,
+    "cost": 12.0,
+    "open": "周一至周日 05:30-20:00",
+    "lng": 117.040576,
+    "lat": 30.501419,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b40afed5c0a1e2040000002365026328?type=pic",
+     "https://aos-comment.amap.com/B022C01HUI/comment/content_media_external_file_1000039098_ss__1750836268489_30821112.jpg",
+     "https://store.is.autonavi.com/showpic/62c40a1ee62698b00000003360990349?type=pic"
+    ]
+   }
   },
   {
    "name": "墨子酥",
@@ -167,7 +337,24 @@
    "tips": [
     "偏甜，搭配茶吃更好",
     "注意保质期，买新鲜的"
-   ]
+   ],
+   "amap": {
+    "name": "柏兆记大南门店",
+    "id": "B0LDK6K5B6",
+    "addr": "迎江区 大南门特色文化街S10-103/104/111",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.1,
+    "cost": 16.0,
+    "open": "周一至周日 08:00-21:30",
+    "lng": 117.041225,
+    "lat": 30.500975,
+    "photos": [
+     "https://aos-comment.amap.com/B0LDK6K5B6/comment/5f9ab54a-0234-49f0-94fd-5eed6b85706d.png",
+     "https://store.is.autonavi.com/showpic/1d4522d7af642bdc0000003068406733?type=pic",
+     "https://store.is.autonavi.com/showpic/06549d8a387613ce0000003068404807?type=pic"
+    ]
+   }
   },
   {
    "name": "胡玉美蚕豆酱",
@@ -179,7 +366,22 @@
    ],
    "tips": [
     "买瓶装的方便携带"
-   ]
+   ],
+   "amap": {
+    "name": "心滋味法式烘焙(华阳店)",
+    "id": "B0FFL4EFI4",
+    "addr": "望江县 华阳镇通衢路81号(胡玉美超市隔壁)",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "周一至周日 06:30-21:00",
+    "lng": 116.755052,
+    "lat": 30.09197,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/acb72ee3c9c362c1f357c2d4b15d6315"
+    ]
+   }
   },
   {
    "name": "山粉圆子烧肉",
@@ -192,7 +394,24 @@
    "tips": [
     "适合配米饭，分量足可以多人分",
     "冬天吃最暖和"
-   ]
+   ],
+   "amap": {
+    "name": "大严全牛馆(同安路店)",
+    "id": "B022C05XKP",
+    "addr": "宜秀区 开发区同安路101号同安路3-4号楼底层5-8轴门面",
+    "type": "中餐厅",
+    "tel": "0556-5014267",
+    "rating": 4.7,
+    "cost": 37.0,
+    "open": "周一至周日 08:30-21:30",
+    "lng": 117.068653,
+    "lat": 30.538697,
+    "photos": [
+     "https://aos-comment.amap.com/B022C05XKP/comment/3425818E_8B56_4F29_BD8E_5868711175C5_L0_001_2000_150_1769446309161_97494386.jpg",
+     "https://store.is.autonavi.com/showpic/8322ef6e22845aba1318515e10c00a7c",
+     "https://aos-comment.amap.com/B022C05XKP/comment/%5B2025-04-15-06-00-31%5D0A58B49E-3AAE-4018-83DB-E8F468A4202_1744668036951_79196035.jpg"
+    ]
+   }
   },
   {
    "name": "桐城丰糕",
@@ -204,7 +423,23 @@
    ],
    "tips": [
     "新鲜的最好吃，放久了会变硬，可以蒸热再吃"
-   ]
+   ],
+   "amap": {
+    "name": "桐城丰糕(健康路店)",
+    "id": "B0FFGTMJWC",
+    "addr": "迎江区 健康路17号",
+    "type": "餐饮相关",
+    "tel": "15905563178",
+    "rating": 3.6,
+    "cost": 18.0,
+    "open": "周一至周日 08:00-18:00",
+    "lng": 117.048437,
+    "lat": 30.50938,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ec45f71a471f093c7eeab7c2e239fcd2",
+     "https://store.is.autonavi.com/showpic/f096c52c4e9d8c6c43254ebda07411cc"
+    ]
+   }
   },
   {
    "name": "岳西翠兰",
@@ -217,7 +452,22 @@
    "tips": [
     "清明前后的春茶最新鲜",
     "可以先试喝再买"
-   ]
+   ],
+   "amap": {
+    "name": "岳西翠兰",
+    "id": "B0FFG26MAR",
+    "addr": "宜秀区 集贤路街道集贤南路172-1",
+    "type": "烟酒专卖店",
+    "tel": "",
+    "rating": 3.4,
+    "cost": 0,
+    "open": "",
+    "lng": 117.053695,
+    "lat": 30.539949,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/643bb37471b18cc6aef367c9c5234164"
+    ]
+   }
   }
  ],
  "food_areas": [

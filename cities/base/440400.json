@@ -21,7 +21,24 @@
     "沿线有共享单车，骑行比全程步行轻松得多",
     "夏天中午太晒，早上或傍晚去更舒服",
     "部分路段没有遮挡，注意防晒和补水"
-   ]
+   ],
+   "amap": {
+    "name": "情侣路",
+    "id": "B0FFLP5AQU",
+    "addr": "香洲区 情侣中路",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.581813,
+    "lat": 22.272443,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3f74a8ee7f6c938c0be1beb18ac32c57",
+     "https://store.is.autonavi.com/showpic/a4c6caf9ae38bbfa900895a6a3912339",
+     "https://store.is.autonavi.com/showpic/e51d40de8b27c91723fd0d19e645a97c"
+    ]
+   }
   },
   {
    "name": "珠海渔女",
@@ -36,7 +53,24 @@
    "tips": [
     "免费开放，傍晚时分光线最好",
     "雕像在海中，近距离只能在岸边看"
-   ]
+   ],
+   "amap": {
+    "name": "珠海渔女",
+    "id": "B02F400189",
+    "addr": "香洲区 情侣中路香炉湾",
+    "type": "省级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.588277,
+    "lat": 22.261417,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7dae84c7962be3727688ec2667e1bdd7",
+     "https://store.is.autonavi.com/showpic/ae1e7cac5dfe6a9f0000003213484518?type=pic",
+     "https://store.is.autonavi.com/showpic/cd2c5af8baf225370000003900642814?type=pic"
+    ]
+   }
   },
   {
    "name": "野狸岛和日月贝",
@@ -52,7 +86,24 @@
     "想进剧院参观或看演出需要提前购票",
     "海边风大，晚上可以带件外套",
     "最佳拍照点在海对岸的情侣路上，能拍到大剧院全貌"
-   ]
+   ],
+   "amap": {
+    "name": "珠海日月贝",
+    "id": "B0LKBDT6LJ",
+    "addr": "香洲区 环岛路3号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.588908,
+    "lat": 22.284695,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c89a519f36a578332b6ba646540f8719",
+     "https://store.is.autonavi.com/showpic/7987c35e453aeda020a84ca80e74d85a",
+     "https://store.is.autonavi.com/showpic/0ec8229b9d51a6a8c553012d1831950d"
+    ]
+   }
   },
   {
    "name": "长隆海洋王国",
@@ -68,7 +119,24 @@
     "门票较贵，提前在官方渠道买，节假日人非常多",
     "一进园先查好表演时间，按时间安排路线",
     "园内餐饮偏贵，可以带点零食和水"
-   ]
+   ],
+   "amap": {
+    "name": "长隆海洋王国",
+    "id": "B02F40RARV",
+    "addr": "香洲区 长隆大道",
+    "type": "旅游景点",
+    "tel": "4008830083",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "10:00-20:00,注:营业时间与设施运营计划如有调整，请以官网/现场公示为准",
+    "lng": 113.538507,
+    "lat": 22.09875,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4e88ad991ee70585c8434d939523cc7d",
+     "https://store.is.autonavi.com/showpic/0c2db91a601fe3c3c6035639dfef9d4c",
+     "https://store.is.autonavi.com/showpic/92adbf1fcacedbebe74edd19141c2235"
+    ]
+   }
   },
   {
    "name": "港珠澳大桥",
@@ -84,7 +152,24 @@
    "tips": [
     "观光线路需要提前预约，出发前查好集合地点和证件要求",
     "风大的天气海上游可能停航"
-   ]
+   ],
+   "amap": {
+    "name": "港珠澳大桥(珠海段)",
+    "id": "B0FFJURNF0",
+    "addr": "香洲区 港珠澳大桥港珠海公路口岸",
+    "type": "旅游景点",
+    "tel": "0756-3330505",
+    "rating": 0,
+    "cost": 0,
+    "open": "",
+    "lng": 113.581276,
+    "lat": 22.204282,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJURNF0/comment/2ed0c8d12110f8ce4a29d4666aa57c56_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/a822ac22d3cd262c8b4bce270cc2987e",
+     "https://store.is.autonavi.com/showpic/ce6fbb43d6ddb03f0000009497960706?type=pic"
+    ]
+   }
   },
   {
    "name": "唐家湾古镇",
@@ -99,7 +184,24 @@
    "tips": [
     "古镇里有居民生活，参观时注意不要打扰",
     "从市区开车或打车过去约半小时到一小时"
-   ]
+   ],
+   "amap": {
+    "name": "唐家古镇",
+    "id": "B0FFHCZ6ZU",
+    "addr": "香洲区 唐家湾镇",
+    "type": "风景名胜",
+    "tel": "0756-3923222",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周四 09:00-18:00；周五至周日 09:00-20:00",
+    "lng": 113.593346,
+    "lat": 22.359661,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4b6023d10954bfad0000004594442453?type=pic",
+     "https://store.is.autonavi.com/showpic/432172f46c8b9f650000003118216444",
+     "https://store.is.autonavi.com/showpic/1a261f78de126814391fe62eb870257a"
+    ]
+   }
   },
   {
    "name": "东澳岛",
@@ -115,7 +217,24 @@
     "船票要提前买，节假日很紧张，带好身份证",
     "风浪大或台风天会停航，出发前确认船班",
     "岛上物价比市区高，晕船的人提前准备晕船药"
-   ]
+   ],
+   "amap": {
+    "name": "东澳岛旅游度假区",
+    "id": "B0FFF07S0J",
+    "addr": "香洲区 万山镇",
+    "type": "省级景点",
+    "tel": "0756-8858103",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 113.712927,
+    "lat": 22.01927,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2b31ac290af4dec39fa565e914902fcd",
+     "https://store.is.autonavi.com/showpic/8c0359ba72240890808551feab89de36",
+     "https://store.is.autonavi.com/showpic/c9b5419695d0d9aa09a2796442673090"
+    ]
+   }
   },
   {
    "name": "石景山公园",
@@ -130,7 +249,24 @@
    "tips": [
     "缆车需要购票，步行上山免费",
     "雨天石阶湿滑注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "景山公园",
+    "id": "B02F400HUL",
+    "addr": "香洲区 吉大海滨北路1号",
+    "type": "公园",
+    "tel": "0756-2113058",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一 09:00-18:30；周二至周日 09:00-20:00",
+    "lng": 113.570812,
+    "lat": 22.261099,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/87b446be65f07ccc3915d314c73e9491",
+     "https://store.is.autonavi.com/showpic/db9b48623b13b2e40000002508838842?type=pic",
+     "https://store.is.autonavi.com/showpic/f2cbdcfca3d93819151f4adc2fc39e3a"
+    ]
+   }
   }
  ],
  "foods": [
@@ -144,7 +280,24 @@
    ],
    "tips": [
     "秋冬吃蚝最合适，夏天吃要选卫生条件好的店"
-   ]
+   ],
+   "amap": {
+    "name": "發仔大排档(吉大金昇店)",
+    "id": "B0J0T5YQ6Q",
+    "addr": "香洲区 景山路93号吉大村金昇大厦一层23-24轴",
+    "type": "中餐厅",
+    "tel": "15362787727",
+    "rating": 4.6,
+    "cost": 74.0,
+    "open": "周一至周日 10:30-23:00",
+    "lng": 113.57579,
+    "lat": 22.250831,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fca0bf8b5c0971b1062ef0e95c5a6101",
+     "https://aos-comment.amap.com/B0J0T5YQ6Q/comment/2F9FFDE3_1597_4A75_B83E_296C2FECC663_L0_001_1280_170_1749611524771_66991277.jpg",
+     "https://store.is.autonavi.com/showpic/ce348d75a0c7d63279ee306581e658be"
+    ]
+   }
   },
   {
    "name": "湾仔海鲜",
@@ -157,7 +310,24 @@
    "tips": [
     "买之前问清价格和斤两，最好一起看着称重",
     "加工费事先问好，避免结账时有误会"
-   ]
+   ],
+   "amap": {
+    "name": "海仪美食楼(湾仔海鲜街店)",
+    "id": "B02F402TJK",
+    "addr": "香洲区 湾仔海鲜街11号(澳门环岛游对面,海味中心背后直进300米)",
+    "type": "中餐厅",
+    "tel": "0756-8821667",
+    "rating": 4.6,
+    "cost": 81.0,
+    "open": "周一至周日 10:30-22:30",
+    "lng": 113.531616,
+    "lat": 22.19221,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bfbae247ec9dab5c0000007484880323?type=pic",
+     "https://aos-comment.amap.com/B02F402TJK/comment/content_media_external_file_1000082022_ss__1769233855389_27430099.jpg",
+     "https://aos-comment.amap.com/B02F402TJK/comment/445d4a4accc30d25ddafc4d29e578bd8_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "重壳蟹",
@@ -169,7 +339,24 @@
    ],
    "tips": [
     "不是一年四季都有，点之前先问一下店家"
-   ]
+   ],
+   "amap": {
+    "name": "益利大酒楼",
+    "id": "B02F402AFY",
+    "addr": "斗门区 井岸镇西堤路1669号益利大酒楼",
+    "type": "综合酒楼",
+    "tel": "0756-5530168",
+    "rating": 4.6,
+    "cost": 57.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 113.316609,
+    "lat": 22.188476,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fba77533ad4562490000002991100661?type=pic",
+     "https://store.is.autonavi.com/showpic/7b05a7f458e028d90000009497466671?type=pic",
+     "https://store.is.autonavi.com/showpic/79bad661c138e28ad700420ead88b681"
+    ]
+   }
   },
   {
    "name": "白蕉海鲈",
@@ -181,7 +368,24 @@
    ],
    "tips": [
     "清蒸最能吃出鲜味，别点太重口的做法"
-   ]
+   ],
+   "amap": {
+    "name": "老码头海鲜大排档",
+    "id": "B0LU5DL17C",
+    "addr": "香洲区 横琴镇银河街10号(海上琴都酒店后面)",
+    "type": "餐饮相关",
+    "tel": "13750018511",
+    "rating": 4.5,
+    "cost": 68.0,
+    "open": "周一至周日 11:00-24:00",
+    "lng": 113.549549,
+    "lat": 22.113552,
+    "photos": [
+     "https://aos-comment.amap.com/B0LU5DL17C/comment/1F3F38B4_6FEA_4F90_8476_F69B23387723_L0_001_1276_170_1768819685653_42902288.jpg",
+     "https://store.is.autonavi.com/showpic/3480c8f82b57c3dc0000004440368522?type=pic",
+     "https://store.is.autonavi.com/showpic/70c1f7769068e29e900586545ad82dd8"
+    ]
+   }
   },
   {
    "name": "早茶",
@@ -193,7 +397,24 @@
    ],
    "tips": [
     "周末上午人多，早点去更好"
-   ]
+   ],
+   "amap": {
+    "name": "珠海湾壹号一站式宴会中心",
+    "id": "B0H0AAQJBR",
+    "addr": "香洲区 吉大街道情侣中路73号正方优和汇·城市阳台首层111铺",
+    "type": "餐饮相关",
+    "tel": "0756-2288399",
+    "rating": 4.7,
+    "cost": 104.0,
+    "open": "周一至周日 09:00-15:00,17:00-22:00",
+    "lng": 113.581775,
+    "lat": 22.265075,
+    "photos": [
+     "https://aos-comment.amap.com/B0H0AAQJBR/comment/content_media_external_images_media_1000023339_ss__1759657502144_21364147.jpg",
+     "https://aos-comment.amap.com/B0H0AAQJBR/comment/file_media_Photo_12009_IMG_1773483938_10334_IMG_20260314_182358_jpg_ss__1773485626336_91982293.jpg",
+     "https://aos-comment.amap.com/B0H0AAQJBR/comment/content_media_external_file_70239_ss__1746285620096_65782285.jpg"
+    ]
+   }
   },
   {
    "name": "砂锅粥",
@@ -205,7 +426,24 @@
    ],
    "tips": [
     "一锅分量通常够两三个人吃"
-   ]
+   ],
+   "amap": {
+    "name": "發仔大排档(吉大金昇店)",
+    "id": "B0J0T5YQ6Q",
+    "addr": "香洲区 景山路93号吉大村金昇大厦一层23-24轴",
+    "type": "中餐厅",
+    "tel": "15362787727",
+    "rating": 4.6,
+    "cost": 74.0,
+    "open": "周一至周日 10:30-23:00",
+    "lng": 113.57579,
+    "lat": 22.250831,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fca0bf8b5c0971b1062ef0e95c5a6101",
+     "https://aos-comment.amap.com/B0J0T5YQ6Q/comment/2F9FFDE3_1597_4A75_B83E_296C2FECC663_L0_001_1280_170_1749611524771_66991277.jpg",
+     "https://store.is.autonavi.com/showpic/ce348d75a0c7d63279ee306581e658be"
+    ]
+   }
   }
  ],
  "food_areas": [

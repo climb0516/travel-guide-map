@@ -21,7 +21,24 @@
     "鲁迅故里免费参观，部分场馆需要预约或排队领票",
     "节假日上午人最多，傍晚去会松一些",
     "坐乌篷船先问清航线和价格"
-   ]
+   ],
+   "amap": {
+    "name": "鲁迅故里",
+    "id": "B023F02PG3",
+    "addr": "越城区 塔山街道鲁迅中路241号",
+    "type": "纪念馆",
+    "tel": "0575-85132080",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一 08:30-17:00(16:30停止预约,16:45停止入园)；周二至周日 08:30-21:00(20:00停止预约,20:30停止入园)；黄金周,小长假 08:30-22:30(21:30停止预约)",
+    "lng": 120.584419,
+    "lat": 29.993263,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/47f4c118a1671ef0e98d5b338aea08bb",
+     "https://store.is.autonavi.com/showpic/ef6c70179a72151fa409dea2f9338156",
+     "https://store.is.autonavi.com/showpic/ee999dabb713331f783b865597707666"
+    ]
+   }
   },
   {
    "name": "沈园",
@@ -36,7 +53,24 @@
    "tips": [
     "离鲁迅故里步行几分钟，适合一起安排",
     "夜游和白天的票分开，按需选择"
-   ]
+   ],
+   "amap": {
+    "name": "沈氏园",
+    "id": "B0FFFR0TIH",
+    "addr": "越城区 鲁迅中路318号",
+    "type": "国家级景点",
+    "tel": "0575-85135140",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-21:00 最晚进入20:20；18:00以后陆游纪念馆的安丰堂区域关闭，务观堂正常开放。 沈园之夜演出:19:30 - 21:00(最晚入园时间:20:30)，",
+    "lng": 120.590035,
+    "lat": 29.990303,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f46b442d1785fbef010d41745015b6f6",
+     "https://store.is.autonavi.com/showpic/de9f6488962067e03beb3509af54edc5",
+     "https://store.is.autonavi.com/showpic/cfeea4b3d0e41b190000005913726619?type=pic"
+    ]
+   }
   },
   {
    "name": "仓桥直街",
@@ -51,7 +85,24 @@
    "tips": [
     "免费开放，早上和傍晚光线好、人也少",
     "居民区注意别打扰到住户"
-   ]
+   ],
+   "amap": {
+    "name": "仓桥直街历史街区",
+    "id": "B023F0QGK1",
+    "addr": "越城区 仓桥直街",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.577947,
+    "lat": 29.997525,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/93fe491c590956b68d11253bccc007b3",
+     "https://store.is.autonavi.com/showpic/1c96b44dad09904d0000003774184088?type=pic",
+     "https://store.is.autonavi.com/showpic/190e598dbf166b430000008444734994?type=pic"
+    ]
+   }
   },
   {
    "name": "书圣故里",
@@ -66,7 +117,24 @@
    "tips": [
     "街区免费，部分场馆收费",
     "可以和八字桥、仓桥直街连成一条步行线"
-   ]
+   ],
+   "amap": {
+    "name": "书圣故里",
+    "id": "B023F0PZZ3",
+    "addr": "越城区 西街92号",
+    "type": "纪念馆",
+    "tel": "0575-88993399",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "00:00-24:00内部场馆有所不同,具体营业状态以当天开放情况为准",
+    "lng": 120.58574,
+    "lat": 30.008014,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e8f0f56140275de62ce161fdc8a2913c",
+     "https://store.is.autonavi.com/showpic/bce74f0a63fb2f050000009378124003?type=pic",
+     "https://aos-comment.amap.com/default_poi/comment/ae2836338e1d757c3b5a071205103e6c_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "东湖",
@@ -81,7 +149,24 @@
    "tips": [
     "乌篷船票要另外买，人多时需要排队",
     "从市区打车十几分钟就到"
-   ]
+   ],
+   "amap": {
+    "name": "绍兴东湖风景区",
+    "id": "B023F02KB7",
+    "addr": "越城区 皋埠街道云东路",
+    "type": "国家级景点",
+    "tel": "0575-88606879",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "冬令时 08:00-17:00开放(16:20停止售票,16:30停止入园)；夏令时 08:00-17:30开放(16:50停止售票,17:00停止入园)；绕门山开放时间 8:30 -15:30,实行单行线(水杉林休闲区为上山口)；如遇山路湿滑、特殊天气、安全维修等情况，绕门山将暂停开放或实行原路返回，具体以景区通告为准。",
+    "lng": 120.632047,
+    "lat": 29.998452,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7a441151e1bfd8eea4c1e1bad7ef9825",
+     "https://store.is.autonavi.com/showpic/bc9569cc8744559dd48139fc2ed074b0",
+     "https://store.is.autonavi.com/showpic/fe01afc4ee48ba8011d298195d83ffba"
+    ]
+   }
   },
   {
    "name": "兰亭",
@@ -96,7 +181,24 @@
    "tips": [
     "离市区有一段距离，建议打车或自驾",
     "有专门讲解会更好理解碑刻和故事"
-   ]
+   ],
+   "amap": {
+    "name": "兰亭景区",
+    "id": "B023F00N0U",
+    "addr": "柯桥区 兰亭街道兰亭村(奇石王宫景区西北49.1公里)",
+    "type": "国家级景点",
+    "tel": "0575-84606887",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:20 最晚进入16:50",
+    "lng": 120.499868,
+    "lat": 29.926031,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/19AF01F3376A4677A8062BC4E785416C",
+     "https://store.is.autonavi.com/showpic/C435919296AF4125AC0FD5D307BE8254",
+     "https://store.is.autonavi.com/showpic/AD5D7F0D7CE045A7B8B01FB58D9804D2"
+    ]
+   }
   },
   {
    "name": "柯岩风景区",
@@ -111,7 +213,24 @@
    "tips": [
     "景区较大，看完柯岩和鲁镇需要半天",
     "鲁镇是仿建的，对小说有兴趣的人会更喜欢"
-   ]
+   ],
+   "amap": {
+    "name": "鉴湖景区",
+    "id": "B023F02KB5",
+    "addr": "柯桥区 柯岩大道558号",
+    "type": "省级景点",
+    "tel": "0575-84360066",
+    "rating": 4.6,
+    "cost": 115.0,
+    "open": "10-08至04-30 周一至周日 08:30-16:30 最晚进入16:30；05-01至10-07 周一至周日 08:30-17:00 最晚进入16:30；末班船:夏季17:10、冬季16:50",
+    "lng": 120.473443,
+    "lat": 30.047629,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/132275344680f0f4ff4f80e559e900c1",
+     "https://store.is.autonavi.com/showpic/02c24b1f9292de4c036b7ae76c414910",
+     "https://store.is.autonavi.com/showpic/20a3a00155c1a0758f1aa664a0a77ac2"
+    ]
+   }
   },
   {
    "name": "安昌古镇",
@@ -126,7 +245,24 @@
    "tips": [
     "冬季腊月最有氛围，其他季节相对冷清",
     "古镇免费进入，买腊货可以多比较几家"
-   ]
+   ],
+   "amap": {
+    "name": "安昌古镇",
+    "id": "B023F00NBB",
+    "addr": "柯桥区 安昌街道安昌古镇入口广场",
+    "type": "国家级景点",
+    "tel": "0575-85656963",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "6月至9月 周一至周日 08:30-17:00；1月至5月,10月至12月 周一至周日 08:30-16:30,2026-02-16,08:00-16:00,2026-02-17至2026-02-23,08:00-17:30",
+    "lng": 120.495973,
+    "lat": 30.135906,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/444b55160c894c988fcae0d78bfc1774",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/cc40216b-e820-4880-aeac-98785dba72d3.jpg",
+     "https://store.is.autonavi.com/showpic/4261963e866f899352ce517720292a92"
+    ]
+   }
   },
   {
    "name": "大禹陵",
@@ -141,7 +277,24 @@
    "tips": [
     "和东湖、市区距离都近，打车方便",
     "景区较大，穿舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "大禹陵景区",
+    "id": "B023F02L5P",
+    "addr": "越城区 二环南路",
+    "type": "国家级景点",
+    "tel": "0575-88363947",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00 最晚进入16:30",
+    "lng": 120.610041,
+    "lat": 29.955906,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c29b6ffef1ba62093817b796e4504903",
+     "https://store.is.autonavi.com/showpic/c7d558a9ac38c9760000000981024890?type=pic",
+     "https://store.is.autonavi.com/showpic/cb54d88ea02bc9e70000002740312626?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -156,7 +309,24 @@
    "tips": [
     "后劲比想象中大，别喝太快",
     "想带回去的可以买瓶装的加饭酒"
-   ]
+   ],
+   "amap": {
+    "name": "咸亨酒店",
+    "id": "B023F02L5U",
+    "addr": "越城区 塔山街道鲁迅中路241号鲁迅故里内(西侧)",
+    "type": "餐饮相关",
+    "tel": "0575-85116666",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "",
+    "lng": 120.582891,
+    "lat": 29.993074,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c0b55930d3f4fbe60000002910610297?type=pic",
+     "https://store.is.autonavi.com/showpic/7594fff5f651cad30000003773006245?type=pic",
+     "https://store.is.autonavi.com/showpic/39709d7ccbef36a02720ebecd040b467"
+    ]
+   }
   },
   {
    "name": "霉干菜焖肉",
@@ -168,7 +338,24 @@
    ],
    "tips": [
     "干菜买回去要密封保存"
-   ]
+   ],
+   "amap": {
+    "name": "亲亲农家土菜馆",
+    "id": "B023F0QKFY",
+    "addr": "越城区 塔山街道马弄16-20号儿童公园对面",
+    "type": "中餐厅",
+    "tel": "13957500049",
+    "rating": 4.5,
+    "cost": 60.0,
+    "open": "周一至周五 10:00-22:30；周六至周日 10:00-22:00",
+    "lng": 120.590048,
+    "lat": 29.996326,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/84712db9a3bf77640000003064946726?type=pic",
+     "https://store.is.autonavi.com/showpic/c0ea6e9f062fc1960000003306710832?type=pic",
+     "https://aos-comment.amap.com/B023F0QKFY/comment/content_media_external_file_100012622_1754983039181_90996101.jpg"
+    ]
+   }
   },
   {
    "name": "臭豆腐",
@@ -180,7 +367,24 @@
    ],
    "tips": [
     "蒸的比炸的更臭，第一次吃建议先试炸的"
-   ]
+   ],
+   "amap": {
+    "name": "寻宝记绍兴菜(鲁迅路店)",
+    "id": "B0FFLDDEX6",
+    "addr": "越城区 鲁迅中路5号",
+    "type": "浙江菜",
+    "tel": "0575-85222177",
+    "rating": 4.7,
+    "cost": 77.0,
+    "open": "周一至周五 10:30-13:30,16:30-20:30；周六至周日 10:30-14:30,16:30-20:30",
+    "lng": 120.581273,
+    "lat": 29.993298,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/91329701b4c801fd4871f5c0341218ee",
+     "https://store.is.autonavi.com/showpic/414834bdbd646fe30000002907910526?type=pic",
+     "https://aos-comment.amap.com/B0FFLDDEX6/comment/content_media_external_file_282_1772155143614_71400605.jpg"
+    ]
+   }
   },
   {
    "name": "茴香豆",
@@ -192,7 +396,24 @@
    ],
    "tips": [
     "配黄酒吃最合适"
-   ]
+   ],
+   "amap": {
+    "name": "孔乙己酒家(鲁迅故里店)",
+    "id": "B0IDX5TVM0",
+    "addr": "越城区 鲁迅中路209-2号",
+    "type": "餐饮相关",
+    "tel": "18106818035",
+    "rating": 4.4,
+    "cost": 87.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 120.583616,
+    "lat": 29.992161,
+    "photos": [
+     "https://aos-comment.amap.com/B0IDX5TVM0/comment/D51161E2_D636_4985_A757_80D46FBEA787_L0_001_1290_96_1761129503284_16383391.jpg",
+     "https://store.is.autonavi.com/showpic/dd51bd3217cd369a0000002535960155?type=pic",
+     "https://store.is.autonavi.com/showpic/a2a58246d09d4ceb0000001437868582?type=pic"
+    ]
+   }
   },
   {
    "name": "醉蟹",
@@ -204,7 +425,24 @@
    ],
    "tips": [
     "生腌食物选靠谱的店，肠胃不好少吃"
-   ]
+   ],
+   "amap": {
+    "name": "孔乙己酒家(鲁迅故里店)",
+    "id": "B0IDX5TVM0",
+    "addr": "越城区 鲁迅中路209-2号",
+    "type": "餐饮相关",
+    "tel": "18106818035",
+    "rating": 4.4,
+    "cost": 87.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 120.583616,
+    "lat": 29.992161,
+    "photos": [
+     "https://aos-comment.amap.com/B0IDX5TVM0/comment/D51161E2_D636_4985_A757_80D46FBEA787_L0_001_1290_96_1761129503284_16383391.jpg",
+     "https://store.is.autonavi.com/showpic/dd51bd3217cd369a0000002535960155?type=pic",
+     "https://store.is.autonavi.com/showpic/a2a58246d09d4ceb0000001437868582?type=pic"
+    ]
+   }
   },
   {
    "name": "绍兴香糕",
@@ -216,7 +454,24 @@
    ],
    "tips": [
     "很硬，老人牙口不好可以泡在茶里吃"
-   ]
+   ],
+   "amap": {
+    "name": "玖味坊大糕(鲁迅中路店)",
+    "id": "B0FFI2SCMJ",
+    "addr": "越城区 鲁迅中路575-2号(沈氏园斜对面)",
+    "type": "快餐厅",
+    "tel": "13676888482",
+    "rating": 4.6,
+    "cost": 28.0,
+    "open": "周一至周日 06:00-18:00",
+    "lng": 120.589547,
+    "lat": 29.9918,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1771591823828_47049055_1771591866880_53053598.jpg",
+     "https://aos-comment.amap.com/B0FFI2SCMJ/comment/content_media_external_file_4942_1768026660172_36094935.jpg",
+     "https://aos-comment.amap.com/B0FFI2SCMJ/comment/25A0AE51_17E4_4ABB_90A6_95A5739AFDCE_L0_001_1500_200_1764050033066_05793774.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

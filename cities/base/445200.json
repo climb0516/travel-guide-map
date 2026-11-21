@@ -20,7 +20,24 @@
    "tips": [
     "开放时间以现场为准，周一可能闭馆",
     "在榕城老城区，可以和进贤门、城隍庙一起步行游览"
-   ]
+   ],
+   "amap": {
+    "name": "揭阳学宫",
+    "id": "B029700E9V",
+    "addr": "榕城区 韩祠路7号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至5月,10月至12月 09:00-17:00；6月至9月 09:00-17:30",
+    "lng": 116.355961,
+    "lat": 23.535795,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fe135b6f8d0011a50000001274460090?type=pic",
+     "https://store.is.autonavi.com/showpic/61d328d57ba476dd0000002744478034?type=pic",
+     "https://store.is.autonavi.com/showpic/1fc18b3e1c4dcb0c0000002874170170?type=pic"
+    ]
+   }
   },
   {
    "name": "进贤门",
@@ -35,7 +52,24 @@
    "tips": [
     "城门周边是城市道路，拍照时注意来往车辆",
     "傍晚亮灯后更好看"
-   ]
+   ],
+   "amap": {
+    "name": "进贤门",
+    "id": "B0297004A8",
+    "addr": "榕城区 进贤门大道",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00",
+    "lng": 116.357822,
+    "lat": 23.534918,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5c6b9b57d39dab11e2b16390f44311cb",
+     "https://store.is.autonavi.com/showpic/754177f88e03b6890000002979610302?type=pic",
+     "https://store.is.autonavi.com/showpic/9b80317c078feda10000006783650370?type=pic"
+    ]
+   }
   },
   {
    "name": "揭阳城隍庙",
@@ -50,7 +84,24 @@
    "tips": [
     "是宗教场所，参观时保持安静、衣着得体",
     "节庆期间人很多，提前了解活动时间"
-   ]
+   ],
+   "amap": {
+    "name": "城隍庙",
+    "id": "B02970149P",
+    "addr": "榕城区 城隍路",
+    "type": "寺庙道观",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 07:00-17:30",
+    "lng": 116.355051,
+    "lat": 23.534571,
+    "photos": [
+     "https://aos-comment.amap.com/B02970149P/comment/B944F492_61F3_4251_AA05_858D9327F69D_L0_001_1500_200_1767926553660_35330458.jpg",
+     "https://store.is.autonavi.com/showpic/febfbfb6ff95f0180000003604256799?type=pic",
+     "https://aos-comment.amap.com/B02970149P/comment/content_media_external_file_1000162629_ss__1771659105969_74107566.jpg"
+    ]
+   }
   },
   {
    "name": "揭阳楼",
@@ -65,7 +116,24 @@
    "tips": [
     "登楼参观的方式和开放时间以现场为准",
     "傍晚到夜里来，能看到亮灯后的江景"
-   ]
+   ],
+   "amap": {
+    "name": "揭阳楼广场",
+    "id": "B02970NCTJ",
+    "addr": "榕城区 北环路",
+    "type": "城市广场",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 116.392938,
+    "lat": 23.565836,
+    "photos": [
+     "https://aos-comment.amap.com/B02970NCTJ/comment/50ef1bc8cd2e08424bad33a7bc6ddc7b_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02970NCTJ/comment/20e4d8c271ff7d2fdef3ec11c7b96ffa_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02970NCTJ/comment/dbd538842ded2a225b43abac1e22b086_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "黄岐山",
@@ -80,7 +148,24 @@
    "tips": [
     "夏天上山早点出发，避开中午高温",
     "雨后山路湿滑，注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "黄岐山森林公园",
+    "id": "B029700KCZ",
+    "addr": "榕城区 晓翠路",
+    "type": "风景名胜",
+    "tel": "0663-8231625",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 116.372586,
+    "lat": 23.582451,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8ba166625b5be0e1174f9dc2625ed94d",
+     "https://store.is.autonavi.com/showpic/b512fda4441ea0b70000002443320868?type=pic",
+     "https://aos-comment.amap.com/B029700KCZ/comment/F51B4200_4572_41E6_846B_DCBE77856186_L0_001_828_1054_1730718059482_10078652.jpg"
+    ]
+   }
   },
   {
    "name": "德安里",
@@ -95,7 +180,24 @@
    "tips": [
     "里面还有居民生活，参观要礼貌，不要随意进屋",
     "从揭阳市区过去需要开车或打车"
-   ]
+   ],
+   "amap": {
+    "name": "德安里",
+    "id": "B02970NNWQ",
+    "addr": "普宁市 洪阳镇洪阳大道",
+    "type": "国家级景点",
+    "tel": "0663-2418866",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周三-周日 09:00-11:30开放；13:00-17:00开放（16:30停止入园）；周一-周二 不开放；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00-11:30开放；13:00-17:00开放（16:30停止入园）；具体营业状态以当天开放情况为准",
+    "lng": 116.216021,
+    "lat": 23.433916,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dee89aa0c769a4ada5b35dda5b9986a2",
+     "https://store.is.autonavi.com/showpic/1a862c62b82539350000003803876309?type=pic",
+     "https://store.is.autonavi.com/showpic/a6e47898b47a45f60000002434596687?type=pic"
+    ]
+   }
   },
   {
    "name": "黄满寨瀑布群",
@@ -111,7 +213,24 @@
     "雨季瀑布最壮观，但遇到暴雨要注意山洪风险",
     "景区台阶多，穿防滑的鞋",
     "从市区过去车程较长，建议自驾"
-   ]
+   ],
+   "amap": {
+    "name": "黄满寨瀑布群景区",
+    "id": "B0FFF9LGS5",
+    "addr": "揭西县 京溪园镇粗坑村",
+    "type": "旅游景点",
+    "tel": "0663-5855986",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:30-17:00 (最晚进入16:40)2026-02-16请咨询景区,2026-02-17至2026-02-22,08:30-17:30",
+    "lng": 115.985307,
+    "lat": 23.581222,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFF9LGS5/comment/content_media_external_file_100018304_1772201190514_12751365.jpg",
+     "https://store.is.autonavi.com/showpic/9ade236efa440b2e9483e2ff215326f7",
+     "https://aos-comment.amap.com/B0FFF9LGS5/comment/content_media_external_file_100000991_1768243304130_63670315.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -125,7 +244,24 @@
    ],
    "tips": [
     "一定要趁热吃，外皮脆、里面烫，小心烫嘴"
-   ]
+   ],
+   "amap": {
+    "name": "阿虹炸普宁豆干(平康楼店)",
+    "id": "B0FFK22NC0",
+    "addr": "普宁市 松桂园东南门南70米",
+    "type": "中餐厅",
+    "tel": "13288575789",
+    "rating": 4.4,
+    "cost": 12.0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 116.177407,
+    "lat": 23.302993,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFK22NC0/comment/content_media_external_file_1000028386_ss__1754906606414_12187362.jpg",
+     "https://aos-comment.amap.com/B0FFK22NC0/comment/404A796E_A2C4_4822_88BE_A1C5823AAC99_L0_001_1500_200_1768495149899_02708474.jpg",
+     "https://aos-comment.amap.com/comment/content_service__1769150196666_02647766_1769150218803_48226006.jpg"
+    ]
+   }
   },
   {
    "name": "乒乓粿",
@@ -137,7 +273,24 @@
    ],
    "tips": [
     "偏甜，可以配一杯工夫茶一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "曾师傅乒乓粿",
+    "id": "B0ID6BV3MA",
+    "addr": "榕城区 韩祠路与北马路交叉口西140米",
+    "type": "餐饮相关",
+    "tel": "15018295836",
+    "rating": 4.2,
+    "cost": 8.0,
+    "open": "周一至周日 07:00-18:00",
+    "lng": 116.354255,
+    "lat": 23.538674,
+    "photos": [
+     "https://aos-comment.amap.com/B0ID6BV3MA/comment/content_media_external_file_1000011607_ss__1772587474145_78369927.jpg",
+     "https://aos-comment.amap.com/B0ID6BV3MA/comment/content_media_external_file_7941_1768025550377_21981034.jpg",
+     "https://aos-comment.amap.com/B0ID6BV3MA/comment/content_media_external_file_1000011608_ss__1772587474146_72277833.jpg"
+    ]
+   }
   },
   {
    "name": "炒糕粿",
@@ -149,7 +302,24 @@
    ],
    "tips": [
     "甜口和咸口味道差别很大，可以两种都试试"
-   ]
+   ],
+   "amap": {
+    "name": "阿荣叉烧糕粿",
+    "id": "B0LAOZJ50G",
+    "addr": "榕城区 义和路南六巷一座2号",
+    "type": "中餐厅",
+    "tel": "13592943099",
+    "rating": 4.5,
+    "cost": 17.0,
+    "open": "周一至周日 11:00-14:00",
+    "lng": 116.365606,
+    "lat": 23.532037,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/06736f47219e408f0000003302858610?type=pic",
+     "https://store.is.autonavi.com/showpic/ae4d14992ea04349f4cacb3485b08460",
+     "https://store.is.autonavi.com/showpic/a34a2c67432b64ea0000003302870116?type=pic"
+    ]
+   }
   },
   {
    "name": "揭西擂茶",
@@ -161,7 +331,22 @@
    ],
    "tips": [
     "第一次喝可能不太习惯草本味，先少点一点"
-   ]
+   ],
+   "amap": {
+    "name": "揭西阿红擂茶店",
+    "id": "B0K1OKXNN4",
+    "addr": "揭西县 西堤路168-170号",
+    "type": "餐饮相关",
+    "tel": "13538229907",
+    "rating": 4.2,
+    "cost": 16.0,
+    "open": "周一至周日 09:00-20:00",
+    "lng": 115.832521,
+    "lat": 23.428837,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2e8a0ea6b37ac3e31bc0a568077ea020"
+    ]
+   }
   },
   {
    "name": "惠来海鲜",
@@ -173,7 +358,24 @@
    ],
    "tips": [
     "海鲜按斤计价，点之前问清价格、看着称重"
-   ]
+   ],
+   "amap": {
+    "name": "松记海鲜大排档",
+    "id": "B0FFJN7852",
+    "addr": "惠来县 洋美村路口往洋美市场方向第一间铺面",
+    "type": "海鲜酒楼",
+    "tel": "17875455405",
+    "rating": 4.7,
+    "cost": 80.0,
+    "open": "周一至周日 11:00-14:00,16:30-03:00",
+    "lng": 116.291053,
+    "lat": 23.022784,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFJN7852/comment/content_media_external_file_100023771_1756308958678_84900233.jpg",
+     "https://aos-comment.amap.com/B0FFJN7852/comment/content_media_external_file_100012421_1770811405581_40290733.jpg",
+     "https://store.is.autonavi.com/showpic/0550018ea01e46e10000002413454143?type=pic"
+    ]
+   }
   },
   {
    "name": "普宁青梅",
@@ -185,7 +387,24 @@
    ],
    "tips": [
     "梅子制品偏酸偏咸，买之前可以先试吃"
-   ]
+   ],
+   "amap": {
+    "name": "普宁青梅文化中心",
+    "id": "B0H0LCGPN5",
+    "addr": "普宁市 普宁大道和玉华路口西南侧",
+    "type": "科教文化场所",
+    "tel": "",
+    "rating": 0,
+    "cost": 0,
+    "open": "",
+    "lng": 116.163471,
+    "lat": 23.278798,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7607eacd011b7a27ed9c872b55ea941e",
+     "https://store.is.autonavi.com/showpic/8be7bdc019f774a90788fe5383a32e54",
+     "https://store.is.autonavi.com/showpic/1406d6220d41237c561f5f25899b6ee4"
+    ]
+   }
   }
  ],
  "food_areas": [

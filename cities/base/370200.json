@@ -21,7 +21,24 @@
     "人很多，早上或傍晚去更舒服",
     "冬天海鸥多，可以带面包喂",
     "周边的海鲜店要小心宰客，先问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "栈桥景区",
+    "id": "B0FFG19SSX",
+    "addr": "市南区 太平路12号(青岛站地铁站G口步行320米)",
+    "type": "公园",
+    "tel": "0532-82884548",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.3193,
+    "lat": 36.061736,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/43c52933c1769faa59b8ace73c85844d",
+     "https://store.is.autonavi.com/showpic/53aa7310429af525b8d77a8d93e9c9b9",
+     "https://store.is.autonavi.com/showpic/638b4b649ab03cab0000008408984387?type=pic"
+    ]
+   }
   },
   {
    "name": "天主教堂和大学路",
@@ -37,7 +54,24 @@
     "网红墙早上人少，晚了要排队",
     "教堂内部参观需要另外购票",
     "老城坡多，穿舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "天主教青岛教区圣弥厄尔主教座堂天主堂",
+    "id": "B0FFF3IWZ5",
+    "addr": "市南区 浙江路15号",
+    "type": "教堂",
+    "tel": "0532-82865960",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00 最晚进入16:30；7月20日至8月20日 周一至周日 08:30-18:00 最晚进入17:40；每月第1个周日营业时间:10:00-17:00； 周日 08:00-09:00 主日弥撒时门票免费,非教徒可以参与,弥撒时间不能在教堂内跑动和参观、大声喧哗。",
+    "lng": 120.320588,
+    "lat": 36.068143,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/101c2e253fdc709c736a160d7eddddc1",
+     "https://store.is.autonavi.com/showpic/4394a678c6295ff54c0d82761a79bf92",
+     "https://store.is.autonavi.com/showpic/fdf680c8a2685b18d929b57478702ecf"
+    ]
+   }
   },
   {
    "name": "小鱼山",
@@ -52,7 +86,24 @@
    "tips": [
     "门票便宜，傍晚上去看日落最好",
     "山不高，老人小孩都能上"
-   ]
+   ],
+   "amap": {
+    "name": "小鱼山",
+    "id": "B021406XPT",
+    "addr": "市南区 八大关街道福山支路24号",
+    "type": "国家级景点",
+    "tel": "0532-82868532",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 06:00-19:00 最晚进入19:00；4月至10月 周一至周日 06:00-20:00 最晚进入20:00",
+    "lng": 120.336558,
+    "lat": 36.058765,
+    "photos": [
+     "https://aos-comment.amap.com/B021406XPT/headerImg/content_media_external_images_media_250411_1662193913819_f8a96f55.jpg",
+     "https://store.is.autonavi.com/showpic/a2af58df1385af2d0364cebaf3faf60d",
+     "https://aos-comment.amap.com/B021406XPT/comment/ededb05efcf4db80caaaa038facd94cf_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "八大关",
@@ -68,7 +119,24 @@
     "花石楼等单独开放的建筑需要另外购票",
     "秋天银杏和枫叶最好看",
     "可以从第一海水浴场一路走过来"
-   ]
+   ],
+   "amap": {
+    "name": "八大关风景区",
+    "id": "B0214024B4",
+    "addr": "市南区 武胜关支路10号",
+    "type": "风景名胜",
+    "tel": "0532-82870565",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.350903,
+    "lat": 36.053625,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/056214c266e0ba5a6a873c873f5b0de2",
+     "https://store.is.autonavi.com/showpic/4dfd6a11cf801e55b7cb79c9b4659768",
+     "https://store.is.autonavi.com/showpic/21362128d9ba17344fb05777f503f7e5"
+    ]
+   }
   },
   {
    "name": "信号山",
@@ -83,7 +151,24 @@
    "tips": [
     "和小鱼山二选一就够",
     "总督楼旧址需要另外购票"
-   ]
+   ],
+   "amap": {
+    "name": "信号山公园",
+    "id": "B021401767",
+    "addr": "市南区 龙山路16号甲",
+    "type": "公园",
+    "tel": "0532-66991166",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "1月至4月,11月至12月 周一至周日 09:00-17:30 最晚进入17:00；5月至10月 周一至周日 08:00-18:30 最晚进入18:30",
+    "lng": 120.331561,
+    "lat": 36.066446,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e723b2cf18254ae6b3417f87c53d403f",
+     "https://store.is.autonavi.com/showpic/5545e870256df2e9ea579f38dc831ebf",
+     "https://store.is.autonavi.com/showpic/cb87905926a6cce853bd02c8d5081829"
+    ]
+   }
   },
   {
    "name": "青岛啤酒博物馆",
@@ -99,7 +184,24 @@
     "门票需要提前在官方渠道购买",
     "参观后的啤酒体验区人多时要排队",
     "不喝酒的人可以选择软饮"
-   ]
+   ],
+   "amap": {
+    "name": "青岛啤酒博物馆",
+    "id": "B021401A45",
+    "addr": "市北区 登州路56-1",
+    "type": "博物馆",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "1月至4月,11月至12月 周一至周日 08:30-17:30 最晚进入16:30；5月至6月,9月至10月 周一至周日 08:00-18:30 最晚进入17:30；7月至8月 周一至周日 07:30-19:30 最晚进入18:30",
+    "lng": 120.347318,
+    "lat": 36.079106,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/55bb907ad5c0f6568e3f2a25af1dc0d2",
+     "https://store.is.autonavi.com/showpic/244f88cc2c1ca9f7012242cdb2dcfbe9",
+     "https://store.is.autonavi.com/showpic/16879194ddbbf628f47f503b40335da6"
+    ]
+   }
   },
   {
    "name": "五四广场和奥帆中心",
@@ -114,7 +216,24 @@
    "tips": [
     "灯光秀一般在节假日和周末举行，出发前确认",
     "坐帆船出海要提前预约，注意天气"
-   ]
+   ],
+   "amap": {
+    "name": "五四广场",
+    "id": "B021402991",
+    "addr": "市南区 东海西路(五四广场地铁站C口步行170米)",
+    "type": "城市广场",
+    "tel": "0532-81896299",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.384576,
+    "lat": 36.06274,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9df7c968c410f9be369ec14e659953a6",
+     "https://store.is.autonavi.com/showpic/677d97580ff59416812a8f11bb143509",
+     "https://store.is.autonavi.com/showpic/435bdf3ae634874819e0bee8014a8bad"
+    ]
+   }
   },
   {
    "name": "崂山",
@@ -130,7 +249,24 @@
     "景区线路多，进山前先想好走哪条线",
     "景区内需坐专线观光车，节假日排队很长",
     "山上风大，带件外套"
-   ]
+   ],
+   "amap": {
+    "name": "崂山风景区",
+    "id": "B021407PX0",
+    "addr": "崂山区 崂山景区旅游专用路",
+    "type": "国家级景点",
+    "tel": "0532-96616",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "3月至6月,9月至11月 07:00-17:30；7月至8月 06:00-19:00；12月,1月至2月 07:30-17:00",
+    "lng": 120.618274,
+    "lat": 36.184922,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4bf4c5356829d00f8dedc0683e7e36d6",
+     "https://store.is.autonavi.com/showpic/58d3654913bc6e0a49c30f0b8c1fb58c",
+     "https://store.is.autonavi.com/showpic/445899cdde087cefa1af357c6cd2d211"
+    ]
+   }
   },
   {
    "name": "金沙滩",
@@ -146,7 +282,24 @@
     "夏天人多，早上或傍晚去更舒服",
     "下海游泳注意安全，只在开放区域游",
     "离市区有一段距离，可以单独安排半天"
-   ]
+   ],
+   "amap": {
+    "name": "金沙滩",
+    "id": "B021400100",
+    "addr": "黄岛区 金沙滩路",
+    "type": "海滩",
+    "tel": "0532-86707399",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.24513,
+    "lat": 35.95721,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/238e1abdded498b06b8e0dfe007d4191",
+     "https://store.is.autonavi.com/showpic/84e1d8934fd6d6ea3e0d711bc07e85b3",
+     "https://store.is.autonavi.com/showpic/659df6088a86ddce0000007611672917?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +313,24 @@
    ],
    "tips": [
     "蛤蜊要新鲜，没张开口的不要吃"
-   ]
+   ],
+   "amap": {
+    "name": "海佳小院海鲜家常菜",
+    "id": "B0FFG53UB6",
+    "addr": "市南区 延安三路206号(芝泉路地铁站C口步行160米)",
+    "type": "海鲜酒楼",
+    "tel": "17753277407",
+    "rating": 4.7,
+    "cost": 95.0,
+    "open": "周一至周日 10:30-23:00",
+    "lng": 120.370287,
+    "lat": 36.067297,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0fb565be5ec73cce2ff395a33a979f12",
+     "https://store.is.autonavi.com/showpic/81861764280f6c2632e8c342d283bca0",
+     "https://store.is.autonavi.com/showpic/4213c85c5b78b1a4ea0f9e4c957495a4"
+    ]
+   }
   },
   {
    "name": "鲅鱼水饺",
@@ -172,7 +342,24 @@
    ],
    "tips": [
     "几种海鲜馅可以各点一点尝尝"
-   ]
+   ],
+   "amap": {
+    "name": "船歌·鱼水饺青岛菜(青岛万象城店)",
+    "id": "B0FFHMLZHV",
+    "addr": "市南区 山东路华润万象城B1",
+    "type": "特色/地方风味餐厅",
+    "tel": "0532-89092009",
+    "rating": 4.6,
+    "cost": 86.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 120.378099,
+    "lat": 36.067006,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d72709be4606a5f9a0eac313dc0517d6",
+     "https://store.is.autonavi.com/query_pic?id=stf71f6652-a207-46cc-ae2c-43118b842293&user=search&operate=original",
+     "https://store.is.autonavi.com/showpic/3302d61e306ef664baac4069012fe5f7"
+    ]
+   }
   },
   {
    "name": "青岛啤酒",
@@ -185,7 +372,24 @@
    "tips": [
     "原浆啤酒不耐放，尽快喝完",
     "不擅饮酒的人注意量"
-   ]
+   ],
+   "amap": {
+    "name": "台东啤酒街店",
+    "id": "B0LD65E7CX",
+    "addr": "市北区 登州路73号",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 3.9,
+    "cost": 216.0,
+    "open": "周一至周日 11:00-21:00",
+    "lng": 120.34783,
+    "lat": 36.078835,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ffb341fcb8f6c94270733154e58f6941",
+     "https://store.is.autonavi.com/showpic/c8ba8a3a566009921ee9ac1721d55d7b",
+     "https://store.is.autonavi.com/showpic/38f5933c144863599cdc150fc86a6fcf"
+    ]
+   }
   },
   {
    "name": "排骨米饭",
@@ -197,7 +401,24 @@
    ],
    "tips": [
     "一般排骨可以加量"
-   ]
+   ],
+   "amap": {
+    "name": "万众源排骨米饭(湛山青岛总店)",
+    "id": "B0FFFAH0IE",
+    "addr": "市南区 秀湛路一号(延安三路地铁站A口步行130米)",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 24.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 120.372645,
+    "lat": 36.060995,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFAH0IE/comment/content_media_external_images_media_100014281_1744298598285_48805083.jpg",
+     "https://store.is.autonavi.com/showpic/b23efb2f9c6cc4bf0000002468330509?type=pic",
+     "https://aos-comment.amap.com/B0FFFAH0IE/comment/74017693_A27B_49E2_A3DC_DDA7B7BCFFE6_L0_001_1440_1920_1734165371697_59265872.jpg"
+    ]
+   }
   },
   {
    "name": "海肠捞饭",
@@ -209,7 +430,24 @@
    ],
    "tips": [
     "海肠要现炒，冷了口感变韧"
-   ]
+   ],
+   "amap": {
+    "name": "海肠捞饭",
+    "id": "B0L3XK0C82",
+    "addr": "市北区 台东六路与长兴路交叉口东南40米",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.0,
+    "cost": 32.0,
+    "open": "",
+    "lng": 120.355725,
+    "lat": 36.084525,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cff4c3fc752b086b0000003594496052?type=pic",
+     "https://store.is.autonavi.com/showpic/9e8910ff3a05522e0000003594490195?type=pic",
+     "https://store.is.autonavi.com/showpic/15d9ca7910cefafd0000003594458896?type=pic"
+    ]
+   }
   },
   {
    "name": "海鲜加工",
@@ -222,7 +460,24 @@
    "tips": [
     "买的时候注意看秤，问清楚价格单位",
     "加工费先问清楚再做"
-   ]
+   ],
+   "amap": {
+    "name": "李想珈 团岛农贸市场店",
+    "id": "B0LUK6P3CL",
+    "addr": "市南区 八大峡街道四川路31号馨大众团岛农贸市场综合区区域A-024摊位",
+    "type": "餐饮相关",
+    "tel": "17657187393",
+    "rating": 4.1,
+    "cost": 27.0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 120.29837,
+    "lat": 36.06117,
+    "photos": [
+     "https://aos-comment.amap.com/B0LUK6P3CL/comment/CB14C9D2_7D5F_41D4_8624_137ED34A323E_L0_001_1500_200_1760141706640_34732294.jpg",
+     "https://aos-comment.amap.com/B0LUK6P3CL/comment/83A48AE6_9F74_4E4F_8E0F_D47565B6ABA1_L0_001_1500_200_1760141706641_04400657.jpg",
+     "https://store.is.autonavi.com/showpic/3a791421466dd92f0000002876454494?type=pic"
+    ]
+   }
   },
   {
    "name": "烤鱿鱼",
@@ -234,7 +489,24 @@
    ],
    "tips": [
     "景区的小吃摊偏贵，先问价格"
-   ]
+   ],
+   "amap": {
+    "name": "青岛李村夜市",
+    "id": "B0I259HQL3",
+    "addr": "李沧区 古镇路30号(李村地铁站E口步行150米)",
+    "type": "餐饮相关",
+    "tel": "18678939666",
+    "rating": 4.8,
+    "cost": 79.0,
+    "open": "周一至周日 16:00-24:00",
+    "lng": 120.423575,
+    "lat": 36.158653,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0b3121820f7a73c50000003275576265?type=pic",
+     "https://store.is.autonavi.com/showpic/c7f068cdad2151260000004339362349?type=pic",
+     "https://store.is.autonavi.com/showpic/ef2825feb6bd5fc40000003368562945?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

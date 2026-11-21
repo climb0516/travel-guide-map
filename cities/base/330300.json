@@ -21,7 +21,24 @@
     "上岛要坐渡轮，班次以码头公告为准",
     "岛上部分景点需要单独购票",
     "江心寺对联「云朝朝朝朝朝朝朝散」很有名，可以去找一找"
-   ]
+   ],
+   "amap": {
+    "name": "江心屿",
+    "id": "B024104087",
+    "addr": "鹿城区 望江东路119号",
+    "type": "国家级景点",
+    "tel": "0577-88771272",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:30-22:00",
+    "lng": 120.639046,
+    "lat": 28.027008,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ee8dd71bb26f041c77e0464ef7113969",
+     "https://store.is.autonavi.com/showpic/36dfd904a5e100d4aa3c452b8a8b8b1f",
+     "https://store.is.autonavi.com/showpic/438d3e0c8922be0d8385f78bba2c86b5"
+    ]
+   }
   },
   {
    "name": "五马街",
@@ -36,7 +53,24 @@
    "tips": [
     "老字号小吃集中，可以一家家吃过去",
     "周边停车难，建议打车或坐公交"
-   ]
+   ],
+   "amap": {
+    "name": "五马步行街",
+    "id": "B024104PKQ",
+    "addr": "鹿城区 五马街道",
+    "type": "步行街",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 120.659905,
+    "lat": 28.012317,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/564974a7a310db76f34300ee",
+     "https://store.is.autonavi.com/showpic/db9d602c832c1f360000009501968271?type=pic",
+     "https://store.is.autonavi.com/showpic/e1ca6196e4df2d870000009465350802?type=pic"
+    ]
+   }
   },
   {
    "name": "南塘街",
@@ -51,7 +85,24 @@
    "tips": [
     "夜游船班次以码头公告为准",
     "适合安排在晚饭后"
-   ]
+   ],
+   "amap": {
+    "name": "南塘风貌街",
+    "id": "B0FFHO7VIC",
+    "addr": "鹿城区 南汇街道南汇街道南汇街道南汇街道南塘街白鹭洲公园",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.669595,
+    "lat": 27.998729,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c21212d9be6fbb8d0000002695802716?type=pic",
+     "https://aos-comment.amap.com/B0FFHO7VIC/comment/CFE6E9C5_4426_4F94_A2B3_9DE2867AC96C_L0_001_2000_150_1762925443528_92217303.jpg",
+     "https://store.is.autonavi.com/showpic/8ff616d6be4605369930963f86d7522d"
+    ]
+   }
   },
   {
    "name": "雁荡山",
@@ -67,7 +118,24 @@
     "景区分散，各景点之间要坐景区交通或自驾",
     "灵峰夜景跟着讲解看才有意思，具体时间以景区安排为准",
     "大龙湫瀑布雨季水量大，旱季可能较小"
-   ]
+   ],
+   "amap": {
+    "name": "雁荡山风景名胜区",
+    "id": "B024105U52",
+    "addr": "乐清市 雁荡镇雁山路88号",
+    "type": "国家级景点",
+    "tel": "0577-62178888",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "06:30-17:30, 具体开放时间以现场公示为准",
+    "lng": 121.033716,
+    "lat": 28.373656,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dd30681e6628bdd40fefc84e66d89b33",
+     "https://store.is.autonavi.com/showpic/5ba9fcb459b7c3c37c02095a1d51922e",
+     "https://store.is.autonavi.com/showpic/64f3ddd15d6da379795b59a4f3bf308a"
+    ]
+   }
   },
   {
    "name": "楠溪江",
@@ -83,7 +151,24 @@
     "竹筏漂流受水位影响，开放情况以景区公告为准",
     "夏天玩水注意安全，带一双溯溪鞋",
     "景点分散，自驾或包车更方便"
-   ]
+   ],
+   "amap": {
+    "name": "楠溪江风景名胜区",
+    "id": "B024104089",
+    "addr": "永嘉县 鹤盛镇下岙村",
+    "type": "国家级景点",
+    "tel": "12301",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；夏令时营业时间(5.1-9.30) : 崖下库、石门台、十二峰:08:00-17:30，最迟入园时间:16:30； 陶公洞:24小时营业； 埭头古村、芙蓉古村、苍坡古村、丽水古街、太平岩、小港漂流、二桥漂流、桃花源漂流、狮子岩漂流:8:00-17:30，最迟入园时间:17:30； 冬令时营业时间(10.1-次年4.30) : 崖下库、石门台、十二峰:08:00-17:00，最迟入园时间:16:00； 陶公洞:24小时营业； 埭头古村、芙蓉古村、苍坡古村、丽水古街、太平岩、小港漂流、二桥漂流、桃花源漂流、狮子岩漂流:08:00-17:00，最迟入园时间:17:00",
+    "lng": 120.900433,
+    "lat": 28.386678,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a8f79bae6f048e597bd5a43af3729a12",
+     "https://store.is.autonavi.com/showpic/972b4b28593ba69d1f72112458ad1dbf",
+     "https://store.is.autonavi.com/showpic/55c743217d9c8944bf511a2aa4e3748a"
+    ]
+   }
   },
   {
    "name": "芙蓉古村",
@@ -98,7 +183,24 @@
    "tips": [
     "古村仍有村民生活，拍照注意礼貌",
     "可以和楠溪江漂流安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "楠溪江风景名胜区芙蓉古村",
+    "id": "B02410407B",
+    "addr": "永嘉县 岩头镇",
+    "type": "风景名胜",
+    "tel": "15325516736",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "08:00-17:00 最晚进入17:00",
+    "lng": 120.734522,
+    "lat": 28.329871,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/92456f2b6aeb2caa16bd6a488af3437b",
+     "https://store.is.autonavi.com/showpic/7e6a842bbc82d94604d956750c953ae5",
+     "https://aos-comment.amap.com/B02410407B/comment/5DFB06C3_786F_4765_A544_1A772EDA2120_L0_001_1290_85_1763133551230_96253165.jpg"
+    ]
+   }
   },
   {
    "name": "洞头",
@@ -113,7 +215,24 @@
    "tips": [
     "夏季台风季出行前关注天气预报",
     "海鲜大排档按时价，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "望海楼",
+    "id": "B02410WIX6",
+    "addr": "洞头区 东郊村",
+    "type": "风景名胜",
+    "tel": "0577-63487112",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "05-01至10-07 周一至周日 08:00-18:00 最晚进入17:30；10-08至04-30 周一至周日 08:00-17:50 最晚进入17:30",
+    "lng": 121.12915,
+    "lat": 27.83698,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8dee20ccd6fd7303d0e4aed2524a1369",
+     "https://store.is.autonavi.com/showpic/ac1a84ee40d33a20c1ebce3ddca678e7",
+     "https://store.is.autonavi.com/showpic/c98a3b467f02c759addfe7e30514d398"
+    ]
+   }
   },
   {
    "name": "百丈漈",
@@ -128,7 +247,24 @@
    "tips": [
     "雨季水量大更壮观，步道湿滑要注意",
     "从市区开车约 2 小时，建议自驾"
-   ]
+   ],
+   "amap": {
+    "name": "百丈漈",
+    "id": "B024110HBX",
+    "addr": "文成县 百丈漈镇篁庄村",
+    "type": "国家级景点",
+    "tel": "0577-59003692",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "4月16日-10月15日 07:30-17:00",
+    "lng": 120.020899,
+    "lat": 27.84155,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/95e783c1246b2e232a00696c9d893651",
+     "https://store.is.autonavi.com/showpic/5c172aef7b0efe8bc432c52d3891217e",
+     "https://store.is.autonavi.com/showpic/fbec4836469afc90424e42f69b163e45"
+    ]
+   }
   },
   {
    "name": "温州博物馆",
@@ -143,7 +279,24 @@
    "tips": [
     "免费参观，需提前预约，周一通常闭馆",
     "开放和临展信息以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "温州博物馆",
+    "id": "B0241041TP",
+    "addr": "鹿城区 市府路491号",
+    "type": "博物馆",
+    "tel": "0577-56988280",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一 全天关闭；周二至周日 09:00-17:00 最晚进入16:30",
+    "lng": 120.69811,
+    "lat": 27.988522,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e8f046e34b463994177e3db87ad9eb8c",
+     "https://store.is.autonavi.com/showpic/e020ad44af10b947c19eba11deb8fdb6",
+     "https://store.is.autonavi.com/showpic/e9be2d0dd837f5d413e8318830c72cfc"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "醋是灵魂，可以按口味加",
     "和灯盏糕一起点是经典搭配"
-   ]
+   ],
+   "amap": {
+    "name": "芙蓉鱼圆(洞头店)",
+    "id": "B024102UV0",
+    "addr": "洞头区 镇前街70号世昌大楼F1层",
+    "type": "中餐厅",
+    "tel": "13732030369",
+    "rating": 4.5,
+    "cost": 32.0,
+    "open": "周一至周日 07:00-01:00",
+    "lng": 121.155719,
+    "lat": 27.835445,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b40d92e2630f52cb0000003002234651?type=pic",
+     "https://aos-comment.amap.com/B024102UV0/comment/418ec89c0ad8c4fa8f43f62612604b4a_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B024102UV0/comment/content_media_external_images_media_58882_ss__1731248645846_53165974.jpg"
+    ]
+   }
   },
   {
    "name": "灯盏糕",
@@ -171,7 +341,24 @@
    "tips": [
     "刚出锅很烫，小心咬",
     "可以加鸡蛋或者肉"
-   ]
+   ],
+   "amap": {
+    "name": "大王灯盏糕(解放街店)",
+    "id": "B0FFFGTHTY",
+    "addr": "鹿城区 解放街471号",
+    "type": "餐饮相关",
+    "tel": "13695878586",
+    "rating": 4.6,
+    "cost": 13.0,
+    "open": "周一至周日 08:30-18:00",
+    "lng": 120.656669,
+    "lat": 28.019223,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFGTHTY/comment/48bc4c314aee7a1ee8bd42a2c71558e8_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFFGTHTY/comment/file_media_Photo_2282_IMG_1769247630_2156_MTXX_IMG_20260124_17385063_jpg_ss__1769248571347_46943339.jpg",
+     "https://store.is.autonavi.com/showpic/09100cb66d9f230b0000002955932178?type=pic"
+    ]
+   }
   },
   {
    "name": "温州糯米饭",
@@ -184,7 +371,24 @@
    "tips": [
     "早上去才有，很多店中午就卖完",
     "分量足，一碗能吃饱"
-   ]
+   ],
+   "amap": {
+    "name": "娟娟早点店",
+    "id": "B0FFKT21LG",
+    "addr": "鹿城区 东明路124号",
+    "type": "快餐厅",
+    "tel": "15967768639",
+    "rating": 4.7,
+    "cost": 12.0,
+    "open": "周一至周日 03:00-13:00",
+    "lng": 120.671196,
+    "lat": 28.01586,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0402322b2c1cfa8f0000000728040357?type=pic",
+     "https://store.is.autonavi.com/showpic/6079021d6fb9be924b6ab41a87bd093d",
+     "https://store.is.autonavi.com/showpic/ff91bba85fa39bcc0000007593854992?type=pic"
+    ]
+   }
   },
   {
    "name": "长人馄饨",
@@ -196,7 +400,24 @@
    ],
    "tips": [
     "和县前汤圆离得不远，可以一起吃"
-   ]
+   ],
+   "amap": {
+    "name": "长人馄饨铺",
+    "id": "B0241023L0",
+    "addr": "鹿城区 解放北路195号",
+    "type": "中餐厅",
+    "tel": "0577-88227004",
+    "rating": 4.6,
+    "cost": 27.0,
+    "open": "周一至周日 06:00-22:00",
+    "lng": 120.660108,
+    "lat": 28.014522,
+    "photos": [
+     "https://aos-comment.amap.com/B0241023L0/comment/content_media_external_images_media_1000063056_ss__1744073225288_59124441.jpg",
+     "https://aos-comment.amap.com/B0241023L0/comment/content_media_external_file_2523_ss__1764471041994_36104084.jpg",
+     "https://aos-comment.amap.com/comment/20260318-c14030f0da2a7b6d751ec9c4-8gd5Bxl7HnEACt2l9ZWEaY.jpg"
+    ]
+   }
   },
   {
    "name": "县前汤圆",
@@ -208,7 +429,24 @@
    ],
    "tips": [
     "甜品为主，饭后来吃最合适"
-   ]
+   ],
+   "amap": {
+    "name": "县前汤圆(县前头店)",
+    "id": "B024100WX6",
+    "addr": "鹿城区 县前头128号",
+    "type": "中餐厅",
+    "tel": "17816800188",
+    "rating": 4.6,
+    "cost": 17.0,
+    "open": "周一至周日 06:00-20:00",
+    "lng": 120.66063,
+    "lat": 28.015331,
+    "photos": [
+     "https://aos-comment.amap.com/B024100WX6/comment/content_media_external_images_media_1000038013_ss__1743060201387_32152185.jpg",
+     "https://store.is.autonavi.com/showpic/4661ca5d05f4d985e1e03eac5c39ec82",
+     "https://aos-comment.amap.com/B024100WX6/comment/a4c432337e258f8490386d310391f5b7_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "猪脏粉",
@@ -220,7 +458,24 @@
    ],
    "tips": [
     "可以加醋和胡椒提味"
-   ]
+   ],
+   "amap": {
+    "name": "守英猪脏粉(仓桥街店)",
+    "id": "B02410WKGR",
+    "addr": "鹿城区 仓桥街199号",
+    "type": "中餐厅",
+    "tel": "0577-88293822",
+    "rating": 4.6,
+    "cost": 24.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.654062,
+    "lat": 28.017467,
+    "photos": [
+     "https://aos-comment.amap.com/B02410WKGR/comment/content_media_external_file_27290_ss__1759338095656_04534524.jpg",
+     "https://store.is.autonavi.com/showpic/192e673ac7f6797b0000009063364098?type=pic",
+     "https://aos-comment.amap.com/B02410WKGR/comment/e5b6bb7d79f80413f65e0e18ef46153e_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "江蟹生",
@@ -233,7 +488,24 @@
    "tips": [
     "肠胃不好的人少吃",
     "去口碑好的正规餐馆吃"
-   ]
+   ],
+   "amap": {
+    "name": "老温州·温州菜",
+    "id": "B0JGMZ8MJM",
+    "addr": "鹿城区 矮凳桥228号c区",
+    "type": "中餐厅",
+    "tel": "19858755267",
+    "rating": 4.8,
+    "cost": 138.0,
+    "open": "周一至周日 11:00-13:30,16:30-21:00",
+    "lng": 120.670252,
+    "lat": 28.019437,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b9752368d406d21f0000007588790007?type=pic",
+     "https://store.is.autonavi.com/showpic/8b6686499f7080960000006425930568?type=pic",
+     "https://store.is.autonavi.com/showpic/e114e76a1f7568340000006425920766?type=pic"
+    ]
+   }
   },
   {
    "name": "敲鱼",
@@ -245,7 +517,22 @@
    ],
    "tips": [
     "汤清淡，适合配海鲜主菜一起点"
-   ]
+   ],
+   "amap": {
+    "name": "阿友鱼丸鱼饼敲鱼",
+    "id": "B0FFG8ZTBN",
+    "addr": "鹿城区 蒲鞋市路与民航路交叉口东160米",
+    "type": "餐饮相关",
+    "tel": "13173578218",
+    "rating": 3.0,
+    "cost": 14.0,
+    "open": "",
+    "lng": 120.676956,
+    "lat": 28.004822,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a42d6c2be4de95f811f6d2dbe74637ad"
+    ]
+   }
   }
  ],
  "food_areas": [

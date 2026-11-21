@@ -21,7 +21,24 @@
     "穿防滑运动鞋，带够水和简单的食物，山上补给会更贵",
     "上山容易下山伤膝，下山可以坐索道或大巴",
     "节假日上山人流很大，出发前关注景区限流公告"
-   ]
+   ],
+   "amap": {
+    "name": "红门",
+    "id": "B021A00A32",
+    "addr": "泰山区 泰山风景名胜区内(南侧)",
+    "type": "旅游景点",
+    "tel": "96008888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 05:00-23:00",
+    "lng": 117.128382,
+    "lat": 36.210221,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c72f03ae12ea4f8da17cabddedb0a299",
+     "https://store.is.autonavi.com/showpic/962fc31904bc8661fe5bf3921c36c32a",
+     "https://aos-comment.amap.com/B021A00A32/comment/20260317-f14b3d7f347184bd5a25cac9-2T0FqySuvjw63qUTKvunw3.jpg"
+    ]
+   }
   },
   {
    "name": "南天门和天街",
@@ -36,7 +53,24 @@
    "tips": [
     "山顶住宿条件一般，旺季要提前预订",
     "天街的东西比山下贵，按需购买"
-   ]
+   ],
+   "amap": {
+    "name": "南天门",
+    "id": "B0FFKWMKA0",
+    "addr": "泰山区 红门路54号泰山风景名胜区内",
+    "type": "旅游景点",
+    "tel": "96008888",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.104329,
+    "lat": 36.255801,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/906893440e5143f3ba6e15b3228c2549",
+     "https://store.is.autonavi.com/showpic/9bb948c58f1e45c4b127bb5680ea52ab",
+     "https://store.is.autonavi.com/showpic/302649f9e9676647609bc1b69f2040bb"
+    ]
+   }
   },
   {
    "name": "玉皇顶",
@@ -51,7 +85,24 @@
    "tips": [
     "「五岳独尊」石刻拍照的人多，清晨或傍晚相对好拍",
     "山顶风大，即使夏天也要带外套"
-   ]
+   ],
+   "amap": {
+    "name": "泰山风景名胜区-玉皇顶",
+    "id": "B021A00CC6",
+    "addr": "泰山区 泰前街道红门路54号泰山风景名胜区",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00",
+    "lng": 117.109129,
+    "lat": 36.257337,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a51cc8e02f304fd4b855b282affedce2",
+     "https://store.is.autonavi.com/showpic/80bd4ae70a903352355b2ab90429f3fe",
+     "https://store.is.autonavi.com/showpic/a6ce48aa9f504e7fba60dc10a6e1d2f7"
+    ]
+   }
   },
   {
    "name": "日观峰看日出",
@@ -67,7 +118,24 @@
     "日出时间随季节变化，提前查好当天日出时间",
     "凌晨山顶气温很低，要带厚外套或现场租大衣",
     "观日点人很多，要提前去占位置"
-   ]
+   ],
+   "amap": {
+    "name": "泰山风景名胜区-日观峰",
+    "id": "B0FFF64TRC",
+    "addr": "泰山区 泰前街道红门路54号泰山风景名胜区内",
+    "type": "旅游景点",
+    "tel": "96008888",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.110565,
+    "lat": 36.256668,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/859c49fd2dec3cf72b30fb4387d402a8",
+     "https://store.is.autonavi.com/showpic/f53f1276ef204f5e8dfd458c3996ae9e",
+     "https://store.is.autonavi.com/showpic/21e3445298f943a2984f39f349a8d2f7"
+    ]
+   }
   },
   {
    "name": "岱庙",
@@ -82,7 +150,24 @@
    "tips": [
     "和泰山门票分开，具体以景区公告为准",
     "从岱庙北门出来沿红门路往北，就是去红门登山口的方向"
-   ]
+   ],
+   "amap": {
+    "name": "岱庙",
+    "id": "B0FFFDS3H4",
+    "addr": "泰山区 东岳大街191号",
+    "type": "寺庙道观",
+    "tel": "0538-8261038",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "03/01:00-04:00/30 08:00-17:30开放 最晚进入17:00；05/01:00-08:00/31 08:00-18:00开放 最晚进入17:30；09/01:00-10:00/31 08:00-17:30开放 最晚进入17:00；11/01:00-02:00/28 08:00-17:00开放 最晚进入16:30；国庆节 08:00-18:00开放 最晚进入17:30",
+    "lng": 117.131309,
+    "lat": 36.194025,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a13d5a91f77d7c47772ddc89a661524a",
+     "https://store.is.autonavi.com/showpic/a00a4ba88828617781e746bcadc7591a",
+     "https://aos-comment.amap.com/B0FFFDS3H4/headerImg/94c80a819f232ad7f6bb06348023649f_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "天外村和桃花峪线",
@@ -97,7 +182,24 @@
    "tips": [
     "索道遇大风等天气可能停运，以景区当天公告为准",
     "旺季索道排队时间长，留出富余时间"
-   ]
+   ],
+   "amap": {
+    "name": "桃花峪",
+    "id": "B0FFFOVEH9",
+    "addr": "岱岳区 红门路54号泰山风景名胜区内(西侧)",
+    "type": "风景名胜",
+    "tel": "96008888",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.028557,
+    "lat": 36.266155,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFOVEH9/comment/17517a3d17b8c579b79a9765bb6a8f97_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFFOVEH9/comment/46713c0cccc2b69a39a224cbc4b98965_2048_2048_80.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/9073b089-7201-47d8-8735-652950dde742.jpg"
+    ]
+   }
   },
   {
    "name": "天烛峰",
@@ -112,7 +214,24 @@
    "tips": [
     "路上补给点少，水和食物要带足",
     "不熟悉路线不要单独走，避免天黑前还在山里"
-   ]
+   ],
+   "amap": {
+    "name": "天烛峰景区",
+    "id": "B0MUDKG613",
+    "addr": "泰山区 泰山瑞园东南侧150米",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.144275,
+    "lat": 36.268025,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ff1e3e27eaca36e80000003114636842",
+     "https://store.is.autonavi.com/showpic/1a16a6e7032d8c580000003114632835",
+     "https://store.is.autonavi.com/showpic/2d2adf10501426c00000003114626964"
+    ]
+   }
   },
   {
    "name": "泰安方特欢乐世界",
@@ -127,7 +246,24 @@
    "tips": [
     "热门项目排队时间长，开园就进",
     "开放时间和项目安排以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "泰安方特欢乐世界",
+    "id": "B021A027PB",
+    "addr": "泰山区 碧霞大街与明堂路交汇处",
+    "type": "旅游景点",
+    "tel": "4001660006",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "11月9日-11月13日:10:00-17:00；11月14日-11月15日:10:00-21:00；11月16日-22日:10:00-17:00",
+    "lng": 117.193416,
+    "lat": 36.238537,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/23ebefdeb7ee39fe52497458b7562974",
+     "https://store.is.autonavi.com/showpic/da176b6846ed034974e6985b61b2b419",
+     "https://store.is.autonavi.com/showpic/4da1e1f3fdc3cacb5606cd7d5b88e22c"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    ],
    "tips": [
     "人少可以只点两三道豆腐菜，不必整桌"
-   ]
+   ],
+   "amap": {
+    "name": "泰山豆腐宴",
+    "id": "B0L1ZMKKJK",
+    "addr": "泰山区 泰山景区环山路236号",
+    "type": "中餐厅",
+    "tel": "0538-5555518",
+    "rating": 4.5,
+    "cost": 37.0,
+    "open": "周一至周日 09:30-22:00",
+    "lng": 117.12204,
+    "lat": 36.204273,
+    "photos": [
+     "https://aos-comment.amap.com/B0L1ZMKKJK/comment/content_media_external_file_15089_ss__1772768091740_65938473.jpg",
+     "https://store.is.autonavi.com/showpic/2d65430d7253f1a43ffe3803d490aeab",
+     "https://aos-comment.amap.com/B0L1ZMKKJK/comment/content_media_external_file_101857_ss__1767534446252_08245913.jpg"
+    ]
+   }
   },
   {
    "name": "煎饼卷大葱",
@@ -154,7 +307,24 @@
    "tips": [
     "干煎饼比较硬，可以先放一下回软再卷",
     "生葱味冲，不习惯可以换成别的菜卷着吃"
-   ]
+   ],
+   "amap": {
+    "name": "老泰安·泰安菜(普照寺路店)",
+    "id": "B0JG6DNDXX",
+    "addr": "泰山区 普照寺路49号",
+    "type": "综合酒楼",
+    "tel": "0538-8667888",
+    "rating": 4.7,
+    "cost": 108.0,
+    "open": "周一至周日 10:00-21:30 2027-01-01至2027-01-01 10:00-22:00；2027-02-05至2027-02-13 10:00-22:00",
+    "lng": 117.119262,
+    "lat": 36.202441,
+    "photos": [
+     "https://aos-comment.amap.com/B0JG6DNDXX/comment/d67c8d865b638e37946498aea19ced01_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/3cb7e7d539c198200000003047792212?type=pic",
+     "https://aos-comment.amap.com/B0JG6DNDXX/comment/cb75d7cb362287e31900b757a1f7c384_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "山东炒鸡",
@@ -167,7 +337,24 @@
    "tips": [
     "一份通常是半只或一只，按人数点",
     "汤汁蘸煎饼或拌米饭最香"
-   ]
+   ],
+   "amap": {
+    "name": "偏爱炒鸡店(财源街店)",
+    "id": "B0IUTS0TQJ",
+    "addr": "泰山区 财源大街143号",
+    "type": "中餐厅",
+    "tel": "15621358899",
+    "rating": 4.7,
+    "cost": 50.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 117.120437,
+    "lat": 36.186617,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d71baf1c358882a40000005516284266",
+     "https://store.is.autonavi.com/showpic/aba67235108f2aca0000007718316524?type=pic",
+     "https://aos-comment.amap.com/B0IUTS0TQJ/comment/content_media_external_file_100001934_1753766723735_05945074.jpg"
+    ]
+   }
   },
   {
    "name": "泰安羊肉汤",
@@ -180,7 +367,24 @@
    "tips": [
     "可以选纯肉或者肉杂混合",
     "辣椒油和胡椒粉自己加，先少加尝味"
-   ]
+   ],
+   "amap": {
+    "name": "泥大爷烤饼羊汤(泰安一店)",
+    "id": "B0H35R4GG6",
+    "addr": "泰山区 佳苑路金地佳苑商业楼9-1号",
+    "type": "快餐厅",
+    "tel": "13021772000",
+    "rating": 4.4,
+    "cost": 14.0,
+    "open": "周一至周日 06:30-20:30",
+    "lng": 117.080879,
+    "lat": 36.186892,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/08f784dfdeaab0727da6a313b8ca002c",
+     "https://store.is.autonavi.com/showpic/5bd2e3cfdaa9fd8013dc4b53ea35a535",
+     "https://store.is.autonavi.com/showpic/00b7ccf70461d8a71412e6084779a29c"
+    ]
+   }
   },
   {
    "name": "泰山女儿茶",
@@ -192,7 +396,24 @@
    ],
    "tips": [
     "购买前可以先试喝，按口味选择"
-   ]
+   ],
+   "amap": {
+    "name": "泰山栗香女儿茶苑",
+    "id": "B0FFIKZPC3",
+    "addr": "泰山区",
+    "type": "茶艺馆",
+    "tel": "18205487877",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 117.166088,
+    "lat": 36.267643,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9121b2df5fc2827e2b5c3483291a0d3f",
+     "https://store.is.autonavi.com/showpic/323b486d1f5adb1e412e959062ae2185",
+     "https://store.is.autonavi.com/showpic/685ae93096b480051ac2bf773e4729e9"
+    ]
+   }
   },
   {
    "name": "肥城桃",
@@ -204,7 +425,23 @@
    ],
    "tips": [
     "上市时间受气候影响，以当年情况为准"
-   ]
+   ],
+   "amap": {
+    "name": "肥城桃木炒鸡",
+    "id": "B0G1K538A9",
+    "addr": "肥城市 东尚里肥桃路与老肥桃路交叉路口西行188米",
+    "type": "中餐厅",
+    "tel": "13518688138",
+    "rating": 4.5,
+    "cost": 30.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 116.737576,
+    "lat": 36.163557,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f4a1b07b3969d0f4427366c56b58fea4",
+     "https://store.is.autonavi.com/showpic/479a0d471d6a01b71b6d3c3fa295f1be"
+    ]
+   }
   }
  ],
  "food_areas": [

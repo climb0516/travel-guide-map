@@ -21,7 +21,24 @@
     "白天游客非常多，清晨或晚上灯光亮起时拍照更从容",
     "大三巴是「澳门历史城区」世界遗产的一部分，可以和议事亭前地串成一条步行路线",
     "澳门博物馆开放安排以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "大三巴牌坊",
+    "id": "B073D00ASB",
+    "addr": "花王堂区 大三巴斜巷",
+    "type": "世界遗产",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 113.545883,
+    "lat": 22.194627,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/b8c3041b-5856-4f8c-be94-bd6e39072008.jpg",
+     "https://store.is.autonavi.com/showpic/d19111b5b06a496334e2418433cf648d",
+     "https://store.is.autonavi.com/showpic/c31f5014e6fa98c24129c263726229df"
+    ]
+   }
   },
   {
    "name": "议事亭前地",
@@ -36,7 +53,24 @@
    "tips": [
     "节假日人非常多，注意随身物品",
     "市政署大楼的庭院和图书馆对公众开放，可以进去看看，开放安排以官方为准"
-   ]
+   ],
+   "amap": {
+    "name": "议事亭前地广场",
+    "id": "B0FFIPIKST",
+    "addr": "大堂区 澳门议事亭前地11号",
+    "type": "城市广场",
+    "tel": "+853-28331200",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.545322,
+    "lat": 22.191104,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/9c158852-1f86-4155-9645-040d3807be37.jpg",
+     "https://store.is.autonavi.com/showpic/d97d674bb921bebb0000009475956867?type=pic",
+     "https://aos-comment.amap.com/B0FFIPIKST/comment/content_media_external_images_media_1000006915_ss__1767185944812_23194231.jpg"
+    ]
+   }
   },
   {
    "name": "妈阁庙",
@@ -51,7 +85,24 @@
    "tips": [
     "庙内为宗教场所，参观时保持安静",
     "附近有巴士站，和郑家大屋步行可达"
-   ]
+   ],
+   "amap": {
+    "name": "妈阁庙",
+    "id": "B073D00CQD",
+    "addr": "风顺堂区 妈阁斜巷31号附近",
+    "type": "寺庙道观",
+    "tel": "+853-28366866",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 07:00-18:00",
+    "lng": 113.536382,
+    "lat": 22.183266,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/37d721105336f84e512caa1c5e4976b5",
+     "https://aos-comment.amap.com/B073D00CQD/comment/content_media_external_images_media_8383_ss__1764398956475_60829457.jpg",
+     "https://store.is.autonavi.com/showpic/46ef882519ab967650a753c35d2900a6"
+    ]
+   }
   },
   {
    "name": "郑家大屋",
@@ -66,7 +117,24 @@
    "tips": [
     "开放安排以官方公告为准",
     "和妈阁庙、亚婆井前地可以串成一条步行线"
-   ]
+   ],
+   "amap": {
+    "name": "郑家大屋",
+    "id": "B073D00KYR",
+    "addr": "风顺堂区 澳门Antonio da Silva10 Travessa de",
+    "type": "风景名胜",
+    "tel": "+853-28968820",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周二,周四至周日 10:00-18:00",
+    "lng": 113.539959,
+    "lat": 22.185812,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/956594b002bef4600000002937894984?type=pic",
+     "https://aos-comment.amap.com/B073D00KYR/comment/359d58f2bbfbc543e5cea7a0fd1c8e36_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B073D00KYR/comment/7bb4a907e76eb628e1377c61ef694dd0_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "东望洋灯塔",
@@ -82,7 +150,24 @@
     "山顶风大，带件薄外套",
     "小教堂空间不大，参观时保持安静",
     "缆车运行安排以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "东望洋灯塔",
+    "id": "B073D00KZ2",
+    "addr": "望德堂区 澳门地厘古工程师马路 Guia Hill & Cable Car",
+    "type": "风景名胜",
+    "tel": "+853-28595481",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:30",
+    "lng": 113.554727,
+    "lat": 22.193465,
+    "photos": [
+     "https://aos-comment.amap.com/B073D00KZ2/comment/e55ca40bc8b812354ff7045be0524efa_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/3aa85d7ab00e8f0c0000009212360126?type=pic",
+     "https://aos-comment.amap.com/B073D00KZ2/comment/361b911001e9ef36cb809dae191ddd65_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "澳门旅游塔",
@@ -97,7 +182,24 @@
    "tips": [
     "极限项目对身体条件有要求，需提前预约",
     "傍晚上去可以同时看日落和夜景"
-   ]
+   ],
+   "amap": {
+    "name": "澳门旅游塔",
+    "id": "B073D00HLO",
+    "addr": "大堂区 澳门观光塔前地",
+    "type": "观景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "01-01至09-11 周一至周日 10:00-20:00 最晚进入19:30；09-12至09-12 周一至周日 10:00-22:00 最晚进入21:30；09-13至09-18 周一至周日 10:00-20:00 最晚进入19:30；09-19至09-19 周一至周日 10:00-22:00 最晚进入21:30；09-20至09-24 周一至周日 10:00-20:00 最晚进入19:30；09-25至09-25 周一至周日 10:00-22:00 最晚进入21:30；09-26至09-30 周一至周日 10:00-20:00 最晚进入19:30；10-01至10-01 周一至周日 10:00-22:00 最晚进入21:30；10-02至10-03 周一至周日 10:00-20:00 最晚进入19:30；10-04至10-04 周一至周日 10:00-22:00 最晚进入21:30；10-05至12-31 周一至周日 10:00-20:00 最晚进入19:30；观光层需在营业时间结束前30分钟到达，否则无法登塔。",
+    "lng": 113.54158,
+    "lat": 22.176748,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/985eeeec2ef138fcce78a7b554f2c42e",
+     "https://store.is.autonavi.com/showpic/07b3ecc52621a0385e3e0eeb1f21ebe3",
+     "https://store.is.autonavi.com/showpic/ed0ddd18abf112f322faa5d4c3f815e0"
+    ]
+   }
   },
   {
    "name": "官也街",
@@ -112,7 +214,24 @@
    "tips": [
     "人多的时候店家会给试吃，可以先尝再买",
     "龙环葡韵适合傍晚拍照"
-   ]
+   ],
+   "amap": {
+    "name": "官也街",
+    "id": "B073D0ME04",
+    "addr": "嘉模堂区 官也街21号",
+    "type": "特色商业街",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.562072,
+    "lat": 22.150743,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a9edcc27031cb67d0000009429908895?type=pic",
+     "https://store.is.autonavi.com/showpic/70c27d32e1edb9fa0000009308300912?type=pic",
+     "https://store.is.autonavi.com/showpic/15db075c30aa737a0000009399824145?type=pic"
+    ]
+   }
   },
   {
    "name": "路氹金光大道",
@@ -128,7 +247,24 @@
     "未满 21 岁不能进入娱乐场，但商场和公共区域可以自由参观",
     "度假村之间距离比看起来远，可以坐公交或度假村的穿梭巴士",
     "表演和灯光秀以各度假村当天公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "威尼斯人水城",
+    "id": "B0LUSZZE6Q",
+    "addr": "路氹填海区 新城大马路与望德圣母湾大马路交叉口东南340米",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "",
+    "lng": 113.564953,
+    "lat": 22.144208,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/07a0fb886db205b70000005583566132?type=pic",
+     "https://store.is.autonavi.com/showpic/e297fd693dce0fff0000008105130235?type=pic",
+     "https://store.is.autonavi.com/showpic/f9e5277f944051c50000002366114172?type=pic"
+    ]
+   }
   },
   {
    "name": "路环圣方济各圣堂",
@@ -143,7 +279,24 @@
    "tips": [
     "从路氹坐巴士或打车过去比较方便",
     "安德鲁饼店常常排队，早点去更好"
-   ]
+   ],
+   "amap": {
+    "name": "路环圣方济各圣堂",
+    "id": "B073D00ITG",
+    "addr": "圣方济各堂区 中国澳门路环计旦奴街",
+    "type": "教堂",
+    "tel": "+853-28882128",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 10:00-18:00",
+    "lng": 113.556564,
+    "lat": 22.113997,
+    "photos": [
+     "https://aos-comment.amap.com/B073D00ITG/comment/4D2CE5AE_8FA1_4042_93E2_30C2689E395D_L0_001_1500_200_1768610515589_22404134.jpg",
+     "https://aos-comment.amap.com/B073D00ITG/comment/F47B1302_B1EE_441E_8A57_15DEDFD557D2_L0_001_1506_200_1768623615334_41205497.jpg",
+     "https://aos-comment.amap.com/B073D00ITG/comment/aa2a5d59c8fd6e6a839b849d89d7412d_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "刚出炉时最好吃，放凉后酥皮会变软",
     "热门店常排队，可以挑非饭点去"
-   ]
+   ],
+   "amap": {
+    "name": "安德鲁饼店(官也街店)",
+    "id": "B0J1HHC1XQ",
+    "addr": "嘉模堂区 官也街9号地下D铺",
+    "type": "糕饼店",
+    "tel": "+853-28576580",
+    "rating": 4.7,
+    "cost": 20.0,
+    "open": "周一至周日 09:00-19:00",
+    "lng": 113.562129,
+    "lat": 22.150555,
+    "photos": [
+     "https://aos-comment.amap.com/B0J1HHC1XQ/comment/44A9C7DD_F7A4_4133_8107_5DB3D6C20A56_L0_001_1785_200_1765456359357_78160081.jpg",
+     "https://store.is.autonavi.com/showpic/90e9aa57b1b656d60000007675642341?type=pic",
+     "https://store.is.autonavi.com/showpic/e33f9db8171fa2890000004500100204?type=pic"
+    ]
+   }
   },
   {
    "name": "猪扒包",
@@ -171,7 +341,24 @@
    "tips": [
     "猪扒带骨，吃的时候小心",
     "热门店出炉时段排队，具体以店家安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "大利来记咖啡室",
+    "id": "B0LKXAJXZN",
+    "addr": "嘉模堂区 吉利维施利华街18号",
+    "type": "咖啡厅",
+    "tel": "",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "",
+    "lng": 113.560739,
+    "lat": 22.14951,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/e2f4ae42-372a-4cd7-8e9c-27c946a7f9b2.jpg",
+     "https://store.is.autonavi.com/showpic/77b616f883d39e8d197a1080d87602f4",
+     "https://store.is.autonavi.com/showpic/8ff8352c168b52442a270b0ee4d00227"
+    ]
+   }
   },
   {
    "name": "杏仁饼",
@@ -184,7 +371,24 @@
    "tips": [
     "杏仁饼易碎，带回家时注意包装",
     "先试吃再买，各家口味有差别"
-   ]
+   ],
+   "amap": {
+    "name": "钜记饼家(清平街店)",
+    "id": "B0FFFS1FFE",
+    "addr": "风顺堂区 福隆新街70-72号",
+    "type": "糕饼店",
+    "tel": "+853-28937874",
+    "rating": 4.2,
+    "cost": 79.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 113.542632,
+    "lat": 22.19187,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b2be6f1ddb7d85120000002403672994?type=pic",
+     "https://aos-comment.amap.com/B0FFFS1FFE/comment/content_media_external_file_1000123871_ss__1772949755034_55996463.jpg",
+     "https://store.is.autonavi.com/showpic/708e8f633b0dc9700000002403714762?type=pic"
+    ]
+   }
   },
   {
    "name": "葡国菜",
@@ -197,7 +401,24 @@
    "tips": [
     "分量通常不小，几个人一起分享",
     "热门餐厅建议提前订位"
-   ]
+   ],
+   "amap": {
+    "name": "番茄屋葡式美食(总店)",
+    "id": "B073D00J8W",
+    "addr": "大堂区 大堂区连安后巷富安大厦4号及6号地下",
+    "type": "葡国菜",
+    "tel": "+853-28355627",
+    "rating": 4.4,
+    "cost": 59.0,
+    "open": "周一至周四 11:00-21:00；周五至周日 11:00-21:30",
+    "lng": 113.547616,
+    "lat": 22.192754,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0f2004fd7275fb4b5b5b9ba4e7230a32",
+     "https://aos-comment.amap.com/B073D00J8W/comment/32C1C4EA_A96B_4F3A_B67B_0D7165C582C4_L0_001_2000_150_1770711090571_80658178.jpg",
+     "https://aos-comment.amap.com/B073D00J8W/comment/content_media_external_images_media_144133_1682928643025_4bcdd1c8.jpg"
+    ]
+   }
   },
   {
    "name": "水蟹粥",
@@ -210,7 +431,24 @@
    "tips": [
     "蟹按时价，点之前问清楚价格",
     "砂锅粥很烫，慢慢吃"
-   ]
+   ],
+   "amap": {
+    "name": "诚昌饭店",
+    "id": "B0FFG8YICM",
+    "addr": "嘉模堂区 澳门离岛凼仔官也街28-30号",
+    "type": "中餐厅",
+    "tel": "+853 2882 5323",
+    "rating": 3.8,
+    "cost": 140.0,
+    "open": "周一至周日 11:30-23:30",
+    "lng": 113.561873,
+    "lat": 22.15081,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG8YICM/comment/content_media_external_file_1737346_ss__1759310621669_81661196.jpg",
+     "https://aos-comment.amap.com/B0FFG8YICM/comment/content_media_external_images_media_23745_ss__1773341415360_95197665.jpg",
+     "https://aos-comment.amap.com/B0FFG8YICM/comment/content_media_external_file_1000060772_ss__1746508180747_87229529.jpg"
+    ]
+   }
   },
   {
    "name": "咖喱鱼蛋",
@@ -223,7 +461,24 @@
    "tips": [
     "咖喱有辣度区别，可以先问老板",
     "边走边吃时小心汤汁滴到衣服上"
-   ]
+   ],
+   "amap": {
+    "name": "旺记咖啡(大三巴店)",
+    "id": "B0LG3S5QDG",
+    "addr": "花王堂区 花王堂区大炮台街与卖草地街交叉口东北20米",
+    "type": "咖啡厅",
+    "tel": "+853-28920680",
+    "rating": 4.0,
+    "cost": 60.0,
+    "open": "周一至周日 09:00-20:00",
+    "lng": 113.546083,
+    "lat": 22.192478,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1772353222823_58966412_1772353300160_65407777.jpg",
+     "https://store.is.autonavi.com/showpic/313f023fdacca7c391371e6dcfbc875f",
+     "https://store.is.autonavi.com/showpic/e050582250b8fcfc0000000724116397?type=pic"
+    ]
+   }
   },
   {
    "name": "木糠布甸",
@@ -235,7 +490,24 @@
    ],
    "tips": [
     "冷藏的最好吃，买了尽快吃完"
-   ]
+   ],
+   "amap": {
+    "name": "义顺鲜奶",
+    "id": "B0KACZSJR3",
+    "addr": "嘉模堂区 木铎街81号地下AB",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 43.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 113.562026,
+    "lat": 22.15036,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ebadb3d5e3798ede0000002883344365?type=pic",
+     "https://aos-comment.amap.com/B0KACZSJR3/comment/content_media_external_images_media_7736_ss__1766503353773_54970965.jpg",
+     "https://store.is.autonavi.com/showpic/62d7b2b3f9aaeb2d965d976b101e8431"
+    ]
+   }
   }
  ],
  "food_areas": [

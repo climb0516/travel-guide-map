@@ -21,7 +21,24 @@
     "门票和观光车需要提前购买，节假日和暑期人多，以官方公告为准",
     "建议在牯岭住一到两晚，早晚的云雾和老街最有味道",
     "山上气温比山下低很多，夏天也要带件长袖"
-   ]
+   ],
+   "amap": {
+    "name": "庐山国家级旅游风景名胜区",
+    "id": "B031803HUW",
+    "addr": "庐山市 牯岭镇河西路48号",
+    "type": "国家级景点",
+    "tel": "4009006162",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 115.973108,
+    "lat": 29.522059,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/da4ef5346114b123e087588a4f3df6c3",
+     "https://store.is.autonavi.com/showpic/f1954cc29c56dd7691f3408db16675ad",
+     "https://store.is.autonavi.com/showpic/d4314ef3c97fd8fff14241690aba23f3"
+    ]
+   }
   },
   {
    "name": "美庐别墅",
@@ -36,7 +53,24 @@
    "tips": [
     "和庐山会议旧址、庐山博物馆安排在一起",
     "旺季参观人多，早去体验更好"
-   ]
+   ],
+   "amap": {
+    "name": "美庐别墅",
+    "id": "B0LDL9TWMY",
+    "addr": "庐山市 庐山风景名胜区河东路180号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:30",
+    "lng": 115.983534,
+    "lat": 29.564296,
+    "photos": [
+     "https://aos-comment.amap.com/B0LDL9TWMY/comment/content_media_external_file_1000018706_ss__1770794365961_84685676.jpg",
+     "https://store.is.autonavi.com/showpic/e6f0e424783445550000005239030190?type=pic",
+     "https://store.is.autonavi.com/showpic/ff8347ba48a1ab8518d715b84c33aec1"
+    ]
+   }
   },
   {
    "name": "花径和如琴湖",
@@ -51,7 +85,24 @@
    "tips": [
     "春天四五月来，正好应了白居易的诗",
     "这条线大多是平路，适合老人小孩"
-   ]
+   ],
+   "amap": {
+    "name": "庐山花径公园",
+    "id": "B0FFFBX6WO",
+    "addr": "庐山市 牯岭镇河西路48号庐山国家级旅游风景名胜区内(北侧)",
+    "type": "公园",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 115.967624,
+    "lat": 29.564507,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f9aea9cf1bc6c0740000001539274302?type=pic",
+     "https://store.is.autonavi.com/showpic/fd5417ac788aa10cbe4c8b91a91b731f",
+     "https://store.is.autonavi.com/showpic/0df1949b4df1a3453196b3e9c6fedf60"
+    ]
+   }
   },
   {
    "name": "锦绣谷",
@@ -66,7 +117,24 @@
    "tips": [
     "雾天能见度低，但云雾缭绕也别有风味",
     "步道窄，节假日人多要耐心排队"
-   ]
+   ],
+   "amap": {
+    "name": "庐山国家级旅游风景名胜区-锦绣谷",
+    "id": "B031801LU9",
+    "addr": "庐山市 牯岭镇环山路27号庐山风景区(如琴湖旁)",
+    "type": "风景名胜",
+    "tel": "0792-8296565",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 115.968665,
+    "lat": 29.565702,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f31ac3f5dec7248473bcdf5f0f997475",
+     "https://store.is.autonavi.com/showpic/1e300cae2514ccdec15cc7a14fa83965",
+     "https://store.is.autonavi.com/showpic/e5ff380a78a8e569beef14961616ed0e"
+    ]
+   }
   },
   {
    "name": "含鄱口",
@@ -81,7 +149,24 @@
    "tips": [
     "看日出需要很早出门，提前确认天气",
     "山口风大，多穿一件"
-   ]
+   ],
+   "amap": {
+    "name": "含鄱口",
+    "id": "B031803R9X",
+    "addr": "庐山市 植青路9号",
+    "type": "旅游景点",
+    "tel": "4001078888",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:00",
+    "lng": 115.975779,
+    "lat": 29.543091,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/9e48e791-767c-4fb2-bbd5-bc42451e59a0.jpg",
+     "https://store.is.autonavi.com/showpic/edc5596b7fde1bac9ac861232d0e230e",
+     "https://store.is.autonavi.com/showpic/8654a06ec75ab85fa5c7b6be547fe39e"
+    ]
+   }
   },
   {
    "name": "三叠泉",
@@ -97,7 +182,24 @@
     "台阶非常多，体力一般的人量力而行",
     "雨季（夏季）水量大更壮观，枯水期水量小",
     "穿防滑鞋，雨后台阶湿滑"
-   ]
+   ],
+   "amap": {
+    "name": "庐山国家级旅游风景名胜区三叠泉景区",
+    "id": "B0318007D9",
+    "addr": "庐山市 五老峰下部",
+    "type": "风景名胜",
+    "tel": "0792-8792558",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 07:00-16:30；如有夜爬则闭园时间延长至23:00，夜爬开放时间段请关注景区官方公众号。",
+    "lng": 116.043974,
+    "lat": 29.555271,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c74bc6907048a7db9dc2ae47ae99eb0d",
+     "https://store.is.autonavi.com/showpic/9f56dfa0b736bd2b4d2b1540167e42ac",
+     "https://store.is.autonavi.com/showpic/abf0063f65ef46f33444f5b13143d60f"
+    ]
+   }
   },
   {
    "name": "白鹿洞书院",
@@ -112,7 +214,24 @@
    "tips": [
     "位于庐山南麓山下，从牯岭过去需要下山，提前规划交通",
     "适合和东林寺一起安排在下山那天"
-   ]
+   ],
+   "amap": {
+    "name": "白鹿洞书院",
+    "id": "B031801XL2",
+    "addr": "庐山市 牯岭镇河西路48号庐山国家级旅游风景名胜区内(东侧)",
+    "type": "风景名胜",
+    "tel": "0792-8793902",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "4月至10月 07:30-18:00 最晚进入18:00；1月至3月,11月至12月 08:00-17:00 最晚进入17:00",
+    "lng": 116.041881,
+    "lat": 29.517095,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/354ad4de5f75f6c9634b05f4df257ea2",
+     "https://store.is.autonavi.com/showpic/7bd14f6913f7e2bb18f0d11672e4e5af",
+     "https://store.is.autonavi.com/showpic/ed132a4469bd154c29b39ea37014a823"
+    ]
+   }
   },
   {
    "name": "浔阳楼",
@@ -127,7 +246,24 @@
    "tips": [
     "傍晚登楼看长江日落最好",
     "可以和锁江楼、琵琶亭一起逛"
-   ]
+   ],
+   "amap": {
+    "name": "浔阳江文化旅游景区",
+    "id": "B0FFHEBAW0",
+    "addr": "浔阳区 滨江东路1号",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "01-01至09-01 周一至周日 00:00-24:00；09-02至10-07 周一至周日 08:30-22:00；10-08至12-31 周一至周日 00:00-24:00",
+    "lng": 116.025294,
+    "lat": 29.741731,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHEBAW0/comment/content_media_external_file_28113_ss__1758768036964_75817658.jpg",
+     "https://aos-comment.amap.com/B0FFHEBAW0/comment/%5B2025-11-06-17-03-55%5DA2A7DE6D-098A-4EDF-A5B6-778E28B5D3A_1762419836149_44630596.jpg",
+     "https://store.is.autonavi.com/showpic/a2621480e510bd4e63d8292debb637bd"
+    ]
+   }
   },
   {
    "name": "庐山西海",
@@ -142,7 +278,24 @@
    "tips": [
     "自驾前往更方便",
     "游船线路和开放安排以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "庐山西海风景名胜区",
+    "id": "B031803ZLY",
+    "addr": "永修县 焦武线",
+    "type": "国家级景点",
+    "tel": "4008451618",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-18:00 最晚进入15:20庐山西海风景名胜区内各景点可参考各个景点页面信息",
+    "lng": 115.472683,
+    "lat": 29.19526,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7c29090fd2177a8acc2ab4152ebf96f4",
+     "https://store.is.autonavi.com/showpic/2d928e529887a24cfbc69590dcc25708",
+     "https://store.is.autonavi.com/showpic/948efd558eae46e165e3e48eee2a40bb"
+    ]
+   }
   }
  ],
  "foods": [
@@ -157,7 +310,24 @@
    "tips": [
     "石鱼炒蛋是最常见的点法",
     "山上饭店点菜前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "庐山饭店(牯岭街心公园店)",
+    "id": "B0FFFAKLL9",
+    "addr": "庐山市 牯岭镇牯岭街4号(近庐山汽车站)",
+    "type": "中餐厅",
+    "tel": "0792-8285430",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "",
+    "lng": 115.984681,
+    "lat": 29.569068,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e3ce0b62ef79d6ad0000007999492547?type=pic",
+     "https://store.is.autonavi.com/showpic/54a8e462559749f8e4a8cc1b57c385b0",
+     "https://store.is.autonavi.com/showpic/794b8b5d8d97ef669b73d81473b42e16"
+    ]
+   }
   },
   {
    "name": "石耳炖鸡",
@@ -169,7 +339,24 @@
    ],
    "tips": [
     "购买干货选正规店铺"
-   ]
+   ],
+   "amap": {
+    "name": "庐山",
+    "id": "B0HDXZ8WKG",
+    "addr": "庐山市 庐山市",
+    "type": "山",
+    "tel": "",
+    "rating": 0,
+    "cost": 0,
+    "open": "",
+    "lng": 115.992044,
+    "lat": 29.549505,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0fef48ffdad220442ffee7516eda025d",
+     "https://store.is.autonavi.com/showpic/11f8e7e7e84cff9bcc875ebdcf1f18f1",
+     "https://store.is.autonavi.com/showpic/17e338a6ed58888f88d4f67ca16d5fd4"
+    ]
+   }
   },
   {
    "name": "庐山云雾茶",
@@ -182,7 +369,23 @@
    "tips": [
     "清明到谷雨期间的春茶最新鲜",
     "山上茶店多，可以先试喝再买"
-   ]
+   ],
+   "amap": {
+    "name": "庐山云雾茶八里湖旗舰店",
+    "id": "B0L3JDDDMP",
+    "addr": "浔阳区 兴城大道555号",
+    "type": "专营店",
+    "tel": "18720153316",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-23:30",
+    "lng": 115.958667,
+    "lat": 29.65984,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9feb2b6944c3dfac29a7021f26e2ebdd",
+     "https://store.is.autonavi.com/showpic/6309826c199e3ca7771c513443c87b7e"
+    ]
+   }
   },
   {
    "name": "九江茶饼",
@@ -194,7 +397,24 @@
    ],
    "tips": [
     "容易碎，带回家时注意包装"
-   ]
+   ],
+   "amap": {
+    "name": "田家烧饼九江茶饼",
+    "id": "B0J1FK626S",
+    "addr": "浔阳区 湓浦路与大中路步行街交叉口东南10米",
+    "type": "餐饮相关",
+    "tel": "15855592654",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 115.983712,
+    "lat": 29.72341,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6b63a74215c0a76c7366908c7391660b",
+     "https://aos-comment.amap.com/B0J1FK626S/comment/cd0c5d35-6eb9-435f-a720-7b7514e84286.png",
+     "https://store.is.autonavi.com/showpic/d7cbdd7ed2898cc01f8c93a3f302e556"
+    ]
+   }
   },
   {
    "name": "修水哨子",
@@ -206,7 +426,24 @@
    ],
    "tips": [
     "蒸的最能吃出皮的口感"
-   ]
+   ],
+   "amap": {
+    "name": "品冠哨子(服装城商住小区店)",
+    "id": "B03180S78O",
+    "addr": "修水县 宁红南路城南服装城57-59号(滨江大酒店对面)",
+    "type": "中餐厅",
+    "tel": "0792-7269688",
+    "rating": 4.3,
+    "cost": 22.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 114.555285,
+    "lat": 29.024482,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8f4f9482420ee7a60000000637290505?type=pic",
+     "https://store.is.autonavi.com/showpic/6a67c157015144c6b28007df00669f40",
+     "https://store.is.autonavi.com/showpic/e8829807ca8bce890000003367856373?type=pic"
+    ]
+   }
   },
   {
    "name": "九江炒粉",
@@ -218,7 +455,24 @@
    ],
    "tips": [
     "口味偏辣，可以先说少辣"
-   ]
+   ],
+   "amap": {
+    "name": "绝味鸭脖(九江学院店)",
+    "id": "B0FFG72UK2",
+    "addr": "濂溪区 前进东路666号(九江学院对面)",
+    "type": "餐饮相关",
+    "tel": "13627921346",
+    "rating": 3.9,
+    "cost": 28.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 116.004875,
+    "lat": 29.672925,
+    "photos": [
+     "https://img.alicdn.com/imgextra/i3/O1CN01uzSDbN1kxYQTOAcyJ_!!6000000004750-0-tps-712-712.jpg",
+     "https://store.is.autonavi.com/showpic/1e7c376156446f002773d68958ce505a",
+     "https://store.is.autonavi.com/showpic/16d6cf0d865a075df8d67653cd994c25"
+    ]
+   }
   }
  ],
  "food_areas": [

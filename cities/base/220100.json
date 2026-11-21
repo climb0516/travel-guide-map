@@ -21,7 +21,24 @@
     "门票和开放时间以官方公告为准，节假日建议提前预约",
     "讲解很有必要，可以租讲解器或请讲解员",
     "逛完全程需要 2–3 小时"
-   ]
+   ],
+   "amap": {
+    "name": "伪满皇宫博物院",
+    "id": "B01AF0ZDGM",
+    "addr": "宽城区 光复北路5号",
+    "type": "国家级景点",
+    "tel": "0431-82866611",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "08-07至09-06 周一至周四 08:30-17:30 最晚进入16:30；08-07至09-06 周五至周日 08:30-18:30 最晚进入17:30；09-07至09-24 周一至周日 08:30-17:30 最晚进入16:30；09-25至10-02 周一至周日 08:30-19:00 最晚进入17:40；10-03至10-06 周一至周日 08:10-19:00 最晚进入17:40；10-07至10-07 周一至周日 08:30-19:00 最晚进入17:40；10-08至12-31 周一至周日 08:30-17:30 最晚进入16:30",
+    "lng": 125.348749,
+    "lat": 43.905618,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3955330b3436bdd66c41383d04c6e981",
+     "https://store.is.autonavi.com/showpic/4921d8cc6f52552c211e9f520eb751c2",
+     "https://store.is.autonavi.com/showpic/61ae08cf892d4ef5d36931c3abe1d37f"
+    ]
+   }
   },
   {
    "name": "新民大街和伪满八大部",
@@ -36,7 +53,24 @@
    "tips": [
     "多数建筑只能看外观，进入需遵守单位规定",
     "秋天来最好看"
-   ]
+   ],
+   "amap": {
+    "name": "长春新民大街",
+    "id": "B0FFIOYR6K",
+    "addr": "朝阳区 新民大街(海航长白山宾馆西)",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 125.307698,
+    "lat": 43.864946,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6f44fb3e67cafc8a0000003067366816?type=pic",
+     "https://store.is.autonavi.com/showpic/1bbaa6da81dd47bb43dd5ea649462d3a",
+     "https://store.is.autonavi.com/showpic/68e650cbca036d4b0000002461498834?type=pic"
+    ]
+   }
   },
   {
    "name": "净月潭国家森林公园",
@@ -52,7 +86,24 @@
     "门票和观光车以官方公告为准",
     "环潭一圈很长，量力而行",
     "冬季活动时间以当年公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "净月潭国家森林公园",
+    "id": "B01AF085RR",
+    "addr": "南关区 净月大街5840号",
+    "type": "国家级景点",
+    "tel": "0431-84518000",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "6月至9月 周一至周日 05:00-20:00；1月至5月,10月至12月 周一至周日 06:00-19:00",
+    "lng": 125.455345,
+    "lat": 43.801388,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d36df3965d91d8ff5ddbdbdf6ddf55d3",
+     "https://store.is.autonavi.com/showpic/4123fcf48078d043f99a785e70fbd0bd",
+     "https://store.is.autonavi.com/showpic/7f67c19c9a274da3f4bd5ae15cdf5cf8"
+    ]
+   }
   },
   {
    "name": "长影旧址博物馆",
@@ -67,7 +118,24 @@
    "tips": [
     "参观时间和门票以官方公告为准",
     "可以和伪满皇宫安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "长影旧址博物馆",
+    "id": "B0FFFDRU1K",
+    "addr": "朝阳区 红旗街1118号",
+    "type": "博物馆",
+    "tel": "0431-89238777",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "9:00-19:00；洗印车间:冬季:9:00-16:30；夏季:9:00-17:00",
+    "lng": 125.292355,
+    "lat": 43.86364,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3a07486e1e1f9ca90000007069488112?type=pic",
+     "https://store.is.autonavi.com/showpic/145f7e5a847b9f8d0000009292888104?type=pic",
+     "https://store.is.autonavi.com/showpic/17cd49ce97879e0152815de3bb0883d7"
+    ]
+   }
   },
   {
    "name": "南湖公园",
@@ -82,7 +150,24 @@
    "tips": [
     "冬天冰上活动以现场开放为准",
     "免费开放，可以随意走走"
-   ]
+   ],
+   "amap": {
+    "name": "南湖公园",
+    "id": "B01AF07OT6",
+    "addr": "朝阳区 工农大路2715号",
+    "type": "公园",
+    "tel": "0431-85663059",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 125.306789,
+    "lat": 43.856452,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3e7c10736061e94a57d66c2f3d96b0ae",
+     "https://store.is.autonavi.com/showpic/15e41bfe8fb4d0df39161e8144c907e0",
+     "https://store.is.autonavi.com/showpic/ec0d3d0613e4af780391ec5554e59de8"
+    ]
+   }
   },
   {
    "name": "文化广场",
@@ -97,7 +182,24 @@
    "tips": [
     "地质宫博物馆开放情况以官方公告为准",
     "傍晚广场上人最多，最有生活气"
-   ]
+   ],
+   "amap": {
+    "name": "文化广场",
+    "id": "B01AF0CE41",
+    "addr": "朝阳区 清和街道新民大街与解放大路交汇处",
+    "type": "城市广场",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 125.307773,
+    "lat": 43.879624,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a8e844581eed18f0e66c17d749c0edf6",
+     "https://store.is.autonavi.com/showpic/e90234e7ea0e4a470000003765844706?type=pic",
+     "https://aos-comment.amap.com/B01AF0CE41/comment/content_media_external_file_100007129_1770894095009_19242158.jpg"
+    ]
+   }
   },
   {
    "name": "长影世纪城",
@@ -112,7 +214,24 @@
    "tips": [
     "门票和项目以官方公告为准",
     "节假日人多，热门项目要排队"
-   ]
+   ],
+   "amap": {
+    "name": "长影世纪城",
+    "id": "B01AF0C3KB",
+    "addr": "南关区 永顺路路北",
+    "type": "国家级景点",
+    "tel": "0431-84550888",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "10-26至10-29 周一至周日 09:30-16:00 最晚进入15:00；10-30至03-31 周一 全天关闭；10-30至03-31 周二至周日 09:30-16:00,17:00-19:30",
+    "lng": 125.446222,
+    "lat": 43.772507,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c6abc08130f852e7ba40e95c86f35ddd",
+     "https://store.is.autonavi.com/showpic/bd12477d666dd76b986273c562177bdd",
+     "https://store.is.autonavi.com/showpic/57cfad9f4364e4d195b15d05bfe9e442"
+    ]
+   }
   },
   {
    "name": "吉林省博物院",
@@ -127,7 +246,24 @@
    "tips": [
     "免费参观但需要提前预约，以官方公告为准",
     "一般周一闭馆"
-   ]
+   ],
+   "amap": {
+    "name": "吉林省博物院",
+    "id": "B01AF0ZUPL",
+    "addr": "南关区 永顺路1666号",
+    "type": "博物馆",
+    "tel": "0431-88917353",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00",
+    "lng": 125.432521,
+    "lat": 43.768588,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0932a9ae9d74d401f3e86c87eb2e117c",
+     "https://store.is.autonavi.com/showpic/3f5e377ca950105e0000003630004379?type=pic",
+     "https://store.is.autonavi.com/showpic/d24392f227ffcf720000003711494092?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    "tips": [
     "趁热吃最脆",
     "人少点小份，东北菜分量大"
-   ]
+   ],
+   "amap": {
+    "name": "海鲜码头·中国菜",
+    "id": "B01AF0ZTW3",
+    "addr": "宽城区 亚泰北大街4099号",
+    "type": "海鲜酒楼",
+    "tel": "0431-87099999",
+    "rating": 4.8,
+    "cost": 80.0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 125.335949,
+    "lat": 43.945719,
+    "photos": [
+     "https://aos-comment.amap.com/B01AF0ZTW3/comment/2DFBCC2D_953A_4974_BB52_80D0F9D5BC69_L0_001_1179_81_1764992809740_25235738.jpg",
+     "https://store.is.autonavi.com/showpic/4e9f4c20267037116eebdfff180b94bf",
+     "https://aos-comment.amap.com/B01AF0ZTW3/comment/content_media_external_file_100004853_1772186297194_97790603.jpg"
+    ]
+   }
   },
   {
    "name": "铁锅炖",
@@ -155,7 +308,24 @@
    "tips": [
     "炖菜要等一段时间，可以先点凉菜",
     "一锅分量大，人少点小锅"
-   ]
+   ],
+   "amap": {
+    "name": "东北柴火铁锅炖",
+    "id": "B0I1GSVPAW",
+    "addr": "朝阳区 德昌路163号",
+    "type": "中餐厅",
+    "tel": "13578775080",
+    "rating": 4.7,
+    "cost": 70.0,
+    "open": "周一至周日 09:30-23:00",
+    "lng": 125.295848,
+    "lat": 43.870568,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/036da89097d9da050000006204388962?type=pic",
+     "https://store.is.autonavi.com/showpic/2459b00351b4ffafae6d48e74c482c2d",
+     "https://aos-comment.amap.com/B0I1GSVPAW/comment/content_media_external_images_media_1000079950_ss__1764123950683_67290976.jpg"
+    ]
+   }
   },
   {
    "name": "酸菜白肉",
@@ -167,7 +337,24 @@
    ],
    "tips": [
     "可以加份血肠，更有东北味"
-   ]
+   ],
+   "amap": {
+    "name": "王一厨龙家堡白肉血肠店",
+    "id": "B0KKC5N0O8",
+    "addr": "绿园区 青年路8728号",
+    "type": "餐饮相关",
+    "tel": "15604434707",
+    "rating": 4.6,
+    "cost": 59.0,
+    "open": "周一至周日 10:00-21:00",
+    "lng": 125.274636,
+    "lat": 43.972486,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e3ec80b5780a9846393427735d750a94",
+     "https://store.is.autonavi.com/showpic/5550f00ffbf2660159fa2718a90c27c1",
+     "https://store.is.autonavi.com/showpic/f976d373bdfc5e5c0000002664338718?type=pic"
+    ]
+   }
   },
   {
    "name": "朝鲜族冷面",
@@ -179,7 +366,24 @@
    ],
    "tips": [
     "冷面汤很凉，肠胃弱的少喝"
-   ]
+   ],
+   "amap": {
+    "name": "一品香 锅烙熏酱冷面店(崇智胡同店)",
+    "id": "B0FFFAB4DP",
+    "addr": "朝阳区 崇智胡同1063号",
+    "type": "中餐厅",
+    "tel": "13019212700",
+    "rating": 4.6,
+    "cost": 63.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 125.30724,
+    "lat": 43.894205,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e1d81c0f6802885f0000003101204628?type=pic",
+     "https://store.is.autonavi.com/showpic/9dcfea39d40de3f2ed84500b10ed86b5",
+     "https://store.is.autonavi.com/showpic/8a52a20bdc6591000000002199668059?type=pic"
+    ]
+   }
   },
   {
    "name": "东北烧烤",
@@ -191,7 +395,24 @@
    ],
    "tips": [
     "点串之前问清按串还是按份计价"
-   ]
+   ],
+   "amap": {
+    "name": "状元阁烧烤(三马路店)",
+    "id": "B0FFH68E49",
+    "addr": "南关区 亚泰大街与东三马路交汇东行100米",
+    "type": "特色/地方风味餐厅",
+    "tel": "0431-81312828",
+    "rating": 4.8,
+    "cost": 64.0,
+    "open": "周一至周日 11:00-04:00",
+    "lng": 125.347578,
+    "lat": 43.896593,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFH68E49/comment/content_media_external_file_54184_ss__1766019151252_15631752.jpg",
+     "https://aos-comment.amap.com/B0FFH68E49/comment/B4B63DD1_A4E8_4210_B03A_693E70768950_L0_001_1290_96_1769184238510_48410192.jpg",
+     "https://aos-comment.amap.com/B0FFH68E49/comment/content_media_external_file_100013238_1760420027886_83464555.jpg"
+    ]
+   }
   },
   {
    "name": "雪绵豆沙",
@@ -203,7 +424,24 @@
    ],
    "tips": [
     "趁热吃，凉了会塌"
-   ]
+   ],
+   "amap": {
+    "name": "满兴咱妈烀饼(长春建设街店)",
+    "id": "B0LGDCDCQ1",
+    "addr": "朝阳区 建设街91号1、2层门市",
+    "type": "餐饮相关",
+    "tel": "13214430777",
+    "rating": 4.5,
+    "cost": 50.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 125.306129,
+    "lat": 43.893833,
+    "photos": [
+     "https://aos-comment.amap.com/B0LGDCDCQ1/comment/%5B2026-01-08-17-22-53%5DF36AECDA-706A-4E7A-B203-58A2672AD49_1767864178003_43624557.jpg",
+     "https://aos-comment.amap.com/B0LGDCDCQ1/comment/content_media_external_file_1000045536_ss__1757046386965_90955813.jpg",
+     "https://aos-comment.amap.com/B0LGDCDCQ1/comment/content_media_external_file_1000045538_ss__1757046386968_00537166.jpg"
+    ]
+   }
   },
   {
    "name": "黏豆包",
@@ -215,7 +453,24 @@
    ],
    "tips": [
     "黏性大，一次别吃太多"
-   ]
+   ],
+   "amap": {
+    "name": "珺琪全家福包子铺",
+    "id": "B0FFFAB9MB",
+    "addr": "九台区 工农街教育新村1号楼103室",
+    "type": "中餐厅",
+    "tel": "15568919390",
+    "rating": 3.5,
+    "cost": 13.0,
+    "open": "周一 07:30-21:30；周二至周日 05:00-21:30",
+    "lng": 125.848848,
+    "lat": 44.160704,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/55828303a310f2ff61fdb4b3",
+     "https://store.is.autonavi.com/showpic/2b3b4b67ea3d6626b16bfe2a475f4e3e",
+     "https://store.is.autonavi.com/showpic/b69b2756fedf0a5d7f9c9b5d5173b324"
+    ]
+   }
   }
  ],
  "food_areas": [

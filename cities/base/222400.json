@@ -21,7 +21,24 @@
     "门票、环保车和倒站车需要提前预约，以官方公告为准",
     "山顶即使夏天也冷，带上冲锋衣",
     "天气变化快，看天池要看运气，最好留一天备用"
-   ]
+   ],
+   "amap": {
+    "name": "长白山北景区",
+    "id": "B0I05C0EYR",
+    "addr": "安图县 长白山池北区长白山景区",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 07:30-18:00 最晚进入13:30；景区根据天气变化及客流量营业时间或有调整，详情以景区现场公示为准。",
+    "lng": 128.187444,
+    "lat": 42.184631,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8f21d8ad1ce59e8d712aa336e37a0d94",
+     "https://store.is.autonavi.com/showpic/27d30ec0fb176efd0000002632890058?type=pic",
+     "https://store.is.autonavi.com/showpic/722b6a6df90553790da4c2c2607b4670"
+    ]
+   }
   },
   {
    "name": "二道白河镇",
@@ -36,7 +53,24 @@
    "tips": [
     "旺季住宿要提前订",
     "镇上的美人松公园适合饭后散步"
-   ]
+   ],
+   "amap": {
+    "name": "长白山二道白河名镇景区",
+    "id": "B0MGB1UZ1X",
+    "addr": "安图县 美人松路与天池街交叉口西440米",
+    "type": "风景名胜",
+    "tel": "0433-5315559",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 128.123413,
+    "lat": 42.441598,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/395edb01c52160fd0000003130352471?type=pic",
+     "https://store.is.autonavi.com/showpic/d556616c8b47c4560000008433134210?type=pic",
+     "https://store.is.autonavi.com/showpic/fdb45e876f3fec750000003130354455?type=pic"
+    ]
+   }
   },
   {
    "name": "延吉水上市场",
@@ -51,7 +85,24 @@
    "tips": [
     "早上去最热闹，太晚很多摊位就收了",
     "可以多买几样分着吃"
-   ]
+   ],
+   "amap": {
+    "name": "米拉克书吧(延吉水上市场店)",
+    "id": "B0G2TO7MH0",
+    "addr": "延吉市 参花街111号3006",
+    "type": "科教文化场所",
+    "tel": "15844338462",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 08:30-23:00",
+    "lng": 129.504937,
+    "lat": 42.912484,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/50ba52012aac80830000000736612554?type=pic",
+     "https://store.is.autonavi.com/showpic/2558eaeb40605b176a3588c3d0362dfb",
+     "https://store.is.autonavi.com/showpic/22a2ac7dadde20360000000736638064?type=pic"
+    ]
+   }
   },
   {
    "name": "中国朝鲜族民俗园",
@@ -66,7 +117,24 @@
    "tips": [
     "换装拍照问清价格和时长",
     "开放时间以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "中国朝鲜族民俗园",
+    "id": "B0599000UQ",
+    "addr": "延吉市 延南路与延龙路交叉口东150米",
+    "type": "风景名胜",
+    "tel": "17643336087",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "04-07至04-30 周一至周日 09:00-20:00 最晚进入19:30；05-01至10-07 周一至周日 09:00-21:00 最晚进入20:30；10-08至12-31 周一至周日 09:00-20:00 最晚进入19:30",
+    "lng": 129.493446,
+    "lat": 42.874227,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ebe6699e6f987233c2c99dd3fd7f56be",
+     "https://store.is.autonavi.com/showpic/b674a19137c72de00000006276232449?type=pic",
+     "https://store.is.autonavi.com/showpic/e9b7e3723947628f0000007866590611?type=pic"
+    ]
+   }
   },
   {
    "name": "延边大学网红墙",
@@ -81,7 +149,24 @@
    "tips": [
     "拍照注意过往车辆和行人",
     "人多时要排队拍"
-   ]
+   ],
+   "amap": {
+    "name": "延边大学延吉校区",
+    "id": "B0599000RJ",
+    "addr": "延吉市 公园路977号",
+    "type": "高等院校",
+    "tel": "0433-2732052",
+    "rating": 0,
+    "cost": 0,
+    "open": "",
+    "lng": 129.488216,
+    "lat": 42.913407,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a0d7efe40a60afb6a692551a482490f1",
+     "https://store.is.autonavi.com/showpic/b49e6ef6c92800386a2a2ed4f61d0276",
+     "https://store.is.autonavi.com/showpic/d49fadb5fc4c507ab9d5a06d4d82f281"
+    ]
+   }
   },
   {
    "name": "帽儿山",
@@ -96,7 +181,24 @@
    "tips": [
     "山路有台阶，穿运动鞋",
     "以现场开放情况为准"
-   ]
+   ],
+   "amap": {
+    "name": "帽儿山国家森林公园",
+    "id": "B0599000IH",
+    "addr": "延吉市 延龙路",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 129.483097,
+    "lat": 42.849099,
+    "photos": [
+     "https://aos-comment.amap.com/B0599000IH/comment/20260317-f19dc9d0ae2ce740a5029e74-4XbJwEziuv79aDph4O7MgN.jpg",
+     "https://store.is.autonavi.com/showpic/f60d2d71ed8ee1cc0000009383336703?type=pic",
+     "https://store.is.autonavi.com/showpic/58f5a4ab8b6b0d0a0000002587580047?type=pic"
+    ]
+   }
   },
   {
    "name": "图们江",
@@ -111,7 +213,24 @@
    "tips": [
     "边境地区遵守现场规定，不随意拍摄军事设施",
     "身份证随身携带"
-   ]
+   ],
+   "amap": {
+    "name": "图们江广场",
+    "id": "B0FFGKAKQ1",
+    "addr": "图们市 延兴胡同图们江公园(西侧)",
+    "type": "城市广场",
+    "tel": "13844720200",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 129.854505,
+    "lat": 42.961594,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c1bba1eaa5556f510000005973170179?type=pic",
+     "https://store.is.autonavi.com/showpic/264a17609fb7a2130000008244182145?type=pic",
+     "https://store.is.autonavi.com/showpic/40dd919f067d1c3e0000008244172643?type=pic"
+    ]
+   }
   },
   {
    "name": "防川风景区",
@@ -126,7 +245,24 @@
    "tips": [
     "进入边境地区需带身份证，以现场规定为准",
     "路程较远，建议包车或自驾"
-   ]
+   ],
+   "amap": {
+    "name": "防川国家风景名胜区",
+    "id": "B0599000AS",
+    "addr": "珲春市 302国道旁防川村内",
+    "type": "国家级景点",
+    "tel": "13704430307",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "07:30-18:30 最晚进入17:40；线上平台售票:07:30-17:00,线下窗口售票:07:30-17:30,周一眼望周三国·龙虎阁闭园时间:17:30",
+    "lng": 130.593319,
+    "lat": 42.438497,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/01c1e342f0142a957c64bf46c1761ab4",
+     "https://store.is.autonavi.com/showpic/95be7cff1f2f094f0df0298cf1bb841d",
+     "https://store.is.autonavi.com/showpic/a61d160c8556a696b3c4322018f5c9a0"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    "tips": [
     "汤很凉，肠胃弱的少喝",
     "先尝原味再按口味加醋、辣酱"
-   ]
+   ],
+   "amap": {
+    "name": "服务大楼延吉冷面(第一分店)",
+    "id": "B0FFFN4HBB",
+    "addr": "延吉市",
+    "type": "韩国料理",
+    "tel": "0433-8905577",
+    "rating": 4.3,
+    "cost": 48.0,
+    "open": "周一至周日 08:30-20:00",
+    "lng": 129.513484,
+    "lat": 42.91319,
+    "photos": [
+     "https://aos-comment.amap.com/comment/20260316-8727b99c8c6ceb7dc319cd32-6Z4uFK6wUQ05qGAkDvX8hr.jpg",
+     "https://aos-comment.amap.com/8727b99c8c6ceb7dc319cd32/comment/content_service__1773649461468_91073144_1773649465238_67699377.jpg",
+     "https://aos-comment.amap.com/B0FFFN4HBB/comment/177348165612_1773481658227_49021523.jpg"
+    ]
+   }
   },
   {
    "name": "米肠",
@@ -153,7 +306,24 @@
    ],
    "tips": [
     "第一次吃可以点小份"
-   ]
+   ],
+   "amap": {
+    "name": "雪梅米肠馆",
+    "id": "B0L6OHH5I1",
+    "addr": "延吉市 爱丹路926-26森林小区",
+    "type": "中餐厅",
+    "tel": "13614438119",
+    "rating": 4.2,
+    "cost": 25.0,
+    "open": "周一至周日 06:00-20:30",
+    "lng": 129.516085,
+    "lat": 42.911022,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/129618eaad494a220000002354844628?type=pic",
+     "https://store.is.autonavi.com/showpic/e28f054dfb8da81eaa06329918163190",
+     "https://store.is.autonavi.com/showpic/12c9ca880728875c0000002354850543?type=pic"
+    ]
+   }
   },
   {
    "name": "打糕",
@@ -165,7 +335,24 @@
    ],
    "tips": [
     "黏性大，一次别吃太多"
-   ]
+   ],
+   "amap": {
+    "name": "崔嗯妮-女人世界打糕条店(时尚广场店)",
+    "id": "B0HDDCC867",
+    "addr": "延吉市 参花街99-14号(127幢1-1-3号1层B区)",
+    "type": "糕饼店",
+    "tel": "18743365551",
+    "rating": 4.3,
+    "cost": 15.0,
+    "open": "周一至周日 09:30-17:00",
+    "lng": 129.506057,
+    "lat": 42.906342,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/557361c9924267030000004824492805?type=pic",
+     "https://aos-comment.amap.com/comment/20260315-bf50e975485afb04c91a5fe1-1rMlwkUzjS677FNEIdyMv6.jpg",
+     "https://store.is.autonavi.com/showpic/b46fc42268382ee249ab3a9fd7ced1ca"
+    ]
+   }
   },
   {
    "name": "朝鲜族烤肉",
@@ -178,7 +365,24 @@
    "tips": [
     "肉按份计价，看清分量和价格",
     "烤完配冷面解腻"
-   ]
+   ],
+   "amap": {
+    "name": "金木头烤串(延吉市店)",
+    "id": "B0HGMZWQV2",
+    "addr": "延吉市 延吉建工街满园春饭店斜对面2楼",
+    "type": "中餐厅",
+    "tel": "0433-3550666",
+    "rating": 4.7,
+    "cost": 54.0,
+    "open": "周一至周日 10:00-03:00",
+    "lng": 129.519214,
+    "lat": 42.894841,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c2bf21b68fa70cef0000001501284883?type=pic",
+     "https://store.is.autonavi.com/showpic/c6bed8c762e41a8f0000003609486469?type=pic",
+     "https://store.is.autonavi.com/showpic/8df214f6f2af53c90000003609498085?type=pic"
+    ]
+   }
   },
   {
    "name": "延吉烤串",
@@ -190,7 +394,24 @@
    ],
    "tips": [
     "按串计价，点之前问清价格"
-   ]
+   ],
+   "amap": {
+    "name": "金木头烤串公新店",
+    "id": "B0KKT5IB8Y",
+    "addr": "延吉市 梨花路1254号3号楼2005(园纺社区)",
+    "type": "特色/地方风味餐厅",
+    "tel": "0433-2661777",
+    "rating": 4.7,
+    "cost": 52.0,
+    "open": "周一至周日 10:00-24:00",
+    "lng": 129.489796,
+    "lat": 42.904857,
+    "photos": [
+     "https://aos-comment.amap.com/B0KKT5IB8Y/comment/content_media_external_file_100003030_1767361058519_83702882.jpg",
+     "https://aos-comment.amap.com/B0KKT5IB8Y/comment/1f27d78e-8744-4a7b-bd38-ff1e5d097e10.png",
+     "https://store.is.autonavi.com/showpic/5786d819ffb72c4cbaaf45b36617735d"
+    ]
+   }
   },
   {
    "name": "石锅拌饭",
@@ -202,7 +423,24 @@
    ],
    "tips": [
     "石锅很烫，小心别碰到"
-   ]
+   ],
+   "amap": {
+    "name": "全州拌饭馆(总店)",
+    "id": "B059900BT4",
+    "addr": "延吉市 参花街142号",
+    "type": "韩国料理",
+    "tel": "0433-2514297",
+    "rating": 4.6,
+    "cost": 49.0,
+    "open": "周一至周日 07:00-24:00",
+    "lng": 129.505872,
+    "lat": 42.910326,
+    "photos": [
+     "https://aos-comment.amap.com/B059900BT4/comment/content_media_external_file_47372_ss__1759889777832_21902942.jpg",
+     "https://store.is.autonavi.com/showpic/c83c6f811fe5c2df0000008774230245?type=pic",
+     "https://aos-comment.amap.com/B059900BT4/comment/content_media_external_file_1000025985_ss__1770629411146_07513616.jpg"
+    ]
+   }
   },
   {
    "name": "酱汤",
@@ -214,7 +452,24 @@
    ],
    "tips": [
     "口味偏咸，可以先尝再加饭"
-   ]
+   ],
+   "amap": {
+    "name": "莲钰汤饭(总店)",
+    "id": "B0I13NIMKI",
+    "addr": "延吉市 太平街152-16号86幢(四区)",
+    "type": "中餐厅",
+    "tel": "17614333933",
+    "rating": 4.6,
+    "cost": 25.0,
+    "open": "周一至周日 06:30-21:30",
+    "lng": 129.523209,
+    "lat": 42.905787,
+    "photos": [
+     "https://aos-comment.amap.com/B0I13NIMKI/comment/6a901955b3a9ee9ddecd47cc0c06db94_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0I13NIMKI/comment/163ED80B_D43D_4F5E_A7A6_DBBB2FA04A3F_L0_001_1500_200_1759750247350_97125273.jpg",
+     "https://aos-comment.amap.com/B0I13NIMKI/comment/76DCBAC7_7AB1_453B_9451_B1502CBBB7BA_L0_001_2000_1500_1725797737214_14264694.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

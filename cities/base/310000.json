@@ -21,7 +21,24 @@
     "节假日晚上人非常多，外滩会有临时限流和单向通行，提前规划好进出方向",
     "想拍夜景可以去外白渡桥一带，或者对岸的陆家嘴滨江",
     "地铁 2、10 号线南京东路站下车，步行 10 分钟左右到江边"
-   ]
+   ],
+   "amap": {
+    "name": "外滩",
+    "id": "B00155FXB3",
+    "addr": "黄浦区 中山东一路",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.492127,
+    "lat": 31.233516,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b9c402b7d34ea98654cc915e567761dd",
+     "https://store.is.autonavi.com/showpic/979602e27511b1d60f296d840bcfdbb6",
+     "https://store.is.autonavi.com/showpic/619751b016fe3cb5c1c90b9a771ca444"
+    ]
+   }
   },
   {
    "name": "南京路步行街",
@@ -36,7 +53,24 @@
    "tips": [
     "街上主动搭讪推销的人不用理会",
     "老字号食品店常要排队，买伴手礼可以挑工作日或早点去"
-   ]
+   ],
+   "amap": {
+    "name": "南京路步行街-雕像",
+    "id": "B0FFFPWQ3Y",
+    "addr": "黄浦区 南京东路558号南京路步行街",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.482536,
+    "lat": 31.236715,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0f939346fe9f38d6d150826146004b55",
+     "https://store.is.autonavi.com/showpic/614099be45709af00000002876406146?type=pic",
+     "https://store.is.autonavi.com/showpic/2ff55eab84af80e00000002876388438?type=pic"
+    ]
+   }
   },
   {
    "name": "豫园和城隍庙",
@@ -52,7 +86,24 @@
     "豫园需要购票，商城和九曲桥免费逛",
     "周边小吃以游客店为主，南翔小笼常排长队，可以错峰",
     "地铁 10 号线豫园站下车步行即到"
-   ]
+   ],
+   "amap": {
+    "name": "上海豫园",
+    "id": "B00155MF55",
+    "addr": "黄浦区 福佑路168号",
+    "type": "国家级景点",
+    "tel": "021-63260830",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一全天关闭(法定节假日除外)；周二至周日 09:00-16:30(16:00停止入馆)",
+    "lng": 121.492497,
+    "lat": 31.227714,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/faeb0264854cd82fbb315cb2ccacea0f",
+     "https://store.is.autonavi.com/showpic/a1ae7c02fc36b06b55307525ce4d692c",
+     "https://store.is.autonavi.com/showpic/64f950cea19a60bbca1cdfa056a0d2a1"
+    ]
+   }
   },
   {
    "name": "陆家嘴",
@@ -68,7 +119,24 @@
     "登高观光要看天气，阴天雾霾时视野很差，可以先看实时天气再决定",
     "几个观光厅都需要购票，选一个登就够了",
     "地铁 2 号线陆家嘴站下车，几栋楼之间有连廊可以走"
-   ]
+   ],
+   "amap": {
+    "name": "上海之巅观光厅",
+    "id": "B0FFHLLF0C",
+    "addr": "浦东新区 银城中路501号上海中心大厦118层",
+    "type": "观景点",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-22:00 最晚进入21:30",
+    "lng": 121.505317,
+    "lat": 31.233487,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ed34eefd59d0b88c7a3218270299d83d",
+     "https://store.is.autonavi.com/showpic/c3f105818d926abc8bb903d4024cd31d",
+     "https://store.is.autonavi.com/showpic/59b42bc0845572268b9545c2fdab50a1"
+    ]
+   }
   },
   {
    "name": "上海博物馆",
@@ -84,7 +152,24 @@
     "免费参观，但需要提前在官方渠道预约，热门特展另外收费",
     "周一通常闭馆，出发前看一下官方公告",
     "特展期间排队长，尽量开馆就到"
-   ]
+   ],
+   "amap": {
+    "name": "上海博物馆(人民广场馆)",
+    "id": "B001535BBC",
+    "addr": "黄浦区 人民大道201号",
+    "type": "博物馆",
+    "tel": "021-63723500",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周二至周四,周日 09:00-17:00；周五至周六 09:00-21:00",
+    "lng": 121.47548,
+    "lat": 31.228231,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c85f62de31fa215354b4afe15c8b23e9",
+     "https://store.is.autonavi.com/showpic/6b1c45d09ba86c01bf61e5465a9c5285",
+     "https://store.is.autonavi.com/showpic/f36e04004d90841916f9f486402658ac"
+    ]
+   }
   },
   {
    "name": "武康路和安福路",
@@ -100,7 +185,24 @@
     "武康大楼路口车多人多，拍照注意安全，别站到马路中间",
     "大部分老洋房是私人住宅，不要擅自进入",
     "地铁 10、11 号线交通大学站或 1、10 号线上海图书馆站附近"
-   ]
+   ],
+   "amap": {
+    "name": "武康路历史文化名街",
+    "id": "B0FFIK0Z21",
+    "addr": "徐汇区 上海市湖南路街道武康路与湖南路交叉口",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.440407,
+    "lat": 31.208569,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ce64704d0142f3b80000005020116499?type=pic",
+     "https://store.is.autonavi.com/showpic/864c288abedf29f25d080dafd298c8a3",
+     "https://store.is.autonavi.com/showpic/f0a17fbd3d7c609534d68978a04ebbdd"
+    ]
+   }
   },
   {
    "name": "新天地和田子坊",
@@ -116,7 +218,24 @@
     "中共一大纪念馆免费，需要提前预约",
     "田子坊里仍有居民生活，逛的时候注意别打扰",
     "田子坊商品以文创和小吃为主，价格偏游客化"
-   ]
+   ],
+   "amap": {
+    "name": "上海新天地",
+    "id": "B00155KUM0",
+    "addr": "黄浦区 太仓路181弄6-15号",
+    "type": "步行街",
+    "tel": "021-63112288",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 121.474491,
+    "lat": 31.220351,
+    "photos": [
+     "https://aos-comment.amap.com/B00155KUM0/comment/3079A2CE_113B_4FDF_9DF5_A6F526BC3859_L0_001_1179_860_1735268846304_48305373.jpg",
+     "https://aos-comment.amap.com/B00155KUM0/comment/2C0F9F2C_C0E0_4D75_8EA7_841A95E15A24_L0_001_1179_875_1735268846305_26290928.jpg",
+     "https://aos-comment.amap.com/B00155KUM0/comment/60D79104_4B22_4F33_92A5_B26B3D1F854D_L0_001_750_699_1729517745971_11402694.jpg"
+    ]
+   }
   },
   {
    "name": "朱家角古镇",
@@ -132,7 +251,24 @@
     "地铁 17 号线朱家角站下车，步行或打车到古镇",
     "古镇本身免费，部分园林和景点单独收费",
     "周末午后人多，上午去更清静"
-   ]
+   ],
+   "amap": {
+    "name": "上海朱家角古镇旅游区",
+    "id": "B001558F5I",
+    "addr": "青浦区 朱家角镇课植园路555号",
+    "type": "国家级景点",
+    "tel": "021-59240077",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；内部收费景点的营业时间请以各个子景点详情页展示为准",
+    "lng": 121.050518,
+    "lat": 31.114306,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a617a73f40f366c74a6b733d8a78636d",
+     "https://store.is.autonavi.com/showpic/81bbfce5fcfab80856ce16b29acd09a7",
+     "https://store.is.autonavi.com/showpic/10a4c06e7102d5e8d0fb04ba7acc6315"
+    ]
+   }
   },
   {
    "name": "上海迪士尼度假区",
@@ -148,7 +284,24 @@
     "门票需要提前在官方渠道购买，节假日和周末价格更高",
     "地铁 11 号线迪士尼站下车即到",
     "工作日、非假期去排队时间会短很多"
-   ]
+   ],
+   "amap": {
+    "name": "上海迪士尼度假区",
+    "id": "B00157AW8O",
+    "addr": "浦东新区 黄赵路310号",
+    "type": "旅游景点",
+    "tel": "4001800000",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "10-29至11-01 周一至周日 08:30-22:00；11-02至11-04 周一至周日 08:30-20:30；11-05至11-07 周一至周日 08:30-21:30；11-08至11-08 周一至周日 08:30-20:30；11-09至11-14 周一至周日 08:30-21:30",
+    "lng": 121.667003,
+    "lat": 31.141447,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4f83bd890aba5ab4f0d859e5e25a94f7",
+     "https://store.is.autonavi.com/showpic/b8f22033d9f27ce6ecc2717f59ce984e",
+     "https://store.is.autonavi.com/showpic/31b82e6ecf4d928a3278981307baf6da"
+    ]
+   }
   }
  ],
  "foods": [
@@ -163,7 +316,24 @@
    "tips": [
     "刚出锅的汤汁很烫，先咬小口",
     "老字号早上人多，最好避开上班早高峰"
-   ]
+   ],
+   "amap": {
+    "name": "东泰祥生煎馆(重庆北路店)",
+    "id": "B00155QEUO",
+    "addr": "黄浦区 重庆北路188号(大沽路口)",
+    "type": "中餐厅",
+    "tel": "021-63595808",
+    "rating": 4.7,
+    "cost": 28.0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.470227,
+    "lat": 31.226184,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/05facb057df743f4ed33975c87d752bd",
+     "https://store.is.autonavi.com/showpic/5caff3f02873871a1392e1bf905ce02c",
+     "https://store.is.autonavi.com/showpic/237de73e9ba21b2b3c73f3ad7047fdcc"
+    ]
+   }
   },
   {
    "name": "小笼包",
@@ -176,7 +346,24 @@
    "tips": [
     "先咬开小口吸汤，再整个吃",
     "豫园的店排队长，可以选其他分店或错峰去"
-   ]
+   ],
+   "amap": {
+    "name": "南翔馒头店(城隍庙店)",
+    "id": "B00155IMN4",
+    "addr": "黄浦区 豫园路87号",
+    "type": "上海菜",
+    "tel": "021-63265265",
+    "rating": 4.6,
+    "cost": 88.0,
+    "open": "周一至周四 07:30-20:30；周五至周日 07:30-21:00",
+    "lng": 121.49151,
+    "lat": 31.226577,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/eac31f892136406e5c062cd07a13e3d6",
+     "https://aos-comment.amap.com/B00155IMN4/comment/20260322-a43367e65bfdb28879ebc509-7sLkYcCkx7eAJmcW21RGFx.jpg",
+     "https://aos-comment.amap.com/B00155IMN4/comment/content_media_external_file_101245_ss__1766502458624_73654726.jpg"
+    ]
+   }
   },
   {
    "name": "本帮菜",
@@ -189,7 +376,24 @@
    "tips": [
     "本帮菜整体偏甜，不习惯的可以多点几道清淡的菜搭配",
     "热门小馆子座位少，饭点前到或者提前预订"
-   ]
+   ],
+   "amap": {
+    "name": "HOMES上海本帮菜(必吃榜店)",
+    "id": "B00155KHOC",
+    "addr": "徐汇区 新乐路47-1号",
+    "type": "上海菜",
+    "tel": "021-54030010",
+    "rating": 4.6,
+    "cost": 168.0,
+    "open": "周一至周日 11:00-14:00,17:00-21:00",
+    "lng": 121.456152,
+    "lat": 31.217885,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/eaf0c7c3264b199ffde8b7ef1438acff",
+     "https://store.is.autonavi.com/showpic/244c13fb261070f4ccbadb0ee0bb0a6b",
+     "https://store.is.autonavi.com/showpic/3dcaa701117ed28d6aafc3c7ba4d689b"
+    ]
+   }
   },
   {
    "name": "葱油拌面",
@@ -202,7 +406,24 @@
    "tips": [
     "拌匀了再吃，葱油都沉在碗底",
     "可以加一块炸猪排或者熏鱼当浇头"
-   ]
+   ],
+   "amap": {
+    "name": "人和馆(徐汇店)",
+    "id": "B0FFF407ML",
+    "addr": "徐汇区 肇嘉浜路407(嘉善路地铁站5号口步行230米)",
+    "type": "中餐厅",
+    "tel": "021-64030731",
+    "rating": 4.7,
+    "cost": 186.0,
+    "open": "周一至周五 11:00-14:00,16:45-21:30；周六至周日 11:00-21:30",
+    "lng": 121.458032,
+    "lat": 31.201706,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/05e123536eb32150b49ed3b1d6cf37ab",
+     "https://aos-comment.amap.com/B0FFF407ML/comment/content_media_external_file_1000130963_ss__1771839103707_26354755.jpg",
+     "https://aos-comment.amap.com/B0FFF407ML/comment/content_media_external_images_media_169025_ss__1764857672448_64216795.jpg"
+    ]
+   }
   },
   {
    "name": "排骨年糕",
@@ -214,7 +435,24 @@
    ],
    "tips": [
     "甜辣酱放在旁边自己蘸，更能吃出排骨本身的味道"
-   ]
+   ],
+   "amap": {
+    "name": "鲜得来(云南路老字号美食街店)",
+    "id": "B00155LPER",
+    "addr": "黄浦区 宁海东路290-292号(大世界地铁站1号口步行140米)",
+    "type": "中餐厅",
+    "tel": "021-63261284",
+    "rating": 4.6,
+    "cost": 33.0,
+    "open": "周一至周日 07:00-22:00",
+    "lng": 121.479574,
+    "lat": 31.227921,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a64c7b8be0d09efc0cdd6fb0a0c75f08",
+     "https://store.is.autonavi.com/showpic/e1138a2226487c2716c1f9f14be571cb",
+     "https://store.is.autonavi.com/showpic/acdf9235d4e104450000002855928844?type=pic"
+    ]
+   }
   },
   {
    "name": "蟹粉、蟹黄面",
@@ -227,7 +465,24 @@
    "tips": [
     "价格偏高，点之前看清分量和价格",
     "趁热拌开吃，凉了会腥"
-   ]
+   ],
+   "amap": {
+    "name": "蟹正府上海蟹黄面 黄鱼面",
+    "id": "B0LD0RFXHR",
+    "addr": "浦东新区 环球金融中心隔壁世纪大道160号览海国际广场B2层",
+    "type": "中餐厅",
+    "tel": "13052015388",
+    "rating": 4.5,
+    "cost": 65.0,
+    "open": "10:00-23:00, 2026年10月1日-2026年10月7日 10:00-21:00",
+    "lng": 121.508518,
+    "lat": 31.234764,
+    "photos": [
+     "https://aos-comment.amap.com/B0LD0RFXHR/comment/content_media_external_file_7437_ss__1754365494130_13898604.jpg",
+     "https://store.is.autonavi.com/showpic/eefbfb2b1842781aeccfb516e6f2d0cc",
+     "https://aos-comment.amap.com/B0LD0RFXHR/comment/D27287F4_851F_407C_97DD_D7793B0C4BF7_L0_001_1500_200_1764723714026_31253829.jpg"
+    ]
+   }
   },
   {
    "name": "粢饭团",
@@ -239,7 +494,24 @@
    ],
    "tips": [
     "早餐摊一般上午就卖完，要早点去"
-   ]
+   ],
+   "amap": {
+    "name": "传承粢饭团(新闸路店)",
+    "id": "B0HA6K6N7E",
+    "addr": "静安区 江宁路街道新闸路1305号(晋公馆-陕西北路花园住宅东北门旁)",
+    "type": "餐饮相关",
+    "tel": "13636408091",
+    "rating": 4.3,
+    "cost": 11.0,
+    "open": "周一至周日 09:00-21:00",
+    "lng": 121.451688,
+    "lat": 31.232011,
+    "photos": [
+     "https://aos-comment.amap.com/B0HA6K6N7E/comment/0fdc640b0e4a727c687f9b6325b25ab4_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/657d1b675b933219d61862100feb4dde",
+     "https://store.is.autonavi.com/showpic/52694b8968e542680000003385278816?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

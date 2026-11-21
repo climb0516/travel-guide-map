@@ -21,7 +21,24 @@
     "看雾要清晨 6–8 点到，春秋季出现几率更大",
     "坐竹筏游练溪别有一番风味",
     "可以在附近吃新鲜出炉的缙云烧饼当早餐"
-   ]
+   ],
+   "amap": {
+    "name": "缙云仙都景区",
+    "id": "B024200C92",
+    "addr": "缙云县 仙都街道",
+    "type": "国家级景点",
+    "tel": "0578-3120301",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "04-29至10-31 周一至周日 07:30-17:30；11-01至04-28 周一至周日 08:00-17:00",
+    "lng": 120.132563,
+    "lat": 28.685408,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6f25bbc51c55c2846de18fa2af8ccd48",
+     "https://store.is.autonavi.com/showpic/87261c3d2f0cd34ab5d911a58cdd3823",
+     "https://store.is.autonavi.com/showpic/04a09c84797876adf5ecede873ed0f93"
+    ]
+   }
   },
   {
    "name": "云和梯田",
@@ -37,7 +54,24 @@
     "看日出和云海要在景区或附近民宿住一晚",
     "4–5 月灌水期、9–10 月稻熟期最上镜",
     "山路弯多，自驾注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "云和梯田景区",
+    "id": "B024215MX7",
+    "addr": "云和县 崇头镇梅源村云和梯田景区游客中心1号",
+    "type": "风景名胜",
+    "tel": "0578-5156688",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "3月16日至11月15日 08:00-17:00；11月16日至3月15日 08:00-16:30国庆假期具体开放时间以官方通知为准",
+    "lng": 119.487375,
+    "lat": 28.048612,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fb467ecc9a36976bceeafabd6c4b2f00",
+     "https://store.is.autonavi.com/showpic/69705ae499147c7fa153e8ccb539de87",
+     "https://store.is.autonavi.com/showpic/f0eacdfb5974192790dcaba70e48f5d0"
+    ]
+   }
   },
   {
    "name": "古堰画乡",
@@ -53,7 +87,24 @@
     "渡船单程几元，来回很方便",
     "傍晚看日落最美，可以在江边吃饭",
     "村里有收费停车场，节假日会满"
-   ]
+   ],
+   "amap": {
+    "name": "古堰画乡旅游度假区",
+    "id": "B02420IO8C",
+    "addr": "莲都区 古堰画乡旅游度假区服务中心",
+    "type": "风景名胜",
+    "tel": "0578-2863703",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:00",
+    "lng": 119.75123,
+    "lat": 28.295374,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/253f36c5254c1c84f7a365b1a07e96ac",
+     "https://store.is.autonavi.com/showpic/039b2f4df0530c149e1f483610ad8e2f",
+     "https://store.is.autonavi.com/showpic/c60498af185a05d5a4f8ef63f5d7cb94"
+    ]
+   }
   },
   {
    "name": "松阳传统村落",
@@ -69,7 +120,23 @@
     "山路较窄，会车时多注意",
     "陈家铺村停车场到村里需要走一段路或坐接驳车",
     "夏天山里凉快，适合避暑"
-   ]
+   ],
+   "amap": {
+    "name": "杨家堂五龙社",
+    "id": "B0LKDLO4W8",
+    "addr": "松阳县 隐鲜居农家乐餐馆西北侧70米",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 3.5,
+    "cost": 0,
+    "open": "周一至周日 07:00-21:00",
+    "lng": 119.546625,
+    "lat": 28.460775,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ccc638bf014918300000003113630268?type=pic",
+     "https://store.is.autonavi.com/showpic/4bd98beaa2c3d6a20000003113626390?type=pic"
+    ]
+   }
   },
   {
    "name": "龙泉青瓷小镇",
@@ -85,7 +152,24 @@
     "体验课要提前预约，烧制后需要等几周寄送",
     "买青瓷货比三家，看清是否手工制作",
     "从丽水市区开车到龙泉约 1.5 小时"
-   ]
+   ],
+   "amap": {
+    "name": "中国青瓷小镇",
+    "id": "B0FFHF4BFZ",
+    "addr": "龙泉市 上垟镇",
+    "type": "国家级景点",
+    "tel": "0578-7322189",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 118.876955,
+    "lat": 27.975418,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/be4d157b98e6156b05cd91eb3d3b997c",
+     "https://store.is.autonavi.com/showpic/adc2137b7fd203377829c1d50d6dc4bc",
+     "https://store.is.autonavi.com/showpic/55ccf160a6b6685074c567afd77b31f6"
+    ]
+   }
   },
   {
    "name": "东西岩",
@@ -101,7 +185,24 @@
     "部分路段较陡，穿防滑鞋",
     "夏天正午晒，建议早上或傍晚爬",
     "攀岩要找专业机构，不要自行尝试"
-   ]
+   ],
+   "amap": {
+    "name": "东西岩风景区",
+    "id": "B02420007B",
+    "addr": "莲都区 老竹镇",
+    "type": "国家级景点",
+    "tel": "0578-2190022",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "夏令时 全年 08:00–17:30开放 最晚进入17:30；冬令时 全年 08:00–16:30开放 最晚进入16:30",
+    "lng": 119.729181,
+    "lat": 28.518575,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c6d9fbc5d994e6cfd49158e8e756d659",
+     "https://store.is.autonavi.com/showpic/5f369e9cdcc213f4e009efb6fad2cd46",
+     "https://aos-comment.amap.com/B02420007B/comment/content_media_external_file_1000057844_ss__1759595043082_52905221.jpg"
+    ]
+   }
   },
   {
    "name": "仙宫湖",
@@ -116,7 +217,24 @@
    "tips": [
     "游船班次不多，提前确认时间",
     "环湖公路弯道多，自驾注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "云和湖仙宫景区",
+    "id": "B024215X6G",
+    "addr": "云和县 龙门村三龙段与紧龙段交叉口东50米(龙门村村委)",
+    "type": "旅游景点",
+    "tel": "0578-5141172",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 08:30-16:30 最晚进入16:00",
+    "lng": 119.522977,
+    "lat": 28.207743,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c5996cb9f45265c53c0f7107f9d40da2",
+     "https://store.is.autonavi.com/showpic/8228b35d302df9007cb481be22caf03b",
+     "https://aos-comment.amap.com/B024215X6G/comment/46cc19374f35973693cbe44f1d69b8ef_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "处州府城",
@@ -131,7 +249,24 @@
    "tips": [
     "晚上去比白天更有氛围",
     "附近停车位紧张，可以停在周边停车场走过去"
-   ]
+   ],
+   "amap": {
+    "name": "处州府城",
+    "id": "B0FFGPQOWO",
+    "addr": "莲都区 大洋路与卢镗街交汇处西南侧",
+    "type": "风景名胜",
+    "tel": "0578-2803999",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.91871,
+    "lat": 28.437719,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e12fe27dcb86c6da0000003188116076?type=pic",
+     "https://store.is.autonavi.com/showpic/5b2b048039ea79f90000001350644016?type=pic",
+     "https://store.is.autonavi.com/showpic/8f833c5f1a4032630000000738326280?type=pic"
+    ]
+   }
   }
  ],
  "foods": [
@@ -146,7 +281,24 @@
    "tips": [
     "一定要趁热吃，凉了就不脆了",
     "可以买一些冷冻的带回家用烤箱加热"
-   ]
+   ],
+   "amap": {
+    "name": "缙云烧饼(天宁店)",
+    "id": "B0LA7LUX7W",
+    "addr": "莲都区 寿尔福北路817号",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.1,
+    "cost": 16.0,
+    "open": "周一至周日 08:00-20:00",
+    "lng": 119.932974,
+    "lat": 28.464714,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/02d26a2185eb46e1b9ba714672f28923",
+     "https://store.is.autonavi.com/showpic/0e9a9fb5d7885788b77555a281079c8a",
+     "https://store.is.autonavi.com/showpic/68e5cf66045d8de2c2341f8f43e151ac"
+    ]
+   }
   },
   {
    "name": "缙云爽面",
@@ -159,7 +311,24 @@
    "tips": [
     "炒爽面是当地人的早餐和宵夜",
     "可以买一些干面带回家"
-   ]
+   ],
+   "amap": {
+    "name": "缙云爽面旗舰店",
+    "id": "B0HD2ABVP8",
+    "addr": "缙云县 永宁路",
+    "type": "中餐厅",
+    "tel": "13625781866",
+    "rating": 4.5,
+    "cost": 24.0,
+    "open": "周一至周日 07:00-19:00",
+    "lng": 120.091239,
+    "lat": 28.651564,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/3cea70676469634e0000009427812188?type=pic",
+     "https://aos-comment.amap.com/B0HD2ABVP8/comment/9C0B210D_A71E_457F_9C23_C97BC28ADAC4_L0_001_2000_150_1762497753224_46904769.jpg",
+     "https://store.is.autonavi.com/showpic/f81c25360a3d1d146724322c07e5b3b9"
+    ]
+   }
   },
   {
    "name": "庆元香菇",
@@ -172,7 +341,24 @@
    "tips": [
     "花菇品质最好，价格也最高",
     "香菇炖鸡是家常但很香的一道菜"
-   ]
+   ],
+   "amap": {
+    "name": "中国香菇小镇",
+    "id": "B0FFHM9QBU",
+    "addr": "庆元县 巾石大道与八都大街交叉口西南40米",
+    "type": "旅游景点",
+    "tel": "17816868168",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.005182,
+    "lat": 27.617985,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d503ad075a81fef12ec38359381e321a",
+     "https://store.is.autonavi.com/showpic/08181ce2f48a5d53262e2d023dc27411",
+     "https://store.is.autonavi.com/showpic/46b80b8d0b7de2caba208a99e7123f86"
+    ]
+   }
   },
   {
    "name": "遂昌长粽",
@@ -185,7 +371,23 @@
    "tips": [
     "切成片煎一下更香",
     "真空包装的方便带回家"
-   ]
+   ],
+   "amap": {
+    "name": "遂昌吴大叔特产-遂昌长粽",
+    "id": "B0MGA5EIL9",
+    "addr": "遂昌县 环城北路14号",
+    "type": "土特产专卖店",
+    "tel": "15869239552",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 119.298369,
+    "lat": 28.614777,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e86055b087a1c1748923ab074975d203",
+     "https://store.is.autonavi.com/showpic/1cc66848c5e6c60d0000000738534842?type=pic"
+    ]
+   }
   },
   {
    "name": "龙泉金观音",
@@ -198,7 +400,24 @@
    "tips": [
     "买茶前可以先试喝",
     "配青瓷茶具更有仪式感"
-   ]
+   ],
+   "amap": {
+    "name": "龙泉金观音",
+    "id": "B0HUOAGBQG",
+    "addr": "龙泉市 华楼街182号",
+    "type": "烟酒专卖店",
+    "tel": "13587153257",
+    "rating": 3.2,
+    "cost": 0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 119.136348,
+    "lat": 28.069781,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/61dc93bc430645eaa32925528214d4a0",
+     "https://store.is.autonavi.com/showpic/252ced4db0caa3edd5fba945a3726b91",
+     "https://store.is.autonavi.com/showpic/76b168f1cee6491faee552bc7c8a258e"
+    ]
+   }
   },
   {
    "name": "农家土菜",
@@ -211,7 +430,24 @@
    "tips": [
     "点菜前问清价格，土鸡按斤算的要看称",
     "溪鱼要现杀的才鲜"
-   ]
+   ],
+   "amap": {
+    "name": "老遂昌遂昌菜(红灯笼龙谷路店)",
+    "id": "B0LGSP1Q12",
+    "addr": "遂昌县 龙谷路10-16号",
+    "type": "中餐厅",
+    "tel": "0578-8175156",
+    "rating": 4.5,
+    "cost": 58.0,
+    "open": "周一至周日 09:30-14:00,15:30-22:30",
+    "lng": 119.265078,
+    "lat": 28.600949,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2c71ecaa366f46864deab76cc16d68e4",
+     "https://store.is.autonavi.com/showpic/957e48959e0894d40956de7a598308b1",
+     "https://store.is.autonavi.com/showpic/2db9f516ae05e0dc06e1fff3ff908dd4"
+    ]
+   }
   }
  ],
  "food_areas": [

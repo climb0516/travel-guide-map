@@ -21,7 +21,24 @@
     "免费参观，需要提前在官方渠道预约，节假日很难约",
     "一般周一闭馆",
     "马王堆展厅人很多，开馆就进更从容"
-   ]
+   ],
+   "amap": {
+    "name": "湖南省博物馆",
+    "id": "B02DB00018",
+    "addr": "开福区 东风路50号",
+    "type": "博物馆",
+    "tel": "0731-84415833",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "1月1日至6月309月1日至12月31日 周二至周日 09:00-17:00开放,最晚进入16:00；7月1日至8月31日 周二至周日 09:00-20:30开放,最晚进入19:30周 不开放；劳动节,端午节,中秋节,国庆节 09:00-20:00开放 最晚进入19:00不开放,逢法定节假日顺延详细开馆时间请参见官方公众号",
+    "lng": 112.993499,
+    "lat": 28.211876,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c807acf2618b39ba17a7b894177f9ee1",
+     "https://store.is.autonavi.com/showpic/5804cf2808662a19239cd6180fd8c159",
+     "https://store.is.autonavi.com/showpic/d91fbb9ed744efdd5f9bb36414482c70"
+    ]
+   }
   },
   {
    "name": "岳麓山",
@@ -37,7 +54,24 @@
     "想省体力可以坐观光车或索道上山",
     "秋天红枫季周末人很多",
     "从岳麓书院一侧上山可以一起游览"
-   ]
+   ],
+   "amap": {
+    "name": "岳麓山风景名胜区",
+    "id": "B0FFG0BPT6",
+    "addr": "岳麓区 登高路58号",
+    "type": "国家级景点",
+    "tel": "0731-88825011",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 06:00-22:00",
+    "lng": 112.936104,
+    "lat": 28.183601,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6550dbaf306de76e79234b355c664346",
+     "https://store.is.autonavi.com/showpic/8ae07fa2a24a3534bb95f8f3517b50e2",
+     "https://store.is.autonavi.com/showpic/027249d30cdcb69d9119af95e5f35896"
+    ]
+   }
   },
   {
    "name": "岳麓书院",
@@ -52,7 +86,24 @@
    "tips": [
     "需要购票，周末和寒暑假人多",
     "和岳麓山安排在同一天最顺路"
-   ]
+   ],
+   "amap": {
+    "name": "岳麓书院",
+    "id": "B02DB05TQH",
+    "addr": "岳麓区 麓山路273号",
+    "type": "国家级景点",
+    "tel": "0731-88823764",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "冬令时:周一至周日 07:50-17:00；夏令时:周一至周日 07:50-17:30；2027年2月5日至2027年2月7日 闭馆",
+    "lng": 112.940805,
+    "lat": 28.180397,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/229ac17e89cf0ac66e747253b0f05110",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/cc07110e-e554-4599-bc44-b0721dbb510f.jpg",
+     "https://store.is.autonavi.com/showpic/37d718cb859c76e90000003576304378?type=pic"
+    ]
+   }
   },
   {
    "name": "橘子洲",
@@ -68,7 +119,24 @@
     "洲很长，步行到洲头要走不少路，可以坐小火车",
     "可以从地铁橘子洲站进出",
     "烟花表演时人非常多，注意安全"
-   ]
+   ],
+   "amap": {
+    "name": "橘子洲风景名胜区",
+    "id": "B02DB05Z1Q",
+    "addr": "岳麓区 橘子洲头2号",
+    "type": "风景名胜",
+    "tel": "0731-88882152",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "07:00-22:00 最晚进入22:00节假日开放时间以当天公告为准(仅供参考,具体以景区实际为准)",
+    "lng": 112.963081,
+    "lat": 28.196505,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/46bf55c80035cd220000009407500911?type=pic",
+     "https://store.is.autonavi.com/showpic/56cd7cc24f796a46f9ee890fb411b0ec",
+     "https://store.is.autonavi.com/showpic/55e361329013a0c40729f6c0aaa2e11b"
+    ]
+   }
   },
   {
    "name": "坡子街和太平老街",
@@ -83,7 +151,24 @@
    "tips": [
     "小吃以游客店为主，尝尝就好",
     "晚上人最多，傍晚去比较合适"
-   ]
+   ],
+   "amap": {
+    "name": "太平老街历史文化街区",
+    "id": "B0FFF2FZC7",
+    "addr": "天心区 解放西路449号(湘江中路地铁站2A口步行240米)",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 112.972071,
+    "lat": 28.193573,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7d7dc5535c45fe0653b85fc35627518c",
+     "https://store.is.autonavi.com/showpic/2739bd01ac8ffa6fd4e8b162309adf9d",
+     "https://store.is.autonavi.com/showpic/d6cf659fc2279d000000003754150696?type=pic"
+    ]
+   }
   },
   {
    "name": "五一广场和黄兴路步行街",
@@ -98,7 +183,24 @@
    "tips": [
     "周末晚上人非常多，注意保管财物",
     "地铁 1、2 号线五一广场站换乘方便"
-   ]
+   ],
+   "amap": {
+    "name": "黄兴路步行街中心广场",
+    "id": "B0FFHJ43SA",
+    "addr": "天心区 黄兴中路与人民西路交汇处90米(黄兴广场地铁站2号口旁)",
+    "type": "购物中心",
+    "tel": "13517406468",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "",
+    "lng": 112.976424,
+    "lat": 28.188459,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/eca38e0b7aebaa2f7f73c77c18e37fb5",
+     "https://store.is.autonavi.com/showpic/2c59f9ac909d86680000009247192371?type=pic",
+     "https://store.is.autonavi.com/showpic/b223efc4289fb1de0000002895954381?type=pic"
+    ]
+   }
   },
   {
    "name": "天心阁",
@@ -113,7 +215,24 @@
    "tips": [
     "离五一广场不远，可以步行过去",
     "适合早上或傍晚散步"
-   ]
+   ],
+   "amap": {
+    "name": "天心阁",
+    "id": "B02DB03ZUX",
+    "addr": "天心区 天心路17号",
+    "type": "国家级景点",
+    "tel": "0731-85829982",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:00-00:15 日场营业时间08:00-18:00，检票时间；08:00-17:30； 夜场营业时间18:30-00:15，检票时间:18:30-23:30",
+    "lng": 112.981861,
+    "lat": 28.184754,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/94b3d43e2f96f0ab6fc5e649e1258b75",
+     "https://store.is.autonavi.com/showpic/5719c9b1434535c110491010ae47d5f1",
+     "https://store.is.autonavi.com/showpic/a94247d6112145ec635b0fd687a32b9b"
+    ]
+   }
   },
   {
    "name": "杜甫江阁",
@@ -128,7 +247,24 @@
    "tips": [
     "晚上来最好看",
     "可以沿湘江风光带一路散步"
-   ]
+   ],
+   "amap": {
+    "name": "杜甫江阁",
+    "id": "B0FFFYEF1T",
+    "addr": "天心区 湘江中路二段108号",
+    "type": "风景名胜",
+    "tel": "0731-82298545",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "2026-02-17至2026-02-17全天关闭,2026-02-18至2026-02-22,09:00-22:00",
+    "lng": 112.968624,
+    "lat": 28.184442,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1edd67cf6e7a414fff4080f0c17cd674",
+     "https://store.is.autonavi.com/showpic/4937ed9622db55f5065405f347b0f29e",
+     "https://store.is.autonavi.com/showpic/944e373659d158d7ba2103fac77463e4"
+    ]
+   }
   },
   {
    "name": "铜官窑古镇",
@@ -143,7 +279,24 @@
    "tips": [
     "离市区约 1 小时车程",
     "陶艺体验成品可能需要另外寄送，问清楚再做"
-   ]
+   ],
+   "amap": {
+    "name": "铜官窑国风乐园",
+    "id": "B0FFJC070G",
+    "addr": "望城区 铜官街道彩陶村1号",
+    "type": "旅游景点",
+    "tel": "0731-88378112",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一-周五:09:00-19:30；周六-周日:09:00-20:30",
+    "lng": 112.83819,
+    "lat": 28.409773,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d1592cf33cf73142982e3e8187991e0e",
+     "https://store.is.autonavi.com/showpic/202a18a163f69b13096d545a461ec6f4",
+     "https://store.is.autonavi.com/showpic/d19c67fef41244a65ea598d44b7ea7d6"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "刚炸好最好吃，趁热吃",
     "辣度可以跟老板说，怕辣少放"
-   ]
+   ],
+   "amap": {
+    "name": "黑色经典臭豆腐(五一庙街店)",
+    "id": "B0H1CS3IJY",
+    "addr": "开福区 通泰街街道五一大道868号皇冠假日酒店一层A特05商铺",
+    "type": "餐饮相关",
+    "tel": "18974999200",
+    "rating": 4.6,
+    "cost": 21.0,
+    "open": "周一至周日 09:00-24:00",
+    "lng": 112.976061,
+    "lat": 28.195904,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a5c43a8d854e5dc40000003074262399?type=pic",
+     "https://aos-comment.amap.com/B0H1CS3IJY/comment/3217D47B_7633_4B69_9589_46BBA948976B_L0_001_1439_93_1763446784284_97398716.jpg",
+     "https://store.is.autonavi.com/showpic/1ec128150402d5500000002267540333?type=pic"
+    ]
+   }
   },
   {
    "name": "糖油粑粑",
@@ -170,7 +340,24 @@
    ],
    "tips": [
     "刚出锅很烫，小心糖浆"
-   ]
+   ],
+   "amap": {
+    "name": "醉湘楼·家宴韶山菜(都正街店)",
+    "id": "B0IGMLHDIZ",
+    "addr": "芙蓉区 定王台街道蔡锷南路48号天心华庭101号",
+    "type": "中餐厅",
+    "tel": "19330853117",
+    "rating": 4.6,
+    "cost": 88.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 112.981404,
+    "lat": 28.187318,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c6de4f4038dd631a0000003117868637?type=pic",
+     "https://store.is.autonavi.com/showpic/c903dfdfd48a94b80000003136526980?type=pic",
+     "https://aos-comment.amap.com/B0IGMLHDIZ/comment/1feedback_sendimag_1765179662363_24919894.jpg"
+    ]
+   }
   },
   {
    "name": "口味虾",
@@ -183,7 +370,24 @@
    "tips": [
     "辣度普遍较高，可以点中辣或微辣",
     "热门店晚上要排队"
-   ]
+   ],
+   "amap": {
+    "name": "天宝兄弟(长沙汇景城店)",
+    "id": "B0HA2UQGLL",
+    "addr": "天心区 坡子街街道白沙路汇景城B栋3层3017-3018号",
+    "type": "中餐厅",
+    "tel": "0731-84882888",
+    "rating": 4.9,
+    "cost": 175.0,
+    "open": "周一至周日 15:30-03:00",
+    "lng": 112.970195,
+    "lat": 28.174106,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/03eadd8146e89f8a298c40c64981d522",
+     "https://store.is.autonavi.com/showpic/45d9feb23bbe39526b8ee457ef9f708d",
+     "https://store.is.autonavi.com/showpic/0553fa9bc9b9a0c25d79e4a9a2f623b7"
+    ]
+   }
   },
   {
    "name": "长沙米粉",
@@ -196,7 +400,22 @@
    "tips": [
     "可以试试猪油拌粉，是长沙特色",
     "桌上的酸豆角可以多加点"
-   ]
+   ],
+   "amap": {
+    "name": "长沙米粉(长沙西中心购物广场店)",
+    "id": "B0LKDLOQ1F",
+    "addr": "岳麓区 都达商业广场(望城坡汽车西站地铁站1B口步行170米)",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.4,
+    "cost": 0,
+    "open": "",
+    "lng": 112.913925,
+    "lat": 28.208025,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5db315889b3593c6618cbe9869a45bcf"
+    ]
+   }
   },
   {
    "name": "辣椒炒肉",
@@ -208,7 +427,24 @@
    ],
    "tips": [
     "湘菜普遍偏辣，点菜时先说明辣度"
-   ]
+   ],
+   "amap": {
+    "name": "费大厨辣椒炒肉(7mall店)",
+    "id": "B0FFIXXJOO",
+    "addr": "天心区 五一大道637号7mall6层",
+    "type": "中餐厅",
+    "tel": "18593462091",
+    "rating": 4.6,
+    "cost": 76.0,
+    "open": "周一至周日 11:00-21:30",
+    "lng": 112.975957,
+    "lat": 28.194896,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9b399b35f6de2a58c1e11aad5bbc7903",
+     "https://store.is.autonavi.com/query_pic?id=st58816a2f-9ad4-4e86-9e49-e4e874d66031&user=search&operate=original",
+     "https://store.is.autonavi.com/showpic/a345002a594b5079c8729f8871bd07cd"
+    ]
+   }
   },
   {
    "name": "剁椒鱼头",
@@ -220,7 +456,24 @@
    ],
    "tips": [
     "鱼头吃完记得要面条拌汤汁"
-   ]
+   ],
+   "amap": {
+    "name": "郝富贵.小炒肉",
+    "id": "B0KKNH509P",
+    "addr": "天心区 怡长街17号(五一广场地铁站国金街3号口步行150米)",
+    "type": "中餐厅",
+    "tel": "15873161032",
+    "rating": 4.7,
+    "cost": 59.0,
+    "open": "周一至周日 11:00-21:00",
+    "lng": 112.975291,
+    "lat": 28.194015,
+    "photos": [
+     "https://aos-comment.amap.com/B0KKNH509P/comment/4AB26E1A_4658_4DD6_89FC_7F2F66318725_L0_001_2016_151_1768479992659_44195735.jpg",
+     "https://store.is.autonavi.com/showpic/58c6a44e344db4820000000743272306?type=pic",
+     "https://store.is.autonavi.com/showpic/df1fc6c5ffbf85660000007425262981?type=pic"
+    ]
+   }
   },
   {
    "name": "茶颜悦色",
@@ -233,7 +486,24 @@
    "tips": [
     "奶油比较甜，可以要少糖",
     "五一广场附近店多，不必排长队"
-   ]
+   ],
+   "amap": {
+    "name": "茶颜悦色(金星路步步高店)",
+    "id": "B0G109H37H",
+    "addr": "岳麓区 桐梓坡路与金星中路交汇处东北角步步高广场(金星店)F1层(东南门附近)",
+    "type": "冷饮店",
+    "tel": "17652219558",
+    "rating": 4.4,
+    "cost": 17.0,
+    "open": "周一至周日 07:00-22:00",
+    "lng": 112.93626,
+    "lat": 28.218324,
+    "photos": [
+     "https://img.alicdn.com/imgextra/i3/O1CN017v4FNE23OGbrY2xYk_!!6000000007245-0-tps-774-752.jpg",
+     "https://aos-comment.amap.com/B0G109H37H/comment/5ca5ec1818e5dd0666736820a53d830a_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0G109H37H/comment/20260311-e6dc911f295e0129e5b575c2-AcqoYE9c3eT5xgXlhZjXPC.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

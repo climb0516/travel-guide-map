@@ -21,7 +21,24 @@
     "樱花季人非常多，尽量早上开园就进，周末建议提前在官方渠道购票",
     "园区很大，景区内有观光车和游船，可以按体力搭配",
     "鹿顶山适合看日落，下山注意末班车时间，以景区公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "太湖鼋头渚风景区",
+    "id": "B01FE162TD",
+    "addr": "滨湖区 鼋渚路1号",
+    "type": "国家级景点",
+    "tel": "0510-96889688",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00 最晚进入17:00；园内交通运营时间:观光车08:30-17:00；大巴车08:45-17:00；太湖仙岛往返客船08:50-16:50",
+    "lng": 120.226545,
+    "lat": 31.523085,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/27f8a8bb9511981d7e5650085c802669",
+     "https://store.is.autonavi.com/showpic/85e1df4b01b68ab9cdef57dda5e55589",
+     "https://store.is.autonavi.com/showpic/3d4e6b80c02a33d40d8103868e71ba71"
+    ]
+   }
   },
   {
    "name": "灵山胜境",
@@ -37,7 +54,24 @@
     "九龙灌浴是定时表演，进园先看好场次时间",
     "从大门到大佛步行距离不短，景区有电瓶车",
     "从市区开车约 1 小时，自驾最方便"
-   ]
+   ],
+   "amap": {
+    "name": "灵山胜境",
+    "id": "B01FE036ZN",
+    "addr": "滨湖区 马山镇古竹路18号",
+    "type": "国家级景点",
+    "tel": "4001680303",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "夏令时07:00-17:30，冬令时07:00-17:00",
+    "lng": 120.100925,
+    "lat": 31.42592,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4fa893d13e0f59d44fc5cb40f683ee59",
+     "https://store.is.autonavi.com/showpic/0670813fe5fd8329aaeace0105d711a2",
+     "https://store.is.autonavi.com/showpic/138514457cb309ac0edea79e47853c4d"
+    ]
+   }
   },
   {
    "name": "拈花湾",
@@ -53,7 +87,24 @@
     "白天景色一般，建议傍晚入园看灯",
     "节假日夜场人多，演出位置要提前占",
     "镇上民宿偏贵，想体验禅意氛围再考虑住这里"
-   ]
+   ],
+   "amap": {
+    "name": "拈花湾·禅意小镇",
+    "id": "B0FFGCV7QZ",
+    "addr": "滨湖区 环山西路68号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.076954,
+    "lat": 31.42004,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGCV7QZ/comment/content_media_external_file_31560_1767314834851_87819453.jpg",
+     "https://store.is.autonavi.com/showpic/d1bdf9733143c66124efb9a515a1434c",
+     "https://aos-comment.amap.com/B0FFGCV7QZ/comment/176835556578_1768355569175_18840843.jpg"
+    ]
+   }
   },
   {
    "name": "惠山古镇",
@@ -69,7 +120,24 @@
     "古镇街区免费逛，寄畅园和锡惠公园内部分景点单独购票",
     "惠山泥人「大阿福」是这里的特产，可以带一个回去",
     "地铁 1 号线附近站下车后步行或打车即可到"
-   ]
+   ],
+   "amap": {
+    "name": "惠山古镇景区",
+    "id": "B01FE16WVG",
+    "addr": "梁溪区 宝善街18号(惠山古镇地铁站6号口旁)",
+    "type": "国家级景点",
+    "tel": "0510-83333833",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周五 08:00-17:00 最晚进入16:30；周六至周日 08:00-17:30 最晚进入17:00；景区内的免费区域开放,2026-02-17至2026-02-22,08:00-20:30",
+    "lng": 120.274704,
+    "lat": 31.579416,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/336f2b02e4430aff21dd88442bc8723c",
+     "https://store.is.autonavi.com/showpic/798227e093ac9b345c628f7112b9482a",
+     "https://store.is.autonavi.com/showpic/d3585d9291299e8928bd33814196fd96"
+    ]
+   }
   },
   {
    "name": "清名桥古运河",
@@ -85,7 +153,24 @@
     "夜游船班次以码头公告为准，旺季可以先在线上看看",
     "从南禅寺一路逛到清名桥，步行就能串起来",
     "老街酒吧晚上比较热闹，带孩子去可以早一点"
-   ]
+   ],
+   "amap": {
+    "name": "清名桥古运河景区",
+    "id": "B01FE17CIA",
+    "addr": "梁溪区 永乐路与南长街交汇处",
+    "type": "风景名胜",
+    "tel": "0510-85727571",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "13:00-20:30,日游13:00-17:30,夜游:18:00-20:30",
+    "lng": 120.318564,
+    "lat": 31.557328,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8e8616c228d4391bbd161399965e26db",
+     "https://store.is.autonavi.com/showpic/7db5200e9c870da94e3395b0ce192040",
+     "https://store.is.autonavi.com/showpic/6b13539255427404858cd3318a6a0903"
+    ]
+   }
   },
   {
    "name": "蠡园",
@@ -101,7 +186,24 @@
     "和鼋头渚方向一致，可以安排在同一天",
     "园子不大，1–2 小时足够",
     "出园后可以沿蠡湖边走走，湖滨步道景色不错"
-   ]
+   ],
+   "amap": {
+    "name": "蠡园",
+    "id": "B01FE0IZ3U",
+    "addr": "滨湖区 环湖路18号",
+    "type": "国家级景点",
+    "tel": "0510-85101380",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月至2月,12月 07:00-17:30 最晚进入17:00；3月至11月 07:00-18:30 最晚进入17:30",
+    "lng": 120.258378,
+    "lat": 31.516461,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/cf9ecc4b495f4babe3cbee63c11b6804",
+     "https://store.is.autonavi.com/showpic/aebaaaf48146604dec3c61cabede4c45",
+     "https://store.is.autonavi.com/showpic/15e1a6fb276ecd120a77505cef1fb10b"
+    ]
+   }
   },
   {
    "name": "东林书院",
@@ -117,7 +219,24 @@
     "免费开放，具体开放安排以官方公告为准",
     "适合对明史感兴趣的人，赶时间可以略过",
     "附近的崇安寺商圈吃饭方便"
-   ]
+   ],
+   "amap": {
+    "name": "东林书院",
+    "id": "B01FE00UNY",
+    "addr": "梁溪区 解放东路867号(东林广场地铁站出入口旁)",
+    "type": "省级景点",
+    "tel": "0510-82706231",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:00",
+    "lng": 120.308567,
+    "lat": 31.576862,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/4864c77d4c4b0b160000001784038064?type=pic",
+     "https://store.is.autonavi.com/showpic/6f376ffa7001a6610000008904444373?type=pic",
+     "https://store.is.autonavi.com/showpic/c955a082b7719a220000003766960533?type=pic"
+    ]
+   }
   },
   {
    "name": "无锡博物院",
@@ -132,7 +251,24 @@
    "tips": [
     "免费参观，需要提前在官方渠道预约，周一通常闭馆",
     "临展常有精品，出发前看一下近期展览信息"
-   ]
+   ],
+   "amap": {
+    "name": "无锡博物院",
+    "id": "B01FE0IQL3",
+    "addr": "梁溪区 钟书路100号",
+    "type": "博物馆",
+    "tel": "0510-85727500",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一全天关闭（法定节假日除外），周二至周日:9:00-17:00",
+    "lng": 120.306084,
+    "lat": 31.549849,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7850535bb42f3df86d1f16f2974393be",
+     "https://store.is.autonavi.com/showpic/77592f5b33b4c0910000003316840941?type=pic",
+     "https://store.is.autonavi.com/showpic/1479a31d5dcef54d0000009449140962"
+    ]
+   }
   },
   {
    "name": "三国城水浒城",
@@ -148,7 +284,24 @@
     "实景演出有固定场次，进园先看时间表",
     "三国城和水浒城可以分开买票，时间不够选一个",
     "园区沿湖铺开，走路较多，穿舒服的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "三国城",
+    "id": "B01FE02VO6",
+    "addr": "滨湖区 山水西路128号",
+    "type": "风景名胜",
+    "tel": "0510-85555252",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "8:00-17:30",
+    "lng": 120.232342,
+    "lat": 31.4774,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/38ba91462b4a1d75c347625d2bba12fc",
+     "https://store.is.autonavi.com/showpic/b7568653f727433ae80d77319a23adb6",
+     "https://store.is.autonavi.com/showpic/70d76ed14c2125af33ffef5618e4b310"
+    ]
+   }
   }
  ],
  "foods": [
@@ -163,7 +316,24 @@
    "tips": [
     "想带回家可以买真空包装",
     "怕甜的人先少点一份试试"
-   ]
+   ],
+   "amap": {
+    "name": "三凤桥肉庄(中山路店)",
+    "id": "B0LKSMI4D2",
+    "addr": "梁溪区 崇安寺街道中山路华联商厦",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "",
+    "lng": 120.299897,
+    "lat": 31.573293,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f8839248721f1c6b0000002876946234?type=pic",
+     "https://store.is.autonavi.com/showpic/44fbf8aa7adc2d0b0000002306040965?type=pic",
+     "https://store.is.autonavi.com/showpic/6444de6b1f92932a0000001928660633?type=pic"
+    ]
+   }
   },
   {
    "name": "小笼包",
@@ -176,7 +346,24 @@
    "tips": [
     "小笼刚出笼很烫，先咬小口吸汤",
     "搭配馄饨或者豆腐花一起点"
-   ]
+   ],
+   "amap": {
+    "name": "王兴记(中山路店)",
+    "id": "B01FE02BXY",
+    "addr": "梁溪区 梁溪区中山路223号(南禅寺地铁站1号口步行380米)",
+    "type": "中餐厅",
+    "tel": "0510-82751777",
+    "rating": 4.6,
+    "cost": 28.0,
+    "open": "周一至周日 07:00-19:30",
+    "lng": 120.301866,
+    "lat": 31.571289,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d08bdcd0d3ecbc48819f46118f950ee1",
+     "https://store.is.autonavi.com/showpic/808d3a8c3f47f0537936e371d0598538",
+     "https://store.is.autonavi.com/showpic/fe0fe30f48e9bff816c8986cce49455c"
+    ]
+   }
   },
   {
    "name": "太湖三白",
@@ -189,7 +376,24 @@
    "tips": [
     "湖鲜按时价，点之前问清价格和分量",
     "清蒸、盐水做法最能吃出鲜味"
-   ]
+   ],
+   "amap": {
+    "name": "云客来餐厅(显云街店)",
+    "id": "B0FFG99MVS",
+    "addr": "滨湖区 方庙路50号显云街B栋",
+    "type": "中餐厅",
+    "tel": "18651518233",
+    "rating": 4.7,
+    "cost": 80.0,
+    "open": "周一至周日 10:00-13:30,16:00-20:30",
+    "lng": 120.295886,
+    "lat": 31.48734,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ed0564009b8ea0b60000006493834052?type=pic",
+     "https://aos-comment.amap.com/B0FFG99MVS/comment/FB5DAA31_85F3_4E4C_B188_D412DC41B4A4_L0_001_1500_200_1765428306387_57174725.jpg",
+     "https://aos-comment.amap.com/B0FFG99MVS/comment/content_media_external_images_media_1000085867_ss__1729745992019_41644858.jpg"
+    ]
+   }
   },
   {
    "name": "梁溪脆鳝",
@@ -201,7 +405,24 @@
    ],
    "tips": [
     "冷菜适合下酒，量不大可以多人分食"
-   ]
+   ],
+   "amap": {
+    "name": "品味楼·醉卤·酱排骨·无锡特色菜",
+    "id": "B0IATX6MHP",
+    "addr": "梁溪区 南下塘街92号",
+    "type": "浙江菜",
+    "tel": "15061507279",
+    "rating": 4.5,
+    "cost": 88.0,
+    "open": "周一至周五 11:00-16:30,17:00-21:00；周六至周日 11:00-16:30,17:00-21:30",
+    "lng": 120.313345,
+    "lat": 31.560564,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bff106d034e3323ec164c271dcc5d90e",
+     "https://store.is.autonavi.com/showpic/9112c422e66fa7ff097b5e7f6dbc81d4",
+     "https://store.is.autonavi.com/showpic/14239e5f750f1b0c34f5b6c718b1d3d0"
+    ]
+   }
   },
   {
    "name": "油面筋塞肉",
@@ -213,7 +434,24 @@
    ],
    "tips": [
     "红烧版偏甜，清汤版更清爽，可以按口味选"
-   ]
+   ],
+   "amap": {
+    "name": "顺味家快餐(前州店)",
+    "id": "B0FFGB9CTY",
+    "addr": "惠山区 大道中兴中路205号",
+    "type": "中餐厅",
+    "tel": "0510-83581778",
+    "rating": 4.3,
+    "cost": 26.0,
+    "open": "周一至周日 08:30-13:00,15:30-20:00",
+    "lng": 120.215175,
+    "lat": 31.695727,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFGB9CTY/comment/file_media_Photo_4574_IMG_1764328334_4475_IMG_20251128_191034_jpg_ss__1764414384003_88988617.jpg",
+     "https://store.is.autonavi.com/showpic/5572aa641bd7eb4c1676b36139b8665a",
+     "https://store.is.autonavi.com/showpic/eb54e371a1cea557b112c8d148c88184"
+    ]
+   }
   },
   {
    "name": "玉兰饼",
@@ -226,7 +464,24 @@
    "tips": [
     "刚出锅最好吃，注意烫嘴",
     "鲜肉和甜馅可以各点一个"
-   ]
+   ],
+   "amap": {
+    "name": "毛华美食(清扬一店)",
+    "id": "B01FE0IEOY",
+    "addr": "梁溪区 清扬路80-2号(太湖广场地铁站1号口步行210米)",
+    "type": "中餐厅",
+    "tel": "15951517266",
+    "rating": 4.7,
+    "cost": 23.0,
+    "open": "周一至周日 06:00-19:30",
+    "lng": 120.303539,
+    "lat": 31.556977,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/358952333686144ad47c564057e773bc",
+     "https://aos-comment.amap.com/B01FE0IEOY/comment/20260309-83fc1484a21b8f38a9301006-Ak5pimm3cKj7lBU4a2FJ8a.jpg",
+     "https://store.is.autonavi.com/showpic/84d7020522a1ca860000002906770981?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

@@ -21,7 +21,24 @@
     "洞内温度比外面低，夏天也带件薄外套",
     "躺船时听从工作人员指挥，不要抬头",
     "从市区开车约 30 分钟"
-   ]
+   ],
+   "amap": {
+    "name": "双龙洞景区",
+    "id": "B024303DEU",
+    "addr": "婺城区 罗店镇",
+    "type": "国家级景点",
+    "tel": "0579-82598016",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "4月1日至10月31日 周一至周日 08:00-17:10开放；1月1日至3月31日,11月1日至12月31日 周一至周日 08:30-16:40开放；清明节,劳动节,端午节,中秋节,国庆节 08:00-17:10开放；元旦节,春节 08:30-16:40开放",
+    "lng": 119.624455,
+    "lat": 29.200776,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/daa8e23c3e21954fc7d305d9c998f6be",
+     "https://store.is.autonavi.com/showpic/23915e88fdc4f99f35134c8fa6175775",
+     "https://store.is.autonavi.com/showpic/18622b9cb15aba438ac76f51035176f1"
+    ]
+   }
   },
   {
    "name": "八咏楼和古子城",
@@ -36,7 +53,24 @@
    "tips": [
     "古子城街区免费逛",
     "可以和婺江边散步、吃晚饭安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "八咏楼",
+    "id": "B02430I2X2",
+    "addr": "婺城区 城东街道城东街道八咏路中段235号对面",
+    "type": "旅游景点",
+    "tel": "0579-82326307",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "04/01-10/31 周二–周日 09:00–20:30开放；01/01-03/31 周二–周日 09:00–20:00开放；11/01-12/31 周二–周日 09:00–20:00开放；01/01-12/31 周一 全天不开放；元旦节,春节 09:00–20:00开放；清明节,劳动节,端午节,中秋节,国庆节 09:00–20:30开放",
+    "lng": 119.663383,
+    "lat": 29.099546,
+    "photos": [
+     "https://aos-comment.amap.com/B02430I2X2/comment/content_media_external_images_media_100001988_1727313598542_77252286.jpg",
+     "https://aos-comment.amap.com/B02430I2X2/comment/F336E1D5_1AF1_472B_ACEE_0CC89AA3B386_L0_001_1179_624_1731978102951_51027118.jpg",
+     "https://store.is.autonavi.com/showpic/04ee2bbef3c690d70000000642900003?type=pic"
+    ]
+   }
   },
   {
    "name": "横店影视城",
@@ -52,7 +86,24 @@
     "景区多，提前规划好路线，按演出时间安排",
     "门票种类多，以官方渠道为准",
     "从金华市区开车约 1 小时，杭州也有直达大巴"
-   ]
+   ],
+   "amap": {
+    "name": "横店影视城",
+    "id": "B02430HUMW",
+    "addr": "东阳市 长征路26号",
+    "type": "国家级景点",
+    "tel": "0579-86547211",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 120.315738,
+    "lat": 29.132961,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7b55281e01a73bbb475e66b9cb4cb5f8",
+     "https://store.is.autonavi.com/showpic/a3f2bd47adb787ad0964bbd1b7c731ad",
+     "https://store.is.autonavi.com/showpic/ed6cb2605b95d30cbdec152adb1e89ae"
+    ]
+   }
   },
   {
    "name": "义乌国际商贸城",
@@ -68,7 +119,24 @@
     "市场很大，提前看好要逛哪几个区",
     "主要是批发，零售要问清楚",
     "从金华市区或杭州坐高铁到义乌站都很方便"
-   ]
+   ],
+   "amap": {
+    "name": "义乌国际商贸城",
+    "id": "B0GDLUHK0D",
+    "addr": "义乌市",
+    "type": "普通商场",
+    "tel": "0579-85185555",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "08:30-17:30 2026-05-01至2026-05-05 08:30-17:30",
+    "lng": 120.107083,
+    "lat": 29.334649,
+    "photos": [
+     "https://aos-comment.amap.com/B024314LVR/comment/184214260944c88831b6044f717b97da_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/0a6893bcd04090dd0000003314958895?type=pic",
+     "https://aos-comment.amap.com/B024314LVR/comment/d34f9c39e80f867037b3474a65573db1_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "诸葛八卦村",
@@ -83,7 +151,24 @@
    "tips": [
     "跟着讲解逛更能看懂八卦布局",
     "从金华市区开车约 40 分钟"
-   ]
+   ],
+   "amap": {
+    "name": "诸葛八卦村景区",
+    "id": "B02430I2UW",
+    "addr": "兰溪市 330国道",
+    "type": "国家级景点",
+    "tel": "0579-88600026",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "1月至3月,11月至12月 周一至周日 08:00-16:30 最晚进入16:00；4月至10月 周一至周日 07:30-17:00 最晚进入16:30；诸葛后裔祭祖:农历四月十四（春祭）、农历八月廿八（秋祭），具体安排以景区公告为准",
+    "lng": 119.296428,
+    "lat": 29.247849,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/863b6f5d1e20680621fd7decbcf26fd8",
+     "https://store.is.autonavi.com/showpic/4b5e33c71536cacfe4365d1b748c064b",
+     "https://store.is.autonavi.com/showpic/750366a62c79eb72922abcb019f30a31"
+    ]
+   }
   },
   {
    "name": "东阳卢宅",
@@ -98,7 +183,24 @@
    "tips": [
     "和横店可以连在一起安排",
     "对木雕感兴趣可以再去中国木雕城看看"
-   ]
+   ],
+   "amap": {
+    "name": "卢宅",
+    "id": "B02430HZD8",
+    "addr": "东阳市 卢宅街2号",
+    "type": "风景名胜",
+    "tel": "0579-86635771",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "08:30-17:00(16:30停止进入)",
+    "lng": 120.246661,
+    "lat": 29.263471,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/95858426fa9b50790000009491486225?type=pic",
+     "https://store.is.autonavi.com/showpic/16ebc43aefe953950000001939784120?type=pic",
+     "https://store.is.autonavi.com/showpic/e88ed6959fc6763d0000004335962519?type=pic"
+    ]
+   }
   },
   {
    "name": "方岩",
@@ -113,7 +215,24 @@
    "tips": [
     "登山台阶陡，注意安全",
     "秋季庙会期间人很多，以当地公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "永康市方岩风景区",
+    "id": "B0FFI1TMKZ",
+    "addr": "永康市 永康方岩镇",
+    "type": "风景名胜",
+    "tel": "0579-87306010",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "07:30-16:00,2026-02-16至2026-02-23 00:00-24:00",
+    "lng": 120.189911,
+    "lat": 28.920803,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/09fa8848-6c75-4a85-b5bf-3c81c8a6c6a9.jpg",
+     "https://aos-comment.amap.com/B0FFI1TMKZ/headerImg/becd118344da8f41243a90a2eba4b1fc_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/10ceedbb2e4ec314832ba533119be52f"
+    ]
+   }
   },
   {
    "name": "郭洞",
@@ -128,7 +247,24 @@
    "tips": [
     "古村有村民生活，拍照注意礼貌",
     "可以和武义温泉安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "郭洞景区",
+    "id": "B0243010BE",
+    "addr": "武义县 郭洞村村口路9号",
+    "type": "风景名胜",
+    "tel": "0579-87736439",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "08:00-17:00",
+    "lng": 119.834441,
+    "lat": 28.816004,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8f5e6d89c31935836a2aa8c40ee03fe2",
+     "https://aos-comment.amap.com/B0243010BE/comment/83303446_CF78_49A5_ACE7_2D50AC5DC86D_L0_001_1500_2000_1733461665970_37594572.jpg",
+     "https://aos-comment.amap.com/B0243010BE/comment/content_media_external_images_media_1000001682_ss__1726530943447_06627656.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -143,7 +279,24 @@
    "tips": [
     "买伴手礼可以选切片或小包装",
     "蜜汁火方是经典做法，值得一尝"
-   ]
+   ],
+   "amap": {
+    "name": "金华火腿专卖店",
+    "id": "B0LGDUIY2N",
+    "addr": "婺城区 迪耳路106号(金华站南广场往东800米左右)",
+    "type": "餐饮相关",
+    "tel": "13605794108",
+    "rating": 3.9,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00",
+    "lng": 119.641445,
+    "lat": 29.110466,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/df397c09c8d84830fae52544261bb881",
+     "https://store.is.autonavi.com/showpic/563d3fd6a38dbece0b6d81c50873c8aa",
+     "https://store.is.autonavi.com/showpic/d501596972322c3d02f66590e8046a35"
+    ]
+   }
   },
   {
    "name": "金华酥饼",
@@ -156,7 +309,23 @@
    "tips": [
     "现烤的趁热吃最酥",
     "带回家的可以回烤一下"
-   ]
+   ],
+   "amap": {
+    "name": "金华酥饼(五一路店)",
+    "id": "B024315LNT",
+    "addr": "婺城区 青年路358号明景园",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "",
+    "lng": 119.642778,
+    "lat": 29.108268,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5537d5f1a31016afc668af51",
+     "https://store.is.autonavi.com/showpic/5537d5f1a31016afc668af54"
+    ]
+   }
   },
   {
    "name": "东阳沃面",
@@ -169,7 +338,24 @@
    "tips": [
     "汤汁浓稠，趁热吃",
     "去横店时可以顺便尝尝"
-   ]
+   ],
+   "amap": {
+    "name": "东阳沃面荞麦饺(王村小区店)",
+    "id": "B0I3JZ5HKO",
+    "addr": "婺城区 31栋11号",
+    "type": "特色/地方风味餐厅",
+    "tel": "13857999509",
+    "rating": 3.9,
+    "cost": 19.0,
+    "open": "周一至周日 06:30-21:00",
+    "lng": 119.64843,
+    "lat": 29.068573,
+    "photos": [
+     "https://aos-comment.amap.com/B0I3JZ5HKO/comment/8B8AEEEE_7965_47C4_99C4_A7E933F978EE_L0_001_1080_810_1740842638231_19270095.jpg",
+     "https://store.is.autonavi.com/showpic/143f37bc7c1cc9f650926370784212ab",
+     "https://store.is.autonavi.com/showpic/eae1e51e3c5609a90910ef33373abc4e"
+    ]
+   }
   },
   {
    "name": "肉麦饼",
@@ -181,7 +367,24 @@
    ],
    "tips": [
     "一张很大，可以几个人分着吃"
-   ]
+   ],
+   "amap": {
+    "name": "千里香(紫微南路店)",
+    "id": "B024314HCA",
+    "addr": "永康市 紫微南路55号(永康紫微朗悦酒店西门旁)",
+    "type": "中餐厅",
+    "tel": "0579-87177483",
+    "rating": 4.7,
+    "cost": 23.0,
+    "open": "周一至周日 04:30-01:00",
+    "lng": 120.022678,
+    "lat": 28.893807,
+    "photos": [
+     "https://aos-comment.amap.com/B024314HCA/comment/2C010231_3E92_478E_A4A4_104ED48680A4_L0_001_2000_150_1765112446649_43273626.jpg",
+     "https://aos-comment.amap.com/B024314HCA/comment/45648018_E4E9_4BAE_AAFA_A0CEFD0EBA8D_L0_001_2016_151_1772181684354_95876663.jpg",
+     "https://aos-comment.amap.com/B024314HCA/comment/969DF6EA_F550_4123_8AC1_D539C3812F65_L0_001_2016_151_1765112446786_18859723.jpg"
+    ]
+   }
   },
   {
    "name": "兰溪鸡子馃",
@@ -193,7 +396,24 @@
    ],
    "tips": [
     "现做现吃最好，注意烫"
-   ]
+   ],
+   "amap": {
+    "name": "来吃馃(中村社区店)",
+    "id": "B02430I8Y9",
+    "addr": "婺城区 中村路101号",
+    "type": "中餐厅",
+    "tel": "18757632885",
+    "rating": 4.5,
+    "cost": 17.0,
+    "open": "周一至周日 16:00-01:00",
+    "lng": 119.656714,
+    "lat": 29.089364,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/500ec678e7269b870000000809352937?type=pic",
+     "https://store.is.autonavi.com/showpic/406de9a6d94ad63cec44040d2625e73a",
+     "https://store.is.autonavi.com/showpic/a9d29927d23a629c0000000809412029?type=pic"
+    ]
+   }
   },
   {
    "name": "义乌红糖",
@@ -206,7 +426,24 @@
    "tips": [
     "冬季去可以看看糖坊熬糖",
     "小包装更方便携带"
-   ]
+   ],
+   "amap": {
+    "name": "义乌红糖",
+    "id": "B0JGKHQ4B1",
+    "addr": "金东区 宾虹东路与复兴街交叉口东北120米",
+    "type": "购物相关场所",
+    "tel": "13857999308",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-20:00",
+    "lng": 119.6797,
+    "lat": 29.098101,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2d0f6863fd7a363400fe175d75bae312",
+     "https://store.is.autonavi.com/showpic/b9b61b67bf7b06270000000598198393",
+     "https://store.is.autonavi.com/showpic/45cfb89131d942290000000598190680"
+    ]
+   }
   }
  ],
  "food_areas": [

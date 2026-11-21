@@ -20,7 +20,24 @@
    "tips": [
     "需要购票，节假日建议提前预约",
     "和月湖公园挨着，可以连起来安排"
-   ]
+   ],
+   "amap": {
+    "name": "天一阁博物院",
+    "id": "B023E05BNE",
+    "addr": "海曙区 天一街10号(西门口地铁站D口步行430米)",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "5月1日至10月31日 周一 13:30-17:30开放；周二至周日 08:30-17:30开放；11月1日至次年4月30日 周一 13:30-17:00开放；周二至周日 08:30-17:00开放；劳动节,中秋节,国庆节 08:30-17:30开放",
+    "lng": 121.539591,
+    "lat": 29.871055,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8db8eb7d7762f2ba21cefb5bedd9619a",
+     "https://store.is.autonavi.com/showpic/ce39be99711308347d06dc11025e198f",
+     "https://store.is.autonavi.com/showpic/a8f9aaf8c6057bad8cae0780a9da2b6e"
+    ]
+   }
   },
   {
    "name": "月湖公园",
@@ -35,7 +52,24 @@
    "tips": [
     "免费开放",
     "和天一阁、鼓楼、南塘老街距离都不远"
-   ]
+   ],
+   "amap": {
+    "name": "月湖公园",
+    "id": "B023E05BX0",
+    "addr": "海曙区 镇明路",
+    "type": "公园",
+    "tel": "0574-83868555",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.543597,
+    "lat": 29.867182,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1765fe3c85e8654aac76f161d838d403",
+     "https://store.is.autonavi.com/showpic/759117309c52a5f6541fc8130ba74ebe",
+     "https://store.is.autonavi.com/showpic/8a8e576ea39a5cf73877265cb0c38f02"
+    ]
+   }
   },
   {
    "name": "老外滩",
@@ -50,7 +84,24 @@
    "tips": [
     "晚上去比白天更有氛围",
     "地铁 2 号线外滩大桥站下车步行可到"
-   ]
+   ],
+   "amap": {
+    "name": "宁波老外滩",
+    "id": "B023E07KHL",
+    "addr": "江北区 中马路157号-159号",
+    "type": "风景名胜",
+    "tel": "0574-87661143",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.560634,
+    "lat": 29.876526,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9b0dc21eaba3b7b6041823b9a07ebd29",
+     "https://store.is.autonavi.com/showpic/2e7891ce3cb9a6f50be2913aec760b25",
+     "https://store.is.autonavi.com/showpic/6997b3e756a981afb3e9f0eb0f5cd5b3"
+    ]
+   }
   },
   {
    "name": "南塘老街",
@@ -65,7 +116,24 @@
    "tips": [
     "小吃以游客口味为主，挑老字号的店吃",
     "周末晚上人多，可以早点去"
-   ]
+   ],
+   "amap": {
+    "name": "南塘老街A区",
+    "id": "B0KUBRMP5Q",
+    "addr": "海曙区 船埠巷与南塘老街步行街交叉口东北140米",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 09:00-22:00",
+    "lng": 121.541285,
+    "lat": 29.855658,
+    "photos": [
+     "https://aos-comment.amap.com/B0KUBRMP5Q/comment/20260627-96a0ff06ae7c6600e42b4a54-mD15a7qdnd5kRXa320jjX.jpg",
+     "https://store.is.autonavi.com/showpic/268d8ca409b2381f0000005906696493?type=pic",
+     "https://aos-comment.amap.com/B0KUBRMP5Q/comment/20260627-96a0ff06ae7c6600e42b4a54-9tGdohIQbHg5zFRex4pw5H.jpg"
+    ]
+   }
   },
   {
    "name": "鼓楼",
@@ -80,7 +148,24 @@
    "tips": [
     "免费参观",
     "地铁 1、2 号线鼓楼站下车即到"
-   ]
+   ],
+   "amap": {
+    "name": "宁波鼓楼",
+    "id": "B023E05A3C",
+    "addr": "海曙区 公园路26弄11号(鼓楼地铁站F口步行200米)",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:00",
+    "lng": 121.546596,
+    "lat": 29.873675,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9c72a01ff4ec20e443dda55ea99aa564",
+     "https://store.is.autonavi.com/showpic/647629b44fb497a1055dd78c1fc23899",
+     "https://store.is.autonavi.com/showpic/fc85acbb2fa633456b01af1d3f7de4af"
+    ]
+   }
   },
   {
    "name": "东钱湖",
@@ -95,7 +180,24 @@
    "tips": [
     "湖很大，环湖一圈骑车需要几个小时，量力而行",
     "南宋石刻公园的石像生很有特色，值得一去"
-   ]
+   ],
+   "amap": {
+    "name": "东钱湖风景名胜区",
+    "id": "B023E05BXK",
+    "addr": "鄞州区 大堰路188号",
+    "type": "风景名胜",
+    "tel": "0574-88373737",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 121.701951,
+    "lat": 29.758863,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d4575e58ef3e693c3c08bc7040ba8f60",
+     "https://store.is.autonavi.com/showpic/a3c5f06db7d2a7440000009212962519?type=pic",
+     "https://store.is.autonavi.com/showpic/28737a3c175366260000007178614173?type=pic"
+    ]
+   }
   },
   {
    "name": "溪口雪窦山",
@@ -111,7 +213,24 @@
     "溪口和雪窦山通常是联票，按需购买",
     "景区内交通靠观光车，排队较久",
     "从宁波市区开车约 1 小时"
-   ]
+   ],
+   "amap": {
+    "name": "雪窦山",
+    "id": "B023E07FDK",
+    "addr": "奉化区 溪口镇",
+    "type": "国家级景点",
+    "tel": "4001817718",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10月1日-10月6日 07:30-17:30",
+    "lng": 121.258417,
+    "lat": 29.685926,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0e699469e6c8d64a5e2a71f94d027c8f",
+     "https://store.is.autonavi.com/showpic/59b15d9d1878ad90281c733c97e3def2",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/5d871546-c36c-4664-8ade-f426c2f2d6e0.jpg"
+    ]
+   }
   },
   {
    "name": "宁波博物馆",
@@ -126,7 +245,24 @@
    "tips": [
     "免费参观，需要预约，周一一般闭馆",
     "在鄞州区，离老城有一段距离，打车或地铁前往"
-   ]
+   ],
+   "amap": {
+    "name": "宁波博物院",
+    "id": "B023E05HS9",
+    "addr": "鄞州区 首南中路1000号",
+    "type": "博物馆",
+    "tel": "0574-82815588",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "本馆免费对外开放(含未成年人)一闭馆,除国家法定节假日外,开放时间09:00-17:00,16:00后停止入馆,六周法定节假暑假期间(周一,周五)除外,开放时间09:00-21:00,20:00后停止入馆",
+    "lng": 121.5455,
+    "lat": 29.814614,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/75adc47825a5b7663cda8c415b0866d7",
+     "https://store.is.autonavi.com/showpic/7640735f25f0de5af36e815e3d81e52c",
+     "https://store.is.autonavi.com/showpic/6aea1cbb7eda3644fa5a449f3eb6b877"
+    ]
+   }
   },
   {
    "name": "石浦渔港古城",
@@ -142,7 +278,24 @@
     "每年 9 月中下旬的开渔节最热闹",
     "海鲜按斤计价，点菜前问清价格和做法",
     "从宁波市区开车约 1.5 小时"
-   ]
+   ],
+   "amap": {
+    "name": "石浦渔港古城",
+    "id": "B023E05B0B",
+    "addr": "象山县 石浦镇江心街4号",
+    "type": "国家级景点",
+    "tel": "0574-65971999",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "10月8日起8:00-16:30",
+    "lng": 121.947088,
+    "lat": 29.208449,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/359c803fbd3a3a2ca8a6a1959fae4965",
+     "https://store.is.autonavi.com/showpic/926b2fe10eaa89d168d3eb5d6a5e52a0",
+     "https://store.is.autonavi.com/showpic/6e799d42992e761ed8bcb8392235fbc4"
+    ]
+   }
   }
  ],
  "foods": [
@@ -156,7 +309,24 @@
    ],
    "tips": [
     "刚出锅很烫，先咬一个小口"
-   ]
+   ],
+   "amap": {
+    "name": "缸鸭狗(天一广场店)",
+    "id": "B0FFG86Z20",
+    "addr": "海曙区 水晶街68号(东门口地铁站C口步行460米)",
+    "type": "特色/地方风味餐厅",
+    "tel": "0574-89081926",
+    "rating": 4.6,
+    "cost": 37.0,
+    "open": "周一至周日 10:30-21:00 最晚点餐20:55",
+    "lng": 121.554701,
+    "lat": 29.868311,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6a96d1afe154f3f0abc0bd5ed919c12d",
+     "https://aos-comment.amap.com/B0FFG86Z20/comment/43670F4D_77F1_4927_88C6_37D252C77C04_L0_001_1080_71_1771215218719_19001489.jpg",
+     "https://aos-comment.amap.com/B0FFG86Z20/comment/file_media_Photo_3544_IMG_1770780463_3512_IMG_20260211_112603_jpg_ss__1770905563440_90508435.jpg"
+    ]
+   }
   },
   {
    "name": "宁波海鲜",
@@ -169,7 +339,24 @@
    "tips": [
     "红膏炝蟹是生腌，肠胃敏感的人少吃",
     "海鲜按时价计，点之前问清楚"
-   ]
+   ],
+   "amap": {
+    "name": "宁鲜生宁波小海鲜(江南一品店)",
+    "id": "B0FFHFDJT8",
+    "addr": "鄞州区 杨木碶路329弄45号(院士路地铁站B口步行330米)",
+    "type": "海鲜酒楼",
+    "tel": "0574-87473579",
+    "rating": 4.5,
+    "cost": 79.0,
+    "open": "周一至周日 09:00-13:00,16:00-21:00 10-01至10-07 周一至周日 09:00-13:00,16:00-21:00",
+    "lng": 121.619041,
+    "lat": 29.887359,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFHFDJT8/comment/IMG_20241002_142501_tem_1727850309036_18354925.jpg",
+     "https://store.is.autonavi.com/showpic/5d06842747270f660000005188258305?type=pic",
+     "https://aos-comment.amap.com/B0FFHFDJT8/comment/content_media_external_file_24402_ss__1760705742660_79019456.jpg"
+    ]
+   }
   },
   {
    "name": "宁波年糕",
@@ -181,7 +368,24 @@
    ],
    "tips": [
     "年糕买回家冷藏或冷冻都可以"
-   ]
+   ],
+   "amap": {
+    "name": "甬上名灶·宁波小鲜(天一广场店)",
+    "id": "B0L1TG24BN",
+    "addr": "海曙区 药行街88号3D区一楼(天一广场3号门)",
+    "type": "中餐厅",
+    "tel": "0574-82823788",
+    "rating": 4.7,
+    "cost": 118.0,
+    "open": "周一至周五 09:00-13:30,16:30-20:30；周六至周日 09:00-14:00,16:30-20:30",
+    "lng": 121.554937,
+    "lat": 29.86784,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/f8409846e634d69e0000002266502257?type=pic",
+     "https://store.is.autonavi.com/showpic/40794be2ab263ecf0000002327910624?type=pic",
+     "https://aos-comment.amap.com/B0L1TG24BN/comment/file_media_Photo_466_IMG_1769824137_254_IMG_20251105_144853_jpg_ss__1770767057310_93568936.jpg"
+    ]
+   }
   },
   {
    "name": "油赞子",
@@ -193,7 +397,24 @@
    ],
    "tips": [
     "容易受潮，打开后尽快吃完"
-   ]
+   ],
+   "amap": {
+    "name": "宁波老字号-德茂成文昌油赞子(鼓楼店)",
+    "id": "B0J6FL2VC3",
+    "addr": "海曙区 府桥街48号-2(鼓楼地铁站E口步行230米)",
+    "type": "中餐厅",
+    "tel": "15990597977",
+    "rating": 4.5,
+    "cost": 13.0,
+    "open": "周一至周五 08:30-21:30；周六至周日 08:30-22:00",
+    "lng": 121.546906,
+    "lat": 29.874649,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/589a34c4e5220dcf0000000852390009?type=pic",
+     "https://store.is.autonavi.com/showpic/3256d7bb2238056e0000002302158866?type=pic",
+     "https://store.is.autonavi.com/showpic/4656cb9be5856c1b0000002302170904?type=pic"
+    ]
+   }
   },
   {
    "name": "龙凤金团",
@@ -205,7 +426,22 @@
    ],
    "tips": [
     "不太耐放，买了尽快吃"
-   ]
+   ],
+   "amap": {
+    "name": "亚东包子金米团",
+    "id": "B0GKAPYVZD",
+    "addr": "鄞州区 人民中路28号姜山菜场",
+    "type": "快餐厅",
+    "tel": "0574-88457601",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "",
+    "lng": 121.539073,
+    "lat": 29.762235,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/59e1362cb097edb32c9be07a0ce98cae"
+    ]
+   }
   },
   {
    "name": "溪口千层饼",
@@ -217,7 +453,24 @@
    ],
    "tips": [
     "很酥容易碎，带走时小心别压"
-   ]
+   ],
+   "amap": {
+    "name": "蒋家龙门千层饼(溪口店)",
+    "id": "B0FFFS48B7",
+    "addr": "奉化区 溪口镇武岭西路150幢1号",
+    "type": "糕饼店",
+    "tel": "0574-88854018",
+    "rating": 4.6,
+    "cost": 26.0,
+    "open": "周一至周日 07:00-21:00 10-01至10-07 周一至周日 07:00-21:00",
+    "lng": 121.278152,
+    "lat": 29.680139,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0f7c2a3728c6f467a0c5efde876f05e5",
+     "https://store.is.autonavi.com/showpic/df1890762528f5780000002536466796?type=pic",
+     "https://store.is.autonavi.com/showpic/36f01bbb7a0524e110e4c882786f083c"
+    ]
+   }
   }
  ],
  "food_areas": [

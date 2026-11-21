@@ -21,7 +21,24 @@
     "表演场次以景区当天公告为准，可以提前查好时间",
     "和岭南天地相邻，可以连着逛",
     "地铁广佛线祖庙站步行可到"
-   ]
+   ],
+   "amap": {
+    "name": "祖庙",
+    "id": "B02F50768W",
+    "addr": "禅城区 祖庙路21号",
+    "type": "国家级景点",
+    "tel": "0757-82286913",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "2026-02-16,08:30-17:00,2026-02-17,07:30-19:00,2026-02-18至2026-02-23,08:30-18:30,2026-02-24, 08:30-18:00",
+    "lng": 113.11351,
+    "lat": 23.028945,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/c31362af65dd39b7cd9f4185d1f734c2",
+     "https://store.is.autonavi.com/showpic/49beef7bd30d098918c846c2869d1349",
+     "https://store.is.autonavi.com/showpic/4336deebf15657084a202fc70b0bfafe"
+    ]
+   }
   },
   {
    "name": "岭南天地",
@@ -36,7 +53,24 @@
    "tips": [
     "周末和节假日晚上人多，热门餐厅最好提前排号",
     "和祖庙步行几分钟，可以安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "岭南天地南墙",
+    "id": "B0M197U26G",
+    "addr": "禅城区 东瑞路与天地路交叉口西北100米",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00 最晚进入17:30；停止售票:17:30 停止入场:17:30",
+    "lng": 113.113831,
+    "lat": 23.028451,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6f0c20a08d85e4050000008669330708?type=pic",
+     "https://store.is.autonavi.com/showpic/ec903d3c0ee8b2b50000008669342642?type=pic",
+     "https://store.is.autonavi.com/showpic/9466570f108e353352f60e2913b5fd70"
+    ]
+   }
   },
   {
    "name": "南风古灶",
@@ -51,7 +85,24 @@
    "tips": [
     "做陶体验需要提前预约，成品一般需要烧制后邮寄",
     "园区以户外为主，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "南风古灶",
+    "id": "B02F5076BA",
+    "addr": "禅城区 高庙路5-34号",
+    "type": "国家级景点",
+    "tel": "0757-82701118",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30；工作日夜间开放时间:17:30-21:00 非工作日夜间开放时间:18:00-21:00",
+    "lng": 113.079185,
+    "lat": 23.005324,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8c5e0802904782cebd454138323b1964",
+     "https://store.is.autonavi.com/showpic/755336d9c3ae4b094ca841240b0e415f",
+     "https://store.is.autonavi.com/showpic/557d89b31399dcf1e40e0008d787a037"
+    ]
+   }
   },
   {
    "name": "梁园",
@@ -66,7 +117,24 @@
    "tips": [
     "园子不大，慢慢走一个多小时足够",
     "适合和祖庙、岭南天地安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "梁园",
+    "id": "B02F5076BV",
+    "addr": "禅城区 松风路先锋古道93号",
+    "type": "风景名胜",
+    "tel": "0757-82241279",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "04/03-06/30 09:00–17:00开放 最晚进入16:40；07/01-08/31 09:00–17:30开放 最晚进入17:10；09/01-12/31 09:00–17:00开放 最晚进入16:40；元旦节,春节,清明节,劳动节,端午节,中秋节,国庆节 09:00–17:30开放 最晚进入17:10",
+    "lng": 113.113304,
+    "lat": 23.038176,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/da2317f2a7b601ed386c093e57e405cc",
+     "https://store.is.autonavi.com/showpic/17f8cfa8bca2aa552e3da74be7862c69",
+     "https://store.is.autonavi.com/showpic/678946d184ec699e3e8436ddbe3c4328"
+    ]
+   }
   },
   {
    "name": "清晖园",
@@ -81,7 +149,24 @@
    "tips": [
     "上午人少，拍窗景最从容",
     "门口就是大良华盖路步行街，适合逛吃"
-   ]
+   ],
+   "amap": {
+    "name": "清晖园",
+    "id": "B02F50766S",
+    "addr": "顺德区 清晖路23号(佛山地铁3号线大良钟楼站E出口步行390米)",
+    "type": "国家级景点",
+    "tel": "0757-22226196",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "09:00-17:30 最晚进入17:00",
+    "lng": 113.255086,
+    "lat": 22.835613,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e73ef3285c75546772411cdf3fddd0ed",
+     "https://store.is.autonavi.com/showpic/cc7b87c442fc7ce80000005389958027",
+     "https://store.is.autonavi.com/showpic/bdfddcf3d335e1050000006237524057?type=pic"
+    ]
+   }
   },
   {
    "name": "逢简水乡",
@@ -96,7 +181,24 @@
    "tips": [
     "节假日人多，平日去更有水乡的安静感",
     "手摇船价格和时长先问清楚再上船"
-   ]
+   ],
+   "amap": {
+    "name": "逢简水乡",
+    "id": "B0FFH05QB1",
+    "addr": "顺德区 逢简村",
+    "type": "风景名胜",
+    "tel": "0757-27798818",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 113.154462,
+    "lat": 22.813153,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/167ccaaf-6dfb-40be-b303-20f7f62eeb76.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/a02aac08-c726-4ef5-8874-97b767d4d573.jpg",
+     "https://store.is.autonavi.com/showpic/649e9b42927eaede5fc8d417d5b87341"
+    ]
+   }
   },
   {
    "name": "西樵山",
@@ -112,7 +214,24 @@
     "山上有景区巴士或索道，可以节省体力",
     "离市区较远，建议自驾或打车，留出大半天",
     "门票和交通安排以景区官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "西樵山风景名胜区",
+    "id": "B02F5076F0",
+    "addr": "南海区 西樵镇环山大道",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:00-17:30 最晚进入17:30；景区观光索道和旅游车运营时间:08:30-17:30,入园核销时间:08:30-16:30",
+    "lng": 112.976074,
+    "lat": 22.908475,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b4ed61c96b2631daee9ca871b6cc0cd7",
+     "https://store.is.autonavi.com/showpic/bced964dfdd7d1ecf32c43e7de71b39c",
+     "https://store.is.autonavi.com/showpic/a369254880c07c12c98768c74777545a"
+    ]
+   }
   },
   {
    "name": "千灯湖公园",
@@ -127,7 +246,24 @@
    "tips": [
     "晚上来看夜景最好",
     "节假日有时会有灯光活动，以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "千灯湖公园",
+    "id": "B02F506TYO",
+    "addr": "南海区 灯湖西路28号",
+    "type": "省级景点",
+    "tel": "13929573906",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 18:00-24:00",
+    "lng": 113.146094,
+    "lat": 23.05361,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/406aa1892676dcdf018886664b86da7c",
+     "https://store.is.autonavi.com/showpic/7e0bc020f25e9edd8f75485306a30306",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/e71b0c1a-3fd0-4695-bfab-9edb11cf73e4.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -142,7 +278,24 @@
    "tips": [
     "冷热都可以选，夏天冰的、冬天热的",
     "可以同时点姜撞奶，对比一下口感"
-   ]
+   ],
+   "amap": {
+    "name": "民信老铺",
+    "id": "B0LKL19OIB",
+    "addr": "禅城区 人民路小学南门旁",
+    "type": "餐饮相关",
+    "tel": "0757-82251283",
+    "rating": 4.5,
+    "cost": 24.0,
+    "open": "周一至周日 09:00-23:00",
+    "lng": 113.114509,
+    "lat": 23.031653,
+    "photos": [
+     "https://aos-comment.amap.com/B0LKL19OIB/comment/content_media_external_file_100002568_1773152991472_89398398.jpg",
+     "https://aos-comment.amap.com/B0LKL19OIB/comment/content_media_external_file_100002568_1773152991471_97893119.jpg",
+     "https://aos-comment.amap.com/B0LKL19OIB/comment/content_media_external_file_1000019276_ss__1767426010847_36196775.jpg"
+    ]
+   }
   },
   {
    "name": "顺德鱼生",
@@ -155,7 +308,22 @@
    "tips": [
     "淡水鱼生食有寄生虫风险，肠胃敏感和老人小孩不建议吃",
     "不吃生的可以点拆鱼羹、煎鱼饼等熟食"
-   ]
+   ],
+   "amap": {
+    "name": "顺德鱼生(三乐路店)",
+    "id": "B0K2X74ECN",
+    "addr": "顺德区 鹭洲梁桂凤纪念中学东南门旁",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 3.8,
+    "cost": 75.0,
+    "open": "",
+    "lng": 113.111719,
+    "lat": 22.944283,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d22c0240fb423c8cf6b1ed1a0e15a92c"
+    ]
+   }
   },
   {
    "name": "陈村粉",
@@ -168,7 +336,24 @@
    "tips": [
     "蒸排骨陈村粉最经典",
     "趁热吃最滑"
-   ]
+   ],
+   "amap": {
+    "name": "黄但记知味食府(陈村店)",
+    "id": "B0FFGGZ1MX",
+    "addr": "顺德区 景明路18号锦龙商业楼1号",
+    "type": "中餐厅",
+    "tel": "0757-23330288",
+    "rating": 4.6,
+    "cost": 78.0,
+    "open": "周一至周日 07:30-15:00,17:00-21:00",
+    "lng": 113.238366,
+    "lat": 22.953228,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9a6e2ca745d3bbcce884ccaa0861f842",
+     "https://store.is.autonavi.com/showpic/88f6e83b484b75eb0000003364142174?type=pic",
+     "https://store.is.autonavi.com/showpic/859db76e7cb1f8b50000002668792546?type=pic"
+    ]
+   }
   },
   {
    "name": "伦教糕",
@@ -180,7 +365,24 @@
    ],
    "tips": [
     "当天做的最好吃，放久了会变硬"
-   ]
+   ],
+   "amap": {
+    "name": "欢姐伦教糕",
+    "id": "B0FFFDWUGO",
+    "addr": "顺德区 伦教镇北海大道北50号",
+    "type": "糕饼店",
+    "tel": "0757-27750961",
+    "rating": 4.5,
+    "cost": 36.0,
+    "open": "周一至周日 08:30-20:30",
+    "lng": 113.205957,
+    "lat": 22.881584,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFDWUGO/comment/20260314-4fede2c7fc63bd9c1d8680ba-8o42Myqv6S59yVLqFheBqb.jpg",
+     "https://aos-comment.amap.com/B0FFFDWUGO/comment/c1773e2ba06ae67396c6281692f1abb1_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0FFFDWUGO/comment/457441585894172817b466e7b8cabfa3_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "均安蒸猪",
@@ -192,7 +394,24 @@
    ],
    "tips": [
     "分量足，几个人点一份就够"
-   ]
+   ],
+   "amap": {
+    "name": "建记均安蒸猪小食店",
+    "id": "B0KRLZ116N",
+    "addr": "顺德区 杏坛镇逢简大道北46号",
+    "type": "中餐厅",
+    "tel": "13724646832",
+    "rating": 4.0,
+    "cost": 38.0,
+    "open": "周一至周日 09:30-20:00",
+    "lng": 113.156123,
+    "lat": 22.813679,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/82e03b21910c51639cf23d8b8cd5682e",
+     "https://store.is.autonavi.com/showpic/2b1c14e3a86123070000009439280419?type=pic",
+     "https://store.is.autonavi.com/showpic/e3c5aebc4e83afee2dd06c2ba0bf62e9"
+    ]
+   }
   },
   {
    "name": "炸牛奶",
@@ -204,7 +423,24 @@
    ],
    "tips": [
     "刚炸好的时候最烫，小心入口"
-   ]
+   ],
+   "amap": {
+    "name": "龙家甜品店",
+    "id": "B0FFLO0OO8",
+    "addr": "顺德区 大良莘村大街76号",
+    "type": "甜品店",
+    "tel": "0757-22226654",
+    "rating": 3.9,
+    "cost": 17.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 113.251683,
+    "lat": 22.834033,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFLO0OO8/comment/be5fbe63-3bd8-4d92-9633-96f6aaaf7cf6.png",
+     "https://store.is.autonavi.com/showpic/fa332c7f9d82eee4b63eb33a8082d7f9",
+     "https://store.is.autonavi.com/showpic/7418c53ec3327ab6b7606c92c908b289"
+    ]
+   }
   },
   {
    "name": "盲公饼",
@@ -216,7 +452,24 @@
    ],
    "tips": [
     "买手信可以挑小包装，方便分送"
-   ]
+   ],
+   "amap": {
+    "name": "盲公饼",
+    "id": "B0FFH5XWQI",
+    "addr": "南海区 狮山镇罗村联星旺南园区旺达路6号厂房六第四楼",
+    "type": "公司",
+    "tel": "13690204166",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周一至周日 09:00-18:30",
+    "lng": 113.090021,
+    "lat": 23.053995,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFH5XWQI/comment/834053bb5738e8b60e8f51527470f97d_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/52ddf487ecb8e9a71bdddbf4498c72b4",
+     "https://aos-comment.amap.com/B0FFH5XWQI/comment/5457c409809406b9762ed8e8fb57f819_2048_2048_80.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

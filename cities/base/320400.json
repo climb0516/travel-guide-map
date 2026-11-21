@@ -21,7 +21,24 @@
     "节假日人多，热门项目要排长队，开园前到最好",
     "门票和快速通道建议提前在官方渠道购买",
     "夏天有不少玩水项目，备一套换洗衣服"
-   ]
+   ],
+   "amap": {
+    "name": "中华恐龙园",
+    "id": "B020700017",
+    "addr": "新北区 三井街道河海东路60号",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "11月16日-22日:09:00–21:00；11月23日起:平日09:00–17:00，周五至周日及节假日09:00–21:00，具体开放时间以官方通知为准（数据来源:江苏省文旅厅公共服务平台苏心游）",
+    "lng": 120.000831,
+    "lat": 31.823773,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/af404825ec4fb39425e4424f5132f162",
+     "https://store.is.autonavi.com/showpic/32061ea4e77bdd3a603c485d4704a446",
+     "https://store.is.autonavi.com/showpic/633ee443c37d773e27d942ed6213dbd3"
+    ]
+   }
   },
   {
    "name": "天宁寺",
@@ -37,7 +54,24 @@
     "登塔需要单独购票，以寺院公告为准",
     "春节期间香客很多，尽量避开初一",
     "旁边就是红梅公园，适合顺路散步"
-   ]
+   ],
+   "amap": {
+    "name": "天宁禅寺",
+    "id": "B020700AOK",
+    "addr": "天宁区 延陵中路636号",
+    "type": "寺庙道观",
+    "tel": "0519-88178022",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "08:00-16:30 最晚进入16:00",
+    "lng": 119.969658,
+    "lat": 31.77435,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7d6ca2ebf2630f65b8f5a7ee3a4abf53",
+     "https://store.is.autonavi.com/showpic/124967bf758a904aad9da5a30ed336da",
+     "https://store.is.autonavi.com/showpic/179be14bd46c56f4892d39cacb7f37bd"
+    ]
+   }
   },
   {
    "name": "红梅公园",
@@ -52,7 +86,24 @@
    "tips": [
     "免费开放",
     "冬末梅花季是最佳时间"
-   ]
+   ],
+   "amap": {
+    "name": "红梅公园",
+    "id": "B020704ITE",
+    "addr": "天宁区 丹青路28号",
+    "type": "国家级景点",
+    "tel": "0519-88108020",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:00",
+    "lng": 119.973393,
+    "lat": 31.774671,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9d25c47bc60f66a162f79a9fd0934f63",
+     "https://store.is.autonavi.com/showpic/0423779a99b7ea8e1ec6786282abf17d",
+     "https://store.is.autonavi.com/showpic/0af86b51c512816e44ca1139f4aad755"
+    ]
+   }
   },
   {
    "name": "青果巷",
@@ -67,7 +118,24 @@
    "tips": [
     "街区免费，部分故居和展馆开放安排以公告为准",
     "傍晚灯亮以后沿运河散步也很舒服"
-   ]
+   ],
+   "amap": {
+    "name": "青果巷历史文化街区",
+    "id": "B0FFG0LJZM",
+    "addr": "天宁区 和平北路100号(文化宫地铁站5B口步行290米)",
+    "type": "旅游景点",
+    "tel": "0519-83187686",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "游客中心09:00-21:30 ,2026-02-16全天关闭,街区09:00-22:00",
+    "lng": 119.962317,
+    "lat": 31.772063,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/478cdc83-e78f-4d98-bd5e-8b57bd4cf544.jpg",
+     "https://store.is.autonavi.com/showpic/862a4aa34dfd9178c553a5602c1f2704",
+     "https://store.is.autonavi.com/showpic/5fde43d2e80994800000009494892433?type=pic"
+    ]
+   }
   },
   {
    "name": "常州博物馆",
@@ -82,7 +150,24 @@
    "tips": [
     "免费参观，需提前预约，周一通常闭馆",
     "临展信息以官方公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "常州博物馆",
+    "id": "B020704JWH",
+    "addr": "新北区 龙城大道1288号(市民广场西侧)",
+    "type": "博物馆",
+    "tel": "0519-85165089",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "1月1日-6月30日与9月1日-12月31日 周二至周五 09:00-17:00开放 最晚进入16:00；周六至周日 09:00-17:00开放 最晚进入16:00；周一 全天不开放；7月1日-8月31日 周一至周五 09:00-18:00开放 最晚进入17:30；周六至周日 09:00-20:00开放 最晚进入19:30；元旦节,春节,清明节,端午节,中秋节,国庆节 09:00-17:00开放 最晚进入16:00；温馨提示:周一不开放（法定节假日除外）如遇临时调整或延时开放,请以常州博物馆官方最新公告为准。",
+    "lng": 119.97155,
+    "lat": 31.808853,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e2177506b0647ca52569e5171719cb97",
+     "https://store.is.autonavi.com/showpic/150e18cad1136493948ad0e091132b31",
+     "https://store.is.autonavi.com/showpic/83659406370babb64a0a2d5548ef037d"
+    ]
+   }
   },
   {
    "name": "春秋淹城",
@@ -97,7 +182,24 @@
    "tips": [
     "遗址公园和乐园要分清，按兴趣选择",
     "园区较大，夏天注意防晒"
-   ]
+   ],
+   "amap": {
+    "name": "中国春秋淹城旅游区",
+    "id": "B020705EL7",
+    "addr": "武进区 武宜南路197号",
+    "type": "国家级景点",
+    "tel": "4008282995",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:00-21:00；20:00停止检票",
+    "lng": 119.924598,
+    "lat": 31.700953,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d2cb75ef572780737e6dbfcad13fd921",
+     "https://store.is.autonavi.com/showpic/0dc04421385775a8f99dee80beac0ce0",
+     "https://store.is.autonavi.com/showpic/a473d00bc1d942157716053e66c1cc0e"
+    ]
+   }
   },
   {
    "name": "天目湖",
@@ -113,7 +215,24 @@
     "从常州市区开车约 1.5 小时，自驾最方便",
     "可以和南山竹海安排成两天一晚",
     "节假日湖区酒店紧张，要提前订"
-   ]
+   ],
+   "amap": {
+    "name": "天目湖旅游度假区天目湖山水园",
+    "id": "B020701K67",
+    "addr": "溧阳市 环湖西路1号",
+    "type": "国家级景点",
+    "tel": "4001888588",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "8:00-17:00,游船运行时间:A 线:本部码头至龙兴岛码头最后一班游船发班时间 15:00；B 线:本部码头至茶岛码头最后一班游船发班时间 16:00；龙兴岛码头最后一班游船发班时间为 16:30。",
+    "lng": 119.434508,
+    "lat": 31.315188,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5cc324afd2992c18efeadc2269bcb977",
+     "https://store.is.autonavi.com/showpic/126cd5992936e8d603b60d724ead5d4b",
+     "https://store.is.autonavi.com/showpic/191cb58466b8e6d2a09b38cd1cd2f718"
+    ]
+   }
   },
   {
    "name": "南山竹海",
@@ -128,7 +247,24 @@
    "tips": [
     "上山可以坐索道，下山步行比较轻松",
     "春天有竹笋，夏天避暑最舒服"
-   ]
+   ],
+   "amap": {
+    "name": "天目湖南山竹海景区",
+    "id": "B020702FLO",
+    "addr": "溧阳市 戴埠镇李家园村下场园10号",
+    "type": "国家级景点",
+    "tel": "4001888588",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "9月1日-12月31日:08:30-17:30,中秋节期间:9月25日至9月26日:8:00-17:30；9月27日:8:00-17:00",
+    "lng": 119.522742,
+    "lat": 31.1697,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2bf6bc8fd83eaecf02b86e89dbd8c655",
+     "https://store.is.autonavi.com/showpic/14ad0b44a018d6e6b54ccc976cd0e444",
+     "https://store.is.autonavi.com/showpic/f7dc6a69f986310c2189fdd21aa9b557"
+    ]
+   }
   },
   {
    "name": "东方盐湖城",
@@ -143,7 +279,24 @@
    "tips": [
     "景区和温泉分开收费，以官方渠道为准",
     "山区昼夜温差大，带件外套"
-   ]
+   ],
+   "amap": {
+    "name": "东方盐湖城·道天下景区",
+    "id": "B0FFG2M22M",
+    "addr": "金坛区 金坛茅山旅游度假区访仙路9号",
+    "type": "国家级景点",
+    "tel": "0519-82667788",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:30-21:30 最晚进入19:30",
+    "lng": 119.340979,
+    "lat": 31.765179,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/05eca89bdc3dab9ec39e9921c5a40356",
+     "https://store.is.autonavi.com/showpic/182dbafde96819d952d6d72b9dd635b6",
+     "https://store.is.autonavi.com/showpic/1b87f718c7f9ccd74853a474b6633c6f"
+    ]
+   }
   }
  ],
  "foods": [
@@ -158,7 +311,24 @@
    "tips": [
     "清汤银丝面最能吃出面本身的味道",
     "浇头可以选两种，叫「双浇」"
-   ]
+   ],
+   "amap": {
+    "name": "常州银丝面馆(麻巷店)",
+    "id": "B020704U0C",
+    "addr": "天宁区 麻巷公寓1号甲单元102室",
+    "type": "中餐厅",
+    "tel": "15906110429",
+    "rating": 4.7,
+    "cost": 23.0,
+    "open": "周一至周日 06:00-20:00",
+    "lng": 119.966796,
+    "lat": 31.773084,
+    "photos": [
+     "https://aos-comment.amap.com/B020704U0C/comment/content_media_external_file_1000027543_ss__1766136965397_08632766.jpg",
+     "https://store.is.autonavi.com/showpic/0b33e40d8d782bd20000006502408982?type=pic",
+     "https://aos-comment.amap.com/B020704U0C/comment/5A182539_327D_4AA6_B364_B30557CF4CEE_L0_001_2000_150_1768401432055_18498303.jpg"
+    ]
+   }
   },
   {
    "name": "加蟹小笼",
@@ -171,7 +341,24 @@
    "tips": [
     "先咬小口吸汤，避免烫嘴",
     "配醋和姜丝更解腻"
-   ]
+   ],
+   "amap": {
+    "name": "迎桂馒头店(博爱路总店)",
+    "id": "B020704KFN",
+    "addr": "天宁区 博爱路129-2号",
+    "type": "中餐厅",
+    "tel": "",
+    "rating": 4.4,
+    "cost": 22.0,
+    "open": "周一至周日 06:00-19:00",
+    "lng": 119.961161,
+    "lat": 31.783748,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b1801802c49b3ad04778fd1e2f580f28",
+     "https://store.is.autonavi.com/showpic/49c2d550f60381440000006317372923?type=pic",
+     "https://store.is.autonavi.com/showpic/ef3a99b54bce3a0558b8a012d313766f"
+    ]
+   }
   },
   {
    "name": "大麻糕",
@@ -183,7 +370,24 @@
    ],
    "tips": [
     "现烤的最好吃，凉了会变硬"
-   ]
+   ],
+   "amap": {
+    "name": "常州迎桂馒头店(丽华店)",
+    "id": "B02070TP8Q",
+    "addr": "天宁区 诺诚高第3-101号",
+    "type": "中餐厅",
+    "tel": "0519-88817077",
+    "rating": 4.6,
+    "cost": 13.0,
+    "open": "周一至周日 06:00-19:30",
+    "lng": 119.977801,
+    "lat": 31.750155,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b1801802c49b3ad04778fd1e2f580f28",
+     "https://store.is.autonavi.com/showpic/2e1ca3367e843ac3446d32afd0531a26",
+     "https://store.is.autonavi.com/showpic/570c5c4f7ac63a061da10523"
+    ]
+   }
   },
   {
    "name": "糟扣肉",
@@ -195,7 +399,24 @@
    ],
    "tips": [
     "偏油腻，配清爽的蔬菜一起点"
-   ]
+   ],
+   "amap": {
+    "name": "老常州菜馆(国光店)",
+    "id": "B0FFGKP4TS",
+    "addr": "钟楼区 蓝色星空东北门旁",
+    "type": "中餐厅",
+    "tel": "0519-85171777",
+    "rating": 4.6,
+    "cost": 104.0,
+    "open": "周一至周日 11:00-13:30,16:30-20:30 10-01至10-07 周一至周日 11:00-13:30,17:00-21:30",
+    "lng": 119.942217,
+    "lat": 31.766579,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/ad69c0c934bdf3b40000009418642103?type=pic",
+     "https://store.is.autonavi.com/showpic/277033f421754f040000001098832486?type=pic",
+     "https://store.is.autonavi.com/showpic/8c47cedd3c3692370000003628440953"
+    ]
+   }
   },
   {
    "name": "天目湖砂锅鱼头",
@@ -208,7 +429,24 @@
    "tips": [
     "按鱼头大小计价，点之前问清分量",
     "趁热先喝汤，再吃鱼头"
-   ]
+   ],
+   "amap": {
+    "name": "山水园酒店",
+    "id": "B0G1PMIMC9",
+    "addr": "溧阳市 天目湖镇天目湖山水园1-5幢",
+    "type": "中餐厅",
+    "tel": "0519-87986628",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "周一至周日 11:00-13:30，17:00-20:30",
+    "lng": 119.437829,
+    "lat": 31.314934,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/2865aa854512cd6c0ea0946ff52dd0fd",
+     "https://store.is.autonavi.com/showpic/291244c49ebe1db07f397acc9351d9a6",
+     "https://store.is.autonavi.com/showpic/31be62524bde0461e9d3f454660f4394"
+    ]
+   }
   },
   {
    "name": "常州萝卜干",
@@ -220,7 +458,24 @@
    ],
    "tips": [
     "买小包装更方便携带"
-   ]
+   ],
+   "amap": {
+    "name": "菜三元私房融合菜(南大街莱蒙都会商业街店)",
+    "id": "B0FFLH4H3P",
+    "addr": "钟楼区 杨柳巷48-1号(南大街地铁站3号口步行140米)",
+    "type": "中餐厅",
+    "tel": "13016738232",
+    "rating": 4.7,
+    "cost": 91.0,
+    "open": "周一至周日 10:30-13:30,16:30-21:00",
+    "lng": 119.952419,
+    "lat": 31.779162,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFLH4H3P/comment/%5B2026-01-09-21-50-50%5DAF6F7C57-E4CC-4171-A80D-F9F9283C693_1767966654510_99317954.jpg",
+     "https://store.is.autonavi.com/showpic/5fc631db85ca6d6cd6c957b504eca736",
+     "https://store.is.autonavi.com/showpic/f330f34f73bea52c0000002514710905?type=pic"
+    ]
+   }
   }
  ],
  "food_areas": [

@@ -21,7 +21,24 @@
     "古城晚上酒吧街比较吵，怕吵的住宿选离酒吧远一点的",
     "跳岩过江时注意安全，雨后水大不要冒险",
     "古城里部分景点参观需要购票，以现场公告为准"
-   ]
+   ],
+   "amap": {
+    "name": "凤凰古城",
+    "id": "B02E700F2Q",
+    "addr": "凤凰县 沱江镇",
+    "type": "国家级景点",
+    "tel": "0743-3502059",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00凤凰古城八景营业时间:08:00-17:30、沱江日游08:00-17:50、夜游18:00-23:30。如遇特殊情况调整，请以景区当天实际为准",
+    "lng": 109.606267,
+    "lat": 27.948931,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/1573c1155a826d8fcd1ad5e020d08717",
+     "https://store.is.autonavi.com/showpic/71500d5bf4a219be30169257e5d483bb",
+     "https://store.is.autonavi.com/showpic/88300eaa294d71676cfd351794b94db9"
+    ]
+   }
   },
   {
    "name": "沈从文故居",
@@ -36,7 +53,24 @@
    "tips": [
     "故居面积不大，人多时会比较挤，早上去更好",
     "沈从文墓地在听涛山，从古城步行可达"
-   ]
+   ],
+   "amap": {
+    "name": "沈从文故居",
+    "id": "B02E700E9H",
+    "addr": "凤凰县 中营路10号(近凤凰城大门)",
+    "type": "纪念馆",
+    "tel": "0743-3502059",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "",
+    "lng": 109.602778,
+    "lat": 27.947114,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6bbddaf5b689254261b1c1d97bdab8b9",
+     "https://store.is.autonavi.com/showpic/9c52990f6e074be7a3e8deee3da863ca",
+     "https://store.is.autonavi.com/showpic/43c368682ff34d91bd3846c343dc3150"
+    ]
+   }
   },
   {
    "name": "南方长城",
@@ -51,7 +85,24 @@
    "tips": [
     "离凤凰古城有一段车程，需要打车或包车前往",
     "城墙台阶起伏较大，穿好走的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "南方长城",
+    "id": "B02E7002AS",
+    "addr": "凤凰县 廖家桥镇拉毫村",
+    "type": "国家级景点",
+    "tel": "",
+    "rating": 3.6,
+    "cost": 0,
+    "open": "周一至周日 08:00-17:30 最晚进入17:00",
+    "lng": 109.475112,
+    "lat": 27.928992,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e1d056ad475a7664a02d230e1e59bd7b",
+     "https://store.is.autonavi.com/showpic/ecbf7584a2fd9b0334b93db27e2c9e71",
+     "https://store.is.autonavi.com/showpic/d9581dc924b1405b337597d8fff38336"
+    ]
+   }
   },
   {
    "name": "奇梁洞",
@@ -66,7 +117,24 @@
    "tips": [
     "洞内湿滑，注意脚下",
     "可以和南方长城安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "凤凰奇梁洞景区",
+    "id": "B02E70MPC6",
+    "addr": "凤凰县 凤凰北路(齐良桥九年制学校旁)",
+    "type": "国家级景点",
+    "tel": "0743-3570001",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:30 最晚进入17:00",
+    "lng": 109.558843,
+    "lat": 28.000387,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/a69715465a628fd04b6e9d9583e8c734",
+     "https://store.is.autonavi.com/showpic/d23f13044b3f7832e6e6073959f7eac6",
+     "https://store.is.autonavi.com/showpic/c7c8e16b986c3a1b2afb143e84f5a4ed"
+    ]
+   }
   },
   {
    "name": "芙蓉镇",
@@ -82,7 +150,24 @@
     "瀑布水量受季节和上游放水影响，具体以现场为准",
     "镇子台阶多，下到瀑布底要走不少路",
     "晚上看夜景的话可以住在镇上"
-   ]
+   ],
+   "amap": {
+    "name": "芙蓉镇景区",
+    "id": "B0FFG7P1JN",
+    "addr": "永顺县 芙蓉路南150米",
+    "type": "国家级景点",
+    "tel": "0743-5811888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-24:00",
+    "lng": 109.943216,
+    "lat": 28.742175,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/513614d923fa59dd4e12daf8f48922e0",
+     "https://store.is.autonavi.com/showpic/98c1460099671736b3705fb33d63d19b",
+     "https://store.is.autonavi.com/showpic/82f58c329bb0418013f794be2a5afe9a"
+    ]
+   }
   },
   {
    "name": "红石林",
@@ -97,7 +182,24 @@
    "tips": [
     "夏天日晒强，带好防晒",
     "可以和芙蓉镇安排在同一天"
-   ]
+   ],
+   "amap": {
+    "name": "湘西世界地质公园红石林景区",
+    "id": "B0FFG24CF3",
+    "addr": "古丈县 花兰村",
+    "type": "国家级景点",
+    "tel": "0743-4726888",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周一至周日 08:30-17:00",
+    "lng": 109.826616,
+    "lat": 28.739057,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/25c28372337055650000009009136999?type=pic",
+     "https://store.is.autonavi.com/showpic/517cb9b97c49d9f10000000872064794?type=pic",
+     "https://aos-comment.amap.com/B0FFG24CF3/comment/382015189ec9592839d3b24813a5cbc4_2048_2048_80.jpg"
+    ]
+   }
   },
   {
    "name": "矮寨大桥",
@@ -112,7 +214,24 @@
    "tips": [
     "桥下观光通道的开放安排以景区公告为准",
     "恐高的人可以只在观景台看"
-   ]
+   ],
+   "amap": {
+    "name": "矮寨大桥景区",
+    "id": "B02E70MOPA",
+    "addr": "吉首市 矮寨·十八洞·德夯大峡谷景区",
+    "type": "国家级景点",
+    "tel": "0743-8665205",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:30-17:30 最晚进入17:20",
+    "lng": 109.603302,
+    "lat": 28.328221,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e68e6bd3ffc5b6ea011a66c24f74d2c7",
+     "https://store.is.autonavi.com/showpic/4b3d2a184a14909a3f760d891998f671",
+     "https://store.is.autonavi.com/showpic/8b69d038bbacd755f5fb934d8e73ecdd"
+    ]
+   }
   },
   {
    "name": "德夯苗寨",
@@ -127,7 +246,24 @@
    "tips": [
     "峡谷步道往返需要一些体力，带上水",
     "表演场次以景区当天安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "德夯峡谷景区",
+    "id": "B02E70MOPN",
+    "addr": "吉首市 德夯苗寨",
+    "type": "风景名胜",
+    "tel": "0743-8758777",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 09:00-17:30 最晚进入17:30",
+    "lng": 109.580501,
+    "lat": 28.343515,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/93a08fa872f6ed47ac1ac5115288eef7",
+     "https://store.is.autonavi.com/showpic/1c5208656963081627c66f26acd7c258",
+     "https://store.is.autonavi.com/showpic/0c4c8ca71ddf7c13d9ff6b3723016035"
+    ]
+   }
   }
  ],
  "foods": [
@@ -141,7 +277,24 @@
    ],
    "tips": [
     "辣度偏高，怕辣的提前和店家说"
-   ]
+   ],
+   "amap": {
+    "name": "食季",
+    "id": "B0J1D5UEJA",
+    "addr": "凤凰县 沱江镇虹桥中路33号",
+    "type": "中餐厅",
+    "tel": "15344434116",
+    "rating": 4.6,
+    "cost": 52.0,
+    "open": "周一至周日 10:00-22:00 2027-02-15至2027-02-21 10:00-22:00",
+    "lng": 109.605242,
+    "lat": 27.946981,
+    "photos": [
+     "https://aos-comment.amap.com/B0J1D5UEJA/comment/3DF95D93_4B91_472B_AF18_862440F918E6_L0_001_1706_128_1765172062620_72071575.jpg",
+     "https://store.is.autonavi.com/showpic/2997a767e8a9ecac9c0efe2ba145d474",
+     "https://store.is.autonavi.com/showpic/849e2dac927587660000000972612537?type=pic"
+    ]
+   }
   },
   {
    "name": "凤凰姜糖",
@@ -153,7 +306,24 @@
    ],
    "tips": [
     "店家很多，先试吃再挑口味"
-   ]
+   ],
+   "amap": {
+    "name": "陈家老号姜糖厂",
+    "id": "B0L2PSQGQX",
+    "addr": "凤凰县 沱江镇清溪巷55号",
+    "type": "购物相关场所",
+    "tel": "",
+    "rating": 3.2,
+    "cost": 0,
+    "open": "",
+    "lng": 109.609403,
+    "lat": 27.950732,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/b98b04595c99836c54b917db02881e18",
+     "https://store.is.autonavi.com/showpic/82ba7db8d7fc2c7db7564704f2239769",
+     "https://store.is.autonavi.com/showpic/ff71490d6923d036f46857cde01d9901"
+    ]
+   }
   },
   {
    "name": "米豆腐",
@@ -165,7 +335,24 @@
    ],
    "tips": [
     "可以热吃也可以凉吃，夏天凉的更爽口"
-   ]
+   ],
+   "amap": {
+    "name": "刘晓庆米豆腐店",
+    "id": "B0FFK3KLFR",
+    "addr": "永顺县 河畔街113号",
+    "type": "餐饮相关",
+    "tel": "19974333999",
+    "rating": 4.0,
+    "cost": 14.0,
+    "open": "周一至周日 07:00-22:00",
+    "lng": 109.945954,
+    "lat": 28.74306,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9ba4dfd2ea66af460000009486074251?type=pic",
+     "https://aos-comment.amap.com/B0FFK3KLFR/comment/9ACCB096_FDF4_45F0_9FF0_7E33EFD85D56_L0_001_1500_2000_1740564840022_03289664.jpg",
+     "https://store.is.autonavi.com/showpic/a6f09085f2714bad0000002833084410?type=pic"
+    ]
+   }
   },
   {
    "name": "湘西腊肉",
@@ -177,7 +364,24 @@
    ],
    "tips": [
     "腊肉偏咸，配米饭刚好"
-   ]
+   ],
+   "amap": {
+    "name": "今慕腊味馆[湖南卫视推荐]",
+    "id": "B0GKBSGE5R",
+    "addr": "永顺县 芙蓉镇商合社区263号",
+    "type": "中餐厅",
+    "tel": "15007413959",
+    "rating": 4.6,
+    "cost": 70.0,
+    "open": "周一至周日 09:00-23:00",
+    "lng": 109.951414,
+    "lat": 28.74711,
+    "photos": [
+     "https://aos-comment.amap.com/B0GKBSGE5R/comment/da1c60847773a2867b78977ed288f6de_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0GKBSGE5R/comment/54bf737855cbcba7b181d2ee366a1566_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B0GKBSGE5R/comment/content_media_external_images_media_100000080_1739598749074_34293175.jpg"
+    ]
+   }
   },
   {
    "name": "湘西酸鱼",
@@ -189,7 +393,24 @@
    ],
    "tips": [
     "发酵味道比较浓，第一次吃可以先点小份"
-   ]
+   ],
+   "amap": {
+    "name": "大锅大灶柴火饭庄",
+    "id": "B02E70MNZY",
+    "addr": "凤凰县 虹桥中路110号",
+    "type": "中餐厅",
+    "tel": "13387436668",
+    "rating": 4.4,
+    "cost": 44.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 109.603089,
+    "lat": 27.945324,
+    "photos": [
+     "https://aos-comment.amap.com/B02E70MNZY/comment/8eb40e764efd81efdc05f45eb6140337_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02E70MNZY/comment/9184cd4a05663a49b7fafe56295ea7a7_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02E70MNZY/comment/content_media_external_images_media_20645_ss__1726217900834_37738977.jpg"
+    ]
+   }
   },
   {
    "name": "苗家酸汤",
@@ -201,7 +422,24 @@
    ],
    "tips": [
     "可以先尝汤，再决定要不要加辣"
-   ]
+   ],
+   "amap": {
+    "name": "大锅大灶柴火饭庄",
+    "id": "B02E70MNZY",
+    "addr": "凤凰县 虹桥中路110号",
+    "type": "中餐厅",
+    "tel": "13387436668",
+    "rating": 4.4,
+    "cost": 44.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 109.603089,
+    "lat": 27.945324,
+    "photos": [
+     "https://aos-comment.amap.com/B02E70MNZY/comment/8eb40e764efd81efdc05f45eb6140337_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02E70MNZY/comment/9184cd4a05663a49b7fafe56295ea7a7_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B02E70MNZY/comment/content_media_external_images_media_20645_ss__1726217900834_37738977.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [

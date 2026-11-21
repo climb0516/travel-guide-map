@@ -21,7 +21,24 @@
     "离海拉尔约 1 小时车程，适合作为环线第一站",
     "草原上的骑马等项目先谈好价格",
     "夏季蚊虫多，带上驱蚊用品"
-   ]
+   ],
+   "amap": {
+    "name": "呼伦贝尔大草原·莫尔格勒河景区",
+    "id": "B0JDZ5C6RX",
+    "addr": "陈巴尔虎旗 332国道",
+    "type": "风景名胜",
+    "tel": "0470-2901888",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 08:00-18:00",
+    "lng": 119.709888,
+    "lat": 49.461573,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/41d8b2658128647732904bbe3d8c6e16",
+     "https://store.is.autonavi.com/showpic/5d382ee1189a6656dbc5383e3991f01e",
+     "https://store.is.autonavi.com/showpic/c93f5d4b2da63926473f9b2504be3244"
+    ]
+   }
   },
   {
    "name": "金帐汗蒙古部落",
@@ -36,7 +53,24 @@
    "tips": [
     "季节性开放，冬季一般不开放，以景区公告为准",
     "表演时间以现场安排为准"
-   ]
+   ],
+   "amap": {
+    "name": "金帐汗部落-敖包",
+    "id": "B0FFG1QRKI",
+    "addr": "陈巴尔虎旗 呼伦贝尔草原德莫尔格勒河畔金帐汗部落内(东侧)",
+    "type": "旅游景点",
+    "tel": "13327000919",
+    "rating": 3.4,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.783819,
+    "lat": 49.505848,
+    "photos": [
+     "https://aos-cdn-image.amap.com/sns/ugccomment/62feb965-b0be-45a1-9f17-acfae3678bd6.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/d6e1e07b-bdcf-4b82-a876-dd9a7cddb188.jpg",
+     "https://store.is.autonavi.com/showpic/ae1d1e685f8cf9d946a16f14a872f50d"
+    ]
+   }
   },
   {
    "name": "额尔古纳湿地",
@@ -51,7 +85,24 @@
    "tips": [
     "景区开放时间随季节调整，以官方公告为准",
     "观景台爬台阶较多，穿舒适的鞋"
-   ]
+   ],
+   "amap": {
+    "name": "额尔古纳湿地景区",
+    "id": "B0FFFGOSGZ",
+    "addr": "额尔古纳市 拉布大林街道西北郊(距市区3公里)",
+    "type": "国家级景点",
+    "tel": "0470-6998222",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 09:00-16:30；16:00停止售票",
+    "lng": 120.148865,
+    "lat": 50.2492,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/d570ed86f5043b3920a418fe7c4b057e",
+     "https://store.is.autonavi.com/showpic/6d4612feb68213cc0000005858160936?type=pic",
+     "https://store.is.autonavi.com/showpic/391b8d8b7693f7700000006062212385?type=pic"
+    ]
+   }
   },
   {
    "name": "室韦",
@@ -66,7 +117,24 @@
    "tips": [
     "边境地区可能需要边防证或查验证件，出发前查好最新规定",
     "镇上住宿和餐馆有限，旺季提前预订"
-   ]
+   ],
+   "amap": {
+    "name": "室韦魅力名镇旅游区",
+    "id": "B0IK3CUHLM",
+    "addr": "额尔古纳市 商业街与建设路交叉口正东方向290米",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 119.904175,
+    "lat": 51.336848,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bef802e3171a9e630000008490306144?type=pic",
+     "https://aos-comment.amap.com/B0IK3CUHLM/comment/63dbfdbb666125183e56f1ca61ab65f0_2048_2048_80.jpg",
+     "https://store.is.autonavi.com/showpic/65684dbc3cca0fcb0000003593122691?type=pic"
+    ]
+   }
   },
   {
    "name": "黑山头",
@@ -81,7 +149,22 @@
    "tips": [
     "边防公路部分路段限速，安全驾驶",
     "沿途加油站少，提前加满油"
-   ]
+   ],
+   "amap": {
+    "name": "黑山头草原度假区",
+    "id": "B0MDVSNG94",
+    "addr": "额尔古纳市 331国道52号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 3.8,
+    "cost": 0,
+    "open": "周一至周日 06:00-18:00",
+    "lng": 119.554941,
+    "lat": 50.210636,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/e5e7f215f4835ee77a6c09aa511ae5aa"
+    ]
+   }
   },
   {
    "name": "满洲里国门",
@@ -96,7 +179,24 @@
    "tips": [
     "景区需要购票，开放时间以官方公告为准",
     "边境地区注意遵守相关规定，不要随意拍摄军事设施"
-   ]
+   ],
+   "amap": {
+    "name": "中俄边境旅游区-国门景区",
+    "id": "B01D6007VS",
+    "addr": "满洲里市 市区以西九公里处",
+    "type": "国家级景点",
+    "tel": "0470-66666661",
+    "rating": 4.6,
+    "cost": 0,
+    "open": "01-01至02-15周一至周日:09:00-17:30,最晚进入17:00；02-16至03-03周一至周日:10:00-16:00,15:30停止售票",
+    "lng": 117.353708,
+    "lat": 49.630182,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/dcce3494145f522e56ee6658076e4a39",
+     "https://store.is.autonavi.com/showpic/0cc7d856109a300a03afa03c6ea6141f",
+     "https://store.is.autonavi.com/showpic/8029567764c58053e97b8fd5b3b384ea"
+    ]
+   }
   },
   {
    "name": "套娃广场",
@@ -111,7 +211,24 @@
    "tips": [
     "建议傍晚去，看完日落接着看灯光",
     "夏季晚上天黑得晚，夜景时间要往后推"
-   ]
+   ],
+   "amap": {
+    "name": "满洲里套娃广场-音乐喷泉",
+    "id": "B0FFFOQ4BD",
+    "addr": "满洲里市 兴华街道西部的中俄互市贸易区301国道北侧满洲里套娃广场内",
+    "type": "旅游景点",
+    "tel": "",
+    "rating": 4.3,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 117.400373,
+    "lat": 49.612983,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/6d3535e9c7160cab63e8175220c5e57c",
+     "https://aos-comment.amap.com/B0FFFOQ4BD/comment/content_media_external_file_187503_ss__1759020620156_23691255.jpg",
+     "https://aos-cdn-image.amap.com/sns/ugccomment/6e5d5740-8900-4579-89e0-21e47fdf5298.jpg"
+    ]
+   }
   },
   {
    "name": "呼伦湖",
@@ -126,7 +243,24 @@
    "tips": [
     "湖边风大，带外套",
     "可以在附近吃一顿湖鱼"
-   ]
+   ],
+   "amap": {
+    "name": "内蒙古呼伦湖国家级自然保护区",
+    "id": "B01D60NHGR",
+    "addr": "新巴尔虎右旗 草原西部",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.5,
+    "cost": 0,
+    "open": "周一至周日 08:30-18:00",
+    "lng": 117.621712,
+    "lat": 49.331025,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/0c9c2f8c51fe07305f591774239ca5ad",
+     "https://store.is.autonavi.com/showpic/be1ba94863b576e6299c4e1ec4284109",
+     "https://store.is.autonavi.com/showpic/8670af1b843abba41aeb0b95c95d7fa2"
+    ]
+   }
   },
   {
    "name": "呼伦贝尔民族博物院",
@@ -141,7 +275,24 @@
    "tips": [
     "开放时间和预约方式以官方公告为准",
     "适合安排在到达或离开海拉尔的那天"
-   ]
+   ],
+   "amap": {
+    "name": "呼伦贝尔民族博物馆",
+    "id": "B01D60N7J5",
+    "addr": "海拉尔区 胜利街道阿里河路老年大学旁边",
+    "type": "博物馆",
+    "tel": "0470-8252131",
+    "rating": 4.2,
+    "cost": 0,
+    "open": "周二至周日 09:00-16:30",
+    "lng": 119.76502,
+    "lat": 49.212322,
+    "photos": [
+     "https://aos-comment.amap.com/B01D60N7J5/comment/f52162c1234070d499f1b6684e10b23e_2048_2048_80.jpg",
+     "https://aos-comment.amap.com/B01D60N7J5/comment/content_media_external_file_2174_1763524481481_50320058.jpg",
+     "https://aos-comment.amap.com/B01D60N7J5/comment/99CED523_724F_4191_BF9F_85B25133FEC3_L0_001_1500_200_1767016998904_39192286.jpg"
+    ]
+   }
   }
  ],
  "foods": [
@@ -156,7 +307,24 @@
    "tips": [
     "按斤计价，点之前问清价格",
     "蘸韭菜花最地道"
-   ]
+   ],
+   "amap": {
+    "name": "咘哩呀的布里亚特包子旗舰店",
+    "id": "B0LANRY0CN",
+    "addr": "海拉尔区 正阳街道龙运华府小区4号楼112门市",
+    "type": "餐饮相关",
+    "tel": "15648397591",
+    "rating": 4.6,
+    "cost": 30.0,
+    "open": "周一至周日 06:00-24:00",
+    "lng": 119.728933,
+    "lat": 49.217618,
+    "photos": [
+     "https://aos-comment.amap.com/B0LANRY0CN/comment/content_media_external_images_media_100014464_1747039680746_78202173.jpg",
+     "https://aos-comment.amap.com/B0LANRY0CN/comment/content_media_external_file_12059_ss__1745473252391_58196876.jpg",
+     "https://aos-comment.amap.com/B0LANRY0CN/comment/content_media_external_file_38573_ss__1758895671106_78762325.jpg"
+    ]
+   }
   },
   {
    "name": "烤全羊",
@@ -169,7 +337,24 @@
    "tips": [
     "一般需要提前预订",
     "人少点羊腿或羊排"
-   ]
+   ],
+   "amap": {
+    "name": "额尔额吉手把肉烤羊排",
+    "id": "B0K695QTB5",
+    "addr": "额尔古纳市 鸿雁街百合路90号",
+    "type": "中餐厅",
+    "tel": "16604703838",
+    "rating": 4.4,
+    "cost": 65.0,
+    "open": "周一至周日 10:00-22:00",
+    "lng": 120.182691,
+    "lat": 50.24533,
+    "photos": [
+     "https://aos-comment.amap.com/B0K695QTB5/comment/IMG_20250521_191736_tem_1747826311777_89188999.jpg",
+     "https://aos-comment.amap.com/B0K695QTB5/comment/content_media_external_file_100000092_1752335863547_92205465.jpg",
+     "https://store.is.autonavi.com/showpic/c28e7a635932fa7551dae2260ed03e12"
+    ]
+   }
   },
   {
    "name": "布里亚特包子",
@@ -181,7 +366,24 @@
    ],
    "tips": [
     "先吸汤再咬，小心烫"
-   ]
+   ],
+   "amap": {
+    "name": "咘哩呀的布里亚特包子旗舰店",
+    "id": "B0LANRY0CN",
+    "addr": "海拉尔区 正阳街道龙运华府小区4号楼112门市",
+    "type": "餐饮相关",
+    "tel": "15648397591",
+    "rating": 4.6,
+    "cost": 30.0,
+    "open": "周一至周日 06:00-24:00",
+    "lng": 119.728933,
+    "lat": 49.217618,
+    "photos": [
+     "https://aos-comment.amap.com/B0LANRY0CN/comment/content_media_external_images_media_100014464_1747039680746_78202173.jpg",
+     "https://aos-comment.amap.com/B0LANRY0CN/comment/content_media_external_file_12059_ss__1745473252391_58196876.jpg",
+     "https://aos-comment.amap.com/B0LANRY0CN/comment/content_media_external_file_38573_ss__1758895671106_78762325.jpg"
+    ]
+   }
   },
   {
    "name": "蒙古奶茶",
@@ -193,7 +395,24 @@
    ],
    "tips": [
     "第一次喝可以先尝一小碗"
-   ]
+   ],
+   "amap": {
+    "name": "乌力吉塔拉奶茶馆",
+    "id": "B0FFI8RLZ9",
+    "addr": "满洲里市 四道街老师进修学校综合楼1层12号",
+    "type": "茶艺馆",
+    "tel": "15734862999",
+    "rating": 4.7,
+    "cost": 27.0,
+    "open": "周一至周日 06:00-21:00",
+    "lng": 117.458105,
+    "lat": 49.590711,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9fe5c17d04d73a160000004693076916?type=pic",
+     "https://store.is.autonavi.com/showpic/5af061b10f26f8480000000795060973?type=pic",
+     "https://aos-comment.amap.com/B0FFI8RLZ9/comment/9FC0BC89_93DA_40DB_AA3B_2022BA4DD092_L0_001_1500_200_1750808267386_97247404.jpg"
+    ]
+   }
   },
   {
    "name": "俄式西餐",
@@ -206,7 +425,24 @@
    "tips": [
     "列巴可以买回家，耐储存",
     "格瓦斯是俄式发酵饮料，可以试试"
-   ]
+   ],
+   "amap": {
+    "name": "鸥亚西餐厅",
+    "id": "B0JD7UCBFH",
+    "addr": "满洲里市 世纪广场南门西南60米南方茶庄",
+    "type": "外国餐厅",
+    "tel": "13847023003",
+    "rating": 4.6,
+    "cost": 88.0,
+    "open": "周一至周日 09:00-23:00",
+    "lng": 117.451959,
+    "lat": 49.591943,
+    "photos": [
+     "https://aos-comment.amap.com/B0JD7UCBFH/comment/content_media_external_file_1000019049_ss__1750853386036_90707281.jpg",
+     "https://aos-comment.amap.com/B0JD7UCBFH/comment/content_media_external_file_5653_ss__1745590143127_70125964.jpg",
+     "https://aos-comment.amap.com/B0JD7UCBFH/comment/content_media_external_file_3247_1747909437859_09024393.jpg"
+    ]
+   }
   },
   {
    "name": "全鱼宴",
@@ -218,7 +454,24 @@
    ],
    "tips": [
     "点之前问清是按桌还是按条计价"
-   ]
+   ],
+   "amap": {
+    "name": "川味嘛哩嘛哩酸菜鱼",
+    "id": "B0H155UF3B",
+    "addr": "满洲里市 五道街11号",
+    "type": "餐饮相关",
+    "tel": "0470-6297999",
+    "rating": 4.5,
+    "cost": 40.0,
+    "open": "周一至周日 09:00-14:00,16:00-21:30",
+    "lng": 117.461625,
+    "lat": 49.591475,
+    "photos": [
+     "https://aos-comment.amap.com/B0H155UF3B/comment/content_media_external_file_100000455_1772267903162_86964796.jpg",
+     "https://aos-comment.amap.com/B0H155UF3B/comment/content_media_external_file_100000356_1768292578740_91705805.jpg",
+     "https://aos-comment.amap.com/B0H155UF3B/comment/content_media_external_file_1000006672_ss__1760438555955_20253392.jpg"
+    ]
+   }
   },
   {
    "name": "野生蓝莓",
@@ -230,7 +483,22 @@
    ],
    "tips": [
     "新鲜蓝莓季节性强，以当季为准"
-   ]
+   ],
+   "amap": {
+    "name": "蒙佳礼特产店",
+    "id": "B0L3KZB4OG",
+    "addr": "牙克石市 文定景苑3号楼1号门市",
+    "type": "生活服务场所",
+    "tel": "15049053636",
+    "rating": 4.0,
+    "cost": 0,
+    "open": "周一至周日 08:00-22:00",
+    "lng": 120.725241,
+    "lat": 49.284061,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9d19f7b423652e0f57df1fd4d8835ae8"
+    ]
+   }
   }
  ],
  "food_areas": [

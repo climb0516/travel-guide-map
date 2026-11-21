@@ -21,7 +21,24 @@
     "冬天石头路面很滑，穿防滑的鞋",
     "街上的店偏游客化，吃饭可以去附近的小街小巷",
     "晚上灯光亮起后最好看"
-   ]
+   ],
+   "amap": {
+    "name": "哈尔滨中央大街",
+    "id": "B0FFGDXA74",
+    "addr": "道里区 中央大街1号",
+    "type": "旅游景点",
+    "tel": "0451-87650401",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 126.617682,
+    "lat": 45.774835,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/55a8f05aa310f8cad7ca0ae6",
+     "https://store.is.autonavi.com/showpic/6557615d5a1dbbb01681446c9168be54",
+     "https://store.is.autonavi.com/showpic/271c09cb242ca2c65a1e35a1ade45d3b"
+    ]
+   }
   },
   {
    "name": "圣索菲亚教堂",
@@ -37,7 +54,24 @@
     "进入建筑艺术馆需要买票，只在广场上看外观免费",
     "晚上亮灯后拍照效果更好",
     "离中央大街步行可达"
-   ]
+   ],
+   "amap": {
+    "name": "圣·索菲亚教堂",
+    "id": "B01C305G2A",
+    "addr": "道里区 透笼街129号",
+    "type": "教堂",
+    "tel": "0451-87657197",
+    "rating": 4.9,
+    "cost": 0,
+    "open": "周一至周日 08:30-21:00",
+    "lng": 126.627215,
+    "lat": 45.770125,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9017b04f94476397a6d48ddb8ca75b5a",
+     "https://store.is.autonavi.com/showpic/5d7fe39384ff71e80d23297d9179272d",
+     "https://store.is.autonavi.com/showpic/f18f663e0c7eaafd0918d259df85c725"
+    ]
+   }
   },
   {
    "name": "防洪纪念塔和斯大林公园",
@@ -52,7 +86,24 @@
    "tips": [
     "冬天江面活动以当年开放情况为准，注意安全",
     "夏天傍晚来最舒服"
-   ]
+   ],
+   "amap": {
+    "name": "哈尔滨市人民防洪胜利纪念塔",
+    "id": "B01C30I9EP",
+    "addr": "道里区 友谊路259-7号",
+    "type": "风景名胜",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00",
+    "lng": 126.617203,
+    "lat": 45.780654,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/8ff9f37eaf0c1f16e9dee5a8f8f76000",
+     "https://store.is.autonavi.com/showpic/7076fa8ad81d75184a098afa8f2c6f46",
+     "https://store.is.autonavi.com/showpic/975e5187ff651490e44a49187c200ce5"
+    ]
+   }
   },
   {
    "name": "冰雪大世界",
@@ -68,7 +119,24 @@
     "只在冬季开放，具体开园时间以官方公布为准",
     "门票需要提前在官方渠道购买，热门项目要排队",
     "晚上温度很低，手机掉电快，带充电宝并贴暖宝宝"
-   ]
+   ],
+   "amap": {
+    "name": "哈尔滨冰雪大世界",
+    "id": "B01C317HZ0",
+    "addr": "松北区 雪景街1666号B栋",
+    "type": "风景名胜",
+    "tel": "4006391999",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "10:00-21:30（20:30停止售票，21:00停止入园）",
+    "lng": 126.566328,
+    "lat": 45.775823,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/fc1e9e702c4dfe42ad76e428fcc9a623",
+     "https://store.is.autonavi.com/showpic/e779c7eea389e6bedd3535c9c42a8b1e",
+     "https://store.is.autonavi.com/showpic/af544c64f8486bba0000004736876352?type=pic"
+    ]
+   }
   },
   {
    "name": "太阳岛",
@@ -84,7 +152,24 @@
     "冬季雪博会和冰雪大世界可以安排在同一天",
     "景区很大，有观光车",
     "过江可以坐松花江索道，顺便看江景"
-   ]
+   ],
+   "amap": {
+    "name": "太阳岛风景区",
+    "id": "B01C30003A",
+    "addr": "松北区 太阳大道3号",
+    "type": "国家级景点",
+    "tel": "0451-88192966",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "08:30-17:00 最晚进入16:30",
+    "lng": 126.59788,
+    "lat": 45.791584,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/047b38e5d58349b5af2785b2a206f7a2",
+     "https://store.is.autonavi.com/showpic/bce0028549389bacb683b9c6bdc3012c",
+     "https://store.is.autonavi.com/showpic/000d226aa7c0615eac61789d8cf4e8dc"
+    ]
+   }
   },
   {
    "name": "东北虎林园",
@@ -99,7 +184,24 @@
    "tips": [
     "车上不要开窗，不要投喂",
     "离太阳岛不远，可以安排在一起"
-   ]
+   ],
+   "amap": {
+    "name": "东北虎林园",
+    "id": "B01C30J5FG",
+    "addr": "松北区 松北街88号",
+    "type": "风景名胜",
+    "tel": "0451-88080098",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "01/01-04/30 08:30-16:00开放；05/01-10/06 08:00-16:30开放；10/07-12/31 08:30-16:00开放",
+    "lng": 126.60065,
+    "lat": 45.817483,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/bd6da177a9b75316e41dee48a9733307",
+     "https://store.is.autonavi.com/showpic/8d8123fa04ffa52a1908810472c11b14",
+     "https://store.is.autonavi.com/showpic/5e6c93599ae7da17ff6afe17d1a5fcee"
+    ]
+   }
   },
   {
    "name": "老道外中华巴洛克",
@@ -114,7 +216,24 @@
    "tips": [
     "可以在这里吃午饭，老字号多",
     "部分院落是商铺，进去看看可以但不要打扰住户"
-   ]
+   ],
+   "amap": {
+    "name": "中华巴洛克历史文化街区",
+    "id": "B0FFFX17PB",
+    "addr": "道外区 南头道街64号",
+    "type": "购物相关场所",
+    "tel": "",
+    "rating": 4.8,
+    "cost": 0,
+    "open": "周一至周日 00:00-24:00；具体营业状态以当天开放情况为准",
+    "lng": 126.640729,
+    "lat": 45.781791,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/14a688744931748e3744df368b16b074",
+     "https://store.is.autonavi.com/showpic/95b03517b925cfac434eb03cb64bf380",
+     "https://store.is.autonavi.com/showpic/0b6ef1abdb421fb5aed9764595ca389b"
+    ]
+   }
   },
   {
    "name": "伏尔加庄园",
@@ -130,7 +249,24 @@
     "离市区较远，自驾或打车更方便",
     "冬天雪后去最出片",
     "园区较大，有观光车"
-   ]
+   ],
+   "amap": {
+    "name": "哈尔滨伏尔加庄园",
+    "id": "B01C317XIL",
+    "addr": "香坊区 成高子镇民强村(哈城公路16公里处)",
+    "type": "旅游景点",
+    "tel": "4006677188",
+    "rating": 4.7,
+    "cost": 0,
+    "open": "周一至周日 09:30-16:30",
+    "lng": 126.89955,
+    "lat": 45.671175,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/9909b315a56a85ae1f6ad35107a2ee02",
+     "https://store.is.autonavi.com/showpic/35935972bf258c20cc7490ef6e393a4c",
+     "https://store.is.autonavi.com/showpic/4b88771b5983ba29ad40f76f553da480"
+    ]
+   }
   },
   {
    "name": "侵华日军第七三一部队罪证陈列馆",
@@ -146,7 +282,24 @@
     "免费参观，需要提前预约",
     "周一一般闭馆",
     "离市中心较远，打车或坐地铁、公交前往"
-   ]
+   ],
+   "amap": {
+    "name": "侵华日军第七三一部队罪证陈列馆",
+    "id": "B0FFG2DWSV",
+    "addr": "平房区 新疆大街23号(地铁1号线新疆大街站2号口出站)",
+    "type": "展览馆",
+    "tel": "0451-51685222",
+    "rating": 4.4,
+    "cost": 0,
+    "open": "周二至周日 09:00-17:00开放 最晚进入16:00；周一不开放(法定节假日除外)；法定节假日 09:00-17:00开放 最晚进入16:00；具体开放时间以官方通知为准",
+    "lng": 126.639431,
+    "lat": 45.608868,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFG2DWSV/comment/content_media_external_images_media_147036_ss__1741156456870_84253415.jpg",
+     "https://store.is.autonavi.com/showpic/de20d98d2410647216b674adc6d16ba3",
+     "https://store.is.autonavi.com/showpic/6c683624d38e2bb274e95f9c60dfce92"
+    ]
+   }
   }
  ],
  "foods": [
@@ -160,7 +313,24 @@
    ],
    "tips": [
     "上桌后趁热吃，凉了就不脆了"
-   ]
+   ],
+   "amap": {
+    "name": "老厨家(中央大街店)",
+    "id": "B0FFH7CLF8",
+    "addr": "道里区 西七道街55号巴拉斯美食城3楼(马迭尔宾馆对面)",
+    "type": "东北菜",
+    "tel": "0451-87322225",
+    "rating": 4.6,
+    "cost": 76.0,
+    "open": "周一至周日 10:30-21:00",
+    "lng": 126.619533,
+    "lat": 45.773602,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/7aca6882160529144065641475d6f808",
+     "https://store.is.autonavi.com/showpic/eda30eb4c424b758d975d2273628b2a1",
+     "https://store.is.autonavi.com/showpic/a5504837ca79eaf14546908094edc169"
+    ]
+   }
   },
   {
    "name": "哈尔滨红肠",
@@ -173,7 +343,24 @@
    "tips": [
     "买真空包装的方便携带",
     "不同品牌口味有区别，可以多买几种对比"
-   ]
+   ],
+   "amap": {
+    "name": "秋林里道斯",
+    "id": "B0FFGHM7DR",
+    "addr": "道外区 秋林里道斯(南十五店)南十五道街212-1号",
+    "type": "餐饮相关",
+    "tel": "13604885484",
+    "rating": 4.0,
+    "cost": 33.0,
+    "open": "周一至周日 07:00-19:00",
+    "lng": 126.654325,
+    "lat": 45.787675,
+    "photos": [
+     "https://store.is.autonavi.com/showpic/5e2c2fcf175d5d850e8f61e9b09e7a42",
+     "https://aos-comment.amap.com/B0FFGHM7DR/comment/20260304-bf2ea2d8cd51a1b3bb125dac-7uFVfpA4X4Z9gJwU77Vlnw.jpg",
+     "https://store.is.autonavi.com/showpic/7eccba48a1a55a0fd3e013d758cbd5f9"
+    ]
+   }
   },
   {
    "name": "大列巴",
@@ -185,7 +372,24 @@
    ],
    "tips": [
     "一个很大，可以买小号的"
-   ]
+   ],
+   "amap": {
+    "name": "秋林红肠·大列巴",
+    "id": "B0HGV5QFVB",
+    "addr": "道里区 中央大街1号哈尔滨中央大街",
+    "type": "餐饮相关",
+    "tel": "",
+    "rating": 3.8,
+    "cost": 76.0,
+    "open": "周一至周日 08:30-23:00",
+    "lng": 126.620038,
+    "lat": 45.770351,
+    "photos": [
+     "https://aos-comment.amap.com/comment/content_service__1770515339778_01928004_1770515385436_98272416.jpg",
+     "https://aos-comment.amap.com/comment/content_service__1770515339764_94949106_1770515385434_53112865.jpg",
+     "https://store.is.autonavi.com/showpic/0ee8f08402ead7940000001406354371?type=pic"
+    ]
+   }
   },
   {
    "name": "马迭尔冰棍",
@@ -197,7 +401,24 @@
    ],
    "tips": [
     "冬天吃冰棍不会化，可以慢慢吃"
-   ]
+   ],
+   "amap": {
+    "name": "马迭尔冷饮厅(中央大街店)",
+    "id": "B0FFFVJQHH",
+    "addr": "道里区 中央大街89号马迭尔宾馆(近九道街)",
+    "type": "中餐厅",
+    "tel": "0451-84884278",
+    "rating": 4.7,
+    "cost": 13.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 126.61932,
+    "lat": 45.773285,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFFVJQHH/comment/content_media_external_file_10576_1772199433437_10031393.jpg",
+     "https://aos-comment.amap.com/B0FFFVJQHH/comment/6133efa1-216d-442a-8e40-06776ccf1c21.png",
+     "https://aos-comment.amap.com/B0FFFVJQHH/comment/content_media_external_file_6654_1768265598618_62787312.jpg"
+    ]
+   }
   },
   {
    "name": "铁锅炖",
@@ -210,7 +431,24 @@
    "tips": [
     "分量很大，人少的话点小份",
     "锅边饼子要趁热吃"
-   ]
+   ],
+   "amap": {
+    "name": "山河屯铁锅炖(中央大街店)",
+    "id": "B0KRMY2SKL",
+    "addr": "道里区 中央大街199号5层(友谊路96号)",
+    "type": "餐饮相关",
+    "tel": "0451-51020077",
+    "rating": 4.7,
+    "cost": 66.0,
+    "open": "周一至周日 10:00-23:00",
+    "lng": 126.618933,
+    "lat": 45.778276,
+    "photos": [
+     "https://aos-comment.amap.com/B0KRMY2SKL/comment/90bbfc8b-0e11-4a82-96af-23dc3a7b3936.png",
+     "https://store.is.autonavi.com/showpic/a8af58331e5e8edf0000009475888165?type=pic",
+     "https://store.is.autonavi.com/showpic/cd2b5a4e06a346650000003569142364?type=pic"
+    ]
+   }
   },
   {
    "name": "杀猪菜",
@@ -222,7 +460,24 @@
    ],
    "tips": [
     "血肠蘸蒜泥酱油最香"
-   ]
+   ],
+   "amap": {
+    "name": "兰棱杀猪菜(东街店)",
+    "id": "B01C30IEKI",
+    "addr": "双城区 文昌大街202号",
+    "type": "中餐厅",
+    "tel": "0451-53122965",
+    "rating": 4.7,
+    "cost": 56.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 126.32202,
+    "lat": 45.368621,
+    "photos": [
+     "https://aos-comment.amap.com/B01C30IEKI/comment/9F8BDFC7_C4C0_4CB7_AF9D_4ACE1D789C40_L0_001_2000_150_1761442651411_51630156.jpg",
+     "https://store.is.autonavi.com/showpic/b1aedee3831cbbf60000000981592495?type=pic",
+     "https://store.is.autonavi.com/showpic/b72301e2bcc0eb7a0000009479264347?type=pic"
+    ]
+   }
   },
   {
    "name": "烤冷面",
@@ -234,7 +489,24 @@
    ],
    "tips": [
     "可以要求加辣或者加肠"
-   ]
+   ],
+   "amap": {
+    "name": "强哥烤冷面(柏林四季店)",
+    "id": "B0FFL54SKG",
+    "addr": "呼兰区 柏林四季西1门旁",
+    "type": "中餐厅",
+    "tel": "18246531346",
+    "rating": 3.4,
+    "cost": 16.0,
+    "open": "周一至周日 08:00-21:00",
+    "lng": 126.528578,
+    "lat": 45.871512,
+    "photos": [
+     "https://aos-comment.amap.com/B0FFL54SKG/comment/715867DD_BAF4_4CC3_8D06_9F54D0726218_L0_001_1500_200_1766479093933_44296156.jpg",
+     "https://store.is.autonavi.com/showpic/878057e232aba80b32d648d5197ea50e",
+     "https://aos-comment.amap.com/comment/content_service__1772429825143_04947974_1772429869804_03262108.jpg"
+    ]
+   }
   }
  ],
  "food_areas": [
