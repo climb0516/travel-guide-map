@@ -76,5 +76,20 @@
     "local_dir": "~/Desktop/AI/travel-guide-map/shanghai",
     "cover": "shanghai/img/g_bund2.jpg",
     "accent": "#e0b25e"
+  },
+  {
+    "city": "西双版纳",
+    "adcode": 532800,
+    "pinyin": "xishuangbanna",
+    "title": "西双版纳五日",
+    "url": "xishuangbanna/",
+    "days": 5,
+    "nights": 4,
+    "from": "杭州",
+    "updated": "2026-11-26",
+    "summary": "曼听公园 · 星光夜市 → 野象谷 · 曼掌村 → 中科院热带植物园（住勐仑）→ 望天树空中走廊 → 勐海 · 南糯山｜雨林 · 傣寺 · 金塔",
+    "local_dir": "~/Desktop/AI/travel-guide-map/xishuangbanna",
+    "cover": "xishuangbanna/img/g_zwy1.jpg",
+    "accent": "#eab24a"
   }
 ]
